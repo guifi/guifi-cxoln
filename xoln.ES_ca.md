@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)<a id='XOLN'></a>"
+title: "Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)<a id='CXOLN'></a>"
 lang: ca
 toctitle: "Index de continguts"
 ---
@@ -9,17 +9,17 @@ toctitle: "Index de continguts"
 
 ## Index de continguts
 
-* [I. Resum i principis generals](#i-esum-i-principis-generals)
-* [II. Sobre els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln)
-* [III. Sobre la xarxa](iii-sobre-la-xarxa)
-* [IV. Sobre la titularitat i els participants](iv-sobre-la-titularitat-i-els-participants)
-* [V. Sobre el paper de la Fundació](v-sobre-el-paper-de-la-fundaci)
-* [VI. Sobre la gestió de la xarxa i prioritats en el trànsit (qualitat de servei)](vi-sobre-la-gesti-de-la-xarxa-i-prioritats-en-el-trnsit-qualitat-de-servei)
-* [VII. Sobre el desplegament responsable i el respecte al medi ambient](vii-sobre-el-desplegament-responsable-i-el-respecte-al-medi-ambient)
-* [VIII. Sobre la seguretat i la responsabilitat](viii-sobre-la-seguretat-i-la-responsabilitat)
-* [IX. Sobre els serveis, els continguts, altres xarxes i Internet](ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet)
-* [X. Sobre la resolució de conflictes i jurisdicció aplicable](x-sobre-la-resoluci-de-conflictes-i-jurisdicci-aplicable)
-* [XI. Sobre la llicència del text dels Comuns de la XOLN](xi-sobre-la-llicència-del-text-dels -comuns-de-la-xoln)
+* [I. Resum i principis generals](#i-resum-i-principis-generals)
+* [II. Sobre els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln-)
+* [III. Sobre la xarxa](#iii-sobre-la-xarxa)
+* [IV. Sobre la titularitat i els participants](#iv-sobre-la-titularitat-i-els-participants)
+* [V. Sobre el paper de la Fundació](#v-sobre-el-paper-de-la-fundaci-)
+* [VI. Sobre la gestió de la xarxa i prioritats en el trànsit (qualitat de servei)](#vi-sobre-la-gesti-de-la-xarxa-i-prioritats-en-el-tr-nsit-qualitat-de-servei-)
+* [VII. Sobre el desplegament responsable i el respecte al medi ambient](#vii-sobre-el-desplegament-responsable-i-el-respecte-al-medi-ambient)
+* [VIII. Sobre la seguretat i la responsabilitat](#viii-sobre-la-seguretat-i-la-responsabilitat)
+* [IX. Sobre els serveis, els continguts, altres xarxes i Internet](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet)
+* [X. Sobre la resolució de conflictes i jurisdicció aplicable](#x-sobre-la-resoluci-de-conflictes-i-jurisdicci-aplicable)
+* [XI. Sobre la llicència del text dels Comuns de la XOLN](#xi-sobre-la-llic-ncia-del-text-dels-comuns-de-la-xoln-cxoln-)
 
 ## I. Resum i principis generals
 
@@ -37,7 +37,7 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 
 ## II. Sobre els "Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)"
 
-1. <u>Gestació, interpretació i revisió del text</u>.
+### 1. Gestació, interpretació i revisió del text
 Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés continuat en el temps de revisió i actualització que permeti adaptar-nos a noves realitats i millorar la claredat en les seves disposicions expressant millor els mateixos criteris que s'apliquen. Com que aquest text pot canviar amb el pas del temps i alhora serveix per adquirir uns compromisos en el moment de la seva acceptació, es preveu com cal interpretar el text de manera que es pugui revisar respectant els compromisos adquirits:
 
   + a. <a name="ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.1.a"></a>Una revisió <u>no pot</u> modificar els compromisos adquirits en l'acceptació d'una revisió anterior. En cas de voler modificar-los, es tractaria d'una altre versió diferent i no pas només una revisió. Per aplicar una nova versió cal renovar el consentiment de forma expressa.
@@ -50,7 +50,7 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
 
   + e. Si algú creu que en alguna revisió posterior se li ha modificat un compromís adquirit i no hi ha donat el seu consentiment tal i com es diu el punt [II.1.a](#ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.1.a), ho pot manifestar segons el que es preveu en l'apartat "[Sobre la resolució de conflictes](#x-sobre-la-resoluci-de-conflictes-i-jurisdicci-aplicable)".
 
-2. <u>Definicions</u>.
+### 2. Definicions
 
   + a. Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN) és un acord d'interconnexió entre iguals que serveix de contracte d'adhesió de cada participant amb el conjunt de a guifi.net i que és comú per a tothom que forma part de la xarxa. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús de la xarxa, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom. També es coneix amb les abreviacions "Comuns", "Comuns de la XOLN" o "CXOLN".
 
@@ -67,29 +67,34 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
 
   + c.  <u>_guifi.net_</u>és el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
 
-4. <u>_Participants i titularitat_</u>. Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels "[Comuns de la XOLN](#CXOLN)". Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de "<u>padrins</u>", i de l'acte de cobrir la inversió, la denominació d'"<u>apadrinament</u>".
+  + d. Participants i titularitat
+    Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels "[Comuns de la XOLN](#CXOLN)". Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de "<u>padrins</u>", i de l'acte de cobrir la inversió, la denominació d'"<u>apadrinament</u>".
 
-5. Formes de participació en funció del <u>_format de connexió a la xarxa_</u>:
+  + e. Formes de participació en funció del format de connexió a la xarxa
 
-    + a.  Connexions simples. Les connexions simples son aquells segments de la xarxa que finalitzen en un punt a partir del qual no s'estén a altres trams de la xarxa amb les mateixes condicions. Normalment és el punt des del qual els usuaris gaudeixen de la xarxa oberta lliure i neutral i a partir del qual hi connecten les seves xarxes privades.
+    1.  Connexions simples. Les connexions simples son aquells segments de la xarxa que finalitzen en un punt a partir del qual no s'estén a altres trams de la xarxa amb les mateixes condicions. Normalment és el punt des del qual els usuaris gaudeixen de la xarxa oberta lliure i neutral i a partir del qual hi connecten les seves xarxes privades.
 
-    + b.  Trams que estenen la xarxa. Els trams que estenen la xarxa són els segments de la xarxa que, a diferència de les connexions simples, sí que preveuen que en cadascun dels extrems hi hagin altres trams de xarxa amb les mateixes condicions.
+    2.  Trams que estenen la xarxa. Els trams que estenen la xarxa són els segments de la xarxa que, a diferència de les connexions simples, sí que preveuen que en cadascun dels extrems hi hagin altres trams de xarxa amb les mateixes condicions.
 
-6. <u>_Continguts_</u>. El que dona sentit a una xarxa de telecomunicacions és que serveixi d'instrument de transmissió per accedir a continguts. Els continguts es publiquen a través de serveis.
+  + f. Continguts
+El que dona sentit a una xarxa de telecomunicacions és que serveixi d'instrument de transmissió per accedir a continguts. Els continguts es publiquen a través de serveis.
 
-7. <u>_Serveis_</u>. A l'entorn de la xarxa existeixen múltiples formats de serveis. El més bàsic i indissociable de la pròpia xarxa és la connectivitat entre tots els participants i que s'anomena "servei de comunicacions electròniques". Més enllà d'aquest servei indissociable, es distingeix entre dos grans tipologies de serveis:
+  + g. Serveis
+A l'entorn de la xarxa existeixen múltiples formats de serveis. El més bàsic i indissociable de la pròpia xarxa és la connectivitat entre tots els participants i que s'anomena "servei de comunicacions electròniques". Més enllà d'aquest servei indissociable, es distingeix entre dos grans tipologies de serveis:
 
-    + a.  Serveis "tal qual". Son aquells serveis que es proporcionen "tal qual son", és a dir, qui els utilitza ho fa sota la seva responsabilitat i no pot exigir a qui li subministra que cobreixi una expectativa o unes característiques. En aquesta categoria generalment hi trobarem els serveis que es proporcionen de forma gratuïta.
+    1.  Serveis "tal qual". Son aquells serveis que es proporcionen "tal qual son", és a dir, qui els utilitza ho fa sota la seva responsabilitat i no pot exigir a qui li subministra que cobreixi una expectativa o unes característiques. En aquesta categoria generalment hi trobarem els serveis que es proporcionen de forma gratuïta.
 
-    + b.  Serveis amb compromís. És quan es proporciona un servei amb un compromís de subministrar-lo, normalment a canvi d'una contraprestació, com per exemple quan es proporciona connectivitat amb altres operadors o Internet, o també els serveis professionals per garantir uns<u>nivells de servei o disponibilitat</u>.
+    2.  Serveis amb compromís. És quan es proporciona un servei amb un compromís de subministrar-lo, normalment a canvi d'una contraprestació, com per exemple quan es proporciona connectivitat amb altres operadors o Internet, o també els serveis professionals per garantir uns<u>nivells de servei o disponibilitat</u>.
 
-8. <u>_Usuàries/is_</u>. Son els qui gaudeixen de la connectivitat que ofereix la xarxa amb el seu ús, normalment son els participants, però els participants poden permetre l'accés a tothom.
+8. Usuàries/is
+Son els qui gaudeixen de la connectivitat que ofereix la xarxa amb el seu ús, normalment son els participants, però els participants poden permetre l'accés a tothom.
 
-9. La <u>_"Fundació privada per a la xarxa lliure, oberta i neutral guifi.net"_</u>(en endavant, "la Fundació") és una institució sense ànim de lucre que consta amb el número 2550 del registre de fundacions de la Generalitat de Catalunya i que té com a mandat fundacional donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i treballar.
+9. La Fundació Guifi.net
+La "Fundació privada per a la xarxa lliure, oberta i neutral guifi.net", (en endavant, "la Fundació") és una institució sense ànim de lucre que consta amb el número 2550 del registre de fundacions de la Generalitat de Catalunya i que té com a mandat fundacional donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i treballar.
 
-3. Els ["Comuns de la XOLN"](#CXOLN) s'elabora i es revisa a través d'un debat públic entre tots els qui participen a la xarxa.
+### 3. Els ["Comuns de la XOLN"](#CXOLN) s'elabora i es revisa a través d'un debat públic entre tots els qui participen a la xarxa.
 
-4. <a name="ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.4">Finalització de l'acord</a>. [els "Comuns per la XOLN](#CXOLN)" es pot suspendre o finalitzar per:
+### 4. <a name="ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.4">Finalització de l'acord</a>. [els "Comuns per la XOLN](#CXOLN)" es pot suspendre o finalitzar per:
 
   + a. La voluntat de qui l'ha subscrit. La voluntat s'expressa directament donant-se de baixa les seves participacions en les eines que proporciona guifi.net, o en cas de que les participacions subsisteixin, per transmissió als nous titulars.
 
