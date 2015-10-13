@@ -10,7 +10,18 @@ toctitle: "Index de continguts"
 ## Index de continguts
 
 * [I. Resum i principis generals](#i-resum-i-principis-generals)
+  * [1. Gestació, interpretació i revisió del text](#1-gestaci-interpretaci-i-revisi-del-text)
+  * [2. Definicions](#2-definicions)
+  * [3. Elaboració i revisió](#3-elaboraci-i-revisi-)
+  * [4. Finalització de l'acord](#4-finalitzaci-de-l-acord)
 * [II. Sobre els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln-)
+  * [1. Valors fonamentals](#1-valors-fonamentals)
+  * [2. Accés](#2-acc-s)
+  * [3. Compromis](#3-compromis)
+  * [4. Adhesió](#4-adhesi-)
+  * [5. Compromis](#5-compromis)
+  * [6. Altres organizatcions](#6-altres-organizatcions)
+  * [7. Conexió](#7-conexi-)
 * [III. Sobre la xarxa](#iii-sobre-la-xarxa)
 * [IV. Sobre la titularitat i els participants](#iv-sobre-la-titularitat-i-els-participants)
 * [V. Sobre el paper de la Fundació](#v-sobre-el-paper-de-la-fundaci-)
@@ -38,9 +49,10 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 ## II. Sobre els "Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)"
 
 ### 1. Gestació, interpretació i revisió del text
-Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés continuat en el temps de revisió i actualització que permeti adaptar-nos a noves realitats i millorar la claredat en les seves disposicions expressant millor els mateixos criteris que s'apliquen. Com que aquest text pot canviar amb el pas del temps i alhora serveix per adquirir uns compromisos en el moment de la seva acceptació, es preveu com cal interpretar el text de manera que es pugui revisar respectant els compromisos adquirits:
 
-  + a. <a name="ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.1.a"></a>Una revisió <u>no pot</u> modificar els compromisos adquirits en l'acceptació d'una revisió anterior. En cas de voler modificar-los, es tractaria d'una altre versió diferent i no pas només una revisió. Per aplicar una nova versió cal renovar el consentiment de forma expressa.
+  Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés continuat en el temps de revisió i actualització que permeti adaptar-nos a noves realitats i millorar la claredat en les seves disposicions expressant millor els mateixos criteris que s'apliquen. Com que aquest text pot canviar amb el pas del temps i alhora serveix per adquirir uns compromisos en el moment de la seva acceptació, es preveu com cal interpretar el text de manera que es pugui revisar respectant els compromisos adquirits:
+
+  + a. <a name="ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.1.a"></a>Una    revisió <u>no pot</u> modificar els compromisos adquirits en l'acceptació d'una revisió anterior. En cas de voler modificar-los, es tractaria d'una altre versió diferent i no pas només una revisió. Per aplicar una nova versió cal renovar el consentiment de forma expressa.
 
   + b. Quan en una revisió s'estén a noves situacions que abans no existien, com per exemple les derivades d'algun tipus d'ampliació o d'actualització tecnològica, s'entén que implícitament es renova l'acceptació segons la revisió vigent del moment en que es produeix l'actualització o ampliació.
 
@@ -65,10 +77,10 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
     3.  És **neutral** perquè la xarxa és independent dels continguts, no els condiciona i hi poden circular lliurement; Els usuaris poden accedir i produir continguts independentment de les seves possibilitats financeres o condició social. Quan des de guifi.net s'incorporen continguts a la xarxa es fa o bé per estimular-ne de nous, o bé per a la gestió de la pròpia xarxa, o simplement en exercici de la llibertat d'incorporar-hi continguts, però en cap cas amb l'objectiu de substituir o impedir-ne d'altres.
     També és **neutral** respecte de la tecnologia, la xarxa es pot construir amb la tecnologia que decideixin els seus participants sense més limitacions que les que es derivin de la pròpia tecnologia.
 
-  + c.  <u>_guifi.net_</u>és el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
+  + c. Guifi.net és el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
 
   + d. Participants i titularitat
-    Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels "[Comuns de la XOLN](#CXOLN)". Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de "<u>padrins</u>", i de l'acte de cobrir la inversió, la denominació d'"<u>apadrinament</u>".
+  Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels "[Comuns de la XOLN](#CXOLN)". Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de "<u>padrins</u>", i de l'acte de cobrir la inversió, la denominació d'"<u>apadrinament</u>".
 
   + e. Formes de participació en funció del format de connexió a la xarxa
 
@@ -77,24 +89,28 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
     2.  Trams que estenen la xarxa. Els trams que estenen la xarxa són els segments de la xarxa que, a diferència de les connexions simples, sí que preveuen que en cadascun dels extrems hi hagin altres trams de xarxa amb les mateixes condicions.
 
   + f. Continguts
-El que dona sentit a una xarxa de telecomunicacions és que serveixi d'instrument de transmissió per accedir a continguts. Els continguts es publiquen a través de serveis.
+  El que dona sentit a una xarxa de telecomunicacions és que serveixi d'instrument de transmissió per accedir a continguts. Els continguts es publiquen a través de serveis.
 
   + g. Serveis
-A l'entorn de la xarxa existeixen múltiples formats de serveis. El més bàsic i indissociable de la pròpia xarxa és la connectivitat entre tots els participants i que s'anomena "servei de comunicacions electròniques". Més enllà d'aquest servei indissociable, es distingeix entre dos grans tipologies de serveis:
+  A l'entorn de la xarxa existeixen múltiples formats de serveis. El més bàsic i indissociable de la pròpia xarxa és la connectivitat entre tots els participants i que s'anomena "servei de comunicacions electròniques". Més enllà d'aquest servei indissociable, es distingeix entre dos grans tipologies de serveis:
 
     1.  Serveis "tal qual". Son aquells serveis que es proporcionen "tal qual son", és a dir, qui els utilitza ho fa sota la seva responsabilitat i no pot exigir a qui li subministra que cobreixi una expectativa o unes característiques. En aquesta categoria generalment hi trobarem els serveis que es proporcionen de forma gratuïta.
 
     2.  Serveis amb compromís. És quan es proporciona un servei amb un compromís de subministrar-lo, normalment a canvi d'una contraprestació, com per exemple quan es proporciona connectivitat amb altres operadors o Internet, o també els serveis professionals per garantir uns<u>nivells de servei o disponibilitat</u>.
 
-8. Usuàries/is
-Son els qui gaudeixen de la connectivitat que ofereix la xarxa amb el seu ús, normalment son els participants, però els participants poden permetre l'accés a tothom.
+  + h. Usuàries/is
+  Son els qui gaudeixen de la connectivitat que ofereix la xarxa amb el seu ús, normalment son els participants, però els participants poden permetre l'accés a tothom.
 
-9. La Fundació Guifi.net
-La "Fundació privada per a la xarxa lliure, oberta i neutral guifi.net", (en endavant, "la Fundació") és una institució sense ànim de lucre que consta amb el número 2550 del registre de fundacions de la Generalitat de Catalunya i que té com a mandat fundacional donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i treballar.
+  + i. La Fundació Guifi.net
+  La "Fundació privada per a la xarxa lliure, oberta i neutral guifi.net", (en endavant, "la Fundació") és una institució sense ànim de lucre que consta amb el número 2550 del registre de fundacions de la Generalitat de Catalunya i que té com a mandat fundacional donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i treballar.
 
-### 3. Els ["Comuns de la XOLN"](#CXOLN) s'elabora i es revisa a través d'un debat públic entre tots els qui participen a la xarxa.
+### 3. Elaboració i revisió
 
-### 4. <a name="ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.4">Finalització de l'acord</a>. [els "Comuns per la XOLN](#CXOLN)" es pot suspendre o finalitzar per:
+  Els ["Comuns de la XOLN"](#CXOLN) s'elabora i es revisa a través d'un debat públic entre tots els qui participen a la xarxa.
+
+### 4. Finalització de l'acord
+
+  Els [Comuns per la XOLN](#CXOLN)" es pot suspendre o finalitzar per:
 
   + a. La voluntat de qui l'ha subscrit. La voluntat s'expressa directament donant-se de baixa les seves participacions en les eines que proporciona guifi.net, o en cas de que les participacions subsisteixin, per transmissió als nous titulars.
 
@@ -102,98 +118,160 @@ La "Fundació privada per a la xarxa lliure, oberta i neutral guifi.net", (en en
 
 ## III. Sobre la xarxa
 
-1. La XOLN és una expressió de valors fonamentals com la llibertat, la igualtat d'oportunitats i la solidaritat i fraternitat a través del dret a comunicar-se lliurement i a extreure'n el màxim de prestacions possibles d'acord amb els [principis generals](#i-resum-i-principis-generals), que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació dels [Comuns de la XOLN](#CXOLN).
+### 1. Valors fonamentals
 
-2. La xarxa permet l'accés a tothom qui ho vulgui, i és el resultat de interconnectar tots els seus participants. Si hi ha mecanismes de control en el seu accés es faran servir per a la correcta gestió de la xarxa des d'un punt de vista tecnològic, mai per restringir les llibertats protegides amb els [Comuns de la XOLN](#CXOLN).
+  La XOLN és una expressió de valors fonamentals com la llibertat, la igualtat d'oportunitats i la solidaritat i fraternitat a través del dret a comunicar-se lliurement i a extreure'n el màxim de prestacions possibles d'acord amb els [principis generals](#i-resum-i-principis-generals), que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació dels [Comuns de la XOLN](#CXOLN).
 
-3. Els membres de la xarxa oberta es comprometen únicament als termes i condicions dels [Comuns de la XOLN](#CXOLN). Qualsevol altre compromís l'han d'expressar explícitament.
+### 2. Accés
 
-4. L'adhesió a la xarxa es pot expressar a títol individual o col·lectiu, i comporta l'acceptació dels termes dels [Comuns de la XOLN](#CXOLN). En qualsevol moment un membre adherit a la xarxa pot renunciar a la seva adhesió conforme al que es preveu en el punt [II.4 Sobre la finalització](#ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.4). En cas de renunciar a la seva adhesió podrà recuperar els béns, equips i infraestructures de les que sigui titular, amb independència de on estiguin ubicats, amb la única excepció dels casos descrits en l'apartat "[IV.8 Sobre la titularitat i els participants](#iv-sobre-la-titularitat-i-els-participants.8)".
+  La xarxa permet l'accés a tothom qui ho vulgui, i és el resultat de interconnectar tots els seus participants. Si hi ha mecanismes de control en el seu accés es faran servir per a la correcta gestió de la xarxa des d'un punt de vista tecnològic, mai per restringir les llibertats protegides amb els [Comuns de la XOLN](#CXOLN).
 
-5. Els participants de la xarxa, per tal de facilitar-ne el seu creixement i connectivitat amb caràcter obert, es comprometen a:
+### 3. Compromis
 
-    + a. Permetre lliurement el trànsit dels altres participants en el seu tram que estén xarxa, sense manipular-lo ni inspeccionar-lo més enllà del que sigui necessari per a la gestió de la xarxa.
+  Els membres de la xarxa oberta es comprometen únicament als termes i condicions dels [Comuns de la XOLN](#CXOLN). Qualsevol altre compromís l'han d'expressar explícitament.
 
-    + b. Facilitar i preveure tècnicament com fer la interconnexió amb els trams que estenen la xarxa que incorporen altres participants sense fer-ne una explotació comercial ni exigir-los cap cost en concepte d'interconnexió o de trànsit de dades. La interconnexió de trams que estenen la xarxa s'entén que son gratuïts ja que la compensació és mútua ja que tothom obté connectivitat cap a nous trams. Més enllà d'aquesta gratuïtat pel que fa al trànsit i interconnexió, si s'aprofita l'actuació de la connexió per repercutir alguna despesa per algun altre concepte, es farà segons les següents disposicions:
+### 4. Adhesió
 
-      1. Especificar clarament quin és el motiu per al qual es produeixen les compensacions, com per exemple l'accés a alguns tipus de continguts, accés a altres connexions cap a internet, serveis professionals, garantia de disponibilitat, etc.
+  L'adhesió a la xarxa es pot expressar a títol individual o col·lectiu, i comporta l'acceptació dels termes dels [Comuns de la XOLN](#CXOLN). En qualsevol moment un membre adherit a la xarxa pot renunciar a la seva adhesió conforme al que es preveu en el punt [II.4 Sobre la finalització](#ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.4). En cas de renunciar a la seva adhesió podrà recuperar els béns, equips i infraestructures de les que sigui titular, amb independència de on estiguin ubicats, amb la única excepció dels casos descrits en l'apartat "[IV.8 Sobre la titularitat i els participants](#iv-sobre-la-titularitat-i-els-participants.8)".
 
-      2. Ampliacions. Alhora de fer la interconnexió, i sense excloure de que es puguin realitzar altres tipus d'acords entre els participants, si cal fer una ampliació en el punt d'interconnexió dels trams, o una conversió d'un tram de connexió simple a un tram que estén la xarxa, s'entén que el cost l'assumeix en la seva totalitat el participant que s'està incorporant amb un nou tram, i a partir de llavors la titularitat del node des d'on es fa la interconnexió passa a ser compartida en funció del nivell d'inversió de cada participant. En el cas de que el titular preexistent vulgui mantenir la seva titularitat sense compartir-la, llavors haurà d'assumir el cost de l'ampliació, i en qualsevol cas té preferència alhora d'escollir quin model prefereix.
+### 5. Compromis
 
-      3. En el cas de que calgui amortitzar costos importants d'infraestructures o de ubicacions, es poden preveure compensacions alhora de realitzar les connexions, amb el benentès de que llavors la titularitat passa a ser compartida com en el punt anterior, que no hi poden haver tractes discriminatoris entre els participant si que aquestes compensacions han de ser raonables, orientades al cost i a la sostenibilitat, i no poden estar encaminades a la obtenció de marges per una explotació comercial.
+  Els participants de la xarxa, per tal de facilitar-ne el seu creixement i connectivitat amb caràcter obert, es comprometen a:
 
-6. Hi poden haver altres organitzacions que també promouen xarxa amb característiques similars a la xarxa oberta lliure i neutral que fa guifi.net. Les xarxes obertes han de caracteritzar-se per tenir la vocació d'interconnectar, de manera es procurarà el que es preveu en el punt [VII.1 sobre evitar la duplicitat d'infraestructures](#vii-sobre-el-desplegament-responsable-i-el-respecte-al-medi-ambient.1) i el punt [IX. 7 sobre la reciprocitat](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.7).
+  + **a.** Permetre lliurement el trànsit dels altres participants en el seu tram que estén xarxa, sense manipular-lo ni inspeccionar-lo més enllà del que sigui necessari per a la gestió de la xarxa.
 
-7. <a name="iii-sobre-la-xarxa.7"></a>La connexió a la xarxa és lliure i gratuïta tal i com ja es desprèn del punt III.5.b. Els participants es fan càrrec de les infraestructures per estar connectats, ja sigui individualment a través de mitjans propis, donacions, apadrinaments, col·lectivament de la manera que lliurement decideixin, o acudint amb aquest propòsit a serveis professionals. L'activitat econòmica derivada d'aquestes activitats, com per exemple el cobrament de diners a canvi del subministrament d'equips, creació d'infraestructures o manteniments, és responsabilitat de qui la realitza, i haurà d'informar amb claredat a qui li pagui sobre a quins conceptes es corresponen aquests pagaments. Quan s'estableixen condicions econòmiques pel concepte de contribució a aquestes infraestructures, han de ser raonades, públiques, i no discriminatòries.
+  + **b.** Facilitar i preveure tècnicament com fer la interconnexió amb els trams que estenen la xarxa que incorporen altres participants sense fer-ne una explotació comercial ni exigir-los cap cost en concepte d'interconnexió o de trànsit de dades. La interconnexió de trams que estenen la xarxa s'entén que son gratuïts ja que la compensació és mútua ja que tothom obté connectivitat cap a nous trams. Més enllà d'aquesta gratuïtat pel que fa al trànsit i interconnexió, si s'aprofita l'actuació de la connexió per repercutir alguna despesa per algun altre concepte, es farà segons les següents disposicions:
+
+    + **i.** Especificar clarament quin és el motiu per al qual es produeixen les compensacions, com per exemple l'accés a alguns tipus de continguts, accés a altres connexions cap a internet, serveis professionals, garantia de disponibilitat, etc.
+
+    + **ii.** Ampliacions. Alhora de fer la interconnexió, i sense excloure de que es puguin realitzar altres tipus d'acords entre els participants, si cal fer una ampliació en el punt d'interconnexió dels trams, o una conversió d'un tram de connexió simple a un tram que estén la xarxa, s'entén que el cost l'assumeix en la seva totalitat el participant que s'està incorporant amb un nou tram, i a partir de llavors la titularitat del node des d'on es fa la interconnexió passa a ser compartida en funció del nivell d'inversió de cada participant. En el cas de que el titular preexistent vulgui mantenir la seva titularitat sense compartir-la, llavors haurà d'assumir el cost de l'ampliació, i en qualsevol cas té preferència alhora d'escollir quin model prefereix.
+
+    + **iii.** En el cas de que calgui amortitzar costos importants d'infraestructures o de ubicacions, es poden preveure compensacions alhora de realitzar les connexions, amb el benentès de que llavors la titularitat passa a ser compartida com en el punt anterior, que no hi poden haver tractes discriminatoris entre els participant si que aquestes compensacions han de ser raonables, orientades al cost i a la sostenibilitat, i no poden estar encaminades a la obtenció de marges per una explotació comercial.
+
+### 6. Altres organizatcions
+
+  Hi poden haver altres organitzacions que també promouen xarxa amb característiques similars a la xarxa oberta lliure i neutral que fa guifi.net. Les xarxes obertes han de caracteritzar-se per tenir la vocació d'interconnectar, de manera es procurarà el que es preveu en el punt [VII.1 sobre evitar la duplicitat d'infraestructures](#vii-sobre-el-desplegament-responsable-i-el-respecte-al-medi-ambient.1) i el punt [IX. 7 sobre la reciprocitat](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.7).
+
+### 7. Conexió
+
+  La connexió a la xarxa és lliure i gratuïta tal i com ja es desprèn del punt III.5.b. Els participants es fan càrrec de les infraestructures per estar connectats, ja sigui individualment a través de mitjans propis, donacions, apadrinaments, col·lectivament de la manera que lliurement decideixin, o acudint amb aquest propòsit a serveis professionals. L'activitat econòmica derivada d'aquestes activitats, com per exemple el cobrament de diners a canvi del subministrament d'equips, creació d'infraestructures o manteniments, és responsabilitat de qui la realitza, i haurà d'informar amb claredat a qui li pagui sobre a quins conceptes es corresponen aquests pagaments. Quan s'estableixen condicions econòmiques pel concepte de contribució a aquestes infraestructures, han de ser raonades, públiques, i no discriminatòries.
 
 ## IV Sobre la titularitat i els participants
 
-1. Tot i que la xarxa forma una unitat global, es forma a partir d'uns actius que son les infraestructures que hi incorporen els seus participants, de manera que els participants retenen la titularitat de cadascuna d'aquestes infraestructures que hi han incorporat, per tant, la xarxa sempre té múltiples titulars.
-La titularitat s'acredita amb i per ordre de preferència:
+### 1. Titularitat
 
-    + a. De la manera que lliurement pactin els participants entre ells
+  Tot i que la xarxa forma una unitat global, es forma a partir d'uns actius que son les infraestructures que hi incorporen els seus participants, de manera que els participants retenen la titularitat de cadascuna d'aquestes infraestructures que hi han incorporat, per tant, la xarxa sempre té múltiples titulars.
 
-    + b. L'aportació amb documents com per exemple factures o similars
+  La titularitat s'acredita amb i per ordre de preferència:
 
-    + c. La informació que es proporciona a través de les eines de la xarxa i que es publiquen
+  + **a.** De la manera que lliurement pactin els participants entre ells
 
-    + d. La titularitat de la finca on s'ubica la infraestructura
+  + **b.** L'aportació amb documents com per exemple factures o similars
 
-2. A la vegada, una mateixa infraestructura pot tenir un o diversos titulars. Quan hi ha diversos titulars, i sempre que entre ells no pactin res en un altre sentit, s'entén que ho son proporcionalment al volum d'inversió de cadascun respecte del valor total de la infraestructura.
+  + **c.** La informació que es proporciona a través de les eines de la xarxa i que es publiquen
 
-3. Encara que en la xarxa hi poden haver diferents nivells de participació de cadascun dels seus titulars, els drets i deures son els mateixos per a tots els participants.
+  + **d.** La titularitat de la finca on s'ubica la infraestructura
 
-4. Els titulars són els responsables de gestionar les seves infraestructures respectant els "[Comuns de la XOLN](#CXOLN)".
+### 2. Titularitat compartida
 
-5. Un dels pilars de la xarxa oberta és que s'informa dels seus components. Els titulars han de proporcionar de bona fe dades de contacte i una descripció de la seva aportació a través de les eines que proporciona la xarxa i conscients i acceptant que es publicaran. Podran accedir, modificar-les o cancel·lar-les en qualsevol moment. El subministrament maliciós de dades falses pot implicar la suspensió de l'acord dels [Comuns de la XOLN](#CXOLN).
+  A la vegada, una mateixa infraestructura pot tenir un o diversos titulars. Quan hi ha diversos titulars, i sempre que entre ells no pactin res en un altre sentit, s'entén que ho son proporcionalment al volum d'inversió de cadascun respecte del valor total de la infraestructura.
 
-6. La titularitat és un actiu, que com a tal pot tenir un valor, i conseqüentment es pot transmetre entre participants ja sigui per cessió o compravenda o qualsevol altra forma jurídicament lícita. Quan la titularitat es transmet a nous participants, comporta l'acceptació dels [Comuns de la XOLN](#CXOLN) per part de qui l'adquireix.
+### 3. Drets i deures
 
-7. La incorporació d'actius a la xarxa és fonamental per al seu creixement i desenvolupament ja que és la forma principal de captar inversions i de proporcionar sostenibilitat, per tant convé protegir-la i fomentar-la. Per això, els participants quan incorporen infraestructures a la xarxa a més d'obtenir connectivitat amb la resta, també es poden donar prioritat en els trams dels quals en son titulars de manera que tinguin preferència sobre l'ample de banda disponible, amb la única condició de que es respectin els criteris establerts en l'apartat "[Sobre la gestió de la xarxa i prioritats de trànsit](#vi-sobre-la-gestio-de-la-xarxa)" i, alhora deixin disponible tot l'ample de banda excedentari per a la resta del trànsit.
+  Encara que en la xarxa hi poden haver diferents nivells de participació de cadascun dels seus titulars, els drets i deures son els mateixos per a tots els participants.
 
-8. <a name="iv-sobre-la-titularitat-i-els-participants.8"></a>En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#CXOLN), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels Comuns de la XOLN.
+### 4. Responsabilitat
 
-9. L'exercici de la titularitat implica com a mínim que mentre aquest segment de la xarxa estigui operatiu, es proporciona un servei de comunicacions electròniques que permet la connectivitat. Encara que el titular no és responsable del nivell de disponibilitat que proporciona, s'espera del titular que mantingui les seves infraestructures en un nivell de servei raonable d'acord amb les seves característiques i de manera que no perjudiqui el bon funcionament de la xarxa. En casos extrems d'abandonament d'aquestes funcions pròpies del titular, el participant perd la titularitat, que passarà a considerar-se orfe.
+  Els titulars són els responsables de gestionar les seves infraestructures respectant els "[Comuns de la XOLN](#CXOLN)".
 
-10. Si la titularitat d'una infraestructura es considera que ha quedat orfe, es transmet a qui vulgui exercir-la. En el cas de que ningú vulgui exercir-la, o bé passa a la Fundació, o bé es considera com a abandonada, causant baixa definitiva de la xarxa i essent responsable del seu desmuntatge el darrer titular.
+### 5. Informació
 
-11. Quan es cedeixen ubicacions per muntar-hi infraestructures de xarxa sense contraprestació, independentment de quins siguin la resta de titulars, s'assumeix que facilitaran la connexió més oberta possible en funció de la naturalesa de l'equipament. Si s'estableixen limitacions d'espai o de capacitat han de facilitar el trànsit segons els Comuns XOLN, ser raonables, aplicant les bones pràctiques, les mateixes condicions per a tots els usuaris sense discriminacions i no forçar la contractació de serveis a operadors concrets encara que siguin co-titulars de la infraestructura. Els operadors que hi ofereixen compromís de servei n'haurien de tenir suficient amb aplicar el que es preveu en el [punt VI.3 sobre la gestió de la xarxa i prioritats](#vi-sobre-la-gesti-de-la-xarxa-i-prioritats-en-el-trnsit-qualitat-de-servei.3).
-Aquesta condició és d'indispensable compliment quan es tracta de dominis públics gestionats per administracions públiques donada la obligatorietat legal que tenen de garantir la no discriminació.
-Per exemple:
+  Un dels pilars de la xarxa oberta és que s'informa dels seus components. Els titulars han de proporcionar de bona fe dades de contacte i una descripció de la seva aportació a través de les eines que proporciona la xarxa i conscients i acceptant que es publicaran. Podran accedir, modificar-les o cancel·lar-les en qualsevol moment. El subministrament maliciós de dades falses pot implicar la suspensió de l'acord dels [Comuns de la XOLN](#CXOLN).
 
-    + a. En el cas de comunicacions sense fils, quan hi han antenes de cobertura per a connexions simples sense fils, es permetrà la connexió d'usuaris d'altres operadors o les que es fan les que es puguin fer els usuaris directament pel seu compte i sense garantia de servei.
+### 6. Transmissió
 
-    + b. En el cas de cables i conduccions, encara que els promotors aprofitin per crear connexions punt a punt privades, cal que sempre hi hagi reserva d'espai per xarxa gestionada segons els Comuns XOLN.
+  La titularitat és un actiu, que com a tal pot tenir un valor, i conseqüentment es pot transmetre entre participants ja sigui per cessió o compravenda o qualsevol altra forma jurídicament lícita. Quan la titularitat es transmet a nous participants, comporta l'acceptació dels [Comuns de la XOLN](#CXOLN) per part de qui l'adquireix.
 
-12. La cessió d'espais per antenes de radiocomunicació és reversible en qualsevol moment a petició del propietari i no li creen cap servitud.
+### 7. Incorporació de trams de xarxa
+
+  La incorporació d'actius a la xarxa és fonamental per al seu creixement i desenvolupament ja que és la forma principal de captar inversions i de proporcionar sostenibilitat, per tant convé protegir-la i fomentar-la. Per això, els participants quan incorporen infraestructures a la xarxa a més d'obtenir connectivitat amb la resta, també es poden donar prioritat en els trams dels quals en son titulars de manera que tinguin preferència sobre l'ample de banda disponible, amb la única condició de que es respectin els criteris establerts en l'apartat "[Sobre la gestió de la xarxa i prioritats de trànsit](#vi-sobre-la-gestio-de-la-xarxa)" i, alhora deixin disponible tot l'ample de banda excedentari per a la resta del trànsit.
+
+### 8. Finalització de trams de xarxa
+
+  <a name="iv-sobre-la-titularitat-i-els-participants.8"></a>En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#CXOLN), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels Comuns de la XOLN.
+
+### 9. Exercici de la titularitat
+
+  L'exercici de la titularitat implica com a mínim que mentre aquest segment de la xarxa estigui operatiu, es proporciona un servei de comunicacions electròniques que permet la connectivitat. Encara que el titular no és responsable del nivell de disponibilitat que proporciona, s'espera del titular que mantingui les seves infraestructures en un nivell de servei raonable d'acord amb les seves característiques i de manera que no perjudiqui el bon funcionament de la xarxa. En casos extrems d'abandonament d'aquestes funcions pròpies del titular, el participant perd la titularitat, que passarà a considerar-se orfe.
+
+### 10. Titularitat orfe
+
+  Si la titularitat d'una infraestructura es considera que ha quedat orfe, es transmet a qui vulgui exercir-la. En el cas de que ningú vulgui exercir-la, o bé passa a la Fundació, o bé es considera com a abandonada, causant baixa definitiva de la xarxa i essent responsable del seu desmuntatge el darrer titular.
+
+### 11. Cessió d'ubicació
+
+  Quan es cedeixen ubicacions per muntar-hi infraestructures de xarxa sense contraprestació, independentment de quins siguin la resta de titulars, s'assumeix que facilitaran la connexió més oberta possible en funció de la naturalesa de l'equipament. Si s'estableixen limitacions d'espai o de capacitat han de facilitar el trànsit segons els Comuns XOLN, ser raonables, aplicant les bones pràctiques, les mateixes condicions per a tots els usuaris sense discriminacions i no forçar la contractació de serveis a operadors concrets encara que siguin co-titulars de la infraestructura. Els operadors que hi ofereixen compromís de servei n'haurien de tenir suficient amb aplicar el que es preveu en el [punt VI.3 sobre la gestió de la xarxa i prioritats](#vi-sobre-la-gesti-de-la-xarxa-i-prioritats-en-el-trnsit-qualitat-de-servei.3).
+
+  Aquesta condició és d'indispensable compliment quan es tracta de dominis públics gestionats per administracions públiques donada la obligatorietat legal que tenen de garantir la no discriminació.
+
+  Per exemple:
+
+  + **a.** En el cas de comunicacions sense fils, quan hi han antenes de cobertura per a connexions simples sense fils, es permetrà la connexió d'usuaris d'altres operadors o les que es fan les que es puguin fer els usuaris directament pel seu compte i sense garantia de servei.
+
+  + **b.** En el cas de cables i conduccions, encara que els promotors aprofitin per crear connexions punt a punt privades, cal que sempre hi hagi reserva d'espai per xarxa gestionada segons els Comuns XOLN.
+
+### 12. Finalització d'una cessió
+
+  La cessió d'espais per antenes de radiocomunicació és reversible en qualsevol moment a petició del propietari i no li creen cap servitud.
 
 ## V. Sobre el paper de la Fundació
 
-1. Donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i de treballar.
+### 1. Suport
 
-2. Proporcionar personalitat jurídica a guifi.net en tot allò que li sigui necessari per al complert i normal exercici de la seva activitat com a operador de la xarxa amb igualtat de drets i deures respecte de qualsevol altre operador, com per exemple i no limitat a, obtenir llicències, ocupar dominis públics o privats, representar, fer gestions i notificacions en nom de guifi.net davant de les administracions o tercers, o prendre acords d'interconnexió amb altres operadors i formar part d'organismes que composen Internet.
-Quan els participants accepten els "[Comuns de la XOLN](#CXOLN)" accepten també delegar totes aquestes funcions a guifi.net i a la Fundació, sense renunciar que per la seva banda també, si així ho desitgen, poden realitzar les mateixes funcions directament.
+  Donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i de treballar.
 
-3. Defensar i donar suport als interessos dels participants en la seva activitat de pertinença a la xarxa, els interessos i bon ús dels "[Comuns de la XOLN](#CXOLN)" i el nom de guifi.net, podent, si fos necessari, emprendre accions legals o reclamar reparacions en aquells casos on de mala fe s'ha volgut causar un perjudici a guifi.net o als seus usuaris.
+### 2. Personalitat jurídica
+
+  Proporcionar personalitat jurídica a guifi.net en tot allò que li sigui necessari per al complert i normal exercici de la seva activitat com a operador de la xarxa amb igualtat de drets i deures respecte de qualsevol altre operador, com per exemple i no limitat a, obtenir llicències, ocupar dominis públics o privats, representar, fer gestions i notificacions en nom de guifi.net davant de les administracions o tercers, o prendre acords d'interconnexió amb altres operadors i formar part d'organismes que composen Internet.
+
+  Quan els participants accepten els "[Comuns de la XOLN](#CXOLN)" accepten també delegar totes aquestes funcions a guifi.net i a la Fundació, sense renunciar que per la seva banda també, si així ho desitgen, poden realitzar les mateixes funcions directament.
+
+### 3. Defensa
+
+  Defensar i donar suport als interessos dels participants en la seva activitat de pertinença a la xarxa, els interessos i bon ús dels "[Comuns de la XOLN](#CXOLN)" i el nom de guifi.net, podent, si fos necessari, emprendre accions legals o reclamar reparacions en aquells casos on de mala fe s'ha volgut causar un perjudici a guifi.net o als seus usuaris.
 
 ## VI. Sobre la gestió de la xarxa i prioritats en el trànsit (qualitat de servei)
 
-1. La gestió de la xarxa ha de ser pública i tothom qui ho desitgi ha de poder participar-hi.
+### 1. Gestió publica
 
-2. Quan sigui possible i necessari per motius de gestió de la xarxa, les prioritats del trànsit generals s'implementen en aquest ordre:
+  La gestió de la xarxa ha de ser pública i tothom qui ho desitgi ha de poder participar-hi.
 
-    + a. Trànsit de tipus interactiu (missatgeria instantània, conferències de veu, navegar, etc.)
-    + b. Trànsit de tipus massiu o diferit (transferències, correu electrònic, còpies, etc.)
+### 2. Prioritats de trànsit
 
-3. <a name="vi-sobre-la-gesti-de-la-xarxa-i-prioritats-en-el-trnsit-qualitat-de-servei.3"></a>Els membres de la xarxa faran públiques les prioritats implementades en els seus trams de xarxa que puguin afectar als altres usuaris en cas de modificar les expressades en el punt anterior i que vagin més enllà de donar-se prioritat (preferència en el trànsit, no quotes) en el seu tram de xarxa, i no es podrà fer arbitrària o discrecionalment, ni impedir l'aprofitament d'ample de banda excedentari: Cal que hi hagi motius tècnics que ho justifiquin raonablement.
+  Quan sigui possible i necessari per motius de gestió de la xarxa, les prioritats del trànsit generals s'implementen en aquest ordre:
 
-4. En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apartat ["IX.5. Sobre els serveis i continguts"](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.5), es podrà impedir el trànsit o la connexió de l'usuari que el causa, procurant advertir-lo sempre que sigui possible. En el cas de que aquest trànsit sigui causat per un participant, aquesta suspensió no causa també una suspensió de forma immediata de l'acord dels [Comuns de la XOLN](#CXOLN), però sí que serveix d'advertiment.
-En cap cas es pot fer servir aquesta possibilitat per impedir la lliure participació i circulació de serveis i continguts recollit en els [Comuns de la XOLN](#CXOLN).
-Si un participant abusa reiteradament d'aquest punt, ja sigui en el sentit de causar trànsit inapropiat que requereix de la seva suspensió, o en el d'impedir injustificadament el trànsit d'altres usuaris, això pot ser causa d'un conflicte que d'acord amb el que es preveu en l'apartat de "[Sobre la resolució de conflictes](#x-sobre-la-resoluci-de-conflictes-i-jurisdicci-aplicable)", i finalitzar amb la suspensió de l'acord dels [Comuns de la XOLN](#CXOLN) amb aquest participant.
+    + **a.** Trànsit de tipus interactiu (missatgeria instantània, conferències de veu, navegar, etc.)
+    + **b.** Trànsit de tipus massiu o diferit (transferències, correu electrònic, còpies, etc.)
 
-5. La disponibilitat de la xarxa no es garanteix de forma global. En cas de que un participant vulgui garantir-se nivells de servei ho pot fer a través dels mitjans següents: fent-ho ell mateix adquirint la titularitat compartida dels segments de xarxa que siguin del seu interès, a través d'acords amb tercers i/o contractant serveis professionals per tal de arribar als nivells de servei i/o de disponibilitat desitjats.
+### 3. Informació publica dels prioritats
 
-6. Els professionals o operadors que adquireixin compromisos de servei de connexions amb unes característiques determinades són responsables de descriure i informar clarament als seus clients de quines són aquestes característiques d'acord amb el [punt III.7](#iii-sobre-la-xarxa.7) i fer tot allò que sigui possible per complir-les, incloent si cal el manteniment i millora de troncals. En el cas de troncals compartides amb altres operadors o professionals, hauran de posar-se d'acord sobre com es fan aquests manteniments i millores. La Fundació pot dictaminar sistemes per fer front a aquestes despeses quan no hi ha acord, aplicant criteris de proporcionalitat.
+  <a name="vi-sobre-la-gesti-de-la-xarxa-i-prioritats-en-el-trnsit-qualitat-de-servei.3"></a>Els membres de la xarxa faran públiques les prioritats implementades en els seus trams de xarxa que puguin afectar als altres usuaris en cas de modificar les expressades en el punt anterior i que vagin més enllà de donar-se prioritat (preferència en el trànsit, no quotes) en el seu tram de xarxa, i no es podrà fer arbitrària o discrecionalment, ni impedir l'aprofitament d'ample de banda excedentari: Cal que hi hagi motius tècnics que ho justifiquin raonablement.
+
+### 4. Sancció Suspensió
+
+  En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apartat ["IX.5. Sobre els serveis i continguts"](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.5), es podrà impedir el trànsit o la connexió de l'usuari que el causa, procurant advertir-lo sempre que sigui possible. En el cas de que aquest trànsit sigui causat per un participant, aquesta suspensió no causa també una suspensió de forma immediata de l'acord dels [Comuns de la XOLN](#CXOLN), però sí que serveix d'advertiment.
+
+  En cap cas es pot fer servir aquesta possibilitat per impedir la lliure participació i circulació de serveis i continguts recollit en els [Comuns de la XOLN](#CXOLN).
+
+  Si un participant abusa reiteradament d'aquest punt, ja sigui en el sentit de causar trànsit inapropiat que requereix de la seva suspensió, o en el d'impedir injustificadament el trànsit d'altres usuaris, això pot ser causa d'un conflicte que d'acord amb el que es preveu en l'apartat de "[Sobre la resolució de conflictes](#x-sobre-la-resoluci-de-conflictes-i-jurisdicci-aplicable)", i finalitzar amb la suspensió de l'acord dels [Comuns de la XOLN](#CXOLN) amb aquest participant.
+
+### 5. Disponibilitat
+
+  La disponibilitat de la xarxa no es garanteix de forma global. En cas de que un participant vulgui garantir-se nivells de servei ho pot fer a través dels mitjans següents: fent-ho ell mateix adquirint la titularitat compartida dels segments de xarxa que siguin del seu interès, a través d'acords amb tercers i/o contractant serveis professionals per tal de arribar als nivells de servei i/o de disponibilitat desitjats.
+
+### 6. Responsabilitats i compromisos
+
+  Els professionals o operadors que adquireixin compromisos de servei de connexions amb unes característiques determinades són responsables de descriure i informar clarament als seus clients de quines són aquestes característiques d'acord amb el [punt III.7](#7-conexi-) i fer tot allò que sigui possible per complir-les, incloent si cal el manteniment i millora de troncals. En el cas de troncals compartides amb altres operadors o professionals, hauran de posar-se d'acord sobre com es fan aquests manteniments i millores. La Fundació pot dictaminar sistemes per fer front a aquestes despeses quan no hi ha acord, aplicant criteris de proporcionalitat.
 
 ## VII. Sobre el desplegament responsable i el respecte al medi ambient
 
