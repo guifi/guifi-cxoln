@@ -23,9 +23,37 @@ toctitle: "Index de continguts"
   * [6. Altres organizatcions](#6-altres-organizatcions)
   * [7. Conexió](#7-conexi-)
 * [III. Sobre la xarxa](#iii-sobre-la-xarxa)
+  * [1. Valors fonamentals](#1-valors-fonamentals)
+  * [2. Accés](#2-acc-s)
+  * [3. Compromis](#3-compromis)
+  * [4. Adhesió](#4-adhesi-)
+  * [5. Compromis](#5-compromis)
+  * [6. Altres organizatcions](#6-altres-organizatcions)
+  * [7. Conexió](#7-conexi)
 * [IV. Sobre la titularitat i els participants](#iv-sobre-la-titularitat-i-els-participants)
+  * [1. Titularitat](#1-titularitat)
+  * [2. Titularitat compartida](#2-titularitat-compartida)
+  * [3. Drets i deures](#3-drets-i-deures)
+  * [4. Responsabilitat](#4-responsabilitat)
+  * [5. Informació](#5-informaci-)
+  * [6. Transmissió](#6-transmissi-)
+  * [7. Incorporació de trams de xarxa](#7-incorporaci-de-trams-de-xarxa)
+  * [8. Finalització de trams de xarxa](#8-finalitzaci-de-trams-de-xarxa)
+  * [9. Exercici de la titularitat](#9-exercici-de-la-titularitat)
+  * [10. Titularitat orfe](#10-titularitat-orfe)
+  * [11. Cessió d'ubicació](#11-cessi-d-ubicaci-)
+  * [12. Finalització d'una cessió](#12-finalitzaci-d-un- cessi-)
 * [V. Sobre el paper de la Fundació](#v-sobre-el-paper-de-la-fundaci-)
+  * [1. Suport](#1-suport)
+  * [2. Personalitat jurídica](#2-personalitat-jur-dica)
+  * [3. Defensa](#3-defensa)
 * [VI. Sobre la gestió de la xarxa i prioritats en el trànsit (qualitat de servei)](#vi-sobre-la-gesti-de-la-xarxa-i-prioritats-en-el-tr-nsit-qualitat-de-servei-)
+  * [1. Gestió publica](#1-gesti-publica)
+  * [2. Prioritats de trànsit](#2-prioritat-de-tr-nsit)
+  * [3. Informació publica dels prioritats](#3-nformaci-publica-dels-prioritats)
+  * [4. Sancció Suspensió](#4-sancci-suspensi-)
+  * [5. Disponibilitat](#5-disponibilitat)
+  * [6. Responsabilitats i compromisos](#6-responsabilitat-i-compromisos)
 * [VII. Sobre el desplegament responsable i el respecte al medi ambient](#vii-sobre-el-desplegament-responsable-i-el-respecte-al-medi-ambient)
 * [VIII. Sobre la seguretat i la responsabilitat](#viii-sobre-la-seguretat-i-la-responsabilitat)
 * [IX. Sobre els serveis, els continguts, altres xarxes i Internet](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet)
@@ -275,72 +303,98 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 
 ## VII. Sobre el desplegament responsable i el respecte al medi ambient
 
-1. <a name="vii-sobre-el-desplegament-responsable-i-el-respecte-al-medi-ambient.1"></a>Com a xarxa oberta, sempre es procurarà evitar la duplicitat innecessària d'infraestructures, impedint la coexistència de diverses xarxes obertes en un mateix espai físic, en especial, quan es tracta de recursos amb una capacitat limitada o existeixi una potencial afectació al medi ambient.
+### 1. Evitar duplicitats d'infrastructura innecessaries
+  <a name="vii-sobre-el-desplegament-responsable-i-el-respecte-al-medi-ambient.1"></a>Com a xarxa oberta, sempre es procurarà evitar la duplicitat innecessària d'infraestructures, impedint la coexistència de diverses xarxes obertes en un mateix espai físic, en especial, quan es tracta de recursos amb una capacitat limitada o existeixi una potencial afectació al medi ambient.
 
-2. Quan es fa ús de l'espai radioelèctric sense llicència preval l'ús comú davant de l'ús privatiu o explotació comercial. Es demana als governs, legisladors i organismes reguladors que creïn els espais necessaris i facin les regulacions perquè això sigui possible.
+### 2. Foment de l'us comú dels espais comuns
+  Quan es fa ús de l'espai radioelèctric sense llicència preval l'ús comú davant de l'ús privatiu o explotació comercial. Es demana als governs, legisladors i organismes reguladors que creïn els espais necessaris i facin les regulacions perquè això sigui possible.
 
-3. També quan es fa ús de l'espai radioelèctric, encara que sigui amb llicència i més enllà de les disposicions regulatòries vigents que de vegades poden resultar obsoletes a causa de la ràpida evolució tecnològica, es procurarà fer-ne un ús responsable, conforme a les bones pràctiques i a no excedir-se innecessàriament en les potències d'emissió.
+### 3. Ús responsable
+  També quan es fa ús de l'espai radioelèctric, encara que sigui amb llicència i més enllà de les disposicions regulatòries vigents que de vegades poden resultar obsoletes a causa de la ràpida evolució tecnològica, es procurarà fer-ne un ús responsable, conforme a les bones pràctiques i a no excedir-se innecessàriament en les potències d'emissió.
 
 ## VIII. Sobre la seguretat i la responsabilitat
 
-1. Els usuaris son responsables de la seva seguretat i tenen dret a protegir-se i vetllar per la seva intimitat, evitar intrusió en els seus propis sistemes d'informació i de xifrar les seves comunicacions si així ho desitja. La xarxa oberta proporciona el mitjà de transport per fer-ho possible.
+### 1. Seguritat i privacitat
+  Els usuaris son responsables de la seva seguretat i tenen dret a protegir-se i vetllar per la seva intimitat, evitar intrusió en els seus propis sistemes d'informació i de xifrar les seves comunicacions si així ho desitja. La xarxa oberta proporciona el mitjà de transport per fer-ho possible.
 
-2. Es poden connectar xarxes privades a la xarxa oberta i posar-hi tallafocs per controlar-ne l'accés. Aquests trams de xarxes queden exclosos dels [Comuns de la XOLN](#CXOLN) i no formen part de la xarxa oberta, lliure i neutral. De la seva seguretat se'n fa càrrec qui la munta.
+### 2. Xarxes privades i limitaciós
+  Es poden connectar xarxes privades a la xarxa oberta i posar-hi tallafocs per controlar-ne l'accés. Aquests trams de xarxes queden exclosos dels [Comuns de la XOLN](#CXOLN) i no formen part de la xarxa oberta, lliure i neutral. De la seva seguretat se'n fa càrrec qui la munta.
 
-3. La xarxa oberta no es fa responsable de cap dany causat als seus usuaris durant l'ús de la xarxa.
+### 3. Danys
+  La xarxa oberta no es fa responsable de cap dany causat als seus usuaris durant l'ús de la xarxa.
 
-4. Cada usuari és responsable de l'ús que faci de la xarxa, dels continguts que hi incorpora i del seus actes, en cap cas ho serà el participant que li proporciona accés, ni la resta de participants, ni guifi.net en la seva globalitat.
+### 4. Responsabilitat individual de cadascú
+  Cada usuari és responsable de l'ús que faci de la xarxa, dels continguts que hi incorpora i del seus actes, en cap cas ho serà el participant que li proporciona accés, ni la resta de participants, ni guifi.net en la seva globalitat.
 
 ## IX. Sobre els serveis, els continguts, altres xarxes i Internet
 
-1. La xarxa proporciona un servei de comunicacions electròniques disponible al públic en general. Més enllà d'aquest servei bàsic, hi ha llibertat de crear continguts i serveis de qualsevol tipus.
+### 1.
+  La xarxa proporciona un servei de comunicacions electròniques disponible al públic en general. Més enllà d'aquest servei bàsic, hi ha llibertat de crear continguts i serveis de qualsevol tipus.
 
-2. La xarxa és el suport sobre el qual es fa la transmissió lliure dels continguts però no té res a veure ni és responsable d'aquests continguts tal i com es preveu en l'apartat "[Sobre la seguretat i la responsabilitat](#viii-sobre-la-seguretat-i-la-responsabilitat)".
+### 2.
+  La xarxa és el suport sobre el qual es fa la transmissió lliure dels continguts però no té res a veure ni és responsable d'aquests continguts tal i com es preveu en l'apartat "[Sobre la seguretat i la responsabilitat](#viii-sobre-la-seguretat-i-la-responsabilitat)".
 
-3. Els creadors o titulars dels continguts escullen el termes i condicions per al seu ús. Si no n'expressen els continguts textuals i/o audiovisuals, s'entén que són de lliure distribució en les mateixes condicions, tal i com es descriuen en la [Creative Commons (by-sa)](http://creativecommons.org/licenses/by-sa/4.0/) o la [GNU/FDL](http://www.gnu.org/copyleft/fdl.html).
+### 3.
+  Els creadors o titulars dels continguts escullen el termes i condicions per al seu ús. Si no n'expressen els continguts textuals i/o audiovisuals, s'entén que són de lliure distribució en les mateixes condicions, tal i com es descriuen en la [Creative Commons (by-sa)](http://creativecommons.org/licenses/by-sa/4.0/) o la [GNU/FDL](http://www.gnu.org/copyleft/fdl.html).
 
-4. En el cas dels serveis, correspon a qui el proporciona determinar si es tracta d'un servei "tal qual" o amb un compromís de servei. Si no s'especifica res i és gratuït, s'entén que es tracta d'un servei "_tal qual és_", i que, per tant, no s'ofereix cap tipus de garantia.
+### 4.
+  En el cas dels serveis, correspon a qui el proporciona determinar si es tracta d'un servei "tal qual" o amb un compromís de servei. Si no s'especifica res i és gratuït, s'entén que es tracta d'un servei "_tal qual és_", i que, per tant, no s'ofereix cap tipus de garantia.
 
-5. <a name="ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.5"></a>S'ha de procurar respectar  les llibertats de pensament, d'expressió i comunicació. Tot respectant això, es podrà evitar trànsit de missatges no sol·licitats, continguts inapropiats o il·legals que maliciosament vulguin causar un perjudici o restringir les llibertats a altres usuaris.
+### 5.
+  <a name="ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.5"></a>S'ha de procurar respectar  les llibertats de pensament, d'expressió i comunicació. Tot respectant això, es podrà evitar trànsit de missatges no sol·licitats, continguts inapropiats o il·legals que maliciosament vulguin causar un perjudici o restringir les llibertats a altres usuaris.
 
-6. La xarxa, com a xarxa oberta, lliure i neutral té vocació inequívoca de ser una xarxa més de la gran xarxa de xarxes que és Internet i per aquest motiu guifi.net procura formar part activa dels organismes que formen Internet i, com a operador, procurar acords i mecanismes d'interconnexió eficients amb tots els altres operadors. Tanmateix, actualment a Internet, els altres operadors poden ser més restrictius i no tan oberts pel que fa a la interconnexió amb les seves xarxes, per exemple fent una explotació comercial de la interconnexió o del trànsit,. Com que en aquests casos no és possible aplicar el [principi de reciprocitat](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.7), el trànsit cap a l'internet d'aquests operadors es considera fora de l'àmbit dels [Comuns de la XOLN](#CXOLN), i com a tal, respecte de la XOLN, n'esdevé un contingut. Per tant, aquesta mena d'interconnexió s'ofereix als participants com qualsevol altre servei dins de la xarxa, i típicament n'hi pot haver de dos tipus:
+### 6.
+  La xarxa, com a xarxa oberta, lliure i neutral té vocació inequívoca de ser una xarxa més de la gran xarxa de xarxes que és Internet i per aquest motiu guifi.net procura formar part activa dels organismes que formen Internet i, com a operador, procurar acords i mecanismes d'interconnexió eficients amb tots els altres operadors. Tanmateix, actualment a Internet, els altres operadors poden ser més restrictius i no tan oberts pel que fa a la interconnexió amb les seves xarxes, per exemple fent una explotació comercial de la interconnexió o del trànsit,. Com que en aquests casos no és possible aplicar el [principi de reciprocitat](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.7), el trànsit cap a l'internet d'aquests operadors es considera fora de l'àmbit dels [Comuns de la XOLN](#CXOLN), i com a tal, respecte de la XOLN, n'esdevé un contingut. Per tant, aquesta mena d'interconnexió s'ofereix als participants com qualsevol altre servei dins de la xarxa, i típicament n'hi pot haver de dos tipus:
 
-    + a. El que proporcionen els participants a partir de les connexions que puguin tenir amb altres operadors com a portes cap a Internet.
+  + **a.** El que proporcionen els participants a partir de les connexions que puguin tenir amb altres operadors com a portes cap a Internet.
 
-    + b. El que s'obté a través de la interconnexió amb xarxes ("peering") d'altres operadors.
+  + **b.** El que s'obté a través de la interconnexió amb xarxes ("peering") d'altres operadors.
 
-    Qui proporciona aquests serveis determinarà si ho fa "tal qual", o amb  algun tipus de compromís de servei.
+  Qui proporciona aquests serveis determinarà si ho fa "tal qual", o amb  algun tipus de compromís de servei.
 
-7. <a name="ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.7"></a>Principi de reciprocitat.  
-Quan es proporciona servei d'interconnexió amb una altra xarxa que, encara que no s'aculli a la protecció dels [Comuns de la XOLN](#CXOLN) o es gestioni de manera diferent per altres organitzacions, però que en essència obeeixi als mateixos criteris de xarxa oberta, lliure i neutral, mantenint les mateixes [llibertats i principis generals](#i-resum-i-principis-generals) i permetent la lliure interconnexió, es podrà establir un reconeixement recíproc de les mateixes llibertats pel que fa a la lliure circulació de continguts i serveis.
+### 7. Principi de reciprocitat
+
+  <a name="ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.7"></a>
+
+  Quan es proporciona servei d'interconnexió amb una altra xarxa que, encara que no s'aculli a la protecció dels [Comuns de la XOLN](#CXOLN) o es gestioni de manera diferent per altres organitzacions, però que en essència obeeixi als mateixos criteris de xarxa oberta, lliure i neutral, mantenint les mateixes [llibertats i principis generals](#i-resum-i-principis-generals) i permetent la lliure interconnexió, es podrà establir un reconeixement recíproc de les mateixes llibertats pel que fa a la lliure circulació de continguts i serveis.
 
 ## X. Sobre la resolució de conflictes i jurisdicció aplicable
 
-1. En cas de qüestions, dubtes o conflictes relatius a d'interpretació o aplicació dels "[Comuns de la XOLN](#CXOLN)" , tothom es pot dirigir al patronat de la Fundació perquè ho resolgui.
-La petició es formalitza a través d'un correu dirigit al Patronat (patronat (arroba) guifi.net), especificant-ho clarament a l'assumpte (per exemple "Consulta /Conflicte sobre els Comuns en relació a...."), i en el text del correu, una descripció de la qüestió, de les seves motivacions, dels punts dels Comuns afectats quan n'hi han, propostes, etc. És a dir, procurar que estigui ben documentat i entenedor.
-Un cop el Patronat de la Fundació ha rebut la notificació i en funció de la naturalesa de la petició aplicarà el següent procediment:
+### 1. Conflictes i dubtes d'interpretació
+  En cas de qüestions, dubtes o conflictes relatius a d'interpretació o aplicació dels "[Comuns de la XOLN](#CXOLN)" , tothom es pot dirigir al patronat de la Fundació perquè ho resolgui.
 
-    + a. Decidir si la qüestió és prou fonamentada per cursar-la o arxivar-la. En cas d'arxivar-se, finalitza el procediment.
+  La petició es formalitza a través d'un correu dirigit al Patronat (patronat (arroba) guifi.net), especificant-ho clarament a l'assumpte (per exemple "Consulta /Conflicte sobre els Comuns en relació a...."), i en el text del correu, una descripció de la qüestió, de les seves motivacions, dels punts dels Comuns afectats quan n'hi han, propostes, etc. És a dir, procurar que estigui ben documentat i entenedor.
 
-    + b. Decidir si es fa càrrec de resoldre la qüestió directament, o bé nomena una comissió específica amb el mandat de resoldre la qüestió.
+  Un cop el Patronat de la Fundació ha rebut la notificació i en funció de la naturalesa de la petició aplicarà el següent procediment:
+
+  + **a.** Decidir si la qüestió és prou fonamentada per cursar-la o arxivar-la. En cas d'arxivar-se, finalitza el procediment.
+
+  + **b.** Decidir si es fa càrrec de resoldre la qüestió directament, o bé nomena una comissió específica amb el mandat de resoldre la qüestió.
+
     Ningú que sigui part en un conflicte pot formar part dels qui han de prendre una resolució, si fos el cas, s'haurà d'inhibir.
+
     Els encarregats de deliberar i resoldre una qüestió prendran les decisions per votació, i per evitar l'empat, estarà format per un nombre imparell.
 
-    + c. Decidir si la documentació aportada és suficient o si cal obrir un període públic informatiu per recollir més dades. En el cas de que la qüestió afecti a tercers el període informatiu públic és obligatori per tal de permetre a tothom expressar la seva versió o opinió sobre la qüestió a analitzar.
+  + **c.** Decidir si la documentació aportada és suficient o si cal obrir un període públic informatiu per recollir més dades. En el cas de que la qüestió afecti a tercers el període informatiu públic és obligatori per tal de permetre a tothom expressar la seva versió o opinió sobre la qüestió a analitzar.
 
-    + d. Un cop finalitzat el procés informatiu, el Patronat o la Comissió haurà de debatre i finalment, resoldre.
+  + **d.** Un cop finalitzat el procés informatiu, el Patronat o la Comissió haurà de debatre i finalment, resoldre.
 
-2. Les resolucions hauran d'orientar-se a aplicar l'esperit dels [Comuns de la XOLN](#CXOLN), i en cas de que es constati un conflicte o una situació d'incompliment, servir d'arbitratge i proposar solucions per esmenar la situació que s'hagi pogut crear.
+### 2. Solucions i arbitratge
+  Les resolucions hauran d'orientar-se a aplicar l'esperit dels [Comuns de la XOLN](#CXOLN), i en cas de que es constati un conflicte o una situació d'incompliment, servir d'arbitratge i proposar solucions per esmenar la situació que s'hagi pogut crear.
 
-3. En casos extrems, es pot resoldre la suspensió l'acord dels [Comuns de la XOLN](#CXOLN) amb un participant, deixant-lo sense efectes, i podrà recuperar les infraestructures de la seva titularitat en funció del que es preveu en l'apartat "[Sobre la titularitat i els participants](#iv-sobre-la-titularitat-i-els-participants)". Per aquesta via no es poden resoldre penalitzacions o compensacions de tipus econòmic per danys o perjudicis i similars, si fos el cas s'haurà de fer via als Tribunals competents.
+### 3. Resolucions de suspenció
+  En casos extrems, es pot resoldre la suspensió l'acord dels [Comuns de la XOLN](#CXOLN) amb un participant, deixant-lo sense efectes, i podrà recuperar les infraestructures de la seva titularitat en funció del que es preveu en l'apartat "[Sobre la titularitat i els participants](#iv-sobre-la-titularitat-i-els-participants)". Per aquesta via no es poden resoldre penalitzacions o compensacions de tipus econòmic per danys o perjudicis i similars, si fos el cas s'haurà de fer via als Tribunals competents.
 
-4. A les resolucions s'hi pot presentar un recurs, o alternativament, acudir als Tribunals competents.
+### 4. Recurs
+  A les resolucions s'hi pot presentar un recurs, o alternativament, acudir als Tribunals competents.
 
-5. La Fundació s'ha constituït segons la [Llei de Fundacions 4/2008 de Catalunya](http://www.gencat.cat/diari/5123/08114039.htm). A efectes legals i en cas de conflicte, si les parts no acorden una altra cosa, la jurisdicció aplicable per a la Fundació i per a la interpretació dels [Comuns de la XOLN](#CXOLN) és la que correspongui del Tribunal competent a Barcelona segons la legislació vigent a Catalunya.
+### 5. Jurisdicció
+  La Fundació s'ha constituït segons la [Llei de Fundacions 4/2008 de Catalunya](http://www.gencat.cat/diari/5123/08114039.htm). A efectes legals i en cas de conflicte, si les parts no acorden una altra cosa, la jurisdicció aplicable per a la Fundació i per a la interpretació dels [Comuns de la XOLN](#CXOLN) és la que correspongui del Tribunal competent a Barcelona segons la legislació vigent a Catalunya.
 
 ## XI. Sobre la llicència del text dels [Comuns de la XOLN](#CXOLN)
 
-1. El text dels Comuns de la XOLN està es pot canviar o modificar sota llicència: [Creative Commons by-nc-sa/4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) o la Llicència [GNU/FDL](http://www.gnu.org/copyleft/fdl.html)
+### 1.
+  El text dels Comuns de la XOLN està es pot canviar o modificar sota llicència: [Creative Commons by-nc-sa/4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) o la Llicència [GNU/FDL](http://www.gnu.org/copyleft/fdl.html)
 
     * No se'n pot fer un ús comercial
 
@@ -348,4 +402,5 @@ Un cop el Patronat de la Fundació ha rebut la notificació i en funció de la n
 
     * Es poden modificar els continguts i fer-ne treballs derivats si el resultat es distribueix de nou sota les mateixes condicions.
 
-2. Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als "[Comuns per la XOLN"](#CXOLN), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.7).
+### 2.
+  Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als "[Comuns per la XOLN"](#CXOLN), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.7).
