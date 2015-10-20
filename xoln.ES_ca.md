@@ -56,8 +56,17 @@ toctitle: "Index de continguts"
   * [6. Responsabilitats i compromisos](#6-responsabilitat-i-compromisos)
 * [VII. Sobre el desplegament responsable i el respecte al medi ambient](#vii-sobre-el-desplegament-responsable-i-el-respecte-al-medi-ambient)
 * [VIII. Sobre la seguretat i la responsabilitat](#viii-sobre-la-seguretat-i-la-responsabilitat)
+ * [1. Seguritat i privacitat](#1-seguritat-i-privacitat)
+ * [2. Xarxes privades i limitaciós](#2-xarxes -privades-i-limitaci-s)
+ * [3. Danys](#3-danys)
+ * [4. Responsabilitat individual de cadascú](#4-responsabilitat-individual-de-cadascú)
 * [IX. Sobre els serveis, els continguts, altres xarxes i Internet](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet)
 * [X. Sobre la resolució de conflictes i jurisdicció aplicable](#x-sobre-la-resoluci-de-conflictes-i-jurisdicci-aplicable)
+  * [1. Conflictes i dubtes d'interpretació](#1-conflictes-i-dubtes-d-interpretaci-)
+  * [2. Solucions i arbitratge](#2-solucions-i-arbitratge)
+  * [3. Resolucions de suspenció](#3-resolucions-de-suspenci-)
+  * [4. Recurs](#4-recurs)
+  * [5. Jurisdicció](#5-jurisdicci-)
 * [XI. Sobre la llicència del text dels Comuns de la XOLN](#xi-sobre-la-llic-ncia-del-text-dels-comuns-de-la-xoln-cxoln-)
 
 ## I. Resum i principis generals
