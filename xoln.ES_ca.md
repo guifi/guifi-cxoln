@@ -80,9 +80,9 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 
   Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés continuat en el temps de revisió i actualització que permeti adaptar-nos a noves realitats i millorar la claredat en les seves disposicions expressant millor els mateixos criteris que s'apliquen. Com que aquest text pot canviar amb el pas del temps i alhora serveix per adquirir uns compromisos en el moment de la seva acceptació, es preveu com cal interpretar el text de manera que es pugui revisar respectant els compromisos adquirits:
 
-  + a. <a name="ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.1.a"></a>Una    revisió <u>no pot</u> modificar els compromisos adquirits en l'acceptació d'una revisió anterior. En cas de voler modificar-los, es tractaria d'una altre versió diferent i no pas només una revisió. Per aplicar una nova versió cal renovar el consentiment de forma expressa.
+  + **a.** <a name="ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.1.a"></a>Una    revisió <u>no pot</u> modificar els compromisos adquirits en l'acceptació d'una revisió anterior. En cas de voler modificar-los, es tractaria d'una altre versió diferent i no pas només una revisió. Per aplicar una nova versió cal renovar el consentiment de forma expressa.
 
-  + b. Quan en una revisió s'estén a noves situacions que abans no existien, com per exemple les derivades d'algun tipus d'ampliació o d'actualització tecnològica, s'entén que implícitament es renova l'acceptació segons la revisió vigent del moment en que es produeix l'actualització o ampliació.
+  + **b.** Quan en una revisió s'estén a noves situacions que abans no existien, com per exemple les derivades d'algun tipus d'ampliació o d'actualització tecnològica, s'entén que implícitament es renova l'acceptació segons la revisió vigent del moment en que es produeix l'actualització o ampliació.
 
   + c. els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"](http://guifi.net/ComunsSensefils), que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils](http://guifi.net/ComunsSensefils).
 
@@ -92,9 +92,9 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 
 ### 2. Definicions
 
-  + a. Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN) és un acord d'interconnexió entre iguals que serveix de contracte d'adhesió de cada participant amb el conjunt de a guifi.net i que és comú per a tothom que forma part de la xarxa. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús de la xarxa, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom. També es coneix amb les abreviacions "Comuns", "Comuns de la XOLN" o "CXOLN".
+  + **a.** Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN) és un acord d'interconnexió entre iguals que serveix de contracte d'adhesió de cada participant amb el conjunt de a guifi.net i que és comú per a tothom que forma part de la xarxa. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús de la xarxa, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom. També es coneix amb les abreviacions "Comuns", "Comuns de la XOLN" o "CXOLN".
 
-  + b.  La <u>_Xarxa de Telecomunicacions Lliure, Oberta i Neutral_</u> és una infraestructura de telecomunicacions pública comunitària a la que s'apliquen els termes i condicions dels "[Comuns de la XOLN](#CXOLN)", disponible al públic en general, de manera que quan els participants s'hi adhereixen, s'amplia. A través de la xarxa s'obté i alhora es subministra un servei de comunicacions electròniques amb els altres participants ja sigui directament o a través de la interconnexió amb altres xarxes.
+  + **b.**  La <u>_Xarxa de Telecomunicacions Lliure, Oberta i Neutral_</u> és una infraestructura de telecomunicacions pública comunitària a la que s'apliquen els termes i condicions dels "[Comuns de la XOLN](#CXOLN)", disponible al públic en general, de manera que quan els participants s'hi adhereixen, s'amplia. A través de la xarxa s'obté i alhora es subministra un servei de comunicacions electròniques amb els altres participants ja sigui directament o a través de la interconnexió amb altres xarxes.
 
   Quan en aquest document es menciona "la xarxa" de forma genèrica o l'abreviació "XOLN", es refereix a la Xarxa Oberta, Lliure i Neutral, i es defineix així perquè:
 
@@ -105,9 +105,9 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
     3.  És **neutral** perquè la xarxa és independent dels continguts, no els condiciona i hi poden circular lliurement; Els usuaris poden accedir i produir continguts independentment de les seves possibilitats financeres o condició social. Quan des de guifi.net s'incorporen continguts a la xarxa es fa o bé per estimular-ne de nous, o bé per a la gestió de la pròpia xarxa, o simplement en exercici de la llibertat d'incorporar-hi continguts, però en cap cas amb l'objectiu de substituir o impedir-ne d'altres.
     També és **neutral** respecte de la tecnologia, la xarxa es pot construir amb la tecnologia que decideixin els seus participants sense més limitacions que les que es derivin de la pròpia tecnologia.
 
-  + c. Guifi.net és el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
+  + **c.** Guifi.net és el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
 
-  + d. Participants i titularitat
+  + **d.** Participants i titularitat
   Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels "[Comuns de la XOLN](#CXOLN)". Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de "<u>padrins</u>", i de l'acte de cobrir la inversió, la denominació d'"<u>apadrinament</u>".
 
   + e. Formes de participació en funció del format de connexió a la xarxa
