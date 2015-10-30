@@ -53,6 +53,8 @@ toctitle: "Index de continguts"
   * [6. Responsabilitats i compromisos](#6-responsabilitats-i-compromisos)
 * [VII. Sobre el desplegament responsable i el respecte al medi ambient](#vii-sobre-el-desplegament-responsable-i-el-respecte-al-medi-ambient)
   * [1. Evitar duplicitats d'infrastructura innecessaries](#1-evitar-duplicitats-dinfrastructura-innecessaries)
+  * [2. Foment de l'us comú dels espais comuns](#2-foment-de-lus-comú-dels-espais-comuns)
+  * [3. Ús responsable](#3-ús-responsable)
 * [VIII. Sobre la seguretat i la responsabilitat](#viii-sobre-la-seguretat-i-la-responsabilitat)
  * [1. Seguritat i privacitat](#1-seguritat-i-privacitat)
  * [2. Xarxes privades i limitaciós](#2-xarxes-privades-i-limitaciós)
