@@ -121,12 +121,14 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
   2.  És **lliure** perquè tothom hi pot fer el que vol i gaudir-ne tal i com es preveu en la referència a les llibertats dels [principis generals (apartat I.)](#i-resum-i-principis-generals), i tot això independentment del seu nivell de participació a la xarxa i sense imposar termes i condicions que contradiguin aquest acord de forma unilateral.
 
   3.  És **neutral** perquè la xarxa és independent dels continguts, no els condiciona i hi poden circular lliurement; Els usuaris poden accedir i produir continguts independentment de les seves possibilitats financeres o condició social. Quan des de guifi.net s'incorporen continguts a la xarxa es fa o bé per estimular-ne de nous, o bé per a la gestió de la pròpia xarxa, o simplement en exercici de la llibertat d'incorporar-hi continguts, però en cap cas amb l'objectiu de substituir o impedir-ne d'altres.
+
    També és **neutral** respecte de la tecnologia, la xarxa es pot construir amb la tecnologia que decideixin els seus participants sense més limitacions que les que es derivin de la pròpia tecnologia.
 
 + **c.** Guifi.net és el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
 
 + **d.** Participants i titularitat
-Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels "[Comuns de la XOLN](#CXOLN)". Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de "<u>padrins</u>", i de l'acte de cobrir la inversió, la denominació d'"<u>apadrinament</u>".
+
+  Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels "[Comuns de la XOLN](#CXOLN)". Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de "<u>padrins</u>", i de l'acte de cobrir la inversió, la denominació d'"<u>apadrinament</u>".
 
 + **e.** Formes de participació en funció del format de connexió a la xarxa
 
@@ -140,7 +142,7 @@ Els participants son aquelles persones físiques o jurídiques que incorporen in
 
 + **g.** Serveis
 
-A l'entorn de la xarxa existeixen múltiples formats de serveis. El més bàsic i indissociable de la pròpia xarxa és la connectivitat entre tots els participants i que s'anomena "servei de comunicacions electròniques". Més enllà d'aquest servei indissociable, es distingeix entre dos grans tipologies de serveis:
+  A l'entorn de la xarxa existeixen múltiples formats de serveis. El més bàsic i indissociable de la pròpia xarxa és la connectivitat entre tots els participants i que s'anomena "servei de comunicacions electròniques". Més enllà d'aquest servei indissociable, es distingeix entre dos grans tipologies de serveis:
 
   1. Serveis "tal qual". Son aquells serveis que es proporcionen "tal qual son", és a dir, qui els utilitza ho fa sota la seva responsabilitat i no pot exigir a qui li subministra que cobreixi una expectativa o unes característiques. En aquesta categoria generalment hi trobarem els serveis que es proporcionen de forma gratuïta.
 
