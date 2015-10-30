@@ -176,7 +176,7 @@ Els membres de la xarxa oberta es comprometen únicament als termes i condicions
 
 ### 4. Adhesió
 
-L'adhesió a la xarxa es pot expressar a títol individual o col·lectiu, i comporta l'acceptació dels termes dels [Comuns de la XOLN](#CXOLN). En qualsevol moment un membre adherit a la xarxa pot renunciar a la seva adhesió conforme al que es preveu en el punt [II.4 Sobre la finalització](#ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.4). En cas de renunciar a la seva adhesió podrà recuperar els béns, equips i infraestructures de les que sigui titular, amb independència de on estiguin ubicats, amb la única excepció dels casos descrits en l'apartat [IV. 8. Finalització de trams de xarxa](#8-finalització-de-trams-de-xarxa).
+L'adhesió a la xarxa es pot expressar a títol individual o col·lectiu, i comporta l'acceptació dels termes dels [Comuns de la XOLN](#CXOLN). En qualsevol moment un membre adherit a la xarxa pot renunciar a la seva adhesió conforme al que es preveu en el punt [II.4. Finalització de l'acord](4-finalització-de-lacord). En cas de renunciar a la seva adhesió podrà recuperar els béns, equips i infraestructures de les que sigui titular, amb independència de on estiguin ubicats, amb la única excepció dels casos descrits en l'apartat [IV.8. Finalització de trams de xarxa](#8-finalització-de-trams-de-xarxa).
 
 ### 5. Compromis
 
@@ -194,11 +194,11 @@ Els participants de la xarxa, per tal de facilitar-ne el seu creixement i connec
 
 ### 6. Altres organizatcions
 
-Hi poden haver altres organitzacions que també promouen xarxa amb característiques similars a la xarxa oberta lliure i neutral que fa guifi.net. Les xarxes obertes han de caracteritzar-se per tenir la vocació d'interconnectar, de manera es procurarà el que es preveu en el punt [VII. 1. Evitar duplicitats d'infrastructura innecessaries](1-evitar-duplicitats-d-infrastructura-innecessaries) i el punt [IX. 7. Principi de reciprocitat](#7-principi-de-reciprocitat).
+Hi poden haver altres organitzacions que també promouen xarxa amb característiques similars a la xarxa oberta lliure i neutral que fa guifi.net. Les xarxes obertes han de caracteritzar-se per tenir la vocació d'interconnectar, de manera es procurarà el que es preveu en el punt [VII.1. Evitar duplicitats d'infrastructura innecessaries](#1-evitar-duplicitats-dinfrastructura-innecessaries) i el punt [IX.7. Principi de reciprocitat](#7-principi-de-reciprocitat).
 
 ### 7. Conexió
 
-La connexió a la xarxa és lliure i gratuïta tal i com ja es desprèn del punt III.5.b. Els participants es fan càrrec de les infraestructures per estar connectats, ja sigui individualment a través de mitjans propis, donacions, apadrinaments, col·lectivament de la manera que lliurement decideixin, o acudint amb aquest propòsit a serveis professionals. L'activitat econòmica derivada d'aquestes activitats, com per exemple el cobrament de diners a canvi del subministrament d'equips, creació d'infraestructures o manteniments, és responsabilitat de qui la realitza, i haurà d'informar amb claredat a qui li pagui sobre a quins conceptes es corresponen aquests pagaments. Quan s'estableixen condicions econòmiques pel concepte de contribució a aquestes infraestructures, han de ser raonades, públiques, i no discriminatòries.
+La connexió a la xarxa és lliure i gratuïta tal i com ja es desprèn del punt [III.5.b](#5-compromis). Els participants es fan càrrec de les infraestructures per estar connectats, ja sigui individualment a través de mitjans propis, donacions, apadrinaments, col·lectivament de la manera que lliurement decideixin, o acudint amb aquest propòsit a serveis professionals. L'activitat econòmica derivada d'aquestes activitats, com per exemple el cobrament de diners a canvi del subministrament d'equips, creació d'infraestructures o manteniments, és responsabilitat de qui la realitza, i haurà d'informar amb claredat a qui li pagui sobre a quins conceptes es corresponen aquests pagaments. Quan s'estableixen condicions econòmiques pel concepte de contribució a aquestes infraestructures, han de ser raonades, públiques, i no discriminatòries.
 
 ## IV Sobre la titularitat i els participants
 
@@ -238,7 +238,7 @@ La titularitat és un actiu, que com a tal pot tenir un valor, i conseqüentment
 
 ### 7. Incorporació de trams de xarxa
 
-La incorporació d'actius a la xarxa és fonamental per al seu creixement i desenvolupament ja que és la forma principal de captar inversions i de proporcionar sostenibilitat, per tant convé protegir-la i fomentar-la. Per això, els participants quan incorporen infraestructures a la xarxa a més d'obtenir connectivitat amb la resta, també es poden donar prioritat en els trams dels quals en son titulars de manera que tinguin preferència sobre l'ample de banda disponible, amb la única condició de que es respectin els criteris establerts en l'apartat "[Sobre la gestió de la xarxa i prioritats de trànsit](#vi-sobre-la-gestio-de-la-xarxa)" i, alhora deixin disponible tot l'ample de banda excedentari per a la resta del trànsit.
+La incorporació d'actius a la xarxa és fonamental per al seu creixement i desenvolupament ja que és la forma principal de captar inversions i de proporcionar sostenibilitat, per tant convé protegir-la i fomentar-la. Per això, els participants quan incorporen infraestructures a la xarxa a més d'obtenir connectivitat amb la resta, també es poden donar prioritat en els trams dels quals en son titulars de manera que tinguin preferència sobre l'ample de banda disponible, amb la única condició de que es respectin els criteris establerts en l'apartat "[VI. Sobre la gestió de la xarxa i prioritats en el trànsit (qualitat de servei)](#vi-sobre-la-gestió-de-la-xarxa-i-prioritats-en-el-trànsit-qualitat-de-servei)" i, alhora deixin disponible tot l'ample de banda excedentari per a la resta del trànsit.
 
 ### 8. Finalització de trams de xarxa
 
