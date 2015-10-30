@@ -75,6 +75,8 @@ toctitle: "Index de continguts"
   * [4. Recurs](#4-recurs)
   * [5. Jurisdicció](#5-jurisdicció)
 * [XI. Sobre la llicència del text dels Comuns de la XOLN](#xi-sobre-la-llicència-del-text-dels-comuns-de-la-xoln)
+  * [1. Llicència CC BY-NC-SA o GNU FDL](#1-llicència-cc-by-nc-sa-o-gnu-fdl)
+  * [2. Extensió i modificació](#2-extensió-i-modificació)
 
 ## I. Resum i principis generals
 
@@ -407,7 +409,7 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 
 ## XI. Sobre la llicència del text dels [Comuns de la XOLN](#CXOLN)
 
-### 1.
+### 1. Llicència CC BY-NC-SA o GNU FDL
   El text dels Comuns de la XOLN està es pot canviar o modificar sota llicència: [Creative Commons by-nc-sa/4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) o la Llicència [GNU/FDL](http://www.gnu.org/copyleft/fdl.html)
 
     * No se'n pot fer un ús comercial
@@ -416,5 +418,5 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 
     * Es poden modificar els continguts i fer-ne treballs derivats si el resultat es distribueix de nou sota les mateixes condicions.
 
-### 2.
+### 2. Extensió i modificació
   Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als "[Comuns per la XOLN"](#CXOLN), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#7-principi-de-reciprocitat).
