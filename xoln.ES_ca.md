@@ -55,12 +55,20 @@ toctitle: "Index de continguts"
   * [5. Disponibilitat](#5-disponibilitat)
   * [6. Responsabilitats i compromisos](#6-responsabilitat-i-compromisos)
 * [VII. Sobre el desplegament responsable i el respecte al medi ambient](#vii-sobre-el-desplegament-responsable-i-el-respecte-al-medi-ambient)
+  * [1. Evitar duplicitats d'infrastructura innecessaries](1-evitar-duplicitats-d-infrastructura-innecessaries)
 * [VIII. Sobre la seguretat i la responsabilitat](#viii-sobre-la-seguretat-i-la-responsabilitat)
  * [1. Seguritat i privacitat](#1-seguritat-i-privacitat)
  * [2. Xarxes privades i limitaciós](#2-xarxes -privades-i-limitaci-s)
  * [3. Danys](#3-danys)
  * [4. Responsabilitat individual de cadascú](#4-responsabilitat-individual-de-cadascú)
 * [IX. Sobre els serveis, els continguts, altres xarxes i Internet](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet)
+ * [1. Llibertat de crear continguts i serveis](1-llibertat-de-crear-continguts-i-serveis)
+ * [2. Responsabilitats dels creadors de continguts i serveis](2-responsabilitats-dels-creadors-de-continguts-i-serveis)
+ * [3. Termes i condicions d'us](3-termes-i-condicions-d-us)
+ * [4. Exenció de garantia per defecte](4-exenci-de-garantia-per-defecte)
+ * [5. Continguts inapropriats o il·legals](5-ontinguts-inapropriats-o-il-legals)
+ * [6. Interconnexións amb altres xarxes](6-interconnexi-ns-amb-altres-xarxes)
+ * [7. Principi de reciprocitat](7-principi-de-reciprocitat)
 * [X. Sobre la resolució de conflictes i jurisdicció aplicable](#x-sobre-la-resoluci-de-conflictes-i-jurisdicci-aplicable)
   * [1. Conflictes i dubtes d'interpretació](#1-conflictes-i-dubtes-d-interpretaci-)
   * [2. Solucions i arbitratge](#2-solucions-i-arbitratge)
@@ -187,7 +195,7 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 
 ### 6. Altres organizatcions
 
-  Hi poden haver altres organitzacions que també promouen xarxa amb característiques similars a la xarxa oberta lliure i neutral que fa guifi.net. Les xarxes obertes han de caracteritzar-se per tenir la vocació d'interconnectar, de manera es procurarà el que es preveu en el punt [VII.1 sobre evitar la duplicitat d'infraestructures](#vii-sobre-el-desplegament-responsable-i-el-respecte-al-medi-ambient.1) i el punt [IX. 7 sobre la reciprocitat](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.7).
+  Hi poden haver altres organitzacions que també promouen xarxa amb característiques similars a la xarxa oberta lliure i neutral que fa guifi.net. Les xarxes obertes han de caracteritzar-se per tenir la vocació d'interconnectar, de manera es procurarà el que es preveu en el punt [VII. 1. Evitar duplicitats d'infrastructura innecessaries](1-evitar-duplicitats-d-infrastructura-innecessaries) i el punt [IX. 7. Principi de reciprocitat](#7-principi-de-reciprocitat).
 
 ### 7. Conexió
 
@@ -313,7 +321,7 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 ## VII. Sobre el desplegament responsable i el respecte al medi ambient
 
 ### 1. Evitar duplicitats d'infrastructura innecessaries
-  <a name="vii-sobre-el-desplegament-responsable-i-el-respecte-al-medi-ambient.1"></a>Com a xarxa oberta, sempre es procurarà evitar la duplicitat innecessària d'infraestructures, impedint la coexistència de diverses xarxes obertes en un mateix espai físic, en especial, quan es tracta de recursos amb una capacitat limitada o existeixi una potencial afectació al medi ambient.
+  Com a xarxa oberta, sempre es procurarà evitar la duplicitat innecessària d'infraestructures, impedint la coexistència de diverses xarxes obertes en un mateix espai físic, en especial, quan es tracta de recursos amb una capacitat limitada o existeixi una potencial afectació al medi ambient.
 
 ### 2. Foment de l'us comú dels espais comuns
   Quan es fa ús de l'espai radioelèctric sense llicència preval l'ús comú davant de l'ús privatiu o explotació comercial. Es demana als governs, legisladors i organismes reguladors que creïn els espais necessaris i facin les regulacions perquè això sigui possible.
@@ -337,23 +345,23 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 
 ## IX. Sobre els serveis, els continguts, altres xarxes i Internet
 
-### 1.
+### 1. Llibertat de crear continguts i serveis
   La xarxa proporciona un servei de comunicacions electròniques disponible al públic en general. Més enllà d'aquest servei bàsic, hi ha llibertat de crear continguts i serveis de qualsevol tipus.
 
-### 2.
-  La xarxa és el suport sobre el qual es fa la transmissió lliure dels continguts però no té res a veure ni és responsable d'aquests continguts tal i com es preveu en l'apartat "[Sobre la seguretat i la responsabilitat](#viii-sobre-la-seguretat-i-la-responsabilitat)".
+### 2. Responsabilitats dels creadors de continguts i serveis
+  La xarxa és el suport sobre el qual es fa la transmissió lliure dels continguts però no té res a veure ni és responsable d'aquests continguts tal i com es preveu en l'apartat "[VIII. Sobre la seguretat i la responsabilitat](#viii-sobre-la-seguretat-i-la-responsabilitat)".
 
-### 3.
+### 3. Termes i condicions d'us
   Els creadors o titulars dels continguts escullen el termes i condicions per al seu ús. Si no n'expressen els continguts textuals i/o audiovisuals, s'entén que són de lliure distribució en les mateixes condicions, tal i com es descriuen en la [Creative Commons (by-sa)](http://creativecommons.org/licenses/by-sa/4.0/) o la [GNU/FDL](http://www.gnu.org/copyleft/fdl.html).
 
-### 4.
+### 4. Exenció de garantia per defecte
   En el cas dels serveis, correspon a qui el proporciona determinar si es tracta d'un servei "tal qual" o amb un compromís de servei. Si no s'especifica res i és gratuït, s'entén que es tracta d'un servei "_tal qual és_", i que, per tant, no s'ofereix cap tipus de garantia.
 
-### 5.
+### 5. Continguts inapropriats o il·legals
   <a name="ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.5"></a>S'ha de procurar respectar  les llibertats de pensament, d'expressió i comunicació. Tot respectant això, es podrà evitar trànsit de missatges no sol·licitats, continguts inapropiats o il·legals que maliciosament vulguin causar un perjudici o restringir les llibertats a altres usuaris.
 
-### 6.
-  La xarxa, com a xarxa oberta, lliure i neutral té vocació inequívoca de ser una xarxa més de la gran xarxa de xarxes que és Internet i per aquest motiu guifi.net procura formar part activa dels organismes que formen Internet i, com a operador, procurar acords i mecanismes d'interconnexió eficients amb tots els altres operadors. Tanmateix, actualment a Internet, els altres operadors poden ser més restrictius i no tan oberts pel que fa a la interconnexió amb les seves xarxes, per exemple fent una explotació comercial de la interconnexió o del trànsit,. Com que en aquests casos no és possible aplicar el [principi de reciprocitat](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.7), el trànsit cap a l'internet d'aquests operadors es considera fora de l'àmbit dels [Comuns de la XOLN](#CXOLN), i com a tal, respecte de la XOLN, n'esdevé un contingut. Per tant, aquesta mena d'interconnexió s'ofereix als participants com qualsevol altre servei dins de la xarxa, i típicament n'hi pot haver de dos tipus:
+### 6. Interconnexións amb altres xarxes
+  La xarxa, com a xarxa oberta, lliure i neutral té vocació inequívoca de ser una xarxa més de la gran xarxa de xarxes que és Internet i per aquest motiu guifi.net procura formar part activa dels organismes que formen Internet i, com a operador, procurar acords i mecanismes d'interconnexió eficients amb tots els altres operadors. Tanmateix, actualment a Internet, els altres operadors poden ser més restrictius i no tan oberts pel que fa a la interconnexió amb les seves xarxes, per exemple fent una explotació comercial de la interconnexió o del trànsit,. Com que en aquests casos no és possible aplicar el [principi de reciprocitat](#7-principi-de-reciprocitat), el trànsit cap a l'internet d'aquests operadors es considera fora de l'àmbit dels [Comuns de la XOLN](#CXOLN), i com a tal, respecte de la XOLN, n'esdevé un contingut. Per tant, aquesta mena d'interconnexió s'ofereix als participants com qualsevol altre servei dins de la xarxa, i típicament n'hi pot haver de dos tipus:
 
   + **a.** El que proporcionen els participants a partir de les connexions que puguin tenir amb altres operadors com a portes cap a Internet.
 
@@ -362,8 +370,6 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
   Qui proporciona aquests serveis determinarà si ho fa "tal qual", o amb  algun tipus de compromís de servei.
 
 ### 7. Principi de reciprocitat
-
-  <a name="ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.7"></a>
 
   Quan es proporciona servei d'interconnexió amb una altra xarxa que, encara que no s'aculli a la protecció dels [Comuns de la XOLN](#CXOLN) o es gestioni de manera diferent per altres organitzacions, però que en essència obeeixi als mateixos criteris de xarxa oberta, lliure i neutral, mantenint les mateixes [llibertats i principis generals](#i-resum-i-principis-generals) i permetent la lliure interconnexió, es podrà establir un reconeixement recíproc de les mateixes llibertats pel que fa a la lliure circulació de continguts i serveis.
 
@@ -412,4 +418,4 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
     * Es poden modificar els continguts i fer-ne treballs derivats si el resultat es distribueix de nou sota les mateixes condicions.
 
 ### 2.
-  Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als "[Comuns per la XOLN"](#CXOLN), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.7).
+  Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als "[Comuns per la XOLN"](#CXOLN), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#7-principi-de-reciprocitat).
