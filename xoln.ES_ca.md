@@ -99,7 +99,7 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
 
 + **d.** Totes les revisions dels [Comuns de la XOLN](#CXOLN) es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
 
-+ **e.** Si algú creu que en alguna revisió posterior se li ha modificat un compromís adquirit i no hi ha donat el seu consentiment tal i com es diu el punt [II.1.a](1-gestació-interpretació-i-revisió-del-text), ho pot manifestar segons el que es preveu en l'apartat [Sobre la resolució de conflictes](#x-sobre-la-resoluci-de-conflictes-i-jurisdicci-aplicable).
++ **e.** Si algú creu que en alguna revisió posterior se li ha modificat un compromís adquirit i no hi ha donat el seu consentiment tal i com es diu el punt [II.1.a](#1-gestació-interpretació-i-revisió-del-text), ho pot manifestar segons el que es preveu en l'apartat [Sobre la resolució de conflictes](#x-sobre-la-resolució-de-conflictes-i-jurisdicció-aplicable).
 
 ### 2. Definicions
 
