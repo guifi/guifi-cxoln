@@ -93,11 +93,11 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 
   + **b.** Quan en una revisió s'estén a noves situacions que abans no existien, com per exemple les derivades d'algun tipus d'ampliació o d'actualització tecnològica, s'entén que implícitament es renova l'acceptació segons la revisió vigent del moment en que es produeix l'actualització o ampliació.
 
-  + c. els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"](http://guifi.net/ComunsSensefils), que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils](http://guifi.net/ComunsSensefils).
+  + **c.** els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"](http://guifi.net/ComunsSensefils), que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils](http://guifi.net/ComunsSensefils).
 
-  + d. Totes les revisions dels "[Comuns de la XOLN](#CXOLN)" es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
+  + **d.** Totes les revisions dels "[Comuns de la XOLN](#CXOLN)" es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
 
-  + e. Si algú creu que en alguna revisió posterior se li ha modificat un compromís adquirit i no hi ha donat el seu consentiment tal i com es diu el punt [II.1.a](#ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.1.a), ho pot manifestar segons el que es preveu en l'apartat "[Sobre la resolució de conflictes](#x-sobre-la-resoluci-de-conflictes-i-jurisdicci-aplicable)".
+  + **e.** Si algú creu que en alguna revisió posterior se li ha modificat un compromís adquirit i no hi ha donat el seu consentiment tal i com es diu el punt [II.1.a](#ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.1.a), ho pot manifestar segons el que es preveu en l'apartat "[Sobre la resolució de conflictes](#x-sobre-la-resoluci-de-conflictes-i-jurisdicci-aplicable)".
 
 ### 2. Definicions
 
@@ -119,26 +119,26 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
   + **d.** Participants i titularitat
   Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels "[Comuns de la XOLN](#CXOLN)". Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de "<u>padrins</u>", i de l'acte de cobrir la inversió, la denominació d'"<u>apadrinament</u>".
 
-  + e. Formes de participació en funció del format de connexió a la xarxa
+  + **e.** Formes de participació en funció del format de connexió a la xarxa
 
     1.  Connexions simples. Les connexions simples son aquells segments de la xarxa que finalitzen en un punt a partir del qual no s'estén a altres trams de la xarxa amb les mateixes condicions. Normalment és el punt des del qual els usuaris gaudeixen de la xarxa oberta lliure i neutral i a partir del qual hi connecten les seves xarxes privades.
 
     2.  Trams que estenen la xarxa. Els trams que estenen la xarxa són els segments de la xarxa que, a diferència de les connexions simples, sí que preveuen que en cadascun dels extrems hi hagin altres trams de xarxa amb les mateixes condicions.
 
-  + f. Continguts
+  + **f.** Continguts
   El que dona sentit a una xarxa de telecomunicacions és que serveixi d'instrument de transmissió per accedir a continguts. Els continguts es publiquen a través de serveis.
 
-  + g. Serveis
+  + **g.** Serveis
   A l'entorn de la xarxa existeixen múltiples formats de serveis. El més bàsic i indissociable de la pròpia xarxa és la connectivitat entre tots els participants i que s'anomena "servei de comunicacions electròniques". Més enllà d'aquest servei indissociable, es distingeix entre dos grans tipologies de serveis:
 
     1.  Serveis "tal qual". Son aquells serveis que es proporcionen "tal qual son", és a dir, qui els utilitza ho fa sota la seva responsabilitat i no pot exigir a qui li subministra que cobreixi una expectativa o unes característiques. En aquesta categoria generalment hi trobarem els serveis que es proporcionen de forma gratuïta.
 
     2.  Serveis amb compromís. És quan es proporciona un servei amb un compromís de subministrar-lo, normalment a canvi d'una contraprestació, com per exemple quan es proporciona connectivitat amb altres operadors o Internet, o també els serveis professionals per garantir uns<u>nivells de servei o disponibilitat</u>.
 
-  + h. Usuàries/is
+  + **h.** Usuàries/is
   Son els qui gaudeixen de la connectivitat que ofereix la xarxa amb el seu ús, normalment son els participants, però els participants poden permetre l'accés a tothom.
 
-  + i. La Fundació Guifi.net
+  + **i.** La Fundació Guifi.net
   La "Fundació privada per a la xarxa lliure, oberta i neutral guifi.net", (en endavant, "la Fundació") és una institució sense ànim de lucre que consta amb el número 2550 del registre de fundacions de la Generalitat de Catalunya i que té com a mandat fundacional donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i treballar.
 
 ### 3. Elaboració i revisió
@@ -149,9 +149,9 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 
   Els [Comuns per la XOLN](#CXOLN)" es pot suspendre o finalitzar per:
 
-  + a. La voluntat de qui l'ha subscrit. La voluntat s'expressa directament donant-se de baixa les seves participacions en les eines que proporciona guifi.net, o en cas de que les participacions subsisteixin, per transmissió als nous titulars.
+  + **a.** La voluntat de qui l'ha subscrit. La voluntat s'expressa directament donant-se de baixa les seves participacions en les eines que proporciona guifi.net, o en cas de que les participacions subsisteixin, per transmissió als nous titulars.
 
-  + b. Per els procediment previst en l'apartat [X. Sobre la resolució de conflictes](#x-sobre-la-resoluci-de-conflictes-i-jurisdicci-aplicable).
+  + **b.** Per els procediment previst en l'apartat [X. Sobre la resolució de conflictes](#x-sobre-la-resoluci-de-conflictes-i-jurisdicci-aplicable).
 
 ## III. Sobre la xarxa
 
