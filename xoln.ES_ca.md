@@ -1,10 +1,3 @@
----
-layout: page
-title: "Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)<a id='CXOLN'></a>"
-lang: ca
-toctitle: "Index de continguts"
----
-
 # Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)<a id='XOLN'>
 
 ## Index de continguts
@@ -98,15 +91,15 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 
 Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés continuat en el temps de revisió i actualització que permeti adaptar-nos a noves realitats i millorar la claredat en les seves disposicions expressant millor els mateixos criteris que s'apliquen. Com que aquest text pot canviar amb el pas del temps i alhora serveix per adquirir uns compromisos en el moment de la seva acceptació, es preveu com cal interpretar el text de manera que es pugui revisar respectant els compromisos adquirits:
 
-+ **a.** <a name="ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.1.a"></a>Una    revisió <u>no pot</u> modificar els compromisos adquirits en l'acceptació d'una revisió anterior. En cas de voler modificar-los, es tractaria d'una altre versió diferent i no pas només una revisió. Per aplicar una nova versió cal renovar el consentiment de forma expressa.
++ **a.** Una revisió <u>no pot</u> modificar els compromisos adquirits en l'acceptació d'una revisió anterior. En cas de voler modificar-los, es tractaria d'una altre versió diferent i no pas només una revisió. Per aplicar una nova versió cal renovar el consentiment de forma expressa.
 
 + **b.** Quan en una revisió s'estén a noves situacions que abans no existien, com per exemple les derivades d'algun tipus d'ampliació o d'actualització tecnològica, s'entén que implícitament es renova l'acceptació segons la revisió vigent del moment en que es produeix l'actualització o ampliació.
 
 + **c.** els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils][1]
 
-+ **d.** Totes les revisions dels "[Comuns de la XOLN](#CXOLN)" es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
++ **d.** Totes les revisions dels [Comuns de la XOLN](#CXOLN) es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
 
-+ **e.** Si algú creu que en alguna revisió posterior se li ha modificat un compromís adquirit i no hi ha donat el seu consentiment tal i com es diu el punt [II.1.a](#ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.1.a), ho pot manifestar segons el que es preveu en l'apartat "[Sobre la resolució de conflictes](#x-sobre-la-resoluci-de-conflictes-i-jurisdicci-aplicable)".
++ **e.** Si algú creu que en alguna revisió posterior se li ha modificat un compromís adquirit i no hi ha donat el seu consentiment tal i com es diu el punt [II.1.a](1-gestació-interpretació-i-revisió-del-text), ho pot manifestar segons el que es preveu en l'apartat [Sobre la resolució de conflictes](#x-sobre-la-resoluci-de-conflictes-i-jurisdicci-aplicable).
 
 ### 2. Definicions
 
@@ -183,7 +176,7 @@ Els membres de la xarxa oberta es comprometen únicament als termes i condicions
 
 ### 4. Adhesió
 
-L'adhesió a la xarxa es pot expressar a títol individual o col·lectiu, i comporta l'acceptació dels termes dels [Comuns de la XOLN](#CXOLN). En qualsevol moment un membre adherit a la xarxa pot renunciar a la seva adhesió conforme al que es preveu en el punt [II.4 Sobre la finalització](#ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.4). En cas de renunciar a la seva adhesió podrà recuperar els béns, equips i infraestructures de les que sigui titular, amb independència de on estiguin ubicats, amb la única excepció dels casos descrits en l'apartat "[IV.8 Sobre la titularitat i els participants](#iv-sobre-la-titularitat-i-els-participants.8)".
+L'adhesió a la xarxa es pot expressar a títol individual o col·lectiu, i comporta l'acceptació dels termes dels [Comuns de la XOLN](#CXOLN). En qualsevol moment un membre adherit a la xarxa pot renunciar a la seva adhesió conforme al que es preveu en el punt [II.4 Sobre la finalització](#ii-sobre-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln.4). En cas de renunciar a la seva adhesió podrà recuperar els béns, equips i infraestructures de les que sigui titular, amb independència de on estiguin ubicats, amb la única excepció dels casos descrits en l'apartat [IV. 8. Finalització de trams de xarxa](#8-finalització-de-trams-de-xarxa).
 
 ### 5. Compromis
 
@@ -249,7 +242,7 @@ La incorporació d'actius a la xarxa és fonamental per al seu creixement i dese
 
 ### 8. Finalització de trams de xarxa
 
-<a name="iv-sobre-la-titularitat-i-els-participants.8"></a>En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#CXOLN), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels Comuns de la XOLN.
+En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#CXOLN), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels Comuns de la XOLN.
 
 ### 9. Exercici de la titularitat
 
@@ -261,7 +254,7 @@ Si la titularitat d'una infraestructura es considera que ha quedat orfe, es tran
 
 ### 11. Cessió d'ubicació
 
-Quan es cedeixen ubicacions per muntar-hi infraestructures de xarxa sense contraprestació, independentment de quins siguin la resta de titulars, s'assumeix que facilitaran la connexió més oberta possible en funció de la naturalesa de l'equipament. Si s'estableixen limitacions d'espai o de capacitat han de facilitar el trànsit segons els Comuns XOLN, ser raonables, aplicant les bones pràctiques, les mateixes condicions per a tots els usuaris sense discriminacions i no forçar la contractació de serveis a operadors concrets encara que siguin co-titulars de la infraestructura. Els operadors que hi ofereixen compromís de servei n'haurien de tenir suficient amb aplicar el que es preveu en el [punt VI.3 sobre la gestió de la xarxa i prioritats](#vi-sobre-la-gesti-de-la-xarxa-i-prioritats-en-el-trnsit-qualitat-de-servei.3).
+Quan es cedeixen ubicacions per muntar-hi infraestructures de xarxa sense contraprestació, independentment de quins siguin la resta de titulars, s'assumeix que facilitaran la connexió més oberta possible en funció de la naturalesa de l'equipament. Si s'estableixen limitacions d'espai o de capacitat han de facilitar el trànsit segons els Comuns XOLN, ser raonables, aplicant les bones pràctiques, les mateixes condicions per a tots els usuaris sense discriminacions i no forçar la contractació de serveis a operadors concrets encara que siguin co-titulars de la infraestructura. Els operadors que hi ofereixen compromís de servei n'haurien de tenir suficient amb aplicar el que es preveu en el punt [VI. 3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats).
 
 Aquesta condició és d'indispensable compliment quan es tracta de dominis públics gestionats per administracions públiques donada la obligatorietat legal que tenen de garantir la no discriminació.
 
@@ -307,11 +300,11 @@ Quan sigui possible i necessari per motius de gestió de la xarxa, les prioritat
 
 ### 3. Informació publica dels prioritats
 
-<a name="vi-sobre-la-gesti-de-la-xarxa-i-prioritats-en-el-trnsit-qualitat-de-servei.3"></a>Els membres de la xarxa faran públiques les prioritats implementades en els seus trams de xarxa que puguin afectar als altres usuaris en cas de modificar les expressades en el punt anterior i que vagin més enllà de donar-se prioritat (preferència en el trànsit, no quotes) en el seu tram de xarxa, i no es podrà fer arbitrària o discrecionalment, ni impedir l'aprofitament d'ample de banda excedentari: Cal que hi hagi motius tècnics que ho justifiquin raonablement.
+Els membres de la xarxa faran públiques les prioritats implementades en els seus trams de xarxa que puguin afectar als altres usuaris en cas de modificar les expressades en el punt anterior i que vagin més enllà de donar-se prioritat (preferència en el trànsit, no quotes) en el seu tram de xarxa, i no es podrà fer arbitrària o discrecionalment, ni impedir l'aprofitament d'ample de banda excedentari: Cal que hi hagi motius tècnics que ho justifiquin raonablement.
 
 ### 4. Sancció Suspensió
 
-En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apartat ["IX.5. Sobre els serveis i continguts"](#ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.5), es podrà impedir el trànsit o la connexió de l'usuari que el causa, procurant advertir-lo sempre que sigui possible. En el cas de que aquest trànsit sigui causat per un participant, aquesta suspensió no causa també una suspensió de forma immediata de l'acord dels [Comuns de la XOLN](#CXOLN), però sí que serveix d'advertiment.
+En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apartat [5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals), es podrà impedir el trànsit o la connexió de l'usuari que el causa, procurant advertir-lo sempre que sigui possible. En el cas de que aquest trànsit sigui causat per un participant, aquesta suspensió no causa també una suspensió de forma immediata de l'acord dels [Comuns de la XOLN](#CXOLN), però sí que serveix d'advertiment.
 
 En cap cas es pot fer servir aquesta possibilitat per impedir la lliure participació i circulació de serveis i continguts recollit en els [Comuns de la XOLN](#CXOLN).
 
@@ -377,7 +370,7 @@ En el cas dels serveis, correspon a qui el proporciona determinar si es tracta d
 
 ### 5. Continguts inapropriats o il·legals
 
-<a name="ix-sobre-els-serveis-els-continguts-altres-xarxes-i-internet.5"></a>S'ha de procurar respectar  les llibertats de pensament, d'expressió i comunicació. Tot respectant això, es podrà evitar trànsit de missatges no sol·licitats, continguts inapropiats o il·legals que maliciosament vulguin causar un perjudici o restringir les llibertats a altres usuaris.
+S'ha de procurar respectar  les llibertats de pensament, d'expressió i comunicació. Tot respectant això, es podrà evitar trànsit de missatges no sol·licitats, continguts inapropiats o il·legals que maliciosament vulguin causar un perjudici o restringir les llibertats a altres usuaris.
 
 ### 6. Interconnexións amb altres xarxes
 
