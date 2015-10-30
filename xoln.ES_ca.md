@@ -102,7 +102,7 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 
   + **b.** Quan en una revisió s'estén a noves situacions que abans no existien, com per exemple les derivades d'algun tipus d'ampliació o d'actualització tecnològica, s'entén que implícitament es renova l'acceptació segons la revisió vigent del moment en que es produeix l'actualització o ampliació.
 
-  + **c.** els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"](http://guifi.net/ComunsSensefils), que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils](http://guifi.net/ComunsSensefils).
+  + **c.** els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils][1]
 
   + **d.** Totes les revisions dels "[Comuns de la XOLN](#CXOLN)" es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
 
@@ -317,7 +317,7 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
 
 ### 6. Responsabilitats i compromisos
 
-  Els professionals o operadors que adquireixin compromisos de servei de connexions amb unes característiques determinades són responsables de descriure i informar clarament als seus clients de quines són aquestes característiques d'acord amb el [punt III.7](#7-conexi-) i fer tot allò que sigui possible per complir-les, incloent si cal el manteniment i millora de troncals. En el cas de troncals compartides amb altres operadors o professionals, hauran de posar-se d'acord sobre com es fan aquests manteniments i millores. La Fundació pot dictaminar sistemes per fer front a aquestes despeses quan no hi ha acord, aplicant criteris de proporcionalitat.
+  Els professionals o operadors que adquireixin compromisos de servei de connexions amb unes característiques determinades són responsables de descriure i informar clarament als seus clients de quines són aquestes característiques d'acord amb el [punt III.7.](#7-conexió) i fer tot allò que sigui possible per complir-les, incloent si cal el manteniment i millora de troncals. En el cas de troncals compartides amb altres operadors o professionals, hauran de posar-se d'acord sobre com es fan aquests manteniments i millores. La Fundació pot dictaminar sistemes per fer front a aquestes despeses quan no hi ha acord, aplicant criteris de proporcionalitat.
 
 ## VII. Sobre el desplegament responsable i el respecte al medi ambient
 
@@ -353,7 +353,7 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
   La xarxa és el suport sobre el qual es fa la transmissió lliure dels continguts però no té res a veure ni és responsable d'aquests continguts tal i com es preveu en l'apartat "[VIII. Sobre la seguretat i la responsabilitat](#viii-sobre-la-seguretat-i-la-responsabilitat)".
 
 ### 3. Termes i condicions d'us
-  Els creadors o titulars dels continguts escullen el termes i condicions per al seu ús. Si no n'expressen els continguts textuals i/o audiovisuals, s'entén que són de lliure distribució en les mateixes condicions, tal i com es descriuen en la [Creative Commons (by-sa)](http://creativecommons.org/licenses/by-sa/4.0/) o la [GNU/FDL](http://www.gnu.org/copyleft/fdl.html).
+  Els creadors o titulars dels continguts escullen el termes i condicions per al seu ús. Si no n'expressen els continguts textuals i/o audiovisuals, s'entén que són de lliure distribució en les mateixes condicions, tal i com es descriuen en la [Creative Commons (by-sa)][2] o la [GNU/FDL][3].
 
 ### 4. Exenció de garantia per defecte
   En el cas dels serveis, correspon a qui el proporciona determinar si es tracta d'un servei "tal qual" o amb un compromís de servei. Si no s'especifica res i és gratuït, s'entén que es tracta d'un servei "_tal qual és_", i que, per tant, no s'ofereix cap tipus de garantia.
@@ -405,18 +405,23 @@ A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per
   A les resolucions s'hi pot presentar un recurs, o alternativament, acudir als Tribunals competents.
 
 ### 5. Jurisdicció
-  La Fundació s'ha constituït segons la [Llei de Fundacions 4/2008 de Catalunya](http://www.gencat.cat/diari/5123/08114039.htm). A efectes legals i en cas de conflicte, si les parts no acorden una altra cosa, la jurisdicció aplicable per a la Fundació i per a la interpretació dels [Comuns de la XOLN](#CXOLN) és la que correspongui del Tribunal competent a Barcelona segons la legislació vigent a Catalunya.
+  La Fundació s'ha constituït segons la [Llei de Fundacions 4/2008 de Catalunya][4]. A efectes legals i en cas de conflicte, si les parts no acorden una altra cosa, la jurisdicció aplicable per a la Fundació i per a la interpretació dels [Comuns de la XOLN](#CXOLN) és la que correspongui del Tribunal competent a Barcelona segons la legislació vigent a Catalunya.
 
 ## XI. Sobre la llicència del text dels [Comuns de la XOLN](#CXOLN)
 
 ### 1. Llicència CC BY-NC-SA o GNU FDL
-  El text dels Comuns de la XOLN està es pot canviar o modificar sota llicència: [Creative Commons by-nc-sa/4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) o la Llicència [GNU/FDL](http://www.gnu.org/copyleft/fdl.html)
+  El text dels Comuns de la XOLN està es pot canviar o modificar sota llicència: [Creative Commons by-nc-sa/4.0][2] o la Llicència [GNU/FDL][3]
 
-    * No se'n pot fer un ús comercial
+  * No se'n pot fer un ús comercial
 
-    * La distribució i còpia és lliure referenciant que prové d'aquests [Comuns de la XOLN](#CXOLN)
+  * La distribució i còpia és lliure referenciant que prové d'aquests [Comuns de la XOLN](#CXOLN)
 
-    * Es poden modificar els continguts i fer-ne treballs derivats si el resultat es distribueix de nou sota les mateixes condicions.
+  * Es poden modificar els continguts i fer-ne treballs derivats si el resultat es distribueix de nou sota les mateixes condicions.
 
 ### 2. Extensió i modificació
   Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als "[Comuns per la XOLN"](#CXOLN), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#7-principi-de-reciprocitat).
+
+[1]:http://guifi.net/ComunsSensefils
+[2]:https://creativecommons.org/licenses/by-sa/4.0/
+[3]:https://www.gnu.org/copyleft/fdl.html
+[4]:https://www.gencat.cat/diari/5123/08114039.htm
