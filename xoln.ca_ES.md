@@ -1,4 +1,4 @@
-# Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)<a id='XOLN'>
+# Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)<a id='CXOLN'>
 
 ## Index de continguts
 
@@ -8,10 +8,10 @@
   * [3. Elaboració i revisió](#3-elaboració-i-revisió)
   * [4. Finalització de l'acord](#4-finalització-de-lacord)
 * [II. Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#ii-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln)
-  * [1. Gestació, interpretació i revisió del text](1-gestació-interpretació-i-revisió-del-text)
-  * [2. Definicions](2-definicions)
-  * [3. Elaboració i revisió](3-elaboració-i-revisió)
-  * [4. Finalització de l'acord](4-finalització-de-lacord)
+  * [1. Gestació, interpretació i revisió del text](#1-gestació-interpretació-i-revisió-del-text)
+  * [2. Definicions](#2-definicions)
+  * [3. Elaboració i revisió](#3-elaboració-i-revisió)
+  * [4. Finalització de l'acord](#4-finalització-de-lacord)
 * [III. La xarxa](#iii-la-xarxa)
   * [1. Valors fonamentals](#1-valors-fonamentals)
   * [2. Accés](#2-accés)
@@ -33,7 +33,7 @@
   * [10. Titularitat orfe](#10-titularitat-orfe)
   * [11. Cessió d'ubicació](#11-cessió-dubicació)
   * [12. Finalització d'una cessió](#12-finalització-duna-cessió)
-* [V. El paper de la Fundació](#v-El-paper-de-la-fundació)
+* [V. El paper de la Fundació](#v-el-paper-de-la-fundació)
   * [1. Suport](#1-suport)
   * [2. Personalitat jurídica](#2-personalitat-jurídica)
   * [3. Defensa](#3-defensa)
