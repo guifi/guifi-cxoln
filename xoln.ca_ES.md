@@ -64,7 +64,7 @@
   * [4. Recurs](#4-recurs)
   * [5. Jurisdicció](#5-jurisdicció)
 * [XI. Llicència del text dels Comuns de la XOLN](#xi-Llicència-del-text-dels-comuns-de-la-xoln)
-  * [1. Llicència CC BY-NC-SA o GNU FDL](#1-llicència-cc-by-nc-sa-o-gnu-fdl)
+  * [1. Creative Commons BY-NC-SA o GNU FDL](#1-creative-commons-by-nc-sa-o-gnu-fdl)
   * [2. Extensió i modificació](#2-extensió-i-modificació)
 
 ## I. Resum i principis generals
@@ -365,7 +365,7 @@ La xarxa és el suport sobre el qual es fa la transmissió lliure dels contingut
 
 ### 3. Termes i condicions d'us
 
-Els creadors o titulars dels continguts escullen el termes i condicions per al seu ús. Si no n'expressen els continguts textuals i/o audiovisuals, s'entén que són de lliure distribució en les mateixes condicions, tal i com es descriuen en la [Creative Commons (by-sa)][2] o la [GNU/FDL][3].
+Els creadors o titulars dels continguts escullen el termes i condicions per al seu ús. Si no n'expressen els continguts textuals i/o audiovisuals, s'entén que són de lliure distribució en les mateixes condicions, tal i com es descriuen en la [Creative Commons (BY-SA)][2] o la [GNU FDL][3].
 
 ### 4. Exenció de garantia per defecte
 
@@ -427,9 +427,9 @@ La Fundació s'ha constituït segons la [Llei de Fundacions 4/2008 de Catalunya]
 
 ## XI. Llicència del text dels [Comuns de la XOLN](#CXOLN)
 
-### 1. Llicència CC BY-NC-SA o GNU FDL
+### 1. Creative Commons BY-NC-SA o GNU FDL
 
-El text dels Comuns de la XOLN està es pot canviar o modificar sota llicència: [Creative Commons by-nc-sa/4.0][2] o la Llicència [GNU/FDL][3]
+El text dels Comuns de la XOLN està es pot canviar o modificar sota llicència: [Creative Commons BY-NC-SA/4.0][2] o la Llicència [GNU/FDL][3]
 
 * No se'n pot fer un ús comercial
 
