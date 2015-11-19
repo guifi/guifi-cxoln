@@ -4,7 +4,7 @@
 
 The text of the CXOLN license is available in:
 
-+ [Catalá](CXOLN.ca_ES.md)
++ [Català](CXOLN.ca_ES.md)
 
 ## Help translate
 
