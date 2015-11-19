@@ -3,10 +3,6 @@
 ## Index de continguts
 
 * [I. Resum i principis generals](#i-resum-i-principis-generals)
-  * [1. Gestació, interpretació i revisió del text](#1-gestació-interpretació-i-revisió-del-text)
-  * [2. Definicions](#2-definicions)
-  * [3. Elaboració i revisió](#3-elaboració-i-revisió)
-  * [4. Finalització de l'acord](#4-finalització-de-lacord)
 * [II. Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#ii-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln)
   * [1. Gestació, interpretació i revisió del text](#1-gestació-interpretació-i-revisió-del-text)
   * [2. Definicions](#2-definicions)
