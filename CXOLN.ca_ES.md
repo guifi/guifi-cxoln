@@ -99,9 +99,13 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
 
 ### 2. Definicions
 
-+ **a.** Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN) és un acord d'interconnexió entre iguals que serveix de contracte d'adhesió de cada participant amb el conjunt de a guifi.net i que és comú per a tothom que forma part de la xarxa. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús de la xarxa, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom. També es coneix amb les abreviacions "Comuns", "Comuns de la XOLN" o "CXOLN".
++ **a.** Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN)
 
-+ **b.**  La `Xarxa de Telecomunicacions Lliure, Oberta i Neutral` és una infraestructura de telecomunicacions pública comunitària a la que s'apliquen els termes i condicions dels [Comuns de la XOLN](#CXOLN), disponible al públic en general, de manera que quan els participants s'hi adhereixen, s'amplia. A través de la xarxa s'obté i alhora es subministra un servei de comunicacions electròniques amb els altres participants ja sigui directament o a través de la interconnexió amb altres xarxes.
+  És un acord d'interconnexió entre iguals que serveix de contracte d'adhesió de cada participant amb el conjunt de a guifi.net i que és comú per a tothom que forma part de la xarxa. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús de la xarxa, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom. També es coneix amb les abreviacions "Comuns", "Comuns de la XOLN" o "CXOLN".
+
++ **b.**  La Xarxa de Telecomunicacions Lliure, Oberta i Neutral (XOLN)
+
+  És una infraestructura de telecomunicacions pública comunitària a la que s'apliquen els termes i condicions dels [Comuns de la XOLN](#CXOLN), disponible al públic en general, de manera que quan els participants s'hi adhereixen, s'amplia. A través de la xarxa s'obté i alhora es subministra un servei de comunicacions electròniques amb els altres participants ja sigui directament o a través de la interconnexió amb altres xarxes.
 
   Quan en aquest document es menciona "la xarxa" de forma genèrica o l'abreviació "XOLN", es refereix a la Xarxa Oberta, Lliure i Neutral, i es defineix així perquè:
 
@@ -112,7 +116,9 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
   3.  És **neutral** perquè la xarxa és independent dels continguts, no els condiciona i hi poden circular lliurement; Els usuaris poden accedir i produir continguts independentment de les seves possibilitats financeres o condició social. Quan des de guifi.net s'incorporen continguts a la xarxa es fa o bé per estimular-ne de nous, o bé per a la gestió de la pròpia xarxa, o simplement en exercici de la llibertat d'incorporar-hi continguts, però en cap cas amb l'objectiu de substituir o impedir-ne d'altres.  
   També és **neutral** respecte de la tecnologia, la xarxa es pot construir amb la tecnologia que decideixin els seus participants sense més limitacions que les que es derivin de la pròpia tecnologia.
 
-+ **c.** Guifi.net és el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
++ **c.** Guifi.net
+
+  És el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
 
 + **d.** Participants i titularitat
 
