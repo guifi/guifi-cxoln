@@ -8,7 +8,7 @@
   * [2. Definicions](#2-definicions)
   * [3. Elaboració i revisió](#3-elaboració-i-revisió)
   * [4. Finalització de l'acord](#4-finalització-de-lacord)
-* [III. La xarxa](#iii-la-xarxa)
+* [III. La xarxa (XOLN)](#iii-la-xarxa-xoln)
   * [1. Valors fonamentals](#1-valors-fonamentals)
   * [2. Accés](#2-accés)
   * [3. Compromís](#3-compromís)
@@ -168,7 +168,7 @@ Els [Comuns per la XOLN](#CXOLN) es pot suspendre o finalitzar per:
 
 + **b.** Per els procediment previst en l'apartat [X. Resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable).
 
-## III. La xarxa
+## III. La xarxa (XOLN)
 
 ### 1. Valors fonamentals
 
