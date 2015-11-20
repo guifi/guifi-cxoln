@@ -37,7 +37,7 @@
   * [1. Gestió publica](#1-gestió-publica)
   * [2. Prioritats de trànsit](#2-prioritats-de-trànsit)
   * [3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats)
-  * [4. Sancció Suspensió](#4-sancció-suspensió)
+  * [4. Sancció i suspensió](#4-sancció-i-suspensió)
   * [5. Disponibilitat](#5-disponibilitat)
   * [6. Responsabilitats i compromisos](#6-responsabilitats-i-compromisos)
 * [VII. Desplegament responsable i respecte al medi ambient](#vii-desplegament-responsable-i-respecte-al-medi-ambient)
@@ -313,7 +313,7 @@ Quan sigui possible i necessari per motius de gestió de la xarxa, les prioritat
 
 Els membres de la xarxa faran públiques les prioritats implementades en els seus trams de xarxa que puguin afectar als altres usuaris en cas de modificar les expressades en el punt anterior i que vagin més enllà de donar-se prioritat (preferència en el trànsit, no quotes) en el seu tram de xarxa, i no es podrà fer arbitrària o discrecionalment, ni impedir l'aprofitament d'ample de banda excedentari: Cal que hi hagi motius tècnics que ho justifiquin raonablement.
 
-### 4. Sancció Suspensió
+### 4. Sancció i suspensió
 
 En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apartat [5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals), es podrà impedir el trànsit o la connexió de l'usuari que el causa, procurant advertir-lo sempre que sigui possible. En el cas de que aquest trànsit sigui causat per un participant, aquesta suspensió no causa també una suspensió de forma immediata de l'acord dels [Comuns de la XOLN](#CXOLN), però sí que serveix d'advertiment.
 
