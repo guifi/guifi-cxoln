@@ -10,4 +10,14 @@ The text of the CXOLN license is available in:
 
 Don't see your language?
 
-Join us at https://www.transifex.com/xoln-guifinet/guifinet-xoln/ and help us translate it!
+You can help!
+
+Choose one of the following:
+
++ join us at https://www.transifex.com/xoln-guifinet/guifinet-xoln/ and contribute translations.
+
++ `fork` this repository, add your translation, and submit a `pull-request`.
+
+## Extend the network - join Guifi !
+
+[![alt text](logo_guifi.png "Guifi.net")](https://guifi.net)
