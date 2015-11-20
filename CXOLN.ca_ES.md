@@ -99,13 +99,13 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
 
 ### 2. Definicions
 
-+ **a.** Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN)
++ **a. CXOLN**
 
-  És un acord d'interconnexió entre iguals que serveix de contracte d'adhesió de cada participant amb el conjunt de a guifi.net i que és comú per a tothom que forma part de la xarxa. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús de la xarxa, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom. També es coneix amb les abreviacions "Comuns", "Comuns de la XOLN" o "CXOLN".
+  Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN) és un acord d'interconnexió entre iguals que serveix de contracte d'adhesió de cada participant amb el conjunt de a guifi.net i que és comú per a tothom que forma part de la xarxa. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús de la xarxa, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom. També es coneix amb les abreviacions "Comuns", "Comuns de la XOLN" o "CXOLN".
 
-+ **b.**  La Xarxa de Telecomunicacions Lliure, Oberta i Neutral (XOLN)
++ **b. XOLN**
 
-  És una infraestructura de telecomunicacions pública comunitària a la que s'apliquen els termes i condicions dels [Comuns de la XOLN](#CXOLN), disponible al públic en general, de manera que quan els participants s'hi adhereixen, s'amplia. A través de la xarxa s'obté i alhora es subministra un servei de comunicacions electròniques amb els altres participants ja sigui directament o a través de la interconnexió amb altres xarxes.
+   La Xarxa de Telecomunicacions Lliure, Oberta i Neutral (XOLN) és una infraestructura de telecomunicacions pública comunitària a la que s'apliquen els termes i condicions dels [Comuns de la XOLN](#CXOLN), disponible al públic en general, de manera que quan els participants s'hi adhereixen, s'amplia. A través de la xarxa s'obté i alhora es subministra un servei de comunicacions electròniques amb els altres participants ja sigui directament o a través de la interconnexió amb altres xarxes.
 
   Quan en aquest document es menciona "la xarxa" de forma genèrica o l'abreviació "XOLN", es refereix a la Xarxa Oberta, Lliure i Neutral, i es defineix així perquè:
 
@@ -116,15 +116,17 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
   3.  És **neutral** perquè la xarxa és independent dels continguts, no els condiciona i hi poden circular lliurement; Els usuaris poden accedir i produir continguts independentment de les seves possibilitats financeres o condició social. Quan des de guifi.net s'incorporen continguts a la xarxa es fa o bé per estimular-ne de nous, o bé per a la gestió de la pròpia xarxa, o simplement en exercici de la llibertat d'incorporar-hi continguts, però en cap cas amb l'objectiu de substituir o impedir-ne d'altres.  
   També és **neutral** respecte de la tecnologia, la xarxa es pot construir amb la tecnologia que decideixin els seus participants sense més limitacions que les que es derivin de la pròpia tecnologia.
 
-+ **c.** Guifi.net
++ **c. Guifi.net**
 
   És el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
 
-+ **d.** Participants i titularitat
++ **d. Participants i titularitat**
 
   Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels [Comuns de la XOLN](#CXOLN). Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de `padrins`, i de l'acte de cobrir la inversió, la denominació d'`apadrinament`.
 
-+ **e.** Formes de participació en funció del format de connexió a la xarxa
++ **e. Formes de participació**
+
+  En funció del format de connexió a la xarxa, existeixen:
 
   1. Connexions simples  
   Les connexions simples son aquells segments de la xarxa que finalitzen en un punt a partir del qual no s'estén a altres trams de la xarxa amb les mateixes condicions. Normalment és el punt des del qual els usuaris gaudeixen de la xarxa oberta lliure i neutral i a partir del qual hi connecten les seves xarxes privades.
@@ -132,11 +134,11 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
   2. Trams que estenen la xarxa  
   Els trams que estenen la xarxa són els segments de la xarxa que, a diferència de les connexions simples, sí que preveuen que en cadascun dels extrems hi hagin altres trams de xarxa amb les mateixes condicions.
 
-+ **f.** Continguts
++ **f. Continguts**
 
   El que dona sentit a una xarxa de telecomunicacions és que serveixi d'instrument de transmissió per accedir a continguts. Els continguts es publiquen a través de serveis.
 
-+ **g.** Serveis
++ **g. Serveis**
 
   A l'entorn de la xarxa existeixen múltiples formats de serveis. El més bàsic i indissociable de la pròpia xarxa és la connectivitat entre tots els participants i que s'anomena "servei de comunicacions electròniques". Més enllà d'aquest servei indissociable, es distingeix entre dos grans tipologies de serveis:
 
@@ -146,11 +148,11 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
   2. Serveis amb compromís  
   És quan es proporciona un servei amb un compromís de subministrar-lo, normalment a canvi d'una contraprestació, com per exemple quan es proporciona connectivitat amb altres operadors o Internet, o també els serveis professionals per garantir uns `nivells de servei o disponibilitat`.
 
-+ **h.** Usuàries/is
++ **h. Usuàries/is**
 
   Son els qui gaudeixen de la connectivitat que ofereix la xarxa amb el seu ús, normalment son els participants, però els participants poden permetre l'accés a tothom.
 
-+ **i.** La Fundació Guifi.net
++ **i. La Fundació Guifi.net**
 
   La "Fundació privada per a la xarxa lliure, oberta i neutral guifi.net", (en endavant, "la Fundació") és una institució sense ànim de lucre que consta amb el número 2550 del registre de fundacions de la Generalitat de Catalunya i que té com a mandat fundacional donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i treballar.
 
