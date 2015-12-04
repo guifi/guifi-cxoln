@@ -450,6 +450,6 @@ El text dels Comuns de la XOLN es pot canviar o modificar sota llicència: [Crea
 Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als [Comuns per la XOLN](#CXOLN), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#7-principi-de-reciprocitat).
 
 [1]:http://guifi.net/ComunsSensefils
-[2]:https://creativecommons.org/licenses/by-sa/4.0/
+[2]:https://creativecommons.org/licenses/by-nc-sa/4.0/
 [3]:https://www.gnu.org/copyleft/fdl.html
 [4]:https://www.gencat.cat/diari/5123/08114039.htm
