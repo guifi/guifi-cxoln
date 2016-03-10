@@ -1,4 +1,6 @@
-# Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)<a id='CXOLN'>
+# CXOLN
+
+Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN).
 
 ## Index de continguts
 
