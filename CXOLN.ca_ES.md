@@ -1,6 +1,6 @@
 # CXOLN
 
-Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN).
+Els Comuns de la Xarxa Oberta, Lliure i Neutral.
 
 ## Index de continguts
 
@@ -71,7 +71,7 @@ Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN).
 
 ## I. Resum i principis generals
 
-Els [Comuns de la XOLN](#CXOLN) s'inspira i es resumeix en:
+Els [Comuns de la XOLN](#cxoln) s'inspira i es resumeix en:
 
 1. Ets lliure d'utilitzar la xarxa per qualsevol propòsit en tant que no perjudiquis al funcionament de la pròpia xarxa, la llibertat dels altres usuaris, i respectis les condicions dels continguts i serveis que lliurement hi circulen.
 
@@ -81,7 +81,7 @@ Els [Comuns de la XOLN](#CXOLN) s'inspira i es resumeix en:
 
 4. Incorporant-te a la xarxa, ajudes a estendre aquestes llibertats en les mateixes condicions.
 
-A continuació els [Comuns de la XOLN](#CXOLN) desenvolupa aquests principis per tal de garantir-los i respectar-los.
+A continuació els [Comuns de la XOLN](#cxoln) desenvolupa aquests principis per tal de garantir-los i respectar-los.
 
 ## II. Els "Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)"
 
@@ -93,9 +93,9 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
 
 + **b.** Quan en una revisió s'estén a noves situacions que abans no existien, com per exemple les derivades d'algun tipus d'ampliació o d'actualització tecnològica, s'entén que implícitament es renova l'acceptació segons la revisió vigent del moment en que es produeix l'actualització o ampliació.
 
-+ **c.** els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils][1]
++ **c.** els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils][1]
 
-+ **d.** Totes les revisions dels [Comuns de la XOLN](#CXOLN) es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
++ **d.** Totes les revisions dels [Comuns de la XOLN](#cxoln) es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
 
 + **e.** Si algú creu que en alguna revisió posterior se li ha modificat un compromís adquirit i no hi ha donat el seu consentiment tal i com es diu el punt [II.1.a](#1-gestació-interpretació-i-revisió-del-text), ho pot manifestar segons el que es preveu en l'apartat [X. Resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable).
 
@@ -103,11 +103,11 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
 
 + **a. CXOLN**
 
-  Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#CXOLN) és un acord d'interconnexió entre iguals que serveix de contracte d'adhesió de cada participant amb el conjunt de a guifi.net i que és comú per a tothom que forma part de la xarxa. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús de la xarxa, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom. També es coneix amb les abreviacions "Comuns", "Comuns de la XOLN" o "CXOLN".
+  Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és un acord d'interconnexió entre iguals que serveix de contracte d'adhesió de cada participant amb el conjunt de a guifi.net i que és comú per a tothom que forma part de la xarxa. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús de la xarxa, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom. També es coneix amb les abreviacions "Comuns", "Comuns de la XOLN" o "CXOLN".
 
 + **b. XOLN**
 
-   La Xarxa de Telecomunicacions Lliure, Oberta i Neutral (XOLN) és una infraestructura de telecomunicacions pública comunitària a la que s'apliquen els termes i condicions dels [Comuns de la XOLN](#CXOLN), disponible al públic en general, de manera que quan els participants s'hi adhereixen, s'amplia. A través de la xarxa s'obté i alhora es subministra un servei de comunicacions electròniques amb els altres participants ja sigui directament o a través de la interconnexió amb altres xarxes.
+   La Xarxa de Telecomunicacions Lliure, Oberta i Neutral (XOLN) és una infraestructura de telecomunicacions pública comunitària a la que s'apliquen els termes i condicions dels [Comuns de la XOLN](#cxoln), disponible al públic en general, de manera que quan els participants s'hi adhereixen, s'amplia. A través de la xarxa s'obté i alhora es subministra un servei de comunicacions electròniques amb els altres participants ja sigui directament o a través de la interconnexió amb altres xarxes.
 
   Quan en aquest document es menciona "la xarxa" de forma genèrica o l'abreviació "XOLN", es refereix a la Xarxa Oberta, Lliure i Neutral, i es defineix així perquè:
 
@@ -124,7 +124,7 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
 
 + **d. Participants i titularitat**
 
-  Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels [Comuns de la XOLN](#CXOLN). Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de `padrins`, i de l'acte de cobrir la inversió, la denominació d'`apadrinament`.
+  Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels [Comuns de la XOLN](#cxoln). Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de `padrins`, i de l'acte de cobrir la inversió, la denominació d'`apadrinament`.
 
 + **e. Formes de participació**
 
@@ -160,11 +160,11 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
 
 ### 3. Elaboració i revisió
 
-Els [Comuns de la XOLN](#CXOLN) s'elabora i es revisa a través d'un debat públic entre tots els qui participen a la xarxa.
+Els [Comuns de la XOLN](#cxoln) s'elabora i es revisa a través d'un debat públic entre tots els qui participen a la xarxa.
 
 ### 4. Finalització de l'acord
 
-Els [Comuns per la XOLN](#CXOLN) es pot suspendre o finalitzar per:
+Els [Comuns per la XOLN](#cxoln) es pot suspendre o finalitzar per:
 
 + **a.** La voluntat de qui l'ha subscrit. La voluntat s'expressa directament donant-se de baixa les seves participacions en les eines que proporciona guifi.net, o en cas de que les participacions subsisteixin, per transmissió als nous titulars.
 
@@ -174,19 +174,19 @@ Els [Comuns per la XOLN](#CXOLN) es pot suspendre o finalitzar per:
 
 ### 1. Valors fonamentals
 
-La XOLN és una expressió de valors fonamentals com la llibertat, la igualtat d'oportunitats i la solidaritat i fraternitat a través del dret a comunicar-se lliurement i a extreure'n el màxim de prestacions possibles d'acord amb els [principis generals](#i-resum-i-principis-generals), que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació dels [Comuns de la XOLN](#CXOLN).
+La XOLN és una expressió de valors fonamentals com la llibertat, la igualtat d'oportunitats i la solidaritat i fraternitat a través del dret a comunicar-se lliurement i a extreure'n el màxim de prestacions possibles d'acord amb els [principis generals](#i-resum-i-principis-generals), que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació dels [Comuns de la XOLN](#cxoln).
 
 ### 2. Accés
 
-La xarxa permet l'accés a tothom qui ho vulgui, i és el resultat de interconnectar tots els seus participants. Si hi ha mecanismes de control en el seu accés es faran servir per a la correcta gestió de la xarxa des d'un punt de vista tecnològic, mai per restringir les llibertats protegides amb els [Comuns de la XOLN](#CXOLN).
+La xarxa permet l'accés a tothom qui ho vulgui, i és el resultat de interconnectar tots els seus participants. Si hi ha mecanismes de control en el seu accés es faran servir per a la correcta gestió de la xarxa des d'un punt de vista tecnològic, mai per restringir les llibertats protegides amb els [Comuns de la XOLN](#cxoln).
 
 ### 3. Compromís
 
-Els membres de la xarxa oberta es comprometen únicament als termes i condicions dels [Comuns de la XOLN](#CXOLN). Qualsevol altre compromís l'han d'expressar explícitament.
+Els membres de la xarxa oberta es comprometen únicament als termes i condicions dels [Comuns de la XOLN](#cxoln). Qualsevol altre compromís l'han d'expressar explícitament.
 
 ### 4. Adhesió
 
-L'adhesió a la xarxa es pot expressar a títol individual o col·lectiu, i comporta l'acceptació dels termes dels [Comuns de la XOLN](#CXOLN). En qualsevol moment un membre adherit a la xarxa pot renunciar a la seva adhesió conforme al que es preveu en el punt [II.4. Finalització de l'acord](4-finalització-de-lacord). En cas de renunciar a la seva adhesió podrà recuperar els béns, equips i infraestructures de les que sigui titular, amb independència de on estiguin ubicats, amb la única excepció dels casos descrits en l'apartat [IV.8. Finalització de trams de xarxa](#8-finalització-de-trams-de-xarxa).
+L'adhesió a la xarxa es pot expressar a títol individual o col·lectiu, i comporta l'acceptació dels termes dels [Comuns de la XOLN](#cxoln). En qualsevol moment un membre adherit a la xarxa pot renunciar a la seva adhesió conforme al que es preveu en el punt [II.4. Finalització de l'acord](4-finalització-de-lacord). En cas de renunciar a la seva adhesió podrà recuperar els béns, equips i infraestructures de les que sigui titular, amb independència de on estiguin ubicats, amb la única excepció dels casos descrits en l'apartat [IV.8. Finalització de trams de xarxa](#8-finalització-de-trams-de-xarxa).
 
 ### 5. Compromís per el creixement
 
@@ -239,15 +239,15 @@ Encara que en la xarxa hi poden haver diferents nivells de participació de cada
 
 ### 4. Responsabilitat
 
-Els titulars són els responsables de gestionar les seves infraestructures respectant els [Comuns de la XOLN](#CXOLN).
+Els titulars són els responsables de gestionar les seves infraestructures respectant els [Comuns de la XOLN](#cxoln).
 
 ### 5. Informació
 
-Un dels pilars de la xarxa oberta és que s'informa dels seus components. Els titulars han de proporcionar de bona fe dades de contacte i una descripció de la seva aportació a través de les eines que proporciona la xarxa i conscients i acceptant que es publicaran. Podran accedir, modificar-les o cancel·lar-les en qualsevol moment. El subministrament maliciós de dades falses pot implicar la suspensió de l'acord dels [Comuns de la XOLN](#CXOLN).
+Un dels pilars de la xarxa oberta és que s'informa dels seus components. Els titulars han de proporcionar de bona fe dades de contacte i una descripció de la seva aportació a través de les eines que proporciona la xarxa i conscients i acceptant que es publicaran. Podran accedir, modificar-les o cancel·lar-les en qualsevol moment. El subministrament maliciós de dades falses pot implicar la suspensió de l'acord dels [Comuns de la XOLN](#cxoln).
 
 ### 6. Transmissió
 
-La titularitat és un actiu, que com a tal pot tenir un valor, i conseqüentment es pot transmetre entre participants ja sigui per cessió o compravenda o qualsevol altra forma jurídicament lícita. Quan la titularitat es transmet a nous participants, comporta l'acceptació dels [Comuns de la XOLN](#CXOLN) per part de qui l'adquireix.
+La titularitat és un actiu, que com a tal pot tenir un valor, i conseqüentment es pot transmetre entre participants ja sigui per cessió o compravenda o qualsevol altra forma jurídicament lícita. Quan la titularitat es transmet a nous participants, comporta l'acceptació dels [Comuns de la XOLN](#cxoln) per part de qui l'adquireix.
 
 ### 7. Incorporació de trams de xarxa
 
@@ -255,7 +255,7 @@ La incorporació d'actius a la xarxa és fonamental per al seu creixement i dese
 
 ### 8. Finalització de trams de xarxa
 
-En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#CXOLN), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels Comuns de la XOLN.
+En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#cxoln), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels Comuns de la XOLN.
 
 ### 9. Exercici de la titularitat
 
@@ -291,11 +291,11 @@ Donar suport a guifi.net tot respectant la seva naturalesa original, forma d'org
 
 Proporcionar personalitat jurídica a guifi.net en tot allò que li sigui necessari per al complert i normal exercici de la seva activitat com a operador de la xarxa amb igualtat de drets i deures respecte de qualsevol altre operador, com per exemple i no limitat a, obtenir llicències, ocupar dominis públics o privats, representar, fer gestions i notificacions en nom de guifi.net davant de les administracions o tercers, o prendre acords d'interconnexió amb altres operadors i formar part d'organismes que composen Internet.
 
-Quan els participants accepten els [Comuns de la XOLN](#CXOLN) accepten també delegar totes aquestes funcions a guifi.net i a la Fundació, sense renunciar que per la seva banda també, si així ho desitgen, poden realitzar les mateixes funcions directament.
+Quan els participants accepten els [Comuns de la XOLN](#cxoln) accepten també delegar totes aquestes funcions a guifi.net i a la Fundació, sense renunciar que per la seva banda també, si així ho desitgen, poden realitzar les mateixes funcions directament.
 
 ### 3. Defensa
 
-Defensar i donar suport als interessos dels participants en la seva activitat de pertinença a la xarxa, els interessos i bon ús dels [Comuns de la XOLN](#CXOLN) i el nom de guifi.net, podent, si fos necessari, emprendre accions legals o reclamar reparacions en aquells casos on de mala fe s'ha volgut causar un perjudici a guifi.net o als seus usuaris.
+Defensar i donar suport als interessos dels participants en la seva activitat de pertinença a la xarxa, els interessos i bon ús dels [Comuns de la XOLN](#cxoln) i el nom de guifi.net, podent, si fos necessari, emprendre accions legals o reclamar reparacions en aquells casos on de mala fe s'ha volgut causar un perjudici a guifi.net o als seus usuaris.
 
 ## VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)
 
@@ -317,11 +317,11 @@ Els membres de la xarxa faran públiques les prioritats implementades en els seu
 
 ### 4. Sancció i suspensió
 
-En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apartat [5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals), es podrà impedir el trànsit o la connexió de l'usuari que el causa, procurant advertir-lo sempre que sigui possible. En el cas de que aquest trànsit sigui causat per un participant, aquesta suspensió no causa també una suspensió de forma immediata de l'acord dels [Comuns de la XOLN](#CXOLN), però sí que serveix d'advertiment.
+En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apartat [5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals), es podrà impedir el trànsit o la connexió de l'usuari que el causa, procurant advertir-lo sempre que sigui possible. En el cas de que aquest trànsit sigui causat per un participant, aquesta suspensió no causa també una suspensió de forma immediata de l'acord dels [Comuns de la XOLN](#cxoln), però sí que serveix d'advertiment.
 
-En cap cas es pot fer servir aquesta possibilitat per impedir la lliure participació i circulació de serveis i continguts recollit en els [Comuns de la XOLN](#CXOLN).
+En cap cas es pot fer servir aquesta possibilitat per impedir la lliure participació i circulació de serveis i continguts recollit en els [Comuns de la XOLN](#cxoln).
 
-Si un participant abusa reiteradament d'aquest punt, ja sigui en el sentit de causar trànsit inapropiat que requereix de la seva suspensió, o en el d'impedir injustificadament el trànsit d'altres usuaris, això pot ser causa d'un conflicte que d'acord amb el que es preveu en l'apartat de [resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable), i finalitzar amb la suspensió de l'acord dels [Comuns de la XOLN](#CXOLN) amb aquest participant.
+Si un participant abusa reiteradament d'aquest punt, ja sigui en el sentit de causar trànsit inapropiat que requereix de la seva suspensió, o en el d'impedir injustificadament el trànsit d'altres usuaris, això pot ser causa d'un conflicte que d'acord amb el que es preveu en l'apartat de [resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable), i finalitzar amb la suspensió de l'acord dels [Comuns de la XOLN](#cxoln) amb aquest participant.
 
 ### 5. Disponibilitat
 
@@ -353,7 +353,7 @@ Els usuaris son responsables de la seva seguretat i tenen dret a protegir-se i v
 
 ### 2. Xarxes privades i limitaciós
 
-Es poden connectar xarxes privades a la xarxa oberta i posar-hi tallafocs per controlar-ne l'accés. Aquests trams de xarxes queden exclosos dels [Comuns de la XOLN](#CXOLN) i no formen part de la xarxa oberta, lliure i neutral. De la seva seguretat se'n fa càrrec qui la munta.
+Es poden connectar xarxes privades a la xarxa oberta i posar-hi tallafocs per controlar-ne l'accés. Aquests trams de xarxes queden exclosos dels [Comuns de la XOLN](#cxoln) i no formen part de la xarxa oberta, lliure i neutral. De la seva seguretat se'n fa càrrec qui la munta.
 
 ### 3. Danys
 
@@ -387,7 +387,7 @@ S'ha de procurar respectar  les llibertats de pensament, d'expressió i comunica
 
 ### 6. Interconnexións amb altres xarxes
 
-La xarxa, com a xarxa oberta, lliure i neutral té vocació inequívoca de ser una xarxa més de la gran xarxa de xarxes que és Internet i per aquest motiu guifi.net procura formar part activa dels organismes que formen Internet i, com a operador, procurar acords i mecanismes d'interconnexió eficients amb tots els altres operadors. Tanmateix, actualment a Internet, els altres operadors poden ser més restrictius i no tan oberts pel que fa a la interconnexió amb les seves xarxes, per exemple fent una explotació comercial de la interconnexió o del trànsit. Com que en aquests casos no és possible aplicar el [principi de reciprocitat](#7-principi-de-reciprocitat), el trànsit cap a l'internet d'aquests operadors es considera fora de l'àmbit dels [Comuns de la XOLN](#CXOLN), i com a tal, respecte de la XOLN, n'esdevé un contingut. Per tant, aquesta mena d'interconnexió s'ofereix als participants com qualsevol altre servei dins de la xarxa, i típicament n'hi pot haver de dos tipus:
+La xarxa, com a xarxa oberta, lliure i neutral té vocació inequívoca de ser una xarxa més de la gran xarxa de xarxes que és Internet i per aquest motiu guifi.net procura formar part activa dels organismes que formen Internet i, com a operador, procurar acords i mecanismes d'interconnexió eficients amb tots els altres operadors. Tanmateix, actualment a Internet, els altres operadors poden ser més restrictius i no tan oberts pel que fa a la interconnexió amb les seves xarxes, per exemple fent una explotació comercial de la interconnexió o del trànsit. Com que en aquests casos no és possible aplicar el [principi de reciprocitat](#7-principi-de-reciprocitat), el trànsit cap a l'internet d'aquests operadors es considera fora de l'àmbit dels [Comuns de la XOLN](#cxoln), i com a tal, respecte de la XOLN, n'esdevé un contingut. Per tant, aquesta mena d'interconnexió s'ofereix als participants com qualsevol altre servei dins de la xarxa, i típicament n'hi pot haver de dos tipus:
 
 + **a.** El que proporcionen els participants a partir de les connexions que puguin tenir amb altres operadors com a portes cap a Internet.
 
@@ -397,13 +397,13 @@ La xarxa, com a xarxa oberta, lliure i neutral té vocació inequívoca de ser u
 
 ### 7. Principi de reciprocitat
 
-Quan es proporciona servei d'interconnexió amb una altra xarxa que, encara que no s'aculli a la protecció dels [Comuns de la XOLN](#CXOLN) o es gestioni de manera diferent per altres organitzacions, però que en essència obeeixi als mateixos criteris de xarxa oberta, lliure i neutral, mantenint les mateixes [llibertats i principis generals](#i-resum-i-principis-generals) i permetent la lliure interconnexió, es podrà establir un reconeixement recíproc de les mateixes llibertats pel que fa a la lliure circulació de continguts i serveis.
+Quan es proporciona servei d'interconnexió amb una altra xarxa que, encara que no s'aculli a la protecció dels [Comuns de la XOLN](#cxoln) o es gestioni de manera diferent per altres organitzacions, però que en essència obeeixi als mateixos criteris de xarxa oberta, lliure i neutral, mantenint les mateixes [llibertats i principis generals](#i-resum-i-principis-generals) i permetent la lliure interconnexió, es podrà establir un reconeixement recíproc de les mateixes llibertats pel que fa a la lliure circulació de continguts i serveis.
 
 ## X. Resolució de conflictes i jurisdicció aplicable
 
 ### 1. Conflictes i dubtes d'interpretació
 
-En cas de qüestions, dubtes o conflictes relatius a d'interpretació o aplicació dels [Comuns de la XOLN](#CXOLN), tothom es pot dirigir al patronat de la Fundació perquè ho resolgui.
+En cas de qüestions, dubtes o conflictes relatius a d'interpretació o aplicació dels [Comuns de la XOLN](#cxoln), tothom es pot dirigir al patronat de la Fundació perquè ho resolgui.
 
 La petició es formalitza a través d'un correu dirigit al Patronat (patronat (arroba) guifi.net), especificant-ho clarament a l'assumpte (per exemple "Consulta /Conflicte sobre els Comuns en relació a...."), i en el text del correu, una descripció de la qüestió, de les seves motivacions, dels punts dels Comuns afectats quan n'hi han, propostes, etc. És a dir, procurar que estigui ben documentat i entenedor.
 
@@ -421,11 +421,11 @@ Els encarregats de deliberar i resoldre una qüestió prendran les decisions per
 
 ### 2. Solucions i arbitratge
 
-Les resolucions hauran d'orientar-se a aplicar l'esperit dels [Comuns de la XOLN](#CXOLN), i en cas de que es constati un conflicte o una situació d'incompliment, servir d'arbitratge i proposar solucions per esmenar la situació que s'hagi pogut crear.
+Les resolucions hauran d'orientar-se a aplicar l'esperit dels [Comuns de la XOLN](#cxoln), i en cas de que es constati un conflicte o una situació d'incompliment, servir d'arbitratge i proposar solucions per esmenar la situació que s'hagi pogut crear.
 
 ### 3. Resolucions de suspenció
 
-En casos extrems, es pot resoldre la suspensió l'acord dels [Comuns de la XOLN](#CXOLN) amb un participant, deixant-lo sense efectes, i podrà recuperar les infraestructures de la seva titularitat en funció del que es preveu en l'apartat [Titularitat i participants](#iv-titularitat-i-participants)". Per aquesta via no es poden resoldre penalitzacions o compensacions de tipus econòmic per danys o perjudicis i similars, si fos el cas s'haurà de fer via als Tribunals competents.
+En casos extrems, es pot resoldre la suspensió l'acord dels [Comuns de la XOLN](#cxoln) amb un participant, deixant-lo sense efectes, i podrà recuperar les infraestructures de la seva titularitat en funció del que es preveu en l'apartat [Titularitat i participants](#iv-titularitat-i-participants)". Per aquesta via no es poden resoldre penalitzacions o compensacions de tipus econòmic per danys o perjudicis i similars, si fos el cas s'haurà de fer via als Tribunals competents.
 
 ### 4. Recurs
 
@@ -433,9 +433,9 @@ A les resolucions s'hi pot presentar un recurs, o alternativament, acudir als Tr
 
 ### 5. Jurisdicció
 
-La Fundació s'ha constituït segons la [Llei de Fundacions 4/2008 de Catalunya][4]. A efectes legals i en cas de conflicte, si les parts no acorden una altra cosa, la jurisdicció aplicable per a la Fundació i per a la interpretació dels [Comuns de la XOLN](#CXOLN) és la que correspongui del Tribunal competent a Barcelona segons la legislació vigent a Catalunya.
+La Fundació s'ha constituït segons la [Llei de Fundacions 4/2008 de Catalunya][4]. A efectes legals i en cas de conflicte, si les parts no acorden una altra cosa, la jurisdicció aplicable per a la Fundació i per a la interpretació dels [Comuns de la XOLN](#cxoln) és la que correspongui del Tribunal competent a Barcelona segons la legislació vigent a Catalunya.
 
-## XI. Llicència del text dels [Comuns de la XOLN](#CXOLN)
+## XI. Llicència del text dels [Comuns de la XOLN](#cxoln)
 
 ### 1. CC BY-NC-SA, GNU FDL
 
@@ -443,13 +443,13 @@ El text dels Comuns de la XOLN es pot canviar o modificar sota llicència [Creat
 
 * No se'n pot fer un ús comercial
 
-* La distribució i còpia és lliure referenciant que prové d'aquests [Comuns de la XOLN](#CXOLN)
+* La distribució i còpia és lliure referenciant que prové d'aquests [Comuns de la XOLN](#cxoln)
 
 * Es poden modificar els continguts i fer-ne treballs derivats si el resultat es distribueix de nou sota les mateixes condicions.
 
 ### 2. Extensió i modificació
 
-Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als [Comuns per la XOLN](#CXOLN), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#7-principi-de-reciprocitat).
+Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als [Comuns per la XOLN](#cxoln), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#7-principi-de-reciprocitat).
 
 [1]:http://guifi.net/ComunsSensefils
 [2]:https://creativecommons.org/licenses/by-nc-sa/4.0/
