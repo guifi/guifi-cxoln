@@ -64,7 +64,7 @@
   * [4. Recurs](#4-recurs)
   * [5. Jurisdicció](#5-jurisdicció)
 * [XI. Llicència del text dels Comuns de la XOLN](#xi-Llicència-del-text-dels-comuns-de-la-xoln)
-  * [1. Creative Commons BY-NC-SA o GNU FDL](#1-creative-commons-by-nc-sa-o-gnu-fdl)
+  * [1. CC BY-NC-SA, GNU FDL](#1-cc-by-nc-sa-gnu-fdl)
   * [2. Extensió i modificació](#2-extensió-i-modificació)
 
 ## I. Resum i principis generals
@@ -197,10 +197,10 @@ Els participants de la xarxa, per tal de facilitar-ne el seu creixement i connec
     1. Compensacions  
     Especificar clarament quin és el motiu per al qual es produeixen les compensacions, com per exemple l'accés a alguns tipus de continguts, accés a altres connexions cap a internet, serveis professionals, garantia de disponibilitat, etc.
 
-    2. Ampliacions.  
+    2. Ampliacions  
     Alhora de fer la interconnexió, i sense excloure de que es puguin realitzar altres tipus d'acords entre els participants, si cal fer una ampliació en el punt d'interconnexió dels trams, o una conversió d'un tram de connexió simple a un tram que estén la xarxa, s'entén que el cost l'assumeix en la seva totalitat el participant que s'està incorporant amb un nou tram, i a partir de llavors la titularitat del node des d'on es fa la interconnexió passa a ser compartida en funció del nivell d'inversió de cada participant. En el cas de que el titular preexistent vulgui mantenir la seva titularitat sense compartir-la, llavors haurà d'assumir el cost de l'ampliació, i en qualsevol cas té preferència alhora d'escollir quin model prefereix.
 
-    3. Amotitzacions.  
+    3. Amortitzacions  
     En el cas de que calgui amortitzar costos importants d'infraestructures o de ubicacions, es poden preveure compensacions alhora de realitzar les connexions, amb el benentès de que llavors la titularitat passa a ser compartida com en el punt anterior, que no hi poden haver tractes discriminatoris entre els participant si que aquestes compensacions han de ser raonables, orientades al cost i a la sostenibilitat, i no poden estar encaminades a la obtenció de marges per una explotació comercial.
 
 ### 6. Altres organizatcions
@@ -435,9 +435,9 @@ La Fundació s'ha constituït segons la [Llei de Fundacions 4/2008 de Catalunya]
 
 ## XI. Llicència del text dels [Comuns de la XOLN](#CXOLN)
 
-### 1. Creative Commons BY-NC-SA o GNU FDL
+### 1. CC BY-NC-SA, GNU FDL
 
-El text dels Comuns de la XOLN es pot canviar o modificar sota llicència: [Creative Commons BY-NC-SA/4.0][2] o la Llicència [GNU/FDL][3]
+El text dels Comuns de la XOLN es pot canviar o modificar sota llicència [Creative Commons BY-NC-SA/4.0][2] o [GNU FDL][3]
 
 * No se'n pot fer un ús comercial
 
