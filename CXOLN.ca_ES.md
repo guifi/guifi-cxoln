@@ -6,68 +6,68 @@ Els Comuns de la Xarxa Oberta, Lliure i Neutral.
 
 * [I. Resum i principis generals](#i-resum-i-principis-generals)
 * [II. Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#ii-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln)
-  * [1. Gestació, interpretació i revisió del text](#1-gestació-interpretació-i-revisió-del-text)
-  * [2. Definicions](#2-definicions)
-  * [3. Elaboració i revisió](#3-elaboració-i-revisió)
-  * [4. Finalització de l'acord](#4-finalització-de-lacord)
+    * [1. Gestació, interpretació i revisió del text](#1-gestació-interpretació-i-revisió-del-text)
+    * [2. Definicions](#2-definicions)
+    * [3. Elaboració i revisió](#3-elaboració-i-revisió)
+    * [4. Finalització de l'acord](#4-finalització-de-lacord)
 * [III. La xarxa (XOLN)](#iii-la-xarxa-xoln)
-  * [1. Valors fonamentals](#1-valors-fonamentals)
-  * [2. Accés](#2-accés)
-  * [3. Compromís](#3-compromís)
-  * [4. Adhesió](#4-adhesió)
-  * [5. Compromís per el creixement](#5-compromís-per-el-creixement)
-  * [6. Altres organizatcions](#6-altres-organizatcions)
-  * [7. Conexió](#7-conexió)
+    * [1. Valors fonamentals](#1-valors-fonamentals)
+    * [2. Accés](#2-accés)
+    * [3. Compromís](#3-compromís)
+    * [4. Adhesió](#4-adhesió)
+    * [5. Compromís per el creixement](#5-compromís-per-el-creixement)
+    * [6. Altres organizatcions](#6-altres-organizatcions)
+    * [7. Conexió](#7-conexió)
 * [IV. Titularitat i participants](#iv-titularitat-i-participants)
-  * [1. Titularitat](#1-titularitat)
-  * [2. Titularitat compartida](#2-titularitat-compartida)
-  * [3. Drets i deures](#3-drets-i-deures)
-  * [4. Responsabilitat](#4-responsabilitat)
-  * [5. Informació](#5-informació)
-  * [6. Transmissió](#6-transmissió)
-  * [7. Incorporació de trams de xarxa](#7-incorporació-de-trams-de-xarxa)
-  * [8. Finalització de trams de xarxa](#8-finalització-de-trams-de-xarxa)
-  * [9. Exercici de la titularitat](#9-exercici-de-la-titularitat)
-  * [10. Titularitat orfe](#10-titularitat-orfe)
-  * [11. Cessió d'ubicació](#11-cessió-dubicació)
-  * [12. Finalització d'una cessió](#12-finalització-duna-cessió)
+    * [1. Titularitat](#1-titularitat)
+    * [2. Titularitat compartida](#2-titularitat-compartida)
+    * [3. Drets i deures](#3-drets-i-deures)
+    * [4. Responsabilitat](#4-responsabilitat)
+    * [5. Informació](#5-informació)
+    * [6. Transmissió](#6-transmissió)
+    * [7. Incorporació de trams de xarxa](#7-incorporació-de-trams-de-xarxa)
+    * [8. Finalització de trams de xarxa](#8-finalització-de-trams-de-xarxa)
+    * [9. Exercici de la titularitat](#9-exercici-de-la-titularitat)
+    * [10. Titularitat orfe](#10-titularitat-orfe)
+    * [11. Cessió d'ubicació](#11-cessió-dubicació)
+    * [12. Finalització d'una cessió](#12-finalització-duna-cessió)
 * [V. El paper de la Fundació](#v-el-paper-de-la-fundació)
-  * [1. Suport](#1-suport)
-  * [2. Personalitat jurídica](#2-personalitat-jurídica)
-  * [3. Defensa](#3-defensa)
+    * [1. Suport](#1-suport)
+    * [2. Personalitat jurídica](#2-personalitat-jurídica)
+    * [3. Defensa](#3-defensa)
 * [VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)](#vi-gestió-de-la-xarxa-i-prioritats-en-el-trànsit-qualitat-de-servei)
-  * [1. Gestió publica](#1-gestió-publica)
-  * [2. Prioritats de trànsit](#2-prioritats-de-trànsit)
-  * [3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats)
-  * [4. Sancció i suspensió](#4-sancció-i-suspensió)
-  * [5. Disponibilitat](#5-disponibilitat)
-  * [6. Responsabilitats i compromisos](#6-responsabilitats-i-compromisos)
+    * [1. Gestió publica](#1-gestió-publica)
+    * [2. Prioritats de trànsit](#2-prioritats-de-trànsit)
+    * [3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats)
+    * [4. Sancció i suspensió](#4-sancció-i-suspensió)
+    * [5. Disponibilitat](#5-disponibilitat)
+    * [6. Responsabilitats i compromisos](#6-responsabilitats-i-compromisos)
 * [VII. Desplegament responsable i respecte al medi ambient](#vii-desplegament-responsable-i-respecte-al-medi-ambient)
-  * [1. Evitar duplicitats d'infrastructura innecessaries](#1-evitar-duplicitats-dinfrastructura-innecessaries)
-  * [2. Foment de l'us comú dels espais comuns](#2-foment-de-lus-comú-dels-espais-comuns)
-  * [3. Ús responsable](#3-Ús-responsable)
+    * [1. Evitar duplicitats d'infrastructura innecessaries](#1-evitar-duplicitats-dinfrastructura-innecessaries)
+    * [2. Foment de l'us comú dels espais comuns](#2-foment-de-lus-comú-dels-espais-comuns)
+    * [3. Ús responsable](#3-Ús-responsable)
 * [VIII. Seguretat i responsabilitat](#viii-seguretat-i-responsabilitat)
- * [1. Seguritat i privacitat](#1-seguritat-i-privacitat)
- * [2. Xarxes privades i limitaciós](#2-xarxes-privades-i-limitaciós)
- * [3. Danys](#3-danys)
- * [4. Responsabilitat individual de cadascú](#4-responsabilitat-individual-de-cadascú)
+    * [1. Seguritat i privacitat](#1-seguritat-i-privacitat)
+    * [2. Xarxes privades i limitaciós](#2-xarxes-privades-i-limitaciós)
+    * [3. Danys](#3-danys)
+    * [4. Responsabilitat individual de cadascú](#4-responsabilitat-individual-de-cadascú)
 * [IX. Serveis, continguts, altres xarxes i Internet](#ix-serveis-continguts-altres-xarxes-i-internet)
- * [1. Llibertat de crear continguts i serveis](#1-llibertat-de-crear-continguts-i-serveis)
- * [2. Responsabilitats dels creadors de continguts i serveis](#2-responsabilitats-dels-creadors-de-continguts-i-serveis)
- * [3. Termes i condicions d'us](#3-termes-i-condicions-d-us)
- * [4. Exenció de garantia per defecte](#4-exenció-de-garantia-per-defecte)
- * [5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals)
- * [6. Interconnexións amb altres xarxes](#6-interconnexións-amb-altres-xarxes)
- * [7. Principi de reciprocitat](#7-principi-de-reciprocitat)
+    * [1. Llibertat de crear continguts i serveis](#1-llibertat-de-crear-continguts-i-serveis)
+    * [2. Responsabilitats dels creadors de continguts i serveis](#2-responsabilitats-dels-creadors-de-continguts-i-serveis)
+    * [3. Termes i condicions d'us](#3-termes-i-condicions-d-us)
+    * [4. Exenció de garantia per defecte](#4-exenció-de-garantia-per-defecte)
+    * [5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals)
+    * [6. Interconnexións amb altres xarxes](#6-interconnexións-amb-altres-xarxes)
+    * [7. Principi de reciprocitat](#7-principi-de-reciprocitat)
 * [X. Resolució de conflictes i jurisdicció aplicable](#x-resolució-de-conflictes-i-jurisdicció-aplicable)
-  * [1. Conflictes i dubtes d'interpretació](#1-conflictes-i-dubtes-d-interpretació)
-  * [2. Solucions i arbitratge](#2-solucions-i-arbitratge)
-  * [3. Resolucions de suspenció](#3-resolucions-de-suspenció)
-  * [4. Recurs](#4-recurs)
-  * [5. Jurisdicció](#5-jurisdicció)
+    * [1. Conflictes i dubtes d'interpretació](#1-conflictes-i-dubtes-d-interpretació)
+    * [2. Solucions i arbitratge](#2-solucions-i-arbitratge)
+    * [3. Resolucions de suspenció](#3-resolucions-de-suspenció)
+    * [4. Recurs](#4-recurs)
+    * [5. Jurisdicció](#5-jurisdicció)
 * [XI. Llicència del text dels Comuns de la XOLN](#xi-Llicència-del-text-dels-comuns-de-la-xoln)
-  * [1. CC BY-NC-SA, GNU FDL](#1-cc-by-nc-sa-gnu-fdl)
-  * [2. Extensió i modificació](#2-extensió-i-modificació)
+    * [1. CC BY-NC-SA, GNU FDL](#1-cc-by-nc-sa-gnu-fdl)
+    * [2. Extensió i modificació](#2-extensió-i-modificació)
 
 ## I. Resum i principis generals
 
@@ -103,60 +103,60 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
 
 + **a. CXOLN**
 
-  Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és un acord d'interconnexió entre iguals que serveix de contracte d'adhesió de cada participant amb el conjunt de a guifi.net i que és comú per a tothom que forma part de la xarxa. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús de la xarxa, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom. També es coneix amb les abreviacions "Comuns", "Comuns de la XOLN" o "CXOLN".
+    Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és un acord d'interconnexió entre iguals que serveix de contracte d'adhesió de cada participant amb el conjunt de a guifi.net i que és comú per a tothom que forma part de la xarxa. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús de la xarxa, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom. També es coneix amb les abreviacions "Comuns", "Comuns de la XOLN" o "CXOLN".
 
 + **b. XOLN**
 
-   La Xarxa de Telecomunicacions Lliure, Oberta i Neutral (XOLN) és una infraestructura de telecomunicacions pública comunitària a la que s'apliquen els termes i condicions dels [Comuns de la XOLN](#cxoln), disponible al públic en general, de manera que quan els participants s'hi adhereixen, s'amplia. A través de la xarxa s'obté i alhora es subministra un servei de comunicacions electròniques amb els altres participants ja sigui directament o a través de la interconnexió amb altres xarxes.
+    La Xarxa de Telecomunicacions Lliure, Oberta i Neutral (XOLN) és una infraestructura de telecomunicacions pública comunitària a la que s'apliquen els termes i condicions dels [Comuns de la XOLN](#cxoln), disponible al públic en general, de manera que quan els participants s'hi adhereixen, s'amplia. A través de la xarxa s'obté i alhora es subministra un servei de comunicacions electròniques amb els altres participants ja sigui directament o a través de la interconnexió amb altres xarxes.
 
-  Quan en aquest document es menciona "la xarxa" de forma genèrica o l'abreviació "XOLN", es refereix a la Xarxa Oberta, Lliure i Neutral, i es defineix així perquè:
+    Quan en aquest document es menciona "la xarxa" de forma genèrica o l'abreviació "XOLN", es refereix a la Xarxa Oberta, Lliure i Neutral, i es defineix així perquè:
 
-  1.  És **oberta** perquè s'ofereix universalment a la participació de tothom sense cap tipus d'exclusió ni discriminació, i perquè s'informa en tot moment de com funciona i els seus components, permetent així que qui vulgui pugui millorar-la.
+    1. És **oberta** perquè s'ofereix universalment a la participació de tothom sense cap tipus d'exclusió ni discriminació, i perquè s'informa en tot moment de com funciona i els seus components, permetent així que qui vulgui pugui millorar-la.
 
-  2.  És **lliure** perquè tothom hi pot fer el que vol i gaudir-ne tal i com es preveu en la referència a les llibertats dels [principis generals (apartat I.)](#i-resum-i-principis-generals), i tot això independentment del seu nivell de participació a la xarxa i sense imposar termes i condicions que contradiguin aquest acord de forma unilateral.
+    2. És **lliure** perquè tothom hi pot fer el que vol i gaudir-ne tal i com es preveu en la referència a les llibertats dels [principis generals (apartat I.)](#i-resum-i-principis-generals), i tot això independentment del seu nivell de participació a la xarxa i sense imposar termes i condicions que contradiguin aquest acord de forma unilateral.
 
-  3.  És **neutral** perquè la xarxa és independent dels continguts, no els condiciona i hi poden circular lliurement; Els usuaris poden accedir i produir continguts independentment de les seves possibilitats financeres o condició social. Quan des de guifi.net s'incorporen continguts a la xarxa es fa o bé per estimular-ne de nous, o bé per a la gestió de la pròpia xarxa, o simplement en exercici de la llibertat d'incorporar-hi continguts, però en cap cas amb l'objectiu de substituir o impedir-ne d'altres.  
-  També és **neutral** respecte de la tecnologia, la xarxa es pot construir amb la tecnologia que decideixin els seus participants sense més limitacions que les que es derivin de la pròpia tecnologia.
+    3. És **neutral** perquè la xarxa és independent dels continguts, no els condiciona i hi poden circular lliurement; Els usuaris poden accedir i produir continguts independentment de les seves possibilitats financeres o condició social. Quan des de guifi.net s'incorporen continguts a la xarxa es fa o bé per estimular-ne de nous, o bé per a la gestió de la pròpia xarxa, o simplement en exercici de la llibertat d'incorporar-hi continguts, però en cap cas amb l'objectiu de substituir o impedir-ne d'altres.  
+    També és **neutral** respecte de la tecnologia, la xarxa es pot construir amb la tecnologia que decideixin els seus participants sense més limitacions que les que es derivin de la pròpia tecnologia.
 
 + **c. Guifi.net**
 
-  És el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
+    És el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
 
 + **d. Participants i titularitat**
 
-  Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels [Comuns de la XOLN](#cxoln). Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de `padrins`, i de l'acte de cobrir la inversió, la denominació d'`apadrinament`.
+    Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels [Comuns de la XOLN](#cxoln). Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de `padrins`, i de l'acte de cobrir la inversió, la denominació d'`apadrinament`.
 
 + **e. Formes de participació**
 
-  En funció del format de connexió a la xarxa, existeixen:
+    En funció del format de connexió a la xarxa, existeixen:
 
-  1. Connexions simples  
-  Les connexions simples son aquells segments de la xarxa que finalitzen en un punt a partir del qual no s'estén a altres trams de la xarxa amb les mateixes condicions. Normalment és el punt des del qual els usuaris gaudeixen de la xarxa oberta lliure i neutral i a partir del qual hi connecten les seves xarxes privades.
+    1. Connexions simples  
+    Les connexions simples son aquells segments de la xarxa que finalitzen en un punt a partir del qual no s'estén a altres trams de la xarxa amb les mateixes condicions. Normalment és el punt des del qual els usuaris gaudeixen de la xarxa oberta lliure i neutral i a partir del qual hi connecten les seves xarxes privades.
 
-  2. Trams que estenen la xarxa  
-  Els trams que estenen la xarxa són els segments de la xarxa que, a diferència de les connexions simples, sí que preveuen que en cadascun dels extrems hi hagin altres trams de xarxa amb les mateixes condicions.
+    2. Trams que estenen la xarxa  
+    Els trams que estenen la xarxa són els segments de la xarxa que, a diferència de les connexions simples, sí que preveuen que en cadascun dels extrems hi hagin altres trams de xarxa amb les mateixes condicions.
 
 + **f. Continguts**
 
-  El que dona sentit a una xarxa de telecomunicacions és que serveixi d'instrument de transmissió per accedir a continguts. Els continguts es publiquen a través de serveis.
+    El que dona sentit a una xarxa de telecomunicacions és que serveixi d'instrument de transmissió per accedir a continguts. Els continguts es publiquen a través de serveis.
 
 + **g. Serveis**
 
-  A l'entorn de la xarxa existeixen múltiples formats de serveis. El més bàsic i indissociable de la pròpia xarxa és la connectivitat entre tots els participants i que s'anomena "servei de comunicacions electròniques". Més enllà d'aquest servei indissociable, es distingeix entre dos grans tipologies de serveis:
+    A l'entorn de la xarxa existeixen múltiples formats de serveis. El més bàsic i indissociable de la pròpia xarxa és la connectivitat entre tots els participants i que s'anomena "servei de comunicacions electròniques". Més enllà d'aquest servei indissociable, es distingeix entre dos grans tipologies de serveis:
 
-  1. Serveis "tal qual"  
-  Son aquells serveis que es proporcionen "tal qual son", és a dir, qui els utilitza ho fa sota la seva responsabilitat i no pot exigir a qui li subministra que cobreixi una expectativa o unes característiques. En aquesta categoria generalment hi trobarem els serveis que es proporcionen de forma gratuïta.
+    1. Serveis "tal qual"  
+    Son aquells serveis que es proporcionen "tal qual son", és a dir, qui els utilitza ho fa sota la seva responsabilitat i no pot exigir a qui li subministra que cobreixi una expectativa o unes característiques. En aquesta categoria generalment hi trobarem els serveis que es proporcionen de forma gratuïta.
 
-  2. Serveis amb compromís  
-  És quan es proporciona un servei amb un compromís de subministrar-lo, normalment a canvi d'una contraprestació, com per exemple quan es proporciona connectivitat amb altres operadors o Internet, o també els serveis professionals per garantir uns `nivells de servei o disponibilitat`.
+    2. Serveis amb compromís  
+    És quan es proporciona un servei amb un compromís de subministrar-lo, normalment a canvi d'una contraprestació, com per exemple quan es proporciona connectivitat amb altres operadors o Internet, o també els serveis professionals per garantir uns `nivells de servei o disponibilitat`.
 
 + **h. Usuàries/is**
 
-  Son els qui gaudeixen de la connectivitat que ofereix la xarxa amb el seu ús, normalment son els participants, però els participants poden permetre l'accés a tothom.
+    Son els qui gaudeixen de la connectivitat que ofereix la xarxa amb el seu ús, normalment son els participants, però els participants poden permetre l'accés a tothom.
 
 + **i. La Fundació Guifi.net**
 
-  La "Fundació privada per a la xarxa lliure, oberta i neutral guifi.net", (en endavant, "la Fundació") és una institució sense ànim de lucre que consta amb el número 2550 del registre de fundacions de la Generalitat de Catalunya i que té com a mandat fundacional donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i treballar.
+    La "Fundació privada per a la xarxa lliure, oberta i neutral guifi.net", (en endavant, "la Fundació") és una institució sense ànim de lucre que consta amb el número 2550 del registre de fundacions de la Generalitat de Catalunya i que té com a mandat fundacional donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i treballar.
 
 ### 3. Elaboració i revisió
 
@@ -383,9 +383,9 @@ En el cas dels serveis, correspon a qui el proporciona determinar si es tracta d
 
 ### 5. Continguts inapropriats o il·legals
 
-S'ha de procurar respectar  les llibertats de pensament, d'expressió i comunicació. Tot respectant això, es podrà evitar trànsit de missatges no sol·licitats, continguts inapropiats o il·legals que maliciosament vulguin causar un perjudici o restringir les llibertats a altres usuaris.
+S'ha de procurar respectar les llibertats de pensament, d'expressió i comunicació. Tot respectant això, es podrà evitar trànsit de missatges no sol·licitats, continguts inapropiats o il·legals que maliciosament vulguin causar un perjudici o restringir les llibertats a altres usuaris.
 
-### 6. Interconnexións amb altres xarxes
+### 6. Interconnexions amb altres xarxes
 
 La xarxa, com a xarxa oberta, lliure i neutral té vocació inequívoca de ser una xarxa més de la gran xarxa de xarxes que és Internet i per aquest motiu guifi.net procura formar part activa dels organismes que formen Internet i, com a operador, procurar acords i mecanismes d'interconnexió eficients amb tots els altres operadors. Tanmateix, actualment a Internet, els altres operadors poden ser més restrictius i no tan oberts pel que fa a la interconnexió amb les seves xarxes, per exemple fent una explotació comercial de la interconnexió o del trànsit. Com que en aquests casos no és possible aplicar el [principi de reciprocitat](#7-principi-de-reciprocitat), el trànsit cap a l'internet d'aquests operadors es considera fora de l'àmbit dels [Comuns de la XOLN](#cxoln), i com a tal, respecte de la XOLN, n'esdevé un contingut. Per tant, aquesta mena d'interconnexió s'ofereix als participants com qualsevol altre servei dins de la xarxa, i típicament n'hi pot haver de dos tipus:
 
@@ -393,7 +393,7 @@ La xarxa, com a xarxa oberta, lliure i neutral té vocació inequívoca de ser u
 
 + **b.** El que s'obté a través de la interconnexió amb xarxes ("peering") d'altres operadors.
 
-  Qui proporciona aquests serveis determinarà si ho fa "tal qual", o amb  algun tipus de compromís de servei.
+    Qui proporciona aquests serveis determinarà si ho fa "tal qual", o amb algun tipus de compromís de servei.
 
 ### 7. Principi de reciprocitat
 
