@@ -2,15 +2,15 @@
 
 Els Comuns de la Xarxa Oberta, Lliure i Neutral.
 
-## Index de continguts
+## Índice de contenidos
 
-* [I. Resum i principis generals](#i-resum-i-principis-generals)
-* [II. Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#ii-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln)
+* [I. Resumen y principios generales](#i-resumen-y-principios-generales)
+* [II. El Procomún de la Red Abierta, Libre y Neutral (CXOLN)](#ii-el-procomún-de-la-red-abierta-libre-y-neutral-cxoln)
   * [1. Gestació, interpretació i revisió del text](#1-gestació-interpretació-i-revisió-del-text)
   * [2. Definicions](#2-definicions)
   * [3. Elaboració i revisió](#3-elaboració-i-revisió)
   * [4. Finalització de l'acord](#4-finalització-de-lacord)
-* [III. La xarxa (XOLN)](#iii-la-xarxa-xoln)
+* [III. La red (XOLN)](#iii-la-red-xoln)
   * [1. Valors fonamentals](#1-valors-fonamentals)
   * [2. Accés](#2-accés)
   * [3. Compromís](#3-compromís)
@@ -18,7 +18,7 @@ Els Comuns de la Xarxa Oberta, Lliure i Neutral.
   * [5. Compromís per el creixement](#5-compromís-per-el-creixement)
   * [6. Altres organizatcions](#6-altres-organizatcions)
   * [7. Conexió](#7-conexió)
-* [IV. Titularitat i participants](#iv-titularitat-i-participants)
+* [IV. Titularidad y participantes](#iv-titularidad-y-participantes)
   * [1. Titularitat](#1-titularitat)
   * [2. Titularitat compartida](#2-titularitat-compartida)
   * [3. Drets i deures](#3-drets-i-deures)
@@ -31,27 +31,27 @@ Els Comuns de la Xarxa Oberta, Lliure i Neutral.
   * [10. Titularitat orfe](#10-titularitat-orfe)
   * [11. Cessió d'ubicació](#11-cessió-dubicació)
   * [12. Finalització d'una cessió](#12-finalització-duna-cessió)
-* [V. El paper de la Fundació](#v-el-paper-de-la-fundació)
+* [V. El papel de la Fundación](#v-el-papel-de-la-fundación)
   * [1. Suport](#1-suport)
   * [2. Personalitat jurídica](#2-personalitat-jurídica)
   * [3. Defensa](#3-defensa)
-* [VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)](#vi-gestió-de-la-xarxa-i-prioritats-en-el-trànsit-qualitat-de-servei)
+* [VI. Gestión de la red y prioridades en el tránsito (calidad del servicio)](#vi-gestión-de-la-red-y-prioridades-en-el-tránsito-calidad-del-servicio)
   * [1. Gestió publica](#1-gestió-publica)
   * [2. Prioritats de trànsit](#2-prioritats-de-trànsit)
   * [3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats)
   * [4. Sancció i suspensió](#4-sancció-i-suspensió)
   * [5. Disponibilitat](#5-disponibilitat)
   * [6. Responsabilitats i compromisos](#6-responsabilitats-i-compromisos)
-* [VII. Desplegament responsable i respecte al medi ambient](#vii-desplegament-responsable-i-respecte-al-medi-ambient)
+* [VII. Despliegue responsable y respecto al medio ambiente](#vii-despliegue-responsable-y-respecto-al-medio-ambiente)
   * [1. Evitar duplicitats d'infrastructura innecessaries](#1-evitar-duplicitats-dinfrastructura-innecessaries)
   * [2. Foment de l'us comú dels espais comuns](#2-foment-de-lus-comú-dels-espais-comuns)
   * [3. Ús responsable](#3-Ús-responsable)
-* [VIII. Seguretat i responsabilitat](#viii-seguretat-i-responsabilitat)
+* [VIII. Seguridad y responsabilidad](#viii-seguridad-y-responsabilidad)
  * [1. Seguritat i privacitat](#1-seguritat-i-privacitat)
  * [2. Xarxes privades i limitaciós](#2-xarxes-privades-i-limitaciós)
  * [3. Danys](#3-danys)
  * [4. Responsabilitat individual de cadascú](#4-responsabilitat-individual-de-cadascú)
-* [IX. Serveis, continguts, altres xarxes i Internet](#ix-serveis-continguts-altres-xarxes-i-internet)
+* [IX. Servicios, contenidos, otras redes y Internet](#ix-servicios-contenidos-otras-redes-y-internet)
  * [1. Llibertat de crear continguts i serveis](#1-llibertat-de-crear-continguts-i-serveis)
  * [2. Responsabilitats dels creadors de continguts i serveis](#2-responsabilitats-dels-creadors-de-continguts-i-serveis)
  * [3. Termes i condicions d'us](#3-termes-i-condicions-d-us)
@@ -59,13 +59,13 @@ Els Comuns de la Xarxa Oberta, Lliure i Neutral.
  * [5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals)
  * [6. Interconnexións amb altres xarxes](#6-interconnexións-amb-altres-xarxes)
  * [7. Principi de reciprocitat](#7-principi-de-reciprocitat)
-* [X. Resolució de conflictes i jurisdicció aplicable](#x-resolució-de-conflictes-i-jurisdicció-aplicable)
+* [X. Resolución de conflictos y jurisdicción aplicable](#x-resolución-de-conflictos-y-jurisdicción-aplicable)
   * [1. Conflictes i dubtes d'interpretació](#1-conflictes-i-dubtes-d-interpretació)
   * [2. Solucions i arbitratge](#2-solucions-i-arbitratge)
   * [3. Resolucions de suspenció](#3-resolucions-de-suspenció)
   * [4. Recurs](#4-recurs)
   * [5. Jurisdicció](#5-jurisdicció)
-* [XI. Llicència del text dels Comuns de la XOLN](#xi-Llicència-del-text-dels-comuns-de-la-xoln)
+* [XI. Licencia del texto de la CXOLN](#xi-Licencia-del-texto-de-la-cxoln)
   * [1. CC BY-NC-SA, GNU FDL](#1-cc-by-nc-sa-gnu-fdl)
   * [2. Extensió i modificació](#2-extensió-i-modificació)
 
@@ -101,7 +101,7 @@ RALN](#ProcomunXOLN) desarrolla estos principios con el fin de garantizarlos y r
 
 >## II. Els "Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)"
 
-## II. El «[Procomún de la Red Abierta, Libre y Neutral ("RALN")](#ProcomunXOLN)»
+## II. El « Procomún de la Red Abierta, Libre y Neutral ("CXOLN") »
 
 >### 1. Gestació, interpretació i revisió del text
 
@@ -252,7 +252,7 @@ b.  Por los procedimientos previstos en el apartado [X. Sobre la resolución de 
 
 >## III. La xarxa (XOLN)
 
-## III. ### Sobre la red
+## III. La red (XOLN)
 
 >### 1. Valors fonamentals
 
@@ -319,7 +319,7 @@ La connexió a la xarxa és lliure i gratuïta tal i com ja es desprèn del punt
 
 >## IV Titularitat i participants
 
-## IV. Sobre la titularidad y los participantes
+## IV. Titularidad y participantes
 
 >### 1. Titularitat
 
@@ -420,7 +420,7 @@ Por ejemplo:
 
 >## V. El paper de la Fundació
 
-## V.  Sobre el papel de la Fundación
+## V.  El papel de la Fundación
 
 >### 1. Suport
 
@@ -445,7 +445,7 @@ Cuando los participantes aceptan el  «[Procomún de la RALN](#ProcomunXOLN)» 
 
 >## VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)
 
-## VI. Sobre la gestión de la red y prioridades en el tránsito (calidad del servicio)
+## VI. Gestión de la red y prioridades en el tránsito (calidad del servicio)
 
 >### 1. Gestió publica
 
@@ -499,7 +499,7 @@ Si un participante abusa reiteradamente de este punto, ya sea en el sentido de c
 
 >## VII. Desplegament responsable i respecte al medi ambient
 
-## VII. Sobre el despliegue responsable y el respecto al medio ambiente
+## VII. Despliegue responsable y respecto al medio ambiente
 
 >### 1. Evitar duplicitats d'infrastructura innecessaries
 
@@ -521,7 +521,7 @@ Si un participante abusa reiteradamente de este punto, ya sea en el sentido de c
 
 >## VIII. Seguretat i responsabilitat
 
-## VIII. Sobre la seguridad y la responsabilidad
+## VIII. Seguridad y responsabilidad
 
 >### 1. Seguritat i privacitat
 
@@ -549,7 +549,7 @@ Si un participante abusa reiteradamente de este punto, ya sea en el sentido de c
 
 >## IX. Serveis, continguts, altres xarxes i Internet
 
-## IX. Sobre los servicios, los contenidos, otras redes e Internet
+## IX. Servicios, contenidos, otras redes y Internet
 
 >### 1. Llibertat de crear continguts i serveis
 
@@ -607,7 +607,7 @@ mismas [libertades y principios generales](#Principios_Generales)  y permitiend
 
 >## X. Resolució de conflictes i jurisdicció aplicable
 
-## X.  Sobre la resolución de conflictos y jurisdicción aplicable
+## X.  Resolución de conflictos y jurisdicción aplicable
 
 >### 1. Conflictes i dubtes d'interpretació
 
@@ -666,7 +666,7 @@ esta vía no se pueden resolver penalizaciones o compensaciones de tipo económi
 
 >## XI. Llicència del text dels [Comuns de la XOLN](#cxoln)
 
-## XI. Sobre la licencia del texto del [Procomún de la RALN](#ProcomunXOLN)
+## XI. Licencia del texto de la [CXOLN](#cxoln)
 
 >### 1. CC BY-NC-SA, GNU FDL
 
