@@ -156,7 +156,7 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
 
 + **i. La Fundació Guifi.net**
 
-    La "Fundació privada per a la xarxa lliure, oberta i neutral guifi.net", (en endavant, "la Fundació") és una institució sense ànim de lucre que consta amb el número 2550 del registre de fundacions de la Generalitat de Catalunya i que té com a mandat fundacional donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i treballar.
+    La "Fundació privada per a la xarxa oberta, lliure i neutral guifi.net", (en endavant, "la Fundació") és una institució sense ànim de lucre que consta amb el número 2550 del registre de fundacions de la Generalitat de Catalunya i que té com a mandat fundacional donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i treballar.
 
 ### 3. Elaboració i revisió
 
