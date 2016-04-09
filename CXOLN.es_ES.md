@@ -1,8 +1,8 @@
 # CXOLN
 
-El Procomún de la Red Abierta, Libre y Neutral<sup>†</sup>.
+El Procomún de la "Red Abierta, Libre y Neutral", aka. XOLN<sup>†</sup>.
 
-<sub>_† Del catalan "Els **C**omuns de la **X**arxa **O**berta, **L**liure i **N**eutral, **CXOLN**._</sub>
+<sub>_† Del catalan: la "**X**arxa **O**berta, **L**liure i **N**eutral"._</sub>
 
 ## Índice de contenidos
 
