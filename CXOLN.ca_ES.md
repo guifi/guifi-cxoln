@@ -93,7 +93,7 @@ Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés
 
 + **b.** Quan en una revisió s'estén a noves situacions que abans no existien, com per exemple les derivades d'algun tipus d'ampliació o d'actualització tecnològica, s'entén que implícitament es renova l'acceptació segons la revisió vigent del moment en que es produeix l'actualització o ampliació.
 
-+ **c.** els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils][1]
++ **c.** Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils][1]
 
 + **d.** Totes les revisions dels [Comuns de la XOLN](#cxoln) es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
 
