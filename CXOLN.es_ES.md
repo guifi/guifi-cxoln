@@ -64,7 +64,7 @@
 * [X. Resolución de conflictos y jurisdicción aplicable](#x-resolución-de-conflictos-y-jurisdicción-aplicable)
   * [1. Conflictos y dudas de interpretación](#1-conflictos-y-dudas-de-interpretación)
   * [2. Soluciones y arbitraje](#2-soluciones-y-arbitraje)
-  * [3. Resoluciones de suspención](#3-resoluciones-de-suspención)
+  * [3. Resoluciones de suspensión](#3-resoluciones-de-suspensión)
   * [4. Recursos](#4-recursos)
   * [5. Jurisdicción](#5-jurisdicción)
 * [XI. Licencia del texto de la CXOLN](#xi-Licencia-del-texto-de-la-cxoln)
@@ -790,7 +790,7 @@ Las resoluciones habrán de orientarse en aplicar el espíritu del [Procomún de
 
 >### 3. Resolucions de suspenció
 
-### 3. Resoluciones de suspención
+### 3. Resoluciones de suspensión
 
 >En casos extrems, es pot resoldre la suspensió l'acord dels [Comuns de la XOLN](#cxoln) amb un participant, deixant-lo sense efectes, i podrà recuperar les infraestructures de la seva titularitat en funció del que es preveu en l'apartat [Titularitat i participants](#iv-titularitat-i-participants)". Per aquesta via no es poden resoldre penalitzacions o compensacions de tipus econòmic per danys o perjudicis i similars, si fos el cas s'haurà de fer via als Tribunals competents.
 
