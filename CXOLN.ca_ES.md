@@ -255,7 +255,7 @@ La incorporació d'actius a la xarxa és fonamental per al seu creixement i dese
 
 ### 8. Finalització de trams de xarxa
 
-En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#cxoln), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels Comuns de la XOLN.
+En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#cxoln), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels [Comuns de la XOLN](#cxoln).
 
 ### 9. Exercici de la titularitat
 
