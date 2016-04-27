@@ -321,7 +321,7 @@ En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apa
 
 En cap cas es pot fer servir aquesta possibilitat per impedir la lliure participació i circulació de serveis i continguts recollit en els [Comuns de la XOLN](#cxoln).
 
-Si un participant abusa reiteradament d'aquest punt, ja sigui en el sentit de causar trànsit inapropiat que requereix de la seva suspensió, o en el d'impedir injustificadament el trànsit d'altres usuaris, això pot ser causa d'un conflicte que d'acord amb el que es preveu en l'apartat de [resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable), i finalitzar amb la suspensió de l'acord dels [Comuns de la XOLN](#cxoln) amb aquest participant.
+Si un participant abusa reiteradament d'aquest punt, ja sigui en el sentit de causar trànsit inapropiat que requereix de la seva suspensió, o en el d'impedir injustificadament el trànsit d'altres usuaris, això pot ser causa d'un conflicte que, d'acord amb el que es preveu en l'apartat de [resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable), pot finalitzar amb la suspensió de l'acord dels [Comuns de la XOLN](#cxoln) per aquest participant.
 
 ### 5. Disponibilitat
 
