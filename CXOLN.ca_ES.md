@@ -317,7 +317,7 @@ Els membres de la xarxa faran públiques les prioritats implementades en els seu
 
 ### 4. Sancció i suspensió
 
-En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apartat [5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals), es podrà impedir el trànsit o la connexió de l'usuari que el causa, procurant advertir-lo sempre que sigui possible. En el cas de que aquest trànsit sigui causat per un participant, aquesta suspensió no causa també una suspensió de forma immediata de l'acord dels [Comuns de la XOLN](#cxoln), però sí que serveix d'advertiment.
+En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apartat [5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals), es podrà impedir el trànsit o la connexió de l'usuari que el causa, procurant advertir-lo sempre que sigui possible. En el cas de que aquest trànsit sigui causat per un participant, aquesta suspensió no causa ~~també~~ una suspensió ~~de forma~~ immediata de l'acord dels [Comuns de la XOLN](#cxoln), però sí que serveix d'advertiment.
 
 En cap cas es pot fer servir aquesta possibilitat per impedir la lliure participació i circulació de serveis i continguts recollit en els [Comuns de la XOLN](#cxoln).
 
