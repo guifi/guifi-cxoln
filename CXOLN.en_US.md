@@ -256,51 +256,129 @@ _The “electronic communications service” happens through the tools given by 
 
     The Private Foundation for the Neutral, Open and Free Network – guifi.net (“Fundació Privada per a la Xarxa Oberta, Lliure i Neutral guifi.net”, in Catalan -henceforth referred to as “The Foundation”) is a non-profit organization registered at the Catalan Government foundations registry with the number 2550 that has the foundational mandate to support guifi.net respecting its genuine nature, its organization and working methods.
 
+>### 3. Elaboració i revisió
+
+### 3. Drafting and revision
+
+>Els [Comuns de la XOLN](#cxoln) s'elabora i es revisa a través d'un debat públic entre tots els qui participen a la xarxa.
+
+The FONN Compact is elaborated and revised through a public debate among all the network participants
+
+>### 4. Finalització de l'acord
+
+### 4. End of agreement
+
+>Els [Comuns per la XOLN](#cxoln) es pot suspendre o finalitzar per:
+
+The FONN Compact may be suspended or ceased for:
+
+>+ **a.** La voluntat de qui l'ha subscrit. La voluntat s'expressa directament donant-se de baixa les seves participacions en les eines que proporciona guifi.net, o en cas de que les participacions subsisteixin, per transmissió als nous titulars.
+
++ **a.** The will of a subscriber. The will is expressed by the withdrawal the participation in the tools offered by guifi.net or, in the case that the participation remains, by the transmission to the new proprietors.
+
+>+ **b.** Per els procediment previst en l'apartat [X. Resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable).
+
++ **b.** The means described in the section “About Conflict Resolution and Jurisdiction”.
+
+>## III. La xarxa (XOLN)
+
+## III. The Network (XOLN)
+
+>### 1. Valors fonamentals
+
+### 1. Fundamental Values
+
+>La XOLN és una expressió de valors fonamentals com la llibertat, la igualtat d'oportunitats i la solidaritat i fraternitat a través del dret a comunicar-se lliurement i a extreure'n el màxim de prestacions possibles d'acord amb els [principis generals](#i-resum-i-principis-generals), que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació dels [Comuns de la XOLN](#cxoln).
+
+The FONN Compact is an expression of the fundamental values such as freedom, equality off opportunities, solidarity and fraternity through the right of free communication and of extracting the maximum benefits possible according to the general principles. These fundamental values must be used in case of having to resolve any doubt about the interpretation of the FONN Compact.
+
+>### 2. Accés
+
+### 2. Access
+
+>La xarxa permet l'accés a tothom qui ho vulgui, i és el resultat de interconnectar tots els seus participants. Si hi ha mecanismes de control en el seu accés es faran servir per a la correcta gestió de la xarxa des d'un punt de vista tecnològic, mai per restringir les llibertats protegides amb els [Comuns de la XOLN](#cxoln).
+
+The network allows the access to who ever wishes to, and it is the result of the interconnection of all the participants. In the case of the presence of access control mechanisms they will be use for the correct management of the network, but never to restrict the liberties protected by the FONN Compact.
+
+>### 3. Compromís
+
+### 3. Commitment
+
+>Els membres de la xarxa oberta es comprometen únicament als termes i condicions dels [Comuns de la XOLN](#cxoln). Qualsevol altre compromís l'han d'expressar explícitament.
+
+The members of the open network are just subject to the terms and conditions of the FONN Compact. Any other compromise must be explicitly stated.
+
+>### 4. Adhesió
+
+### 4. Membership
+
+>L'adhesió a la xarxa es pot expressar a títol individual o col·lectiu, i comporta l'acceptació dels termes dels [Comuns de la XOLN](#cxoln). En qualsevol moment un membre adherit a la xarxa pot renunciar a la seva adhesió conforme al que es preveu en el punt [II.4. Finalització de l'acord](4-finalització-de-lacord). En cas de renunciar a la seva adhesió podrà recuperar els béns, equips i infraestructures de les que sigui titular, amb independència de on estiguin ubicats, amb la única excepció dels casos descrits en l'apartat [IV.8. Finalització de trams de xarxa](#8-finalització-de-trams-de-xarxa).
+
+The accession to the network can be made as an individual or as collective constituency, and implies the acceptance of the terms and conditions of the FONN Compact. At any time a member can renounce to the accession by the means described in the point II.4 End of agreement. In case of a renounce the renouncer can recover his goods, equipment and infrastructure of his property, regardless of their location, except in the cases described in the point 4 of the section “About the Proprietorship and Participants”.
+
+>### 5. Compromís per el creixement
+
+### 5. Commitment for Growth
+
+>Els participants de la xarxa, per tal de facilitar-ne el seu creixement i connectivitat amb caràcter obert, es comprometen a:
+
+In order to ease the growth of the network and the open connectivity, their participants undertake the commitment to:
+
+>+ **a.** Permetre lliurement el trànsit dels altres participants en el seu tram que estén xarxa, sense manipular-lo ni inspeccionar-lo més enllà del que sigui necessari per a la gestió de la xarxa.
+
++ **a.** Allow the traffic of the other participants in his network segment, without manipulation or inspection of any kind more than the absolutely necessary for the network administration.
+
+>+ **b.** Facilitar i preveure tècnicament com fer la interconnexió amb els trams que estenen la xarxa que incorporen altres participants sense fer-ne una explotació comercial ni exigir-los cap cost en concepte d'interconnexió o de trànsit de dades. La interconnexió de trams que estenen la xarxa s'entén que son gratuïts ja que la compensació és mútua ja que tothom obté connectivitat cap a nous trams. Més enllà d'aquesta gratuïtat pel que fa al trànsit i interconnexió, si s'aprofita l'actuació de la connexió per repercutir alguna despesa per algun altre concepte, es farà segons les següents disposicions:
+
++ **b.** Facilitate and technically foresee how to make the interconnection with other network segments contributed by other participants without any commercial exploitation nor charging a cost of any kind, neither interconnection nor traffic. The interconnections of the segments that expand the network are free-of-charge because the compensation is mutual because everybody obtains connectivity form the others. If, aside from the free-of-charge of the connectivity and the traffic, other costs are charged, it must be done according to the following provisions:
+
+>    1. Compensacions  
+    Especificar clarament quin és el motiu per al qual es produeixen les compensacions, com per exemple l'accés a alguns tipus de continguts, accés a altres connexions cap a internet, serveis professionals, garantia de disponibilitat, etc.
+
+    1. Compensations  
+    Clearly specify the reason why these compensations are charged. For instance to access a specific kind of contents, connection to other networks such as the Internet, professional services, availability guarantee, etc.
+
+>    2. Ampliacions  
+    Alhora de fer la interconnexió, i sense excloure de que es puguin realitzar altres tipus d'acords entre els participants, si cal fer una ampliació en el punt d'interconnexió dels trams, o una conversió d'un tram de connexió simple a un tram que estén la xarxa, s'entén que el cost l'assumeix en la seva totalitat el participant que s'està incorporant amb un nou tram, i a partir de llavors la titularitat del node des d'on es fa la interconnexió passa a ser compartida en funció del nivell d'inversió de cada participant. En el cas de que el titular preexistent vulgui mantenir la seva titularitat sense compartir-la, llavors haurà d'assumir el cost de l'ampliació, i en qualsevol cas té preferència alhora d'escollir quin model prefereix.
+
+    2. Expansions  
+    At the time of setting the interconnection, and without excluding any other kind of agreement between the participants, if an expansion is required at the interconnection point, o the conversion from a simple connection to an extension segment, the cost must be assumed totally by the participant who is contributing the new segment, and from then on the proprietorship becomes shared according to the investing level of each participant. In the case that the initial participant wants to keep the proprietorship without sharing it he must assume the cost of the expansion and he has preference when choosing the model.
+
+>    3. Amortitzacions  
+    En el cas de que calgui amortitzar costos importants d'infraestructures o de ubicacions, es poden preveure compensacions alhora de realitzar les connexions, amb el benentès de que llavors la titularitat passa a ser compartida com en el punt anterior, que no hi poden haver tractes discriminatoris entre els participant si que aquestes compensacions han de ser raonables, orientades al cost i a la sostenibilitat, i no poden estar encaminades a la obtenció de marges per una explotació comercial.
+
+    3. Amortitzacions  
+    In the case of the need of having to cover depreciation costs of relevant infrastructure or collocation points, compensations can be foreseen at the time of setting the connections, understanding that then the proprietorship becomes shared as discribed at the previous point, that there cannot be discriminatory treatments, and that the compensations must be reasonable, cost oriented and sustainability oriented, and that they cannot pursuit commercial exploitation margins.
+
+>### 6. Altres organizatcions
+
+### 6. Other organizations
+
+>Hi poden haver altres organitzacions que també promouen xarxa amb característiques similars a la xarxa oberta lliure i neutral que fa guifi.net. Les xarxes obertes han de caracteritzar-se per tenir la vocació d'interconnectar, de manera es procurarà el que es preveu en el punt [VII.1. Evitar duplicitats d'infrastructura innecessaries](#1-evitar-duplicitats-dinfrastructura-innecessaries) i el punt [IX.7. Principi de reciprocitat](#7-principi-de-reciprocitat).
+
+There can be other organizations that also promote networks with similar characteristics the neutral, free and open network as guifi.net does. The open networks must be characterized by the willingness of interconnection in the way that it will be taken under consideration what is foreseen at point VII.1 “About Avoiding Duplication of Infrastructure” and the point IX.7 About the Reciprocity.
+
+>### 7. Conexió
+
+### 7. Connection
+
+>La connexió a la xarxa és lliure i gratuïta tal i com ja es desprèn del punt [III.5.b](#5-compromís-per-el-creixement). Els participants es fan càrrec de les infraestructures per estar connectats, ja sigui individualment a través de mitjans propis, donacions, apadrinaments, col·lectivament de la manera que lliurement decideixin, o acudint amb aquest propòsit a serveis professionals. L'activitat econòmica derivada d'aquestes activitats, com per exemple el cobrament de diners a canvi del subministrament d'equips, creació d'infraestructures o manteniments, és responsabilitat de qui la realitza, i haurà d'informar amb claredat a qui li pagui sobre a quins conceptes es corresponen aquests pagaments. Quan s'estableixen condicions econòmiques pel concepte de contribució a aquestes infraestructures, han de ser raonades, públiques, i no discriminatòries.
+
+The connection to the network is free and free-of-charge as already stated in pint III.5.b. The participants thake care of the infrastructure to be connected, either by their own, donations or sponsorship, collectively in the way they freely decide, or through professional services. The economic activity derived of these activities, as charging in compensation of equipment supply, creation of infrastructure or maintenance, is duty of the one who does it, and must clearly inform to the payer which concepts
+
+>## IV Titularitat i participants
+
+## IV. Ownership and Participants
+
+>### 1. Titularitat
+
+### 1. Ownership
+
+>Tot i que la xarxa forma una unitat global, es forma a partir d'uns actius que son les infraestructures que hi incorporen els seus participants, de manera que els participants retenen la titularitat de cadascuna d'aquestes infraestructures que hi han incorporat, per tant, la xarxa sempre té múltiples titulars.
+
+Although the network forms a global unit, it is formed by assets that are the infrastructures that integrate their participants, in a way that the participants keep the proprietorship of each infrastructure they have contributed, and thus, the network has multiple proprietors. The proprietorship is accredited, in order of preference:
+
 `------------ SPLICING IN PROGRESS ---------`
-
-3.  The FONN Compact is elaborated and revised through a public debate among all the network participants
-
-4.  End of agreement. The FONN Compact may be suspended or ceased for:
-
-    1.  The will of a subscriber. The will is expressed by the withdrawal the participation in the tools offered by guifi.net or, in the case that the participation remains, by the transmission to the new proprietors.
-
-    2.  The means described in the section “About Conflict Resolution and Jurisdiction”.
-
- 
-
-III About the Network
-=====================
-
-1.  The FONN Compact is an expression of the fundamental values such as freedom, equality off opportunities, solidarity and fraternity through the right of free communication and of extracting the maximum benefits possible according to the general principles. These fundamental values must be used in case of having to resolve any doubt about the interpretation of the FONN Compact.
-
-2.  The network allows the access to who ever wishes to, and it is the result of the interconnection of all the participants. In the case of the presence of access control mechanisms they will be use for the correct management of the network, but never to restrict the liberties protected by the FONN Compact.
-
-3.  The members of the open network are just subject to the terms and conditions of the FONN Compact. Any other compromise must be explicitly stated.
-
-4.  The accession to the network can be made as an individual or as collective constituency, and implies the acceptance of the terms and conditions of the FONN Compact. At any time a member can renounce to the accession by the means described in the point II.4 End of agreement. In case of a renounce the renouncer can recover his goods, equipment and infrastructure of his property, regardless of their location, except in the cases described in the point 4 of the section “About the Proprietorship and Participants”.
-
-5.  In order to ease the growth of the network and the open connectivity, their participants undertake the commitment to:
-
-    1.  Allow the traffic of the other participants in his network segment, without manipulation or inspection of any kind more than the absolutely necessary for the network administration.
-
-    2.  Facilitate and technically foresee how to make the interconnection with other network segments contributed by other participants without any commercial exploitation nor charging a cost of any kind, neither interconnection nor traffic. The interconnections of the segments that expand the network are free-of-charge because the compensation is mutual because everybody obtains connectivity form the others. If, aside from the free-of-charge of the connectivity and the traffic, other costs are charged, it must be done according to the following provisions:
-
-        1.  Clearly specify the reason why these compensations are charged. For instance to access a specific kind of contents, connection to other networks such as the Internet, professional services, availability guarantee, etc.
-
-        2.  Expansions. At the time of setting the interconnection, and without excluding any other kind of agreement between the participants, if an expansion is required at the interconnection point, o the conversion from a simple connection to an extension segment, the cost must be assumed totally by the participant who is contributing the new segment, and from then on the proprietorship becomes shared according to the investing level of each participant. In the case that the initial participant wants to keep the proprietorship without sharing it he must assume the cost of the expansion and he has preference when choosing the model.
-
-        3.  In the case of the need of having to cover depreciation costs of relevant infrastructure or collocation points, compensations can be foreseen at the time of setting the connections, understanding that then the proprietorship becomes shared as discribed at the previous point, that there cannot be discriminatory treatments, and that the compensations must be reasonable, cost oriented and sustainability oriented, and that they cannot pursuit commercial exploitation margins.
-
-6.  There can be other organizations that also promote networks with similar characteristics the neutral, free and open network as guifi.net does. The open networks must be characterized by the willingness of interconnection in the way that it will be taken under consideration what is foreseen at point VII.1 “About Avoiding Duplication of Infrastructure” and the point IX.7 About the Reciprocity.
-
-7.  The connection to the network is free and free-of-charge as already stated in pint III.5.b. The participants thake care of the infrastructure to be connected, either by their own, donations or sponsorship, collectively in the way they freely decide, or through professional services. The economic activity derived of these activities, as charging in compensation of equipment supply, creation of infrastructure or maintenance, is duty of the one who does it, and must clearly inform to the payer which concepts
-
- 
-
-IV About Proprietorship and Participants
-========================================
-
-1.  <span lang="en-US">Although the network forms a global unit, it is formed by assets that are the infrastructures that integrate their participants, in a way that the participants keep the proprietorship of each infrastructure they have contributed, and thus, the network has multiple proprietors. </span><span lang="en-US">The proprietorship is accredited, in order of preference:</span>
 
     1.  In the way that freely agree the participants.
 
