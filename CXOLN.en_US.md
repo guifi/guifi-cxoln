@@ -1,76 +1,262 @@
-The Compact for a Free, Open & Neutral Network (FONN Compact)
--------------------------------------------------------------
+# CXOLN
 
-<span class="submitted">created: Tue, 11/11/2014 - 10:54 — rogerpueyo</span> <span class="submitted">- updated: 11/11/2014 - 12:31pm</span>
-I General principles and Summary
-================================
+**C** omuns de la **X** arxa **O** berta, **L** liure i **N** eutral<sup>†</sup>.
+
+<sub>_† Commons of the Open, Free and Neutral Network._</sub>
+
+## Table of Contents
+
+* [I. Resum i principis generals](#i-resum-i-principis-generals)
+* [II. Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#ii-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln)
+    * [1. Gestació, interpretació i revisió del text](#1-gestació-interpretació-i-revisió-del-text)
+    * [2. Definicions](#2-definicions)
+    * [3. Elaboració i revisió](#3-elaboració-i-revisió)
+    * [4. Finalització de l'acord](#4-finalització-de-lacord)
+* [III. La xarxa (XOLN)](#iii-la-xarxa-xoln)
+    * [1. Valors fonamentals](#1-valors-fonamentals)
+    * [2. Accés](#2-accés)
+    * [3. Compromís](#3-compromís)
+    * [4. Adhesió](#4-adhesió)
+    * [5. Compromís per el creixement](#5-compromís-per-el-creixement)
+    * [6. Altres organizatcions](#6-altres-organizatcions)
+    * [7. Conexió](#7-conexió)
+* [IV. Titularitat i participants](#iv-titularitat-i-participants)
+    * [1. Titularitat](#1-titularitat)
+    * [2. Titularitat compartida](#2-titularitat-compartida)
+    * [3. Drets i deures](#3-drets-i-deures)
+    * [4. Responsabilitat](#4-responsabilitat)
+    * [5. Informació](#5-informació)
+    * [6. Transmissió](#6-transmissió)
+    * [7. Incorporació de trams de xarxa](#7-incorporació-de-trams-de-xarxa)
+    * [8. Finalització de trams de xarxa](#8-finalització-de-trams-de-xarxa)
+    * [9. Exercici de la titularitat](#9-exercici-de-la-titularitat)
+    * [10. Titularitat orfe](#10-titularitat-orfe)
+    * [11. Cessió d'ubicació](#11-cessió-dubicació)
+    * [12. Finalització d'una cessió](#12-finalització-duna-cessió)
+* [V. El paper de la Fundació](#v-el-paper-de-la-fundació)
+    * [1. Suport](#1-suport)
+    * [2. Personalitat jurídica](#2-personalitat-jurídica)
+    * [3. Defensa](#3-defensa)
+* [VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)](#vi-gestió-de-la-xarxa-i-prioritats-en-el-trànsit-qualitat-de-servei)
+    * [1. Gestió publica](#1-gestió-publica)
+    * [2. Prioritats de trànsit](#2-prioritats-de-trànsit)
+    * [3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats)
+    * [4. Sancció i suspensió](#4-sancció-i-suspensió)
+    * [5. Disponibilitat](#5-disponibilitat)
+    * [6. Responsabilitats i compromisos](#6-responsabilitats-i-compromisos)
+* [VII. Desplegament responsable i respecte al medi ambient](#vii-desplegament-responsable-i-respecte-al-medi-ambient)
+    * [1. Evitar duplicitats d'infrastructura innecessaries](#1-evitar-duplicitats-dinfrastructura-innecessaries)
+    * [2. Foment de l'us comú dels espais comuns](#2-foment-de-lus-comú-dels-espais-comuns)
+    * [3. Ús responsable](#3-Ús-responsable)
+* [VIII. Seguretat i responsabilitat](#viii-seguretat-i-responsabilitat)
+    * [1. Seguritat i privacitat](#1-seguritat-i-privacitat)
+    * [2. Xarxes privades i limitaciós](#2-xarxes-privades-i-limitaciós)
+    * [3. Danys](#3-danys)
+    * [4. Responsabilitat individual de cadascú](#4-responsabilitat-individual-de-cadascú)
+* [IX. Serveis, continguts, altres xarxes i Internet](#ix-serveis-continguts-altres-xarxes-i-internet)
+    * [1. Llibertat de crear continguts i serveis](#1-llibertat-de-crear-continguts-i-serveis)
+    * [2. Responsabilitats dels creadors de continguts i serveis](#2-responsabilitats-dels-creadors-de-continguts-i-serveis)
+    * [3. Termes i condicions d'us](#3-termes-i-condicions-d-us)
+    * [4. Exenció de garantia per defecte](#4-exenció-de-garantia-per-defecte)
+    * [5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals)
+    * [6. Interconnexións amb altres xarxes](#6-interconnexións-amb-altres-xarxes)
+    * [7. Principi de reciprocitat](#7-principi-de-reciprocitat)
+* [X. Resolució de conflictes i jurisdicció aplicable](#x-resolució-de-conflictes-i-jurisdicció-aplicable)
+    * [1. Conflictes i dubtes d'interpretació](#1-conflictes-i-dubtes-d-interpretació)
+    * [2. Solucions i arbitratge](#2-solucions-i-arbitratge)
+    * [3. Resolucions de suspenció](#3-resolucions-de-suspenció)
+    * [4. Recurs](#4-recurs)
+    * [5. Jurisdicció](#5-jurisdicció)
+* [XI. Llicència del text dels Comuns de la XOLN](#xi-Llicència-del-text-dels-comuns-de-la-xoln)
+    * [1. CC BY-NC-SA, GNU FDL](#1-cc-by-nc-sa-gnu-fdl)
+    * [2. Extensió i modificació](#2-extensió-i-modificació)
+
+>## I. Resum i principis generals
+
+## I. Summary and General Principles
+
+>Els [Comuns de la XOLN](#cxoln) s'inspira i es resumeix en:
 
 The fundamental principles of the FONN Compact are:
 
--   You have the freedom to use the network for any purpose as long as you don't harm the operation of the network itself , the rights of other users, or the principles of neutrality that allow contents and services to flow without deliberate interference.
+>  1. Ets lliure d'utilitzar la xarxa per qualsevol propòsit en tant que no perjudiquis al funcionament de la pròpia xarxa, la llibertat dels altres usuaris, i respectis les condicions dels continguts i serveis que lliurement hi circulen.
 
--   You have the right to understand the network and its components, and to share knowledge of its mechanisms and principles.
+1. You have the freedom to use the network for any purpose as long as you don't harm the operation of the network itself , the rights of other users, or the principles of neutrality that allow contents and services to flow without deliberate interference.
 
--   You have the right to offer services and content to the network on your own terms.
 
--   You have the right to join the network, and the obligation to extend this set of rights to anyone according to these same terms.
+>  2. Ets lliure de saber com és la xarxa, els seus components, com funciona i difondre'n el seu esperit i funcionament.
 
- 
+2. You have the right to understand the network and its components, and to share knowledge of its mechanisms and principles.
 
-II About this document (FONN)
-=============================
 
-1.  Creation, interpretation and revision of this document. A dynamic and innovative project such as guifi.net requires a continuous process of revision and action to adapt to changing realities and to improve the clarity of the applicable criteria. Because this text may change over time, and because all versions bind users to a set of terms and conditions at the moment of acceptance, the text can only be revised or modified so long as it respects the agreements and obligations made in previous revisions:
+>  3. Ets lliure d'incorporar serveis i continguts a la xarxa amb les condicions que vulguis.
 
-    1.  A revision cannot modify the terms and conditions which are a result of the acceptance of a previous revision. Such a desired modification would require a rewrite and not just a revision. To implement a rewrite, consent must be expressly renewed.
+3. You have the right to offer services and content to the network on your own terms.
 
-    2.  When a revision addresses new situations such as those concerning new applications or new technologies, it is understood that such updates and extension of the Compact shall be accepted implicitly.
+>  4. Incorporant-te a la xarxa, ajudes a estendre aquestes llibertats en les mateixes condicions.
 
-    3.  <span lang="en-US">The FONN Compact is a revision of the earlier 'Wireless Commons' which is available </span><span lang="en-US">in Catalan </span><span lang="en-US">as a reference at </span><http://guifi.net/ComunsSensefils><span lang="en-US">.</span>
+4. You have the right to join the network, and the obligation to extend this set of rights to anyone according to these same terms.
 
-    4.  All revisions of the FONN Compact are archived and published so you can follow the update process and know the release dates of each revision. If necessary, these can be compared with the dates of acceptance of the Compact to avoid conflicts of interpretation.
 
-    5.  If a participant considers that a later revision denies one's rights or significantly modifies previously compacted terms and conditions without one's consent as described in II.1.a, then recourse may be made as described in the section “About Conflict Resolution and Jurisdiction”.
+>  A continuació els [Comuns de la XOLN](#cxoln) desenvolupa aquests principis per tal de garantir-los i respectar-los.
 
-2.  Definitions
+`MISSING`
 
-    1.  The FONN Compact (“Comuns de la Xarxa Oberta, Lliure i Neutral”, or XOLN in Catalan) is an agreement for the connections between peers that serves as a contract between each participant in the network as a whole, and is the same for each participant of the network. The agreement serves simultaneously a contract for participation in the network and as a license for use, becoming a guarantee for its subscribers regarding the applicable terms and conditions, which are the same for everyone. It is also known as “commons” or “free network commons”.
+>## II. Els "Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)"
 
-    2.  The Neutral, Open and Free Telecommunications Network (the “Xarxa de Telecomunicacions Oberta, Lliure I Neutral” in Catalan) is a public community telecommunications infrastructure regulated by the terms and conditions of the “XLON Compact”<span style="text-decoration: none">, which is publicly available, in a way that when new participants join it </span><span style="text-decoration: none">expands.</span><span style="text-decoration: none"> Through the network the participant obtains and simultaneously provides electronic communication services with the rest of participants, directly or via the interconnection with other networks.</span>
+## II About this document (FONN)
 
-        <span style="text-decoration: none">In this document the term “the network” </span><span style="text-decoration: none">refers to the </span><span style="text-decoration: none">Neutral, Open and Free Telecommunications Network, </span><span style="text-decoration: none">defined this way because:</span>
+>### 1. Gestació, interpretació i revisió del text
 
-        1.  <span style="text-decoration: none">It is </span><span style="text-decoration: none">**open**</span><span style="text-decoration: none"> because </span><span style="text-decoration: none">it is universally open to the participation of everybody without any kind of exclusion nor discrimination, and because it is always described how it works and its components, enabling everyone to improve it.</span>
+### 1.  Creation, interpretation and revision of this document.
 
-        2.  <span style="text-decoration: none">It is </span><span style="text-decoration: none">**free**</span><span style="text-decoration: none"> because </span><span style="text-decoration: none">everybody can use it for whatever purpose and enjoy it as foreseen in the freedoms of the “</span>General principles<span style="text-decoration: none">” section, independently of his network participation degree.</span>
+>Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés continuat en el temps de revisió i actualització que permeti adaptar-nos a noves realitats i millorar la claredat en les seves disposicions expressant millor els mateixos criteris que s'apliquen. Com que aquest text pot canviar amb el pas del temps i alhora serveix per adquirir uns compromisos en el moment de la seva acceptació, es preveu com cal interpretar el text de manera que es pugui revisar respectant els compromisos adquirits:
 
-        3.  <span style="text-decoration: none">it is </span><span style="text-decoration: none">**neutral**</span><span style="text-decoration: none"> because </span><span style="text-decoration: none">the network is independent of the contents, it does not influence them and they can freely circulate; the users can access and produce contents independently to their financial capacity or their social condition. The new contents produced by guifi.net are orientated to stimulate new ones, or for the network administration itself, or simply in exercise of the freedom of adding new contents, but not to replace or to to block other ones</span>
+A dynamic and innovative project such as guifi.net requires a continuous process of revision and action to adapt to changing realities and to improve the clarity of the applicable criteria. Because this text may change over time, and because all versions bind users to a set of terms and conditions at the moment of acceptance, the text can only be revised or modified so long as it respects the agreements and obligations made in previous revisions:
 
-            <span style="text-decoration: none">It is also neutral with regard to the technology, </span><span style="text-decoration: none">the network can be built with whatever technology chosen by the participants with the only limitations resulting of the technology itself.</span>
+>+ **a.** Una revisió <u>no pot</u> modificar els compromisos adquirits en l'acceptació d'una revisió anterior. En cas de voler modificar-los, es tractaria d'una altre versió diferent i no pas només una revisió. Per aplicar una nova versió cal renovar el consentiment de forma expressa.
 
-    3.  Guifi.net<span style="text-decoration: none"> is the set formed by the network and the individuals, the collectives, the enterprises, the institutions and the administrations that support it or collaborates with it in a way that the network becomes operational and offers connectivity to everybody. Thus, they act as telecommunication operators.</span>
++ **a.** A revision cannot modify the terms and conditions which are a result of the acceptance of a previous revision. Such a desired modification would require a rewrite and not just a revision. To implement a rewrite, consent must be expressly renewed.
 
-    4.  Proprietorship and Participants<span style="text-decoration: none">. </span><span style="text-decoration: none">The participants are those natural or juridical persons that contribute infrastructure as network segments accepting the FONN Compact. The participants keep the proprietorship of their contributions in a way that the network proprietorship is distributed among the participants. This way, the participants are the network investors. They are called “</span>sponsors<span style="text-decoration: none">” and the act of covering the investment is called “</span>sponsorship<span style="text-decoration: none">”.</span>
+>+ **b.** Quan en una revisió s'estén a noves situacions que abans no existien, com per exemple les derivades d'algun tipus d'ampliació o d'actualització tecnològica, s'entén que implícitament es renova l'acceptació segons la revisió vigent del moment en que es produeix l'actualització o ampliació.
 
-    5.  Forms of participation depending on the network connection format:
++ **b.** When a revision addresses new situations such as those concerning new applications or new technologies, it is understood that such updates and extension of the Compact shall be accepted implicitly.
 
-        1.  Simple connections. Simple connections are those network segments that end to a node from which the network do not expand no other segments under the same conditions. It is usually the point from where the users enjoy the neutral, free and open network and from where they connect their private networks.
+>+ **c.** Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils][1]
 
-        2.  Segments that expand the network. The segments that expand the network are those network segments where, contrary to the simple connection, it is foreseen to have additional network segments under the same conditions at each edge of them.
++ **c.** <span lang="en-US">The FONN Compact is a revision of the earlier 'Wireless Commons' which is available </span><span lang="en-US">in Catalan </span><span lang="en-US">as a reference at </span><http://guifi.net/ComunsSensefils><span lang="en-US">.</span>
 
-    6.  Contents. What give sense to a telecommunications network is the fact that it can be used to transport contents. The contents are published through services.
+>+ **d.** Totes les revisions dels [Comuns de la XOLN](#cxoln) es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
 
-    7.  Services. Many service formats exist under the scope of the network. The most basic one which is inseparable from the network itself is the connectivity between all the participants and it is called “electronic communications service”. Apart from this inseparable service, two big different categories of services exist:
++ **d.** All revisions of the FONN Compact are archived and published so you can follow the update process and know the release dates of each revision. If necessary, these can be compared with the dates of acceptance of the Compact to avoid conflicts of interpretation.
 
-        1.  Services “as they are”. Are those services offered “as they are”, that is to say, anyone using them is doing so under his responsibility and cannot demand the coverage of any expectations or features to the service supplier. Frequently the free services belong to this category.
+>+ **e.** Si algú creu que en alguna revisió posterior se li ha modificat un compromís adquirit i no hi ha donat el seu consentiment tal i com es diu el punt [II.1.a](#1-gestació-interpretació-i-revisió-del-text), ho pot manifestar segons el que es preveu en l'apartat [X. Resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable).
 
-        2.  Services with compromise. Is a service offered with a compromise for being delivered, usually in change of a compensation, as when connectivity to other providers or to the internet is supplied or the professional services to offer a given service level agreement.
++ **e.** If a participant considers that a later revision denies one's rights or significantly modifies previously compacted terms and conditions without one's consent as described in II.1.a, then recourse may be made as described in the section “About Conflict Resolution and Jurisdiction”.
 
-            The “electronic communications service” happens through the tools given by guifi.net that emerge as a result of the network interconnection agreement. It deserves a clarification because it can be considered as a “as it is” service and a service with a compromise at the same time. “As it is” because each participant, although he can, he has not the obligation to guarantee the availability to third parties, and with compromise because, independently to the availability compromise, he has the obligation to make the interconnection and the traffic possible as soon as the connection becomes active, because, although he does not receive any economic compensation, he receives connectivity with the rest of the participants in exchange of the compromise of integrating a new network segment under the same conditions.
+>### 2. Definicions
 
-    8.  Users. Are those who enjoy the connectivity offered by the network with its use, usually are the participants themselves, but the participants can open the access to everybody.
+### 2. Definitions
 
-    9.  The Private Foundation for the Neutral, Open and Free Network – guifi.net (“Fundació Privada per a la Xarxa Oberta, Lliure i Neutral guifi.net”, in Catalan -henceforth referred to as “The Foundation”) is a non-profit organization registered at the Catalan Government foundations registry with the number 2550 that has the foundational mandate to support guifi.net respecting its genuine nature, its organization and working methods.
+>+ **a. CXOLN**
+
+>    Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és un acord d'interconnexió entre iguals que serveix de contracte d'adhesió de cada participant amb el conjunt de a guifi.net i que és comú per a tothom que forma part de la xarxa. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús de la xarxa, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom. També es coneix amb les abreviacions "Comuns", "Comuns de la XOLN" o "CXOLN".
+
++ **a. CXOLN**
+
+    The FONN Compact (“Comuns de la Xarxa Oberta, Lliure i Neutral”, or XOLN in Catalan) is an agreement for the connections between peers that serves as a contract between each participant in the network as a whole, and is the same for each participant of the network. The agreement serves simultaneously a contract for participation in the network and as a license for use, becoming a guarantee for its subscribers regarding the applicable terms and conditions, which are the same for everyone. It is also known as “commons” or “free network commons”.
+
+>+ **b. XOLN**
+
+>    La Xarxa de Telecomunicacions Lliure, Oberta i Neutral (XOLN) és una infraestructura de telecomunicacions pública comunitària a la que s'apliquen els termes i condicions dels [Comuns de la XOLN](#cxoln), disponible al públic en general, de manera que quan els participants s'hi adhereixen, s'amplia. A través de la xarxa s'obté i alhora es subministra un servei de comunicacions electròniques amb els altres participants ja sigui directament o a través de la interconnexió amb altres xarxes.
+
++ **b. XOLN**
+
+    The Neutral, Open and Free Telecommunications Network (the “Xarxa de Telecomunicacions Oberta, Lliure I Neutral” in Catalan) is a public community telecommunications infrastructure regulated by the terms and conditions of the “XLON Compact”<span style="text-decoration: none">, which is publicly available, in a way that when new participants join it </span><span style="text-decoration: none">expands.</span><span style="text-decoration: none"> Through the network the participant obtains and simultaneously provides electronic communication services with the rest of participants, directly or via the interconnection with other networks.</span>
+
+>    Quan en aquest document es menciona "la xarxa" de forma genèrica o l'abreviació "XOLN", es refereix a la Xarxa Oberta, Lliure i Neutral, i es defineix així perquè:
+
+    In this document the term “the network” refers to the Neutral, Open and Free Telecommunications Network, defined this way because:
+
+>    1. És **oberta** perquè s'ofereix universalment a la participació de tothom sense cap tipus d'exclusió ni discriminació, i perquè s'informa en tot moment de com funciona i els seus components, permetent així que qui vulgui pugui millorar-la.
+
+    1. It is **open** because it is universally open to the participation of everybody without any kind of exclusion nor discrimination, and because it is always described how it works and its components, enabling everyone to improve it.
+
+>    2. És **lliure** perquè tothom hi pot fer el que vol i gaudir-ne tal i com es preveu en la referència a les llibertats dels [principis generals (apartat I.)](#i-resum-i-principis-generals), i tot això independentment del seu nivell de participació a la xarxa i sense imposar termes i condicions que contradiguin aquest acord de forma unilateral.
+
+    2. It is **free** because everybody can use it for whatever purpose and enjoy it as foreseen in the freedoms of the “General principles” section, independently of his network participation degree.
+
+>    3. És **neutral** perquè la xarxa és independent dels continguts, no els condiciona i hi poden circular lliurement; Els usuaris poden accedir i produir continguts independentment de les seves possibilitats financeres o condició social. Quan des de guifi.net s'incorporen continguts a la xarxa es fa o bé per estimular-ne de nous, o bé per a la gestió de la pròpia xarxa, o simplement en exercici de la llibertat d'incorporar-hi continguts, però en cap cas amb l'objectiu de substituir o impedir-ne d'altres.  
+
+    3. It is **neutral** because the network is independent of the contents, it does not influence them and they can freely circulate; the users can access and produce contents independently to their financial capacity or their social condition. The new contents produced by guifi.net are orientated to stimulate new ones, or for the network administration itself, or simply in exercise of the freedom of adding new contents, but not to replace or to to block other ones.
+
+>    També és **neutral** respecte de la tecnologia, la xarxa es pot construir amb la tecnologia que decideixin els seus participants sense més limitacions que les que es derivin de la pròpia tecnologia.
+
+    It is also **neutral** with regard to the technology, the network can be built with whatever technology chosen by the participants with the only limitations resulting of the technology itself.
+
+>+ **c. Guifi.net**
+
+>    És el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
+
++ **c. Guifi.net**
+
+    Is the set formed by the network and the individuals, the collectives, the enterprises, the institutions and the administrations that support it or collaborates with it in a way that the network becomes operational and offers connectivity to everybody. Thus, they act as telecommunication operators.
+
+>+ **d. Participants i titularitat**
+
+>    Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels [Comuns de la XOLN](#cxoln). Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de `padrins`, i de l'acte de cobrir la inversió, la denominació d'`apadrinament`.
+
++ **d. Proprietorship and Participants**
+
+    The participants are those natural or juridical persons that contribute infrastructure as network segments accepting the FONN Compact. The participants keep the proprietorship of their contributions in a way that the network proprietorship is distributed among the participants. This way, the participants are the network investors. They are called “sponsors” and the act of covering the investment is called “sponsorship”.
+
+>+ **e. Formes de participació**
+
++ **e. Forms of participation**
+
+>    En funció del format de connexió a la xarxa, existeixen:
+
+    Depending on the network connection format:
+
+>    1. Connexions simples  
+    Les connexions simples son aquells segments de la xarxa que finalitzen en un punt a partir del qual no s'estén a altres trams de la xarxa amb les mateixes condicions. Normalment és el punt des del qual els usuaris gaudeixen de la xarxa oberta lliure i neutral i a partir del qual hi connecten les seves xarxes privades.
+
+    1. Simple connections
+    Simple connections are those network segments that end to a node from which the network do not expand no other segments under the same conditions. It is usually the point from where the users enjoy the neutral, free and open network and from where they connect their private networks.
+
+>    2. Trams que estenen la xarxa  
+    Els trams que estenen la xarxa són els segments de la xarxa que, a diferència de les connexions simples, sí que preveuen que en cadascun dels extrems hi hagin altres trams de xarxa amb les mateixes condicions.
+
+    2. Segments that expand the network
+    The segments that expand the network are those network segments where, contrary to the simple connection, it is foreseen to have additional network segments under the same conditions at each edge of them.
+
+>+ **f. Continguts**
+
++ **f. Contents**
+
+>    El que dona sentit a una xarxa de telecomunicacions és que serveixi d'instrument de transmissió per accedir a continguts. Els continguts es publiquen a través de serveis.
+
+    What give sense to a telecommunications network is the fact that it can be used to transport contents. The contents are published through services.
+
+>+ **g. Serveis**
+
++ **g. Services**
+
+>    A l'entorn de la xarxa existeixen múltiples formats de serveis. El més bàsic i indissociable de la pròpia xarxa és la connectivitat entre tots els participants i que s'anomena "servei de comunicacions electròniques". Més enllà d'aquest servei indissociable, es distingeix entre dos grans tipologies de serveis:
+
+    Many service formats exist under the scope of the network. The most basic one which is inseparable from the network itself is the connectivity between all the participants and it is called “electronic communications service”. Apart from this inseparable service, two big different categories of services exist:
+
+>    1. Serveis "tal qual"  
+    Son aquells serveis que es proporcionen "tal qual son", és a dir, qui els utilitza ho fa sota la seva responsabilitat i no pot exigir a qui li subministra que cobreixi una expectativa o unes característiques. En aquesta categoria generalment hi trobarem els serveis que es proporcionen de forma gratuïta.
+
+    1. Services “as they are”
+    Are those services offered “as they are”, that is to say, anyone using them is doing so under his responsibility and cannot demand the coverage of any expectations or features to the service supplier. Frequently the free services belong to this category.
+
+>    2. Serveis amb compromís  
+    És quan es proporciona un servei amb un compromís de subministrar-lo, normalment a canvi d'una contraprestació, com per exemple quan es proporciona connectivitat amb altres operadors o Internet, o també els serveis professionals per garantir uns `nivells de servei o disponibilitat`.
+
+    2. Services with compromise
+    Is a service offered with a compromise for being delivered, usually in change of a compensation, as when connectivity to other providers or to the internet is supplied or the professional services to offer a given service level agreement.
+
+_The “electronic communications service” happens through the tools given by guifi.net that emerge as a result of the network interconnection agreement. It deserves a clarification because it can be considered as a “as it is” service and a service with a compromise at the same time. “As it is” because each participant, although he can, he has not the obligation to guarantee the availability to third parties, and with compromise because, independently to the availability compromise, he has the obligation to make the interconnection and the traffic possible as soon as the connection becomes active, because, although he does not receive any economic compensation, he receives connectivity with the rest of the participants in exchange of the compromise of integrating a new network segment under the same conditions._
+
+>+ **h. Usuàries/is**
+
++ **h. Users**
+
+    Son els qui gaudeixen de la connectivitat que ofereix la xarxa amb el seu ús, normalment son els participants, però els participants poden permetre l'accés a tothom.
+
+    Are those who enjoy the connectivity offered by the network with its use, usually are the participants themselves, but the participants can open the access to everybody.
+
+>+ **i. La Fundació Guifi.net**
+
++ **i. The Guifi.net Foundation**
+
+>    La "Fundació privada per a la xarxa oberta, lliure i neutral guifi.net", (en endavant, "la Fundació") és una institució sense ànim de lucre que consta amb el número 2550 del registre de fundacions de la Generalitat de Catalunya i que té com a mandat fundacional donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i treballar.
+
+    The Private Foundation for the Neutral, Open and Free Network – guifi.net (“Fundació Privada per a la Xarxa Oberta, Lliure i Neutral guifi.net”, in Catalan -henceforth referred to as “The Foundation”) is a non-profit organization registered at the Catalan Government foundations registry with the number 2550 that has the foundational mandate to support guifi.net respecting its genuine nature, its organization and working methods.
+
+`------------ SPLICING IN PROGRESS ---------`
 
 3.  The FONN Compact is elaborated and revised through a public debate among all the network participants
 
