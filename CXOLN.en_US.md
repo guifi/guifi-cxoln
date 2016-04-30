@@ -376,90 +376,260 @@ The connection to the network is free and free-of-charge as already stated in pi
 
 >Tot i que la xarxa forma una unitat global, es forma a partir d'uns actius que son les infraestructures que hi incorporen els seus participants, de manera que els participants retenen la titularitat de cadascuna d'aquestes infraestructures que hi han incorporat, per tant, la xarxa sempre té múltiples titulars.
 
-Although the network forms a global unit, it is formed by assets that are the infrastructures that integrate their participants, in a way that the participants keep the proprietorship of each infrastructure they have contributed, and thus, the network has multiple proprietors. The proprietorship is accredited, in order of preference:
+Although the network forms a global unit, it is formed by assets that are the infrastructures that integrate their participants, in a way that the participants keep the proprietorship of each infrastructure they have contributed, and thus, the network has multiple proprietors.
+
+>La titularitat s'acredita amb i per ordre de preferència:
+
+The proprietorship is accredited, in order of preference:
+
+>+ **a.** De la manera que lliurement pactin els participants entre ells
+
++ **a.** In the way that freely agree the participants.
+
+>+ **b.** L'aportació amb documents com per exemple factures o similars
+
++ **b.** Provision of documents such as bills or alike.
+
+>+ **c.** La informació que es proporciona a través de les eines de la xarxa i que es publiquen
+
++ **c.** The information provided through the network tools and published.
+
+>+ **d.** La titularitat de la finca on s'ubica la infraestructura
+
++ **d.** The proprietorship of the estate where the installation is located.
+
+>### 2. Titularitat compartida
+
+### 2. Shared Ownership
+
+>A la vegada, una mateixa infraestructura pot tenir un o diversos titulars. Quan hi ha diversos titulars, i sempre que entre ells no pactin res en un altre sentit, s'entén que ho son proporcionalment al volum d'inversió de cadascun respecte del valor total de la infraestructura.
+
+At the same time, a single infrastructure can have several proprietors. In this case, and always in the absence of any agreement between the proprietors, the proprietorship is shared according to the inves tment made by each one.
+
+>### 3. Drets i deures
+
+### 3. Rights and obligations `deures`
+
+>Encara que en la xarxa hi poden haver diferents nivells de participació de cadascun dels seus titulars, els drets i deures son els mateixos per a tots els participants.
+
+Although there can be different levels of participation for each proprietor, the terms and conditions are the same for all the participants.
+
+>### 4. Responsabilitat
+
+### 4. Responsability
+
+>Els titulars són els responsables de gestionar les seves infraestructures respectant els [Comuns de la XOLN](#cxoln).
+
+The proprietors are the responsible for managing their infrastructures respecting the FONN Compact.
+
+>### 5. Informació
+
+### 5. Information
+
+>Un dels pilars de la xarxa oberta és que s'informa dels seus components. Els titulars han de proporcionar de bona fe dades de contacte i una descripció de la seva aportació a través de les eines que proporciona la xarxa i conscients i acceptant que es publicaran. Podran accedir, modificar-les o cancel·lar-les en qualsevol moment. El subministrament maliciós de dades falses pot implicar la suspensió de l'acord dels [Comuns de la XOLN](#cxoln).
+
+One of the pillars of the open network is the information about its components. The proprietors must provide reliable information about their contributions and contact details through the network tools, being aware that this information will be made publicly available. They have the right to access, modify or cancel them at any time. The provision of malicious information may lead to the suspension of the FONN Compact agreement.
+
+>### 6. Transmissió
+
+### 6. Transmission
+
+>La titularitat és un actiu, que com a tal pot tenir un valor, i conseqüentment es pot transmetre entre participants ja sigui per cessió o compravenda o qualsevol altra forma jurídicament lícita. Quan la titularitat es transmet a nous participants, comporta l'acceptació dels [Comuns de la XOLN](#cxoln) per part de qui l'adquireix.
+
+The proprietorship is an asset, and as such it has a value, thus, it can be transferred between participants, either by cession, sale, or any other transfer legal form. The proprietorship transfer to new participants implies their acceptance of the FONN Compact.
+
+>### 7. Incorporació de trams de xarxa
+
+### 7. Incorporation of network trunks
+
+>La incorporació d'actius a la xarxa és fonamental per al seu creixement i desenvolupament ja que és la forma principal de captar inversions i de proporcionar sostenibilitat, per tant convé protegir-la i fomentar-la. Per això, els participants quan incorporen infraestructures a la xarxa a més d'obtenir connectivitat amb la resta, també es poden donar prioritat en els trams dels quals en son titulars de manera que tinguin preferència sobre l'ample de banda disponible, amb la única condició de que es respectin els criteris establerts en l'apartat [VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)](#vi-gestió-de-la-xarxa-i-prioritats-en-el-trànsit-qualitat-de-servei) i, alhora deixin disponible tot l'ample de banda excedentari per a la resta del trànsit.
+
+The integration of assets to the network is essential to promote its growth and development because it is the main way to attract investment and provide sustainability, thus it is advisable to protect and promote it. To this end, when contributing new infrastructure, the participants, aside form getting connectivity with the rest of the network, they can also give themselves priority on the bandwidth available in their segments, on the sole condition of respecting the criteria of section “About Network Management and Traffic Shaping” and leaving the surplus bandwidth available to the rest of the traffic.
+
+### 8. Finalització de trams de xarxa
+
+>En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#cxoln), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels [Comuns de la XOLN](#cxoln).
+
+In the case a participant finalizes the FONN Compact agreement, he recovers all the his infrastructures, except from those which deployment required licenses or permissions form third parties and they where given on behalf of the network or the Foundation, or when the proprietorship is shared. In these cases the parties can agree on how to solve the situation in a fair way for all of them. In the case of a transfer, the rest of proprietors have the right of pre-emption.
+
+>### 9. Exercici de la titularitat
+
+### 9. Exercising Ownership
+
+>L'exercici de la titularitat implica com a mínim que mentre aquest segment de la xarxa estigui operatiu, es proporciona un servei de comunicacions electròniques que permet la connectivitat. Encara que el titular no és responsable del nivell de disponibilitat que proporciona, s'espera del titular que mantingui les seves infraestructures en un nivell de servei raonable d'acord amb les seves característiques i de manera que no perjudiqui el bon funcionament de la xarxa. En casos extrems d'abandonament d'aquestes funcions pròpies del titular, el participant perd la titularitat, que passarà a considerar-se orfe.
+
+The exercise of the proprietorship of an infrastructure implies, at least, that meanwhile this network segment is operative, an electronic communication service that allows the connectivity is offered. Although the proprietor is not responsible for the availability given, it is expected that he maintains his infrastructures in a reasonable service level according to their characteristics and in a way that it doesn't harm the proper functioning of the network. In the case of extreme abandonment of these functions by the proprietor, the participant looses the proprietorship, which will be considered orphan.
+
+>### 10. Titularitat orfe
+
+### 10. Orphaned Ownership
+
+>Si la titularitat d'una infraestructura es considera que ha quedat orfe, es transmet a qui vulgui exercir-la. En el cas de que ningú vulgui exercir-la, o bé passa a la Fundació, o bé es considera com a abandonada, causant baixa definitiva de la xarxa i essent responsable del seu desmuntatge el darrer titular.
+
+In the case of an orphan infrastructure, the proprietorship is transferred to anybody who wants to exercise it. In the case no body wants to, it is transferred to the Foundation or it is considered abandoned, in which case it is withdrawn from the network being the last proprietor for its dismantlement.
+
+>### 11. Cessió d'ubicació
+
+### 11. Location cession / Ceding a location
+
+>Quan es cedeixen ubicacions per muntar-hi infraestructures de xarxa sense contraprestació, independentment de quins siguin la resta de titulars, s'assumeix que facilitaran la connexió més oberta possible en funció de la naturalesa de l'equipament. Si s'estableixen limitacions d'espai o de capacitat han de facilitar el trànsit segons els Comuns XOLN, ser raonables, aplicant les bones pràctiques, les mateixes condicions per a tots els usuaris sense discriminacions i no forçar la contractació de serveis a operadors concrets encara que siguin co-titulars de la infraestructura. Els operadors que hi ofereixen compromís de servei n'haurien de tenir suficient amb aplicar el que es preveu en el punt [VI. 3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats).
+
+When locations are made available to host network infrastructures without compensation, independently to the rest of proprietors, it is understood that they will facilitate the connection as open as possible according to the nature of the installation. In the case of space or capacity limitations, they must allow the traffic according to the FONN Compact, be reasonable, and applying good practices, being the same for all the users without any discrimination, and without implying the hiring the services of any specific operator although this may be co-proprietor of the infrastructure. What is foreseen in point VI.3 of section “About Network Management and Traffic Shaping (Quality of Service)” should suffice for those operators that offer services with compromise.
+
+>Aquesta condició és d'indispensable compliment quan es tracta de dominis públics gestionats per administracions públiques donada la obligatorietat legal que tenen de garantir la no discriminació.
+
+This condition is inalienable when it is about public domains managed by public administrations because they have the legal obligation to guarantee the non-discrimination.
+
+>Per exemple:
+
+For instance:
+
+>+ **a.** En el cas de comunicacions sense fils, quan hi han antenes de cobertura per a connexions simples sense fils, es permetrà la connexió d'usuaris d'altres operadors o les que es fan les que es puguin fer els usuaris directament pel seu compte i sense garantia de servei.
+
++ **a.** In the case of wireless communications, the coverage antennas meant for simple connections must allow connections form other operators and from the users.
+
+>+ **b.** En el cas de cables i conduccions, encara que els promotors aprofitin per crear connexions punt a punt privades, cal que sempre hi hagi reserva d'espai per xarxa gestionada segons els Comuns XOLN.
+
++ **b.** In the case of cables and ducts, although the promoters may set point-to-point private connections, there must always be spare space to allocate open network infrastructure.
+
+>### 12. Finalització d'una cessió
+
+### 12. Cession termination
+
+>La cessió d'espais per antenes de radiocomunicació és reversible en qualsevol moment a petició del propietari i no li creen cap servitud.
+
+The transfer of space to allocate radio-communication antennas is always reversible at any time at the proprietor request and they do not create any servitude.
+
+>## V. El paper de la Fundació
+
+## V. The role of the Guifi.net Foundation
+
+>### 1. Suport
+
+### 1. Support
+
+>Donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i de treballar.
+
+Give support to guifi.net respecting its genuine nature, its organization and working methods.
+
+>### 2. Personalitat jurídica
+
+### 2. Personalitat jurídica
+
+>Proporcionar personalitat jurídica a guifi.net en tot allò que li sigui necessari per al complert i normal exercici de la seva activitat com a operador de la xarxa amb igualtat de drets i deures respecte de qualsevol altre operador, com per exemple i no limitat a, obtenir llicències, ocupar dominis públics o privats, representar, fer gestions i notificacions en nom de guifi.net davant de les administracions o tercers, o prendre acords d'interconnexió amb altres operadors i formar part d'organismes que composen Internet.
+
+Give legal personality to guifi.net for any purpose necessary to allow the normal course of the exercise of its activity as an operator of the network on an equal rights and duties respect to whatever other operator, as for, but not limited to, receive licenses, public and private spaces occupation, represent, make agreements and notifications on behalf of guifi.net with public administrations or third parties, make interconnection agreements with other operators and join Internet bodies.
+
+>Quan els participants accepten els [Comuns de la XOLN](#cxoln) accepten també delegar totes aquestes funcions a guifi.net i a la Fundació, sense renunciar que per la seva banda també, si així ho desitgen, poden realitzar les mateixes funcions directament.
+
+Subscribing the FONN Compact the participants accept the delegation of all these functions to guifi.net and to the Foundation, without renouncing to their right to exercise them by themselves.
+
+>### 3. Defensa
+
+### 3. Defense
+
+>Defensar i donar suport als interessos dels participants en la seva activitat de pertinença a la xarxa, els interessos i bon ús dels [Comuns de la XOLN](#cxoln) i el nom de guifi.net, podent, si fos necessari, emprendre accions legals o reclamar reparacions en aquells casos on de mala fe s'ha volgut causar un perjudici a guifi.net o als seus usuaris.
+
+Defend and support the interests of the participants, the good use of the FONN Compact, and the name of guifi.net, being able, when necessary, to undertake legal actions or claim reparation in those bad faith cases where intended damage to guifi.net or its users is seeked.
+
+>## VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)
+
+## VI. Network Management and Traffic Shaping (Quality of Service)
+
+>### 1. Gestió publica
+
+### 1. Puplic Management
+
+>La gestió de la xarxa ha de ser pública i tothom qui ho desitgi ha de poder participar-hi.
+
+The management of the network must be public and open to the participation of everyone who wants to.
+
+>### 2. Prioritats de trànsit
+
+### 2. Network Priorities
+
+>Quan sigui possible i necessari per motius de gestió de la xarxa, les prioritats del trànsit generals s'implementen en aquest ordre:
+
+When necessary due to network management needs, the network traffic implementation priorities are:
+
+>+ **a.** Trànsit de tipus interactiu (missatgeria instantània, conferències de veu, navegar, etc.)
+
++ **a.** Interactive traffic (instant messaging, voice conferences, browser, etc.)
+
+>+ **b.** Trànsit de tipus massiu o diferit (transferències, correu electrònic, còpies, etc.)
+
++ **b.** Massive or deferred traffic (transfers, e-mail, copies, etc.)
+
+>### 3. Informació publica dels prioritats
+
+### 3. Informació publica dels prioritats
+
+>Els membres de la xarxa faran públiques les prioritats implementades en els seus trams de xarxa que puguin afectar als altres usuaris en cas de modificar les expressades en el punt anterior i que vagin més enllà de donar-se prioritat (preferència en el trànsit, no quotes) en el seu tram de xarxa, i no es podrà fer arbitrària o discrecionalment, ni impedir l'aprofitament d'ample de banda excedentari: Cal que hi hagi motius tècnics que ho justifiquin raonablement.
+
+If priorities are implemented and they are not restricted to self priority (preference in traffic, not in quotas), the network members must make them publicly available. These priorities can neither be arbitrary nor discretionary, and they cannot impede the exploitation of the surplus traffic. There must be well justified technical reasons to implement traffic priorities.
+
+>### 4. Sancció i suspensió
+
+### 4. Sanction and Suspension
+
+>En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apartat [5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals), es podrà impedir el trànsit o la connexió de l'usuari que el causa, procurant advertir-lo sempre que sigui possible. En el cas de que aquest trànsit sigui causat per un participant, aquesta suspensió no causa ~~també~~ una suspensió ~~de forma~~ immediata de l'acord dels [Comuns de la XOLN](#cxoln), però sí que serveix d'advertiment.
+
+As part of the network management tasks, in the case of an abuse of the type described in point IX.5 of section “About Services, Content, and The Internet”, the traffic or the connection of the originator may be suspended, with prior notice whenever possible. This suspension does not imply an immediate suspension of the FONN Compact agreement, but it must be taken as a warning.
+
+>En cap cas es pot fer servir aquesta possibilitat per impedir la lliure participació i circulació de serveis i continguts recollit en els [Comuns de la XOLN](#cxoln).
+
+This option cannot be used, in any case, to impede the free participation and circulation of services and contents described in the FONN Compact.
+
+>Si un participant abusa reiteradament d'aquest punt, ja sigui en el sentit de causar trànsit inapropiat que requereix de la seva suspensió, o en el d'impedir injustificadament el trànsit d'altres usuaris, això pot ser causa d'un conflicte que, d'acord amb el que es preveu en l'apartat de [resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable), pot finalitzar amb la suspensió de l'acord dels [Comuns de la XOLN](#cxoln) per aquest participant.
+
+The generation of inappropriate traffic or the block of other participants traffic, generates a conflict that must be resolved according to the section “About Conflict Resolution and Jurisdiction” and that may lead to the suspension of the FONN Compact agreement with the originator.
+
+>### 5. Disponibilitat
+
+### 5. Availability
+
+>La disponibilitat de la xarxa no es garanteix de forma global. En cas de que un participant vulgui garantir-se nivells de servei ho pot fer a través dels mitjans següents: fent-ho ell mateix adquirint la titularitat compartida dels segments de xarxa que siguin del seu interès, a través d'acords amb tercers i/o contractant serveis professionals per tal de arribar als nivells de servei i/o de disponibilitat desitjats.
+
+The network availability is not guaranteed in a global sense. In the case of a participant who wants to self-guarantee service levels he can do it by: doing it himself by acquiring the share proprietorship of those network segments of his interest, making agreements with third parties and/or contracting professional services to reach the desired level of service or availability.
+
+>### 6. Responsabilitats i compromisos
+
+### 6. Responsabilities and Commitments
+
+>Els professionals o operadors que adquireixin compromisos de servei de connexions amb unes característiques determinades són responsables de descriure i informar clarament als seus clients de quines són aquestes característiques d'acord amb el [punt III.7.](#7-conexió) i fer tot allò que sigui possible per complir-les, incloent si cal el manteniment i millora de troncals. En el cas de troncals compartides amb altres operadors o professionals, hauran de posar-se d'acord sobre com es fan aquests manteniments i millores. La Fundació pot dictaminar sistemes per fer front a aquestes despeses quan no hi ha acord, aplicant criteris de proporcionalitat.
+
+The professionals and the operators that accept compromises of connection services with specific characteristics are responsible for clearly informing their costumers about those characteristics as described in point III.7 and for doing their best to fulfill them, including, whenever necessary, the maintenance and improvement of segments that expand the network. In the case of segments shared with other operators they must decide how to carry out these maintenance and improvement tasks. The Foundation may rule how to cover these costs in the case of lack of consensus, always exercising proportionality.
+
+>## VII. Desplegament responsable i respecte al medi ambient
+
+## VII. About Responsible Deployment and Environmental Stewardship
+
+>### 1. Evitar duplicitats d'infrastructura innecessaries
+
+### 1. Avoid unnecessary infrastructure redundancies
+
+>Com a xarxa oberta, sempre es procurarà evitar la duplicitat innecessària d'infraestructures, impedint la coexistència de diverses xarxes obertes en un mateix espai físic, en especial, quan es tracta de recursos amb una capacitat limitada o existeixi una potencial afectació al medi ambient.
+
+Because it is an open network, duplication in infrastructures must be avoided, impeding the coexistence of several open networks in a same physical space, specially when it is about resources with limited capacity or exists a potential environmental impact.
+
+>### 2. Foment de l'us comú dels espais comuns
+
+### 2. Foment the use of common spaces
+
+>Quan es fa ús de l'espai radioelèctric sense llicència preval l'ús comú davant de l'ús privatiu o explotació comercial. Es demana als governs, legisladors i organismes reguladors que creïn els espais necessaris i facin les regulacions perquè això sigui possible.
+
+The common use of unlicensed radio-frequency spectrum prevails over the private or the commercial uses. The governments, the legislators and the regulators are requested to pass the appropriated regulations to make this happen.
+
+>### 3. Ús responsable
+
+### 3. Responsible Use
+
+>També quan es fa ús de l'espai radioelèctric, encara que sigui amb llicència i més enllà de les disposicions regulatòries vigents que de vegades poden resultar obsoletes a causa de la ràpida evolució tecnològica, es procurarà fer-ne un ús responsable, conforme a les bones pràctiques i a no excedir-se innecessàriament en les potències d'emissió.
+
+The radio-frequency spectrum, including the licensed bands and beyond the applicable regulations which may be obsoleted due to the fast technological evolution, must be used in a responsible way, according to the best practices and without exceeding unnecessarily the transmission powers.
 
 `------------ SPLICING IN PROGRESS ---------`
 
-    1.  In the way that freely agree the participants.
-
-    2.  Provision of documents such as bills or alike.
-
-    3.  The information provided through the network tools and published.
-
-    4.  The proprietorship of the estate where the installation is located.
-
-2.  <span lang="en-US">At the same time, a single infrastructure can have several proprietors. In this case, and </span><span lang="en-US">always in the absence of any agreement between the proprietors, the proprietorship is shared according to the inves tment made by each one.</span>
-
-3.  Although there can be different levels of participation for each proprietor, the terms and conditions are the same for all the participants.
-
-4.  <span lang="en-US">The </span><span lang="en-US">proprietors</span><span lang="en-US"> are the responsible for managing their infrastructures respecting the </span><span lang="en-US">FONN Compact</span><span lang="en-US">.</span>
-
-5.  <span lang="en-US">One of the pillars of the open network is the information about its components. The proprietors must provide reliable information </span><span lang="en-US">about their contributions and contact details through the network tools, being aware that this information will be made publicly available. They have the right to access, modify or cancel them at any time. The provision of malicious information may lead to the suspension of the </span><span lang="en-US">FONN Compact</span><span lang="en-US"> agreement.</span>
-
-6.  <span lang="en-US">The proprietorship is an asset, and as such it has a value, thus, it can be transferred between participants, either by cession, sale, or any other transfer legal form. The proprietorship transfer to new participants implies their acceptance of the </span><span lang="en-US">FONN Compact</span><span lang="en-US">.</span>
-
-7.  <span lang="en-US">The integration of assets to the network is essential to promote its growth and development because it is the main way to </span><span lang="en-US">attract investment and provide sustainability, thus it is advisable to protect and promote it. To this end, when contributing new infrastructure, the participants, aside form getting connectivity with the rest of the network, they can also give themselves priority on the bandwidth available in their segments, on the sole condition of respecting the criteria of section “</span><span lang="en-US">About</span><span lang="en-US"> Network Management and Traffic Shaping</span><span lang="en-US">” </span><span lang="en-US">and leaving the </span><span lang="en-US">surplus</span><span lang="en-US"> bandwidth available to the rest of the traffic.</span>
-
-8.  <span lang="en-US">In the case a participant finalizes the FONN Compact agreement, he recovers all the his infrastructures, except from those which deployment required licenses or permissions form third parties and they where given on behalf of the network or the Foundation, or when the proprietorship is shared. In these cases the parties can agree on how to solve the situation in a fair way for all of them. In the case of a transfer, the rest of proprietors have the right of pre-emption.</span>
-
-9.  <span lang="en-US">The exercise of the proprietorship of an infrastructure implies, at least, that meanwhile this network segment is operative, an </span><span lang="en-US"><span style="text-decoration: none">electronic communication service </span></span><span lang="en-US"><span style="text-decoration: none">that allows the connectivity is offered. Although the proprietor is not responsible for the availability given, it is expected that he maintains his infrastructures in a reasonable service level according to their characteristics and in a way that it doesn't harm the proper functioning of the network. In the case of extreme abandonment of these functions by the proprietor, the participant looses the proprietorship, which will be considered orphan.</span></span>
-
-10. In the case of an orphan infrastructure, the proprietorship is transferred to anybody who wants to exercise it. In the case no body wants to, it is transferred to the Foundation or it is considered abandoned, in which case it is withdrawn from the network being the last proprietor for its dismantlement.
-
-11. <span lang="en-US">When locations are made available to host network infrastructures without compensation, independently to the rest of proprietors, it is understood that they will facilitate the connection as open as possible according to the nature of the installation. </span><span lang="en-US">In the case of space or capacity limitations, they must allow the traffic accordin</span><span lang="en-US">g</span><span lang="en-US"> to the FONN Compact, be reasonable, and applying good practices, being the same for all the users without any discrimination, and without implying the hiring the services of any specific operator although this may be co-proprietor of the infrastructure. What is foreseen in point VI.3 of section “</span><span lang="en-US">About</span><span lang="en-US"> Network Management and Traffic Shaping (Quality of Service)” should suffice for those operators that offer services with compromise.</span>
-
-    <span lang="en-US">T</span><span lang="en-US">his condition is inalienable when it is about public domains managed by public administrations because they have the legal obligation to guarantee the non-discrimination.</span>
-
-    For instance:
-
-    1.  In the case of wireless communications, the coverage antennas meant for simple connections must allow connections form other operators and from the users.
-
-    2.  In the case of cables and ducts, although the promoters may set point-to-point private connections, there must always be spare space to allocate open network infrastructure.
-
-12. The transfer of space to allocate radio-communication antennas is always reversible at any time at the proprietor request and they do not create any servitude.
-
-V About the role of the Guifi.net Foundation
-============================================
-
-1.  Give support to guifi.net respecting its genuine nature, its organization and working methods.
-
-2.  Give legal personality to guifi.net for any purpose necessary to allow the normal course of the exercise of its activity as an operator of the network on an equal rights and duties respect to whatever other operator, as for, but not limited to, receive licenses, public and private spaces occupation, represent, make agreements and notifications on behalf of guifi.net with public administrations or third parties, make interconnection agreements with other operators and join Internet bodies.
-
-    Subscribing the FONN Compact the participants accept the delegation of all these functions to guifi.net and to the Foundation, without renouncing to their right to exercise them by themselves.
-
-3.  Defend and support the interests of the participants, the good use of the FONN Compact, and the name of guifi.net, being able, when necessary, to undertake legal actions or claim reparation in those bad faith cases where intended damage to guifi.net or its users is seeked.
-
-VI About Network Management and Traffic Shaping (Quality of Service)
-====================================================================
-
-1.  The management of the network must be public and open to the participation of everyone who wants to.
-
-2.  When necessary due to network management needs, the network traffic implementation priorities are:
-
-    1.  Interactive traffic (instant messaging, voice conferences, browser, etc.)
-
-    2.  Massive or deferred traffic (transfers, e-mail, copies, etc.)
-
-3.  If priorities are implemented and they are not restricted to self priority (preference in traffic, not in quotas), the network members must make them publicly available. These priorities can neither be arbitrary nor discretionary, and they cannot impede the exploitation of the surplus traffic. There must be well justified technical reasons to implement traffic priorities.
-
-4.  As part of the network management tasks, in the case of an abuse of the type described in point IX.5 of section “About Services, Content, and The Internet”, the traffic or the connection of the originator may be suspended, with prior notice whenever possible. This suspension does not imply an immediate suspension of the FONN Compact agreement, but it must be taken as a warning.
-
-    This option cannot be used, in any case, to impede the free participation and circulation of services and contents described in the FONN Compact.
-
-    The generation of inappropriate traffic or the block of other participants traffic, generates a conflict that must be resolved according to the section “About Conflict Resolution and Jurisdiction” and that may lead to the suspension of the FONN Compact agreement with the originator.
-
-5.  The network availability is not guaranteed in a global sense. In the case of a participant who wants to self-guarantee service levels he can do it by: doing it himself by acquiring the share proprietorship of those network segments of his interest, making agreements with third parties and/or contracting professional services to reach the desired level of service or availability.
-
-6.  The professionals and the operators that accept compromises of connection services with specific characteristics are responsible for clearly informing their costumers about those characteristics as described in point III.7 and for doing their best to fulfill them, including, whenever necessary, the maintenance and improvement of segments that expand the network. In the case of segments shared with other operators they must decide how to carry out these maintenance and improvement tasks. The Foundation may rule how to cover these costs in the case of lack of consensus, always exercising proportionality.
-
-VII About Responsible Deployment and Environmental Stewardship
-==============================================================
-
-1.  Because it is an open network, duplication in infrastructures must be avoided, impeding the coexistence of several open networks in a same physical space, specially when it is about resources with limited capacity or exists a potential environmental impact.
-
-2.  The common use of unlicensed radio-frequency spectrum prevails over the private or the commercial uses. The governments, the legislators and the regulators are requested to pass the appropriated regulations to make this happen.
-
-3.  The radio-frequency spectrum, including the licensed bands and beyond the applicable regulations which may be obsoleted due to the fast technological evolution, must be used in a responsible way, according to the best practices and without exceeding unnecessarily the transmission powers.
 
 VIII About Security and Responsibility
 ======================================
