@@ -116,7 +116,7 @@ A dynamic and innovative project such as guifi.net requires a continuous process
 
 >+ **a.** Una revisió <u>no pot</u> modificar els compromisos adquirits en l'acceptació d'una revisió anterior. En cas de voler modificar-los, es tractaria d'una altre versió diferent i no pas només una revisió. Per aplicar una nova versió cal renovar el consentiment de forma expressa.
 
-+ **a.** A revision cannot modify the terms and conditions which are a result of the acceptance of a previous revision. Such a desired modification would require a rewrite and not just a revision. To implement a rewrite, consent must be expressly renewed.
++ **a.** A revision <u>cannot</u> modify the terms and conditions which are a result of the acceptance of a previous revision. Such a desired modification would require a rewrite and not just a revision. To implement a rewrite, consent must be expressly renewed.
 
 >+ **b.** Quan en una revisió s'estén a noves situacions que abans no existien, com per exemple les derivades d'algun tipus d'ampliació o d'actualització tecnològica, s'entén que implícitament es renova l'acceptació segons la revisió vigent del moment en que es produeix l'actualització o ampliació.
 
@@ -124,7 +124,7 @@ A dynamic and innovative project such as guifi.net requires a continuous process
 
 >+ **c.** Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils][1]
 
-+ **c.** <span lang="en-US">The FONN Compact is a revision of the earlier 'Wireless Commons' which is available </span><span lang="en-US">in Catalan </span><span lang="en-US">as a reference at </span><http://guifi.net/ComunsSensefils><span lang="en-US">.</span>
++ **c.** The FONN Compact is a revision of the earlier 'Wireless Commons' which is available in Catalan as a reference to [http://guifi.net/ComunsSensefils][1].
 
 >+ **d.** Totes les revisions dels [Comuns de la XOLN](#cxoln) es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
 
@@ -152,7 +152,7 @@ A dynamic and innovative project such as guifi.net requires a continuous process
 
 + **b. XOLN**
 
-    The Neutral, Open and Free Telecommunications Network (the “Xarxa de Telecomunicacions Oberta, Lliure I Neutral” in Catalan) is a public community telecommunications infrastructure regulated by the terms and conditions of the “XLON Compact”<span style="text-decoration: none">, which is publicly available, in a way that when new participants join it </span><span style="text-decoration: none">expands.</span><span style="text-decoration: none"> Through the network the participant obtains and simultaneously provides electronic communication services with the rest of participants, directly or via the interconnection with other networks.</span>
+    The Neutral, Open and Free Telecommunications Network (the “Xarxa de Telecomunicacions Oberta, Lliure I Neutral” in Catalan) is a public community telecommunications infrastructure regulated by the terms and conditions of the “XLON Compact”, which is publicly available, in a way that when new participants join it expands. Through the network the participant obtains and simultaneously provides electronic communication services with the rest of participants, directly or via the interconnection with other networks.
 
 >    Quan en aquest document es menciona "la xarxa" de forma genèrica o l'abreviació "XOLN", es refereix a la Xarxa Oberta, Lliure i Neutral, i es defineix així perquè:
 
@@ -186,7 +186,7 @@ A dynamic and innovative project such as guifi.net requires a continuous process
 
 >    Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels [Comuns de la XOLN](#cxoln). Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de `padrins`, i de l'acte de cobrir la inversió, la denominació d'`apadrinament`.
 
-+ **d. Proprietorship and Participants**
++ **d. Ownership and Participants**
 
     The participants are those natural or juridical persons that contribute infrastructure as network segments accepting the FONN Compact. The participants keep the proprietorship of their contributions in a way that the network proprietorship is distributed among the participants. This way, the participants are the network investors. They are called “sponsors” and the act of covering the investment is called “sponsorship”.
 
@@ -229,13 +229,13 @@ A dynamic and innovative project such as guifi.net requires a continuous process
 >    1. Serveis "tal qual"  
     Son aquells serveis que es proporcionen "tal qual son", és a dir, qui els utilitza ho fa sota la seva responsabilitat i no pot exigir a qui li subministra que cobreixi una expectativa o unes característiques. En aquesta categoria generalment hi trobarem els serveis que es proporcionen de forma gratuïta.
 
-    1. Services “as they are”
-    Are those services offered “as they are”, that is to say, anyone using them is doing so under his responsibility and cannot demand the coverage of any expectations or features to the service supplier. Frequently the free services belong to this category.
+    1. “As is” Services
+    Are those services offered “as is”, that is to say, anyone using them is doing so under his responsibility and cannot demand the coverage of any expectations or features to the service supplier. Frequently the free services belong to this category.
 
 >    2. Serveis amb compromís  
     És quan es proporciona un servei amb un compromís de subministrar-lo, normalment a canvi d'una contraprestació, com per exemple quan es proporciona connectivitat amb altres operadors o Internet, o també els serveis professionals per garantir uns `nivells de servei o disponibilitat`.
 
-    2. Services with compromise
+    2. Guaranteed Services
     Is a service offered with a compromise for being delivered, usually in change of a compensation, as when connectivity to other providers or to the internet is supplied or the professional services to offer a given service level agreement.
 
 _The “electronic communications service” happens through the tools given by guifi.net that emerge as a result of the network interconnection agreement. It deserves a clarification because it can be considered as a “as it is” service and a service with a compromise at the same time. “As it is” because each participant, although he can, he has not the obligation to guarantee the availability to third parties, and with compromise because, independently to the availability compromise, he has the obligation to make the interconnection and the traffic possible as soon as the connection becomes active, because, although he does not receive any economic compensation, he receives connectivity with the rest of the participants in exchange of the compromise of integrating a new network segment under the same conditions._
@@ -258,7 +258,7 @@ _The “electronic communications service” happens through the tools given by 
 
 >### 3. Elaboració i revisió
 
-### 3. Drafting and revision
+### 3. Drafting and Revision
 
 >Els [Comuns de la XOLN](#cxoln) s'elabora i es revisa a través d'un debat públic entre tots els qui participen a la xarxa.
 
@@ -266,7 +266,7 @@ The FONN Compact is elaborated and revised through a public debate among all the
 
 >### 4. Finalització de l'acord
 
-### 4. End of agreement
+### 4. End of Agreement
 
 >Els [Comuns per la XOLN](#cxoln) es pot suspendre o finalitzar per:
 
@@ -347,7 +347,7 @@ In order to ease the growth of the network and the open connectivity, their part
 >    3. Amortitzacions  
     En el cas de que calgui amortitzar costos importants d'infraestructures o de ubicacions, es poden preveure compensacions alhora de realitzar les connexions, amb el benentès de que llavors la titularitat passa a ser compartida com en el punt anterior, que no hi poden haver tractes discriminatoris entre els participant si que aquestes compensacions han de ser raonables, orientades al cost i a la sostenibilitat, i no poden estar encaminades a la obtenció de marges per una explotació comercial.
 
-    3. Amortitzacions  
+    3. Amortizations  
     In the case of the need of having to cover depreciation costs of relevant infrastructure or collocation points, compensations can be foreseen at the time of setting the connections, understanding that then the proprietorship becomes shared as discribed at the previous point, that there cannot be discriminatory treatments, and that the compensations must be reasonable, cost oriented and sustainability oriented, and that they cannot pursuit commercial exploitation margins.
 
 >### 6. Altres organizatcions
@@ -408,7 +408,7 @@ At the same time, a single infrastructure can have several proprietors. In this 
 
 >### 3. Drets i deures
 
-### 3. Rights and obligations `deures`
+### 3. Rights and Duties
 
 >Encara que en la xarxa hi poden haver diferents nivells de participació de cadascun dels seus titulars, els drets i deures son els mateixos per a tots els participants.
 
@@ -432,7 +432,7 @@ One of the pillars of the open network is the information about its components. 
 
 >### 6. Transmissió
 
-### 6. Transmission
+### 6. Transfer
 
 >La titularitat és un actiu, que com a tal pot tenir un valor, i conseqüentment es pot transmetre entre participants ja sigui per cessió o compravenda o qualsevol altra forma jurídicament lícita. Quan la titularitat es transmet a nous participants, comporta l'acceptació dels [Comuns de la XOLN](#cxoln) per part de qui l'adquireix.
 
@@ -440,13 +440,15 @@ The proprietorship is an asset, and as such it has a value, thus, it can be tran
 
 >### 7. Incorporació de trams de xarxa
 
-### 7. Incorporation of network trunks
+### 7. Incorporation of Network Sections
 
 >La incorporació d'actius a la xarxa és fonamental per al seu creixement i desenvolupament ja que és la forma principal de captar inversions i de proporcionar sostenibilitat, per tant convé protegir-la i fomentar-la. Per això, els participants quan incorporen infraestructures a la xarxa a més d'obtenir connectivitat amb la resta, també es poden donar prioritat en els trams dels quals en son titulars de manera que tinguin preferència sobre l'ample de banda disponible, amb la única condició de que es respectin els criteris establerts en l'apartat [VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)](#vi-gestió-de-la-xarxa-i-prioritats-en-el-trànsit-qualitat-de-servei) i, alhora deixin disponible tot l'ample de banda excedentari per a la resta del trànsit.
 
 The integration of assets to the network is essential to promote its growth and development because it is the main way to attract investment and provide sustainability, thus it is advisable to protect and promote it. To this end, when contributing new infrastructure, the participants, aside form getting connectivity with the rest of the network, they can also give themselves priority on the bandwidth available in their segments, on the sole condition of respecting the criteria of section “About Network Management and Traffic Shaping” and leaving the surplus bandwidth available to the rest of the traffic.
 
-### 8. Finalització de trams de xarxa
+>### 8. Finalització de trams de xarxa
+
+### 8. Termination of Network Sections
 
 >En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#cxoln), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels [Comuns de la XOLN](#cxoln).
 
@@ -454,7 +456,7 @@ In the case a participant finalizes the FONN Compact agreement, he recovers all 
 
 >### 9. Exercici de la titularitat
 
-### 9. Exercising Ownership
+### 9. Exercise of Ownership
 
 >L'exercici de la titularitat implica com a mínim que mentre aquest segment de la xarxa estigui operatiu, es proporciona un servei de comunicacions electròniques que permet la connectivitat. Encara que el titular no és responsable del nivell de disponibilitat que proporciona, s'espera del titular que mantingui les seves infraestructures en un nivell de servei raonable d'acord amb les seves característiques i de manera que no perjudiqui el bon funcionament de la xarxa. En casos extrems d'abandonament d'aquestes funcions pròpies del titular, el participant perd la titularitat, que passarà a considerar-se orfe.
 
@@ -470,7 +472,7 @@ In the case of an orphan infrastructure, the proprietorship is transferred to an
 
 >### 11. Cessió d'ubicació
 
-### 11. Location cession / Ceding a location
+### 11. Location Transfer
 
 >Quan es cedeixen ubicacions per muntar-hi infraestructures de xarxa sense contraprestació, independentment de quins siguin la resta de titulars, s'assumeix que facilitaran la connexió més oberta possible en funció de la naturalesa de l'equipament. Si s'estableixen limitacions d'espai o de capacitat han de facilitar el trànsit segons els Comuns XOLN, ser raonables, aplicant les bones pràctiques, les mateixes condicions per a tots els usuaris sense discriminacions i no forçar la contractació de serveis a operadors concrets encara que siguin co-titulars de la infraestructura. Els operadors que hi ofereixen compromís de servei n'haurien de tenir suficient amb aplicar el que es preveu en el punt [VI. 3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats).
 
@@ -494,7 +496,7 @@ For instance:
 
 >### 12. Finalització d'una cessió
 
-### 12. Cession termination
+### 12. Transfer Completion
 
 >La cessió d'espais per antenes de radiocomunicació és reversible en qualsevol moment a petició del propietari i no li creen cap servitud.
 
@@ -502,7 +504,7 @@ The transfer of space to allocate radio-communication antennas is always reversi
 
 >## V. El paper de la Fundació
 
-## V. The role of the Guifi.net Foundation
+## V. The Role of the Guifi.net Foundation
 
 >### 1. Suport
 
@@ -514,7 +516,7 @@ Give support to guifi.net respecting its genuine nature, its organization and wo
 
 >### 2. Personalitat jurídica
 
-### 2. Personalitat jurídica
+### 2. Legal Entity
 
 >Proporcionar personalitat jurídica a guifi.net en tot allò que li sigui necessari per al complert i normal exercici de la seva activitat com a operador de la xarxa amb igualtat de drets i deures respecte de qualsevol altre operador, com per exemple i no limitat a, obtenir llicències, ocupar dominis públics o privats, representar, fer gestions i notificacions en nom de guifi.net davant de les administracions o tercers, o prendre acords d'interconnexió amb altres operadors i formar part d'organismes que composen Internet.
 
@@ -534,7 +536,7 @@ Defend and support the interests of the participants, the good use of the FONN C
 
 >## VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)
 
-## VI. Network Management and Traffic Shaping (Quality of Service)
+## VI. Network Management and Traffic Priorities (Quality of Service)
 
 >### 1. Gestió publica
 
@@ -546,7 +548,7 @@ The management of the network must be public and open to the participation of ev
 
 >### 2. Prioritats de trànsit
 
-### 2. Network Priorities
+### 2. Traffic Priorities
 
 >Quan sigui possible i necessari per motius de gestió de la xarxa, les prioritats del trànsit generals s'implementen en aquest ordre:
 
@@ -562,7 +564,7 @@ When necessary due to network management needs, the network traffic implementati
 
 >### 3. Informació publica dels prioritats
 
-### 3. Informació publica dels prioritats
+### 3. Public Information of Priorities
 
 >Els membres de la xarxa faran públiques les prioritats implementades en els seus trams de xarxa que puguin afectar als altres usuaris en cas de modificar les expressades en el punt anterior i que vagin més enllà de donar-se prioritat (preferència en el trànsit, no quotes) en el seu tram de xarxa, i no es podrà fer arbitrària o discrecionalment, ni impedir l'aprofitament d'ample de banda excedentari: Cal que hi hagi motius tècnics que ho justifiquin raonablement.
 
@@ -602,11 +604,11 @@ The professionals and the operators that accept compromises of connection servic
 
 >## VII. Desplegament responsable i respecte al medi ambient
 
-## VII. About Responsible Deployment and Environmental Stewardship
+## VII. Responsible Deployment and Environmental Stewardship
 
 >### 1. Evitar duplicitats d'infrastructura innecessaries
 
-### 1. Avoid unnecessary infrastructure redundancies
+### 1. Avoid Unnecessary Infrastructure Redundancies
 
 >Com a xarxa oberta, sempre es procurarà evitar la duplicitat innecessària d'infraestructures, impedint la coexistència de diverses xarxes obertes en un mateix espai físic, en especial, quan es tracta de recursos amb una capacitat limitada o existeixi una potencial afectació al medi ambient.
 
@@ -614,7 +616,7 @@ Because it is an open network, duplication in infrastructures must be avoided, i
 
 >### 2. Foment de l'us comú dels espais comuns
 
-### 2. Foment the use of common spaces
+### 2. Foment the Common Use of Common Spaces
 
 >Quan es fa ús de l'espai radioelèctric sense llicència preval l'ús comú davant de l'ús privatiu o explotació comercial. Es demana als governs, legisladors i organismes reguladors que creïn els espais necessaris i facin les regulacions perquè això sigui possible.
 
@@ -628,87 +630,218 @@ The common use of unlicensed radio-frequency spectrum prevails over the private 
 
 The radio-frequency spectrum, including the licensed bands and beyond the applicable regulations which may be obsoleted due to the fast technological evolution, must be used in a responsible way, according to the best practices and without exceeding unnecessarily the transmission powers.
 
-`------------ SPLICING IN PROGRESS ---------`
+>## VIII. Seguretat i responsabilitat
 
+## VIII. Security and Responsibility
 
-VIII About Security and Responsibility
-======================================
+>### 1. Seguritat i privacitat
 
-1.  The users are responsible of their security and have the right to protect themselves and protect their intimacy, to avoid the intrusion into their systems and to cypher their communications. The open network provides the appropriated medium to do so.
+### 1. Security and Privacy
 
-2.  Private networks can be connected to the open network and control access through firewalls may be implemented. Those segments are excluded from the FONN Compact and are not part of the neutral, free and open network, and their sponsors are responsibility for their security.
+>Els usuaris son responsables de la seva seguretat i tenen dret a protegir-se i vetllar per la seva intimitat, evitar intrusió en els seus propis sistemes d'informació i de xifrar les seves comunicacions si així ho desitja. La xarxa oberta proporciona el mitjà de transport per fer-ho possible.
 
-3.  The open network is not responsible for any damage a user may suffer during its use.
+The users are responsible of their security and have the right to protect themselves and protect their intimacy, to avoid the intrusion into their systems and to cypher their communications. The open network provides the appropriated medium to do so.
 
-4.  Each user is responsible for his use of the network, the contents he contributes and his acts. In any case the responsible will be the participant that gives access to the user, nor the rest of the participants, nor guifi.net as a whole.
+>### 2. Xarxes privades i limitaciós
 
-IX About Services, Content, and The Internet
-============================================
+### 2. Private Networks and Limitations
 
-1.  The network <span style="text-decoration: none">provides </span><span style="text-decoration: none">an</span><span style="text-decoration: none"> electronic communication service </span><span style="text-decoration: none">available to the public in general. There is the right to add new contents and services of any kind beyond this basic service.</span>
+>Es poden connectar xarxes privades a la xarxa oberta i posar-hi tallafocs per controlar-ne l'accés. Aquests trams de xarxes queden exclosos dels [Comuns de la XOLN](#cxoln) i no formen part de la xarxa oberta, lliure i neutral. De la seva seguretat se'n fa càrrec qui la munta.
 
-2.  The network is the medium on which the free transmission of the contents is made, but it has nothing to do with them nor is responsible for them, as already stated in the section “About Security and Responsibility”.
+Private networks can be connected to the open network and control access through firewalls may be implemented. Those segments are excluded from the FONN Compact and are not part of the neutral, free and open network, and their sponsors are responsibility for their security.
 
-3.  The copyright holders of the contents choose the terms and conditions of their use. If they are not explicitly stated, it is understood that they can be freely distributed, as stated in the Creative Commons (by-sa) \[3\] license or the GNU/FDL \[4\] license.
+>### 3. Danys
 
-4.  In the case of services, the provider is responsible for deciding whether the service is “as it is” or with service guarantee. If it is not specified and the service is free-of-charge, it is understood that it is an “as it is” service, thus, it is offered without any guarantee.
+### 3. Damages
 
-5.  Freedom of thought, thinking, expression and communication must be respected. This is not incompatible with filtering the malicious traffic generated by unwanted messages, inappropriate or illegal content, intended to restrict these freedoms of other users or to offend them.
+>La xarxa oberta no es fa responsable de cap dany causat als seus usuaris durant l'ús de la xarxa.
 
-6.  The network, as neutral, free and open, has the unequivocal vocation to be another network of the big network of networks which is Internet. Thus, guifi.net wants to actively participate in the Internet organizations, and, as an operator, to establish interconnection agreements with the rest of the operators.
+The open network is not responsible for any damage a user may suffer during its use.
 
-    Nonetheless, currently in the Internet, other operators may be more restrictive and less open in regard to the interconnection with their networks, doing, for instance, a commercial exploitation of the interconnection or the traffic. Because in these cases is not possible to apply the reciprocity principle, the Internet traffic towards these operators is considered to be out of the FONN Compact, and as such it must be considered as a content. Thus, this type of interconnection is offered to the participants as any other service in the network, the most frequent ways are:
+>### 4. Responsabilitat individual de cadascú
 
-    1.  The interconnections provided by the participants from the Internet connections they may have with other operators.
+### 4. Individual Responsability
 
-    2.  The interconnections that result from the peering process with other operators.
+>Cada usuari és responsable de l'ús que faci de la xarxa, dels continguts que hi incorpora i del seus actes, en cap cas ho serà el participant que li proporciona accés, ni la resta de participants, ni guifi.net en la seva globalitat.
+
+Each user is responsible for his use of the network, the contents he contributes and his acts. In any case the responsible will be the participant that gives access to the user, nor the rest of the participants, nor guifi.net as a whole.
+
+>## IX. Serveis, continguts, altres xarxes i Internet
+
+## IX. Services, Contents, other Networks and the Internet
+
+>### 1. Llibertat de crear continguts i serveis
+
+### 1. Freedom to Create Contents and Services
+
+>La xarxa proporciona un servei de comunicacions electròniques disponible al públic en general. Més enllà d'aquest servei bàsic, hi ha llibertat de crear continguts i serveis de qualsevol tipus.
+
+The network provides an electronic communication service available to the public in general. There is the right to add new contents and services of any kind beyond this basic service.
+
+>### 2. Responsabilitats dels creadors de continguts i serveis
+
+### 2. Responsabilities of Content and Service Creators
+
+>La xarxa és el suport sobre el qual es fa la transmissió lliure dels continguts però no té res a veure ni és responsable d'aquests continguts tal i com es preveu en l'apartat [VIII. Seguretat i responsabilitat](#viii-seguretat-i-responsabilitat).
+
+The network is the medium on which the free transmission of the contents is made, but it has nothing to do with them nor is responsible for them, as already stated in the section “About Security and Responsibility”.
+
+>### 3. Termes i condicions d'us
+
+### 3. Terms and Conditions of Use
+
+>Els creadors o titulars dels continguts escullen el termes i condicions per al seu ús. Si no n'expressen els continguts textuals i/o audiovisuals, s'entén que són de lliure distribució en les mateixes condicions, tal i com es descriuen en la [Creative Commons (BY-SA)][2] o la [GNU FDL][3].
+
+The copyright holders of the contents choose the terms and conditions of their use. If they are not explicitly stated, it is understood that they can be freely distributed, as stated in the Creative Commons (by-sa) \[3\] license or the GNU/FDL \[4\] license.
+
+>### 4. Exenció de garantia per defecte
+
+### 4. No Warranty by Default
+
+>En el cas dels serveis, correspon a qui el proporciona determinar si es tracta d'un servei "tal qual" o amb un compromís de servei. Si no s'especifica res i és gratuït, s'entén que es tracta d'un servei "_tal qual és_", i que, per tant, no s'ofereix cap tipus de garantia.
+
+In the case of services, the provider is responsible for deciding whether the service is “as it is” or with service guarantee. If it is not specified and the service is free-of-charge, it is understood that it is an “as it is” service, thus, it is offered without any guarantee.
+
+>### 5. Continguts inapropriats o il·legals
+
+### 5. Innapropriate or Illegal Contents
+
+>S'ha de procurar respectar les llibertats de pensament, d'expressió i comunicació. Tot respectant això, es podrà evitar trànsit de missatges no sol·licitats, continguts inapropiats o il·legals que maliciosament vulguin causar un perjudici o restringir les llibertats a altres usuaris.
+
+Freedom of thought, thinking, expression and communication must be respected. This is not incompatible with filtering the malicious traffic generated by unwanted messages, inappropriate or illegal content, intended to restrict these freedoms of other users or to offend them.
+
+>### 6. Interconnexions amb altres xarxes
+
+### 6. Interconnections with Other Networks
+
+>La xarxa, com a xarxa oberta, lliure i neutral té vocació inequívoca de ser una xarxa més de la gran xarxa de xarxes que és Internet i per aquest motiu guifi.net procura formar part activa dels organismes que formen Internet i, com a operador, procurar acords i mecanismes d'interconnexió eficients amb tots els altres operadors. Tanmateix, actualment a Internet, els altres operadors poden ser més restrictius i no tan oberts pel que fa a la interconnexió amb les seves xarxes, per exemple fent una explotació comercial de la interconnexió o del trànsit. Com que en aquests casos no és possible aplicar el [principi de reciprocitat](#7-principi-de-reciprocitat), el trànsit cap a l'internet d'aquests operadors es considera fora de l'àmbit dels [Comuns de la XOLN](#cxoln), i com a tal, respecte de la XOLN, n'esdevé un contingut. Per tant, aquesta mena d'interconnexió s'ofereix als participants com qualsevol altre servei dins de la xarxa, i típicament n'hi pot haver de dos tipus:
+
+The network, as neutral, free and open, has the unequivocal vocation to be another network of the big network of networks which is Internet. Thus, guifi.net wants to actively participate in the Internet organizations, and, as an operator, to establish interconnection agreements with the rest of the operators. Nonetheless, currently in the Internet, other operators may be more restrictive and less open in regard to the interconnection with their networks, doing, for instance, a commercial exploitation of the interconnection or the traffic. Because in these cases is not possible to apply the reciprocity principle, the Internet traffic towards these operators is considered to be out of the FONN Compact, and as such it must be considered as a content. Thus, this type of interconnection is offered to the participants as any other service in the network, the most frequent ways are:
+
+>+ **a.** El que proporcionen els participants a partir de les connexions que puguin tenir amb altres operadors com a portes cap a Internet.
+
++ **a.** The interconnections provided by the participants from the Internet connections they may have with other operators.
+
+>+ **b.** El que s'obté a través de la interconnexió amb xarxes ("peering") d'altres operadors.
+
++ **b.** The interconnections that result from the peering process with other operators.
+
+>    Qui proporciona aquests serveis determinarà si ho fa "tal qual", o amb algun tipus de compromís de servei.
 
     Whoever offers these services establishes if they are offered as an “as it is” services or with some services compromises.
 
-7.  Reciprocity principle.
+>### 7. Principi de reciprocitat
 
-    In the case of an interconnection service with another network which is not under the FONN Compact agreement or it is managed in a different way by other organizations but in essence follows the same criteria of neutral, free and open network, keeping the same freedoms and general principles and allowing the free interconnection, a mutual recognition of the same rights regarding the free circulation of contents and services can be established.
+### 7. Principle of Reciprocity
 
-X About Conflict Resolution and Jurisdiction
-============================================
+>Quan es proporciona servei d'interconnexió amb una altra xarxa que, encara que no s'aculli a la protecció dels [Comuns de la XOLN](#cxoln) o es gestioni de manera diferent per altres organitzacions, però que en essència obeeixi als mateixos criteris de xarxa oberta, lliure i neutral, mantenint les mateixes [llibertats i principis generals](#i-resum-i-principis-generals) i permetent la lliure interconnexió, es podrà establir un reconeixement recíproc de les mateixes llibertats pel que fa a la lliure circulació de continguts i serveis.
 
-1.  In the case of questions, doubts or conflicts of interpretation or application of the FONN Compact, everybody has the right to request clarification to the board of the Foundation
+In the case of an interconnection service with another network which is not under the FONN Compact agreement or it is managed in a different way by other organizations but in essence follows the same criteria of neutral, free and open network, keeping the same freedoms and general principles and allowing the free interconnection, a mutual recognition of the same rights regarding the free circulation of contents and services can be established.
 
-    The request must be formalized by an e-mail sent to the board (patronat(at)guifi.net), with the topic explicitly stated in the subject (e.g. “Question/Conflict about the FONN Compact with regard to ...”) and a clear and well supported description of the facts, the motivations, the affected FONN Compact points, the proposals, etc. That is to say, making sure that it is well documented and comprensible.
+>## X. Resolució de conflictes i jurisdicció aplicable
 
-    Once the e-mail is received by the board, depending on its nature, the following procedure will be applied
+## X. Conflict Resolution and Jurisdiction
 
-    1.  Decide whether the issue is sufficiently supported to either accept or reject it. If it is rejected the process is finished.
+>### 1. Conflictes i dubtes d'interpretació
 
-    2.  Decide whether the issue will be resolved by the Foundation itself or it will appoint a specific commission with the only mandate to resolve it.
+### 1. Conflicts and Interpretation Doubts
 
-        Nobody effected by the issue can be participate in the group appointed to solve it. If it were the case he should refrain from it.
+>En cas de qüestions, dubtes o conflictes relatius a d'interpretació o aplicació dels [Comuns de la XOLN](#cxoln), tothom es pot dirigir al patronat de la Fundació perquè ho resolgui.
 
-        The group in charge of deliberating and solving an issue must make decisions by vote, and in order to avoid ties, the number of members must be and odd number.
+In the case of questions, doubts or conflicts of interpretation or application of the FONN Compact, everybody has the right to request clarification to the board of the Foundation
 
-    3.  Decide whether the documentation provided suffices or if a period for public informative processes to collect more data must be opened. When an issue effects third parties this period is mandatory to let everybody to express their opinion on the considered issue.
+>La petició es formalitza a través d'un correu dirigit al Patronat (patronat (arroba) guifi.net), especificant-ho clarament a l'assumpte (per exemple "Consulta /Conflicte sobre els Comuns en relació a...."), i en el text del correu, una descripció de la qüestió, de les seves motivacions, dels punts dels Comuns afectats quan n'hi han, propostes, etc. És a dir, procurar que estigui ben documentat i entenedor.
 
-    4.  Once the period for public informative processes is finished the board or the commission must debate and lastly, rule.
+The request must be formalized by an e-mail sent to the board (patronat(at)guifi.net), with the topic explicitly stated in the subject (e.g. “Question/Conflict about the FONN Compact with regard to ...”) and a clear and well supported description of the facts, the motivations, the affected FONN Compact points, the proposals, etc. That is to say, making sure that it is well documented and comprensible.
 
-2.  The resolutions must be based on the FONN Compact spirit, and in the case of a conflict or unfulfillment, they must make decisions and propose solutions in order to amend the situation.
+>Un cop el Patronat de la Fundació ha rebut la notificació i en funció de la naturalesa de la petició aplicarà el següent procediment:
 
-3.  In extreme cases, the FONN Compact agreement with a participant can be ceased. The participant can recover his infrastructures according to the section “About Proprietorship and Participants”. Penalizations and compensations can not be ruled this way. If needed, they must be submitted to the competent court.
+Once the e-mail is received by the board, depending on its nature, the following procedure will be applied
 
-4.  The resolutions can be appealed or, alternatively, the issue can be submitted to the competent court.
+>+ **a.** Decidir si la qüestió és prou fonamentada per cursar-la o arxivar-la. En cas d'arxivar-se, finalitza el procediment.
 
-5.  The Foundation is established according “Llei de Fundacions 4/2008 de Catalunya \[5\]” (“ 4/2008 Foundations Law from Catalonia”). For legal matters and in the case of a conflict, unless the parties agree otherwise, the applicable jurisdiction by the Foundation and by the FONN Compact is the applicable by the competent court in Barcelona according to in accordance with current legislation in Catalonia.
++ **a.** Decide whether the issue is sufficiently supported to either accept or reject it. If it is rejected the process is finished.
 
- 
+>+ **b.** Decidir si es fa càrrec de resoldre la qüestió directament, o bé nomena una comissió específica amb el mandat de resoldre la qüestió.  
+Ningú que sigui part en un conflicte pot formar part dels qui han de prendre una resolució, si fos el cas, s'haurà d'inhibir.  
+Els encarregats de deliberar i resoldre una qüestió prendran les decisions per votació, i per evitar l'empat, estarà format per un nombre imparell.
 
-XI About the License of this Document
-=====================================
++ **b.** Decide whether the issue will be resolved by the Foundation itself or it will appoint a specific commission with the only mandate to resolve it. Nobody affected by the issue can be participate in the group appointed to solve it. If it were the case he should refrain from it.
+The group in charge of deliberating and solving an issue must make decisions by vote, and in order to avoid ties, the number of members must be and odd number.
 
-1.  The content of the FONN Compact can be changed or modified under the Creative Commons (by-nc-sa) \[6\] license or the GNU/FDL \[4\] license.
+>+ **c.** Decidir si la documentació aportada és suficient o si cal obrir un període públic informatiu per recollir més dades. En el cas de que la qüestió afecti a tercers el període informatiu públic és obligatori per tal de permetre a tothom expressar la seva versió o opinió sobre la qüestió a analitzar.
 
--   Commercial usage is not permitted
++ **c.** Decide whether the documentation provided suffices or if a period for public informative processes to collect more data must be opened. When an issue effects third parties this period is mandatory to let everybody to express their opinion on the considered issue.
 
--   The copy and distribution is permitted stating that it comes from the FONN Compact
+>+ **d.** Un cop finalitzat el procés informatiu, el Patronat o la Comissió haurà de debatre i finalment, resoldre.
 
--   Remixes and transformations must be distributed under the same license
++ **d.** Once the period for public informative processes is finished the board or the commission must debate and lastly, rule.
 
-1.  We encourage the organizations of the rest of the world to promote the Neutral, Free and Open Network by either adopting the FONN Compact or adapting it to its organization and working methods to make the interconnection of the networks possible through the reciprocity principle.
+>### 2. Solucions i arbitratge
+
+### 2. Solutions and Arbitrations
+
+>Les resolucions hauran d'orientar-se a aplicar l'esperit dels [Comuns de la XOLN](#cxoln), i en cas de que es constati un conflicte o una situació d'incompliment, servir d'arbitratge i proposar solucions per esmenar la situació que s'hagi pogut crear.
+
+The resolutions must be based on the FONN Compact spirit, and in the case of a conflict or unfulfillment, they must make decisions and propose solutions in order to amend the situation.
+
+>### 3. Resolucions de suspenció
+
+### 3. Suspension Resolutions
+
+>En casos extrems, es pot resoldre la suspensió l'acord dels [Comuns de la XOLN](#cxoln) amb un participant, deixant-lo sense efectes, i podrà recuperar les infraestructures de la seva titularitat en funció del que es preveu en l'apartat [Titularitat i participants](#iv-titularitat-i-participants)". Per aquesta via no es poden resoldre penalitzacions o compensacions de tipus econòmic per danys o perjudicis i similars, si fos el cas s'haurà de fer via als Tribunals competents.
+
+In extreme cases, the FONN Compact agreement with a participant can be ceased. The participant can recover his infrastructures according to the section “About Proprietorship and Participants”. Penalizations and compensations can not be ruled this way. If needed, they must be submitted to the competent court.
+
+>### 4. Recurs
+
+### 4. Recourse
+
+>A les resolucions s'hi pot presentar un recurs, o alternativament, acudir als Tribunals competents.
+
+The resolutions can be appealed or, alternatively, the issue can be submitted to the competent court.
+
+>### 5. Jurisdicció
+
+### 5. Jurisdiction
+
+>La Fundació s'ha constituït segons la [Llei de Fundacions 4/2008 de Catalunya][4]. A efectes legals i en cas de conflicte, si les parts no acorden una altra cosa, la jurisdicció aplicable per a la Fundació i per a la interpretació dels [Comuns de la XOLN](#cxoln) és la que correspongui del Tribunal competent a Barcelona segons la legislació vigent a Catalunya.
+
+The Foundation is established according “Llei de Fundacions 4/2008 de Catalunya \[5\]” (“ 4/2008 Foundations Law from Catalonia”). For legal matters and in the case of a conflict, unless the parties agree otherwise, the applicable jurisdiction by the Foundation and by the FONN Compact is the applicable by the competent court in Barcelona according to in accordance with current legislation in Catalonia.
+
+>## XI. Llicència ~~del text dels [Comuns de la XOLN](#cxoln)~~
+
+## XI. License
+
+>### 1. CC BY-NC-SA, GNU FDL
+
+### 1. CC BY-NC-SA, GNU FDL
+
+>El text dels Comuns de la XOLN es pot canviar o modificar sota llicència [Creative Commons BY-NC-SA/4.0][2] o [GNU FDL][3]
+
+The content of the FONN Compact can be changed or modified under the Creative Commons (by-nc-sa) \[6\] license or the GNU/FDL \[4\] license.
+
+>* No se'n pot fer un ús comercial
+
+* Commercial use is forbidden
+
+>* La distribució i còpia és lliure referenciant que prové d'aquests [Comuns de la XOLN](#cxoln)
+
+* The copy and distribution is permitted stating that it comes from the FONN Compact
+
+>* Es poden modificar els continguts i fer-ne treballs derivats si el resultat es distribueix de nou sota les mateixes condicions.
+
+* Remixes and transformations must be distributed under the same license
+
+>### 2. Extensió i modificació
+
+### 2. Extension and modificacion
+
+>Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als [Comuns per la XOLN](#cxoln), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#7-principi-de-reciprocitat).
+
+We encourage the organizations of the rest of the world to promote the Neutral, Free and Open Network by either adopting the FONN Compact or adapting it to its organization and working methods to make the interconnection of the networks possible through the reciprocity principle.
+
+[1]:http://guifi.net/ComunsSensefils
+[2]:https://creativecommons.org/licenses/by-nc-sa/4.0/
+[3]:https://www.gnu.org/copyleft/fdl.html
+[4]:https://www.gencat.cat/diari/5123/08114039.htm
