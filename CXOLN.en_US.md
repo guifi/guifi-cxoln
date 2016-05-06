@@ -77,42 +77,42 @@
 
 >Els [Comuns de la XOLN](#cxoln) s'inspira i es resumeix en:
 
-The fundamental principles of the FONN Compact are:
+The [CXOLN](#cxoln) is imbued and can be summarized by the following principles:
 
->  1. Ets lliure d'utilitzar la xarxa per qualsevol propòsit en tant que no perjudiquis al funcionament de la pròpia xarxa, la llibertat dels altres usuaris, i respectis les condicions dels continguts i serveis que lliurement hi circulen.
+>  1. Ets lliure d'utilitzar la xarxa per qualsevol propòsit en tant que no perjudiquis al funcionament de la pròpia xarxa, la llibertat dels altres usuaris, i respectis les `condicions` dels continguts i serveis que lliurement hi circulen.
 
-1. You have the freedom to use the network for any purpose as long as you don't harm the operation of the network itself , the rights of other users, or the principles of neutrality that allow contents and services to flow without deliberate interference.
+1. You have the freedom to use the network for any purpose as long as you don't harm the `operation|functioning` of the network itself, the freedom of other users, and you respect the conditions of contents and services which flow freely therein.
 
 
 >  2. Ets lliure de saber com és la xarxa, els seus components, com funciona i difondre'n el seu esperit i funcionament.
 
-2. You have the right to understand the network and its components, and to share knowledge of its mechanisms and principles.
+2. You have the freedom to know how the network is, its components, how it works, and to share its principles and mechanisms.
 
 
 >  3. Ets lliure d'incorporar serveis i continguts a la xarxa amb les condicions que vulguis.
 
-3. You have the right to offer services and content to the network on your own terms.
+3. You have the freedom to offer services and contents on the network `under the conditions you want|on your own terms`.
 
 >  4. Incorporant-te a la xarxa, ajudes a estendre aquestes llibertats en les mateixes condicions.
 
-4. You have the right to join the network, and the obligation to extend this set of rights to anyone according to these same terms.
+4. By joining the network, you contribute to extend these freedoms under the same conditions.
 
 
 >  A continuació els [Comuns de la XOLN](#cxoln) desenvolupa aquests principis per tal de garantir-los i respectar-los.
 
-`MISSING`
+Hereinafter, the [CXOLN](#cxoln) elaborates upon these principles in order to guarantee and respect them.
 
 >## II. Els "Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)"
 
-## II About this document (FONN)
+## II. The "Commons of the Open, Free and Neutral Network (CXOLN)"
 
 >### 1. Gestació, interpretació i revisió del text
 
-### 1.  Creation, interpretation and revision of this document.
+### 1.  Creation, Interpretation and Revision of the Text
 
 >Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés continuat en el temps de revisió i actualització que permeti adaptar-nos a noves realitats i millorar la claredat en les seves disposicions expressant millor els mateixos criteris que s'apliquen. Com que aquest text pot canviar amb el pas del temps i alhora serveix per adquirir uns compromisos en el moment de la seva acceptació, es preveu com cal interpretar el text de manera que es pugui revisar respectant els compromisos adquirits:
 
-A dynamic and innovative project such as guifi.net requires a continuous process of revision and action to adapt to changing realities and to improve the clarity of the applicable criteria. Because this text may change over time, and because all versions bind users to a set of terms and conditions at the moment of acceptance, the text can only be revised or modified so long as it respects the agreements and obligations made in previous revisions:
+An innovative project such as guifi.net requires a continuous process of revision and updates to ensure we can adapt to new realities, improve the clarity of its dispositions, and better explain the same applicable criterias. Since this text may change over time whilst it serves to acquire `commitments|rights` when it is accepted, the text can only be revised or modified so long as it respects previously acquired `commitments|rights`:
 
 >+ **a.** Una revisió <u>no pot</u> modificar els compromisos adquirits en l'acceptació d'una revisió anterior. En cas de voler modificar-los, es tractaria d'una altre versió diferent i no pas només una revisió. Per aplicar una nova versió cal renovar el consentiment de forma expressa.
 
@@ -124,11 +124,11 @@ A dynamic and innovative project such as guifi.net requires a continuous process
 
 >+ **c.** Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils][1]
 
-+ **c.** The FONN Compact is a revision of the earlier 'Wireless Commons' which is available in Catalan as a reference to [http://guifi.net/ComunsSensefils][1].
++ **c.** The [CXOLN](#cxoln) is a revision of the earlier 'Wireless Commons' which is available in Catalan as a reference to [http://guifi.net/ComunsSensefils][1].
 
 >+ **d.** Totes les revisions dels [Comuns de la XOLN](#cxoln) es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
 
-+ **d.** All revisions of the FONN Compact are archived and published so you can follow the update process and know the release dates of each revision. If necessary, these can be compared with the dates of acceptance of the Compact to avoid conflicts of interpretation.
++ **d.** All revisions of the [CXOLN](#cxoln) are archived and published so you can follow the update process and know the release dates of each revision. If necessary, these can be compared with the dates of acceptance of the Compact to avoid conflicts of interpretation.
 
 >+ **e.** Si algú creu que en alguna revisió posterior se li ha modificat un compromís adquirit i no hi ha donat el seu consentiment tal i com es diu el punt [II.1.a](#1-gestació-interpretació-i-revisió-del-text), ho pot manifestar segons el que es preveu en l'apartat [X. Resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable).
 
@@ -144,7 +144,7 @@ A dynamic and innovative project such as guifi.net requires a continuous process
 
 + **a. CXOLN**
 
-    The FONN Compact (“Comuns de la Xarxa Oberta, Lliure i Neutral”, or XOLN in Catalan) is an agreement for the connections between peers that serves as a contract between each participant in the network as a whole, and is the same for each participant of the network. The agreement serves simultaneously a contract for participation in the network and as a license for use, becoming a guarantee for its subscribers regarding the applicable terms and conditions, which are the same for everyone. It is also known as “commons” or “free network commons”.
+    The [CXOLN](#cxoln) (“Comuns de la Xarxa Oberta, Lliure i Neutral”, or XOLN in Catalan) is an agreement for the connections between peers that serves as a contract between each participant in the network as a whole, and is the same for each participant of the network. The agreement serves simultaneously a contract for participation in the network and as a license for use, becoming a guarantee for its subscribers regarding the applicable terms and conditions, which are the same for everyone. It is also known as “commons” or “free network commons”.
 
 >+ **b. XOLN**
 
@@ -262,7 +262,7 @@ _The “electronic communications service” happens through the tools given by 
 
 >Els [Comuns de la XOLN](#cxoln) s'elabora i es revisa a través d'un debat públic entre tots els qui participen a la xarxa.
 
-The FONN Compact is elaborated and revised through a public debate among all the network participants
+The [CXOLN](#cxoln) is elaborated and revised through a public debate among all the network participants
 
 >### 4. Finalització de l'acord
 
@@ -270,7 +270,7 @@ The FONN Compact is elaborated and revised through a public debate among all the
 
 >Els [Comuns per la XOLN](#cxoln) es pot suspendre o finalitzar per:
 
-The FONN Compact may be suspended or ceased for:
+The [CXOLN](#cxoln) may be suspended or ceased for:
 
 >+ **a.** La voluntat de qui l'ha subscrit. La voluntat s'expressa directament donant-se de baixa les seves participacions en les eines que proporciona guifi.net, o en cas de que les participacions subsisteixin, per transmissió als nous titulars.
 
@@ -290,7 +290,7 @@ The FONN Compact may be suspended or ceased for:
 
 >La XOLN és una expressió de valors fonamentals com la llibertat, la igualtat d'oportunitats i la solidaritat i fraternitat a través del dret a comunicar-se lliurement i a extreure'n el màxim de prestacions possibles d'acord amb els [principis generals](#i-resum-i-principis-generals), que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació dels [Comuns de la XOLN](#cxoln).
 
-The FONN Compact is an expression of the fundamental values such as freedom, equality off opportunities, solidarity and fraternity through the right of free communication and of extracting the maximum benefits possible according to the general principles. These fundamental values must be used in case of having to resolve any doubt about the interpretation of the FONN Compact.
+The [CXOLN](#cxoln) is an expression of the fundamental values such as freedom, equality off opportunities, solidarity and fraternity through the right of free communication and of extracting the maximum benefits possible according to the general principles. These fundamental values must be used in case of having to resolve any doubt about the interpretation of the FONN Compact.
 
 >### 2. Accés
 
@@ -428,7 +428,7 @@ The proprietors are the responsible for managing their infrastructures respectin
 
 >Un dels pilars de la xarxa oberta és que s'informa dels seus components. Els titulars han de proporcionar de bona fe dades de contacte i una descripció de la seva aportació a través de les eines que proporciona la xarxa i conscients i acceptant que es publicaran. Podran accedir, modificar-les o cancel·lar-les en qualsevol moment. El subministrament maliciós de dades falses pot implicar la suspensió de l'acord dels [Comuns de la XOLN](#cxoln).
 
-One of the pillars of the open network is the information about its components. The proprietors must provide reliable information about their contributions and contact details through the network tools, being aware that this information will be made publicly available. They have the right to access, modify or cancel them at any time. The provision of malicious information may lead to the suspension of the FONN Compact agreement.
+One of the pillars of the open network is the information about its components. The proprietors must provide reliable information about their contributions and contact details through the network tools, being aware that this information will be made publicly available. They have the right to access, modify or cancel them at any time. The provision of malicious information may lead to the suspension of the [CXOLN](#cxoln) agreement.
 
 >### 6. Transmissió
 
@@ -452,7 +452,7 @@ The integration of assets to the network is essential to promote its growth and 
 
 >En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#cxoln), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels [Comuns de la XOLN](#cxoln).
 
-In the case a participant finalizes the FONN Compact agreement, he recovers all the his infrastructures, except from those which deployment required licenses or permissions form third parties and they where given on behalf of the network or the Foundation, or when the proprietorship is shared. In these cases the parties can agree on how to solve the situation in a fair way for all of them. In the case of a transfer, the rest of proprietors have the right of pre-emption.
+In the case a participant finalizes the [CXOLN](#cxoln) agreement, he recovers all the his infrastructures, except from those which deployment required licenses or permissions form third parties and they where given on behalf of the network or the Foundation, or when the proprietorship is shared. In these cases the parties can agree on how to solve the situation in a fair way for all of them. In the case of a transfer, the rest of proprietors have the right of pre-emption.
 
 >### 9. Exercici de la titularitat
 
@@ -524,7 +524,7 @@ Give legal personality to guifi.net for any purpose necessary to allow the norma
 
 >Quan els participants accepten els [Comuns de la XOLN](#cxoln) accepten també delegar totes aquestes funcions a guifi.net i a la Fundació, sense renunciar que per la seva banda també, si així ho desitgen, poden realitzar les mateixes funcions directament.
 
-Subscribing the FONN Compact the participants accept the delegation of all these functions to guifi.net and to the Foundation, without renouncing to their right to exercise them by themselves.
+Subscribing the [CXOLN](#cxoln) the participants accept the delegation of all these functions to guifi.net and to the Foundation, without renouncing to their right to exercise them by themselves.
 
 >### 3. Defensa
 
@@ -576,7 +576,7 @@ If priorities are implemented and they are not restricted to self priority (pref
 
 >En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apartat [5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals), es podrà impedir el trànsit o la connexió de l'usuari que el causa, procurant advertir-lo sempre que sigui possible. En el cas de que aquest trànsit sigui causat per un participant, aquesta suspensió no causa ~~també~~ una suspensió ~~de forma~~ immediata de l'acord dels [Comuns de la XOLN](#cxoln), però sí que serveix d'advertiment.
 
-As part of the network management tasks, in the case of an abuse of the type described in point IX.5 of section “About Services, Content, and The Internet”, the traffic or the connection of the originator may be suspended, with prior notice whenever possible. This suspension does not imply an immediate suspension of the FONN Compact agreement, but it must be taken as a warning.
+As part of the network management tasks, in the case of an abuse of the type described in point IX.5 of section “About Services, Content, and The Internet”, the traffic or the connection of the originator may be suspended, with prior notice whenever possible. This suspension does not imply an immediate suspension of the [CXOLN](#cxoln) agreement, but it must be taken as a warning.
 
 >En cap cas es pot fer servir aquesta possibilitat per impedir la lliure participació i circulació de serveis i continguts recollit en els [Comuns de la XOLN](#cxoln).
 
@@ -584,7 +584,7 @@ This option cannot be used, in any case, to impede the free participation and ci
 
 >Si un participant abusa reiteradament d'aquest punt, ja sigui en el sentit de causar trànsit inapropiat que requereix de la seva suspensió, o en el d'impedir injustificadament el trànsit d'altres usuaris, això pot ser causa d'un conflicte que, d'acord amb el que es preveu en l'apartat de [resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable), pot finalitzar amb la suspensió de l'acord dels [Comuns de la XOLN](#cxoln) per aquest participant.
 
-The generation of inappropriate traffic or the block of other participants traffic, generates a conflict that must be resolved according to the section “About Conflict Resolution and Jurisdiction” and that may lead to the suspension of the FONN Compact agreement with the originator.
+The generation of inappropriate traffic or the block of other participants traffic, generates a conflict that must be resolved according to the section “About Conflict Resolution and Jurisdiction” and that may lead to the suspension of the [CXOLN](#cxoln) agreement with the originator.
 
 >### 5. Disponibilitat
 
@@ -648,7 +648,7 @@ The users are responsible of their security and have the right to protect themse
 
 >Es poden connectar xarxes privades a la xarxa oberta i posar-hi tallafocs per controlar-ne l'accés. Aquests trams de xarxes queden exclosos dels [Comuns de la XOLN](#cxoln) i no formen part de la xarxa oberta, lliure i neutral. De la seva seguretat se'n fa càrrec qui la munta.
 
-Private networks can be connected to the open network and control access through firewalls may be implemented. Those segments are excluded from the FONN Compact and are not part of the neutral, free and open network, and their sponsors are responsibility for their security.
+Private networks can be connected to the open network and control access through firewalls may be implemented. Those segments are excluded from the [CXOLN](#cxoln) and are not part of the neutral, free and open network, and their sponsors are responsibility for their security.
 
 >### 3. Danys
 
@@ -736,7 +736,7 @@ The network, as neutral, free and open, has the unequivocal vocation to be anoth
 
 >Quan es proporciona servei d'interconnexió amb una altra xarxa que, encara que no s'aculli a la protecció dels [Comuns de la XOLN](#cxoln) o es gestioni de manera diferent per altres organitzacions, però que en essència obeeixi als mateixos criteris de xarxa oberta, lliure i neutral, mantenint les mateixes [llibertats i principis generals](#i-resum-i-principis-generals) i permetent la lliure interconnexió, es podrà establir un reconeixement recíproc de les mateixes llibertats pel que fa a la lliure circulació de continguts i serveis.
 
-In the case of an interconnection service with another network which is not under the FONN Compact agreement or it is managed in a different way by other organizations but in essence follows the same criteria of neutral, free and open network, keeping the same freedoms and general principles and allowing the free interconnection, a mutual recognition of the same rights regarding the free circulation of contents and services can be established.
+In the case of an interconnection service with another network which is not under the [CXOLN](#cxoln) agreement or it is managed in a different way by other organizations but in essence follows the same criteria of neutral, free and open network, keeping the same freedoms and general principles and allowing the free interconnection, a mutual recognition of the same rights regarding the free circulation of contents and services can be established.
 
 >## X. Resolució de conflictes i jurisdicció aplicable
 
@@ -752,7 +752,7 @@ In the case of questions, doubts or conflicts of interpretation or application o
 
 >La petició es formalitza a través d'un correu dirigit al Patronat (patronat (arroba) guifi.net), especificant-ho clarament a l'assumpte (per exemple "Consulta /Conflicte sobre els Comuns en relació a...."), i en el text del correu, una descripció de la qüestió, de les seves motivacions, dels punts dels Comuns afectats quan n'hi han, propostes, etc. És a dir, procurar que estigui ben documentat i entenedor.
 
-The request must be formalized by an e-mail sent to the board (patronat(at)guifi.net), with the topic explicitly stated in the subject (e.g. “Question/Conflict about the FONN Compact with regard to ...”) and a clear and well supported description of the facts, the motivations, the affected FONN Compact points, the proposals, etc. That is to say, making sure that it is well documented and comprensible.
+The request must be formalized by an e-mail sent to the board (patronat(at)guifi.net), with the topic explicitly stated in the subject (e.g. “Question/Conflict about the [CXOLN](#cxoln) with regard to ...”) and a clear and well supported description of the facts, the motivations, the affected [CXOLN](#cxoln) points, the proposals, etc. That is to say, making sure that it is well documented and comprensible.
 
 >Un cop el Patronat de la Fundació ha rebut la notificació i en funció de la naturalesa de la petició aplicarà el següent procediment:
 
@@ -783,7 +783,7 @@ The group in charge of deliberating and solving an issue must make decisions by 
 
 >Les resolucions hauran d'orientar-se a aplicar l'esperit dels [Comuns de la XOLN](#cxoln), i en cas de que es constati un conflicte o una situació d'incompliment, servir d'arbitratge i proposar solucions per esmenar la situació que s'hagi pogut crear.
 
-The resolutions must be based on the FONN Compact spirit, and in the case of a conflict or unfulfillment, they must make decisions and propose solutions in order to amend the situation.
+The resolutions must be based on the [CXOLN](#cxoln) spirit, and in the case of a conflict or unfulfillment, they must make decisions and propose solutions in order to amend the situation.
 
 >### 3. Resolucions de suspenció
 
@@ -791,7 +791,7 @@ The resolutions must be based on the FONN Compact spirit, and in the case of a c
 
 >En casos extrems, es pot resoldre la suspensió l'acord dels [Comuns de la XOLN](#cxoln) amb un participant, deixant-lo sense efectes, i podrà recuperar les infraestructures de la seva titularitat en funció del que es preveu en l'apartat [Titularitat i participants](#iv-titularitat-i-participants)". Per aquesta via no es poden resoldre penalitzacions o compensacions de tipus econòmic per danys o perjudicis i similars, si fos el cas s'haurà de fer via als Tribunals competents.
 
-In extreme cases, the FONN Compact agreement with a participant can be ceased. The participant can recover his infrastructures according to the section “About Proprietorship and Participants”. Penalizations and compensations can not be ruled this way. If needed, they must be submitted to the competent court.
+In extreme cases, the [CXOLN](#cxoln) agreement with a participant can be ceased. The participant can recover his infrastructures according to the section “About Proprietorship and Participants”. Penalizations and compensations can not be ruled this way. If needed, they must be submitted to the competent court.
 
 >### 4. Recurs
 
@@ -807,7 +807,7 @@ The resolutions can be appealed or, alternatively, the issue can be submitted to
 
 >La Fundació s'ha constituït segons la [Llei de Fundacions 4/2008 de Catalunya][4]. A efectes legals i en cas de conflicte, si les parts no acorden una altra cosa, la jurisdicció aplicable per a la Fundació i per a la interpretació dels [Comuns de la XOLN](#cxoln) és la que correspongui del Tribunal competent a Barcelona segons la legislació vigent a Catalunya.
 
-The Foundation is established according “Llei de Fundacions 4/2008 de Catalunya \[5\]” (“ 4/2008 Foundations Law from Catalonia”). For legal matters and in the case of a conflict, unless the parties agree otherwise, the applicable jurisdiction by the Foundation and by the FONN Compact is the applicable by the competent court in Barcelona according to in accordance with current legislation in Catalonia.
+The Foundation is established according “Llei de Fundacions 4/2008 de Catalunya \[5\]” (“ 4/2008 Foundations Law from Catalonia”). For legal matters and in the case of a conflict, unless the parties agree otherwise, the applicable jurisdiction by the Foundation and by the [CXOLN](#cxoln) is the applicable by the competent court in Barcelona according to in accordance with current legislation in Catalonia.
 
 >## XI. Llicència ~~del text dels [Comuns de la XOLN](#cxoln)~~
 
@@ -819,7 +819,7 @@ The Foundation is established according “Llei de Fundacions 4/2008 de Cataluny
 
 >El text dels Comuns de la XOLN es pot canviar o modificar sota llicència [Creative Commons BY-NC-SA/4.0][2] o [GNU FDL][3]
 
-The content of the FONN Compact can be changed or modified under the Creative Commons (by-nc-sa) \[6\] license or the GNU/FDL \[4\] license.
+The content of the [CXOLN](#cxoln) can be changed or modified under the Creative Commons (by-nc-sa) \[6\] license or the GNU/FDL \[4\] license.
 
 >* No se'n pot fer un ús comercial
 
@@ -839,7 +839,7 @@ The content of the FONN Compact can be changed or modified under the Creative Co
 
 >Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als [Comuns per la XOLN](#cxoln), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#7-principi-de-reciprocitat).
 
-We encourage the organizations of the rest of the world to promote the Neutral, Free and Open Network by either adopting the FONN Compact or adapting it to its organization and working methods to make the interconnection of the networks possible through the reciprocity principle.
+We encourage the organizations of the rest of the world to promote the Neutral, Free and Open Network by either adopting the [CXOLN](#cxoln) or adapting it to its organization and working methods to make the interconnection of the networks possible through the reciprocity principle.
 
 [1]:http://guifi.net/ComunsSensefils
 [2]:https://creativecommons.org/licenses/by-nc-sa/4.0/
