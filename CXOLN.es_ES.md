@@ -155,21 +155,21 @@ Una actividad dinámica e innovadora como la que realiza guifi.net exige un proc
 
   Cuando en este documento se menciona "la red" de forma genérica o la abreviación "XOLN" nos referimos a la _Red Abierta, Libre y Neutral_, la cual se define así porque: 
 
->   1.  És **oberta** perquè s'ofereix universalment a la participació de tothom sense cap tipus d'exclusió ni discriminació, i perquè s'informa en tot moment de com funciona i els seus components, permetent així que qui vulgui pugui millorar-la.
+>   1.  És **Oberta** perquè s'ofereix universalment a la participació de tothom sense cap tipus d'exclusió ni discriminació, i perquè s'informa en tot moment de com funciona i els seus components, permetent així que qui vulgui pugui millorar-la.
 
-   1.  Es **abierta** porque se ofrece de forma universal a la participación de todos sin ningún tipo de exclusión o discriminación y porque se informa en todo momento acerca de cómo funciona la red y sus componentes, lo que permite que cualquiera pueda mejorarla.
+   1.  Es **Abierta** porque se ofrece de forma universal a la participación de todos sin ningún tipo de exclusión o discriminación y porque se informa en todo momento acerca de cómo funciona la red y sus componentes, lo que permite que cualquiera pueda mejorarla.
 
->   2.  És **lliure** perquè tothom hi pot fer el que vol i gaudir-ne tal i com es preveu en la referència a les llibertats dels [principis generals (apartat I.)](#i-resum-i-principis-generals), i tot això independentment del seu nivell de participació a la xarxa i sense imposar termes i condicions que contradiguin aquest acord de forma unilateral.
+>   2.  És **Lliure** perquè tothom hi pot fer el que vol i gaudir-ne tal i com es preveu en la referència a les llibertats dels [principis generals (apartat I.)](#i-resum-i-principis-generals), i tot això independentment del seu nivell de participació a la xarxa i sense imposar termes i condicions que contradiguin aquest acord de forma unilateral.
 
-   2.  Es **libre** porque todos pueden hacer lo que quieran y disfrutar de las libertades tal y como se prevén en la referencia de los [principios generales (apartado I.)](#i-resumen-y-principios-generales), todo esto independientemente de su nivel de participación en la red y sin imponer términos y condiciones que contradigan este acuerdo de forma unilateral.
+   2.  Es **Libre** porque todos pueden hacer lo que quieran y disfrutar de las libertades tal y como se prevén en la referencia de los [principios generales (apartado I.)](#i-resumen-y-principios-generales), todo esto independientemente de su nivel de participación en la red y sin imponer términos y condiciones que contradigan este acuerdo de forma unilateral.
 
->   3.  És **neutral** perquè la xarxa és independent dels continguts, no els condiciona i hi poden circular lliurement; Els usuaris poden accedir i produir continguts independentment de les seves possibilitats financeres o condició social. Quan des de guifi.net s'incorporen continguts a la xarxa es fa o bé per estimular-ne de nous, o bé per a la gestió de la pròpia xarxa, o simplement en exercici de la llibertat d'incorporar-hi continguts, però en cap cas amb l'objectiu de substituir o impedir-ne d'altres.  
+>   3.  És **Neutral** perquè la xarxa és independent dels continguts, no els condiciona i hi poden circular lliurement; Els usuaris poden accedir i produir continguts independentment de les seves possibilitats financeres o condició social. Quan des de guifi.net s'incorporen continguts a la xarxa es fa o bé per estimular-ne de nous, o bé per a la gestió de la pròpia xarxa, o simplement en exercici de la llibertat d'incorporar-hi continguts, però en cap cas amb l'objectiu de substituir o impedir-ne d'altres.  
 
-   3.  Es **neutral** porque la red es independiente de los contenidos, no los condiciona y, así, pueden circular libremente; los usuarios pueden acceder y producir contenidos independientemente de sus posibilidades financieras o condiciones sociales. Cuando se incorporan contenidos a la red en guifi.net se hace o con el fin de estimular la aparición otros, o para gestionar mejor la red, o simplemente como ejercicio de la libertad de incorporar contenidos, pero en ningún caso con el objetivo de sustituir o bloquear otros contenidos.
+   3.  Es **Neutral** porque la red es independiente de los contenidos, no los condiciona y, así, pueden circular libremente; los usuarios pueden acceder y producir contenidos independientemente de sus posibilidades financieras o condiciones sociales. Cuando se incorporan contenidos a la red en guifi.net se hace o con el fin de estimular la aparición otros, o para gestionar mejor la red, o simplemente como ejercicio de la libertad de incorporar contenidos, pero en ningún caso con el objetivo de sustituir o bloquear otros contenidos.
 
->   També és **neutral** respecte de la tecnologia, la xarxa es pot construir amb la tecnologia que decideixin els seus participants sense més limitacions que les que es derivin de la pròpia tecnologia.
+>   També és **Neutral** respecte de la tecnologia, la xarxa es pot construir amb la tecnologia que decideixin els seus participants sense més limitacions que les que es derivin de la pròpia tecnologia.
 
-   Tambien es **neutral** en cuanto a la tecnologia, la red se puede construir con la tecnologia que deciden sus participantes sin mas limitaciones que las que se derivan de la pròpia tecnologia.
+   Tambien es **Neutral** en cuanto a la tecnologia, la red se puede construir con la tecnologia que deciden sus participantes sin mas limitaciones que las que se derivan de la pròpia tecnologia.
 
 >  + **c. Guifi.net**
 
