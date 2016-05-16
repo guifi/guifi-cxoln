@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-* [I. Resum i principis generals](#i-resum-i-principis-generals)
+* [I. Summary and General Principles](#i-summary-and-general-principles)
 * [II. Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#ii-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln)
     * [1. Gestació, interpretació i revisió del text](#1-gestació-interpretació-i-revisió-del-text)
     * [2. Definicions](#2-definicions)
@@ -112,27 +112,27 @@ Hereinafter, the [CXOLN](#cxoln) elaborates upon these principles in order to gu
 
 >Una activitat innovadora com la que es realitza a guifi.net exigeix d'un procés continuat en el temps de revisió i actualització que permeti adaptar-nos a noves realitats i millorar la claredat en les seves disposicions expressant millor els mateixos criteris que s'apliquen. Com que aquest text pot canviar amb el pas del temps i alhora serveix per adquirir uns compromisos en el moment de la seva acceptació, es preveu com cal interpretar el text de manera que es pugui revisar respectant els compromisos adquirits:
 
-An innovative project such as guifi.net requires a continuous process of revision and updates to ensure we can adapt to new realities, improve the clarity of its dispositions, and better explain the same applicable criterias. Since this text may change over time whilst it serves to acquire `commitments|rights` when it is accepted, the text can only be revised or modified so long as it respects previously acquired `commitments|rights`:
+An innovative project such as Guifi.net requires a continuous process of revision and updates to ensure we can adapt to new realities, improve the clarity of its dispositions, and better explain the same applicable criterias. Since this text may change over time whilst it serves to acquire `commitments|rights` when it is accepted, the text can only be revised or modified so long as it respects previously acquired `commitments|rights`:
 
 >+ **a.** Una revisió <u>no pot</u> modificar els compromisos adquirits en l'acceptació d'una revisió anterior. En cas de voler modificar-los, es tractaria d'una altre versió diferent i no pas només una revisió. Per aplicar una nova versió cal renovar el consentiment de forma expressa.
 
-+ **a.** A revision <u>cannot</u> modify the terms and conditions which are a result of the acceptance of a previous revision. Such a desired modification would require a rewrite and not just a revision. To implement a rewrite, consent must be expressly renewed.
++ **a.** A revision <u>cannot</u> modify previously agreed and acquired commitments provided by a preceding revision. In the case that such changes are sought, they imply a new version, not just a revision. Implementing a new version therefore requires that consent be expressly renewed.
 
 >+ **b.** Quan en una revisió s'estén a noves situacions que abans no existien, com per exemple les derivades d'algun tipus d'ampliació o d'actualització tecnològica, s'entén que implícitament es renova l'acceptació segons la revisió vigent del moment en que es produeix l'actualització o ampliació.
 
-+ **b.** When a revision addresses new situations such as those concerning new applications or new technologies, it is understood that such updates and extension of the Compact shall be accepted implicitly.
++ **b.** When a revision addresses new situations which did not previously exist, such as for example those derived from a new or improved technology, it is understood that the agreement is implicitely renewed and valid under said revision from the moment the update or expansion is effective.
 
->+ **c.** Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils][1]
+>+ **c.** Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és una revisió `(una nova versió..?)` del `(de la licencia..?)` que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils][1]
 
-+ **c.** The [CXOLN](#cxoln) is a revision of the earlier 'Wireless Commons' which is available in Catalan as a reference to [http://guifi.net/ComunsSensefils][1].
++ **c.** The [CXOLN](#cxoln) is a revision `(a new version..?)` of an earlier `license` known as "Communs Sensefils (_Wireless Commons_)" which can be consulted for reference in Catalan at [http://guifi.net/ComunsSensefils][1].
 
->+ **d.** Totes les revisions dels [Comuns de la XOLN](#cxoln) es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
+>+ **d.** Totes les revisions dels [Comuns de la XOLN](#cxoln) es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió `(versió..? [l'acord per a revisions es automatic, mentrestant novas versions requereixen la renovació explicita de l'acord])` vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
 
-+ **d.** All revisions of the [CXOLN](#cxoln) are archived and published so you can follow the update process and know the release dates of each revision. If necessary, these can be compared with the dates of acceptance of the Compact to avoid conflicts of interpretation.
++ **d.** All revisions of the [CXOLN](#cxoln) are stored and published in a manner to ensure that one can know its drafting history, and thus know which revision `(version..? [as revisions are tacitly agreed, whereas versions require renewed consent])` was valid according to the time of an `explicit` agreement, and thus, when necessary, these can be used as reference in case a conflict of interpretation arises.
 
 >+ **e.** Si algú creu que en alguna revisió posterior se li ha modificat un compromís adquirit i no hi ha donat el seu consentiment tal i com es diu el punt [II.1.a](#1-gestació-interpretació-i-revisió-del-text), ho pot manifestar segons el que es preveu en l'apartat [X. Resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable).
 
-+ **e.** If a participant considers that a later revision denies one's rights or significantly modifies previously compacted terms and conditions without one's consent as described in II.1.a, then recourse may be made as described in the section “About Conflict Resolution and Jurisdiction”.
++ **e.** If someone considers that a revision, for which they did not give their consent, has modified an acquired `commitment|right`, they can manifest their `disconformity|opposition` according to the steps foreseen in section [X. Resolution of conflicts](x-resolution-of-conflicts).
 
 >### 2. Definicions
 
@@ -140,55 +140,57 @@ An innovative project such as guifi.net requires a continuous process of revisio
 
 >+ **a. CXOLN**
 
->    Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és un acord d'interconnexió entre iguals que serveix de contracte d'adhesió de cada participant amb el conjunt de a guifi.net i que és comú per a tothom que forma part de la xarxa. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús de la xarxa, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom. També es coneix amb les abreviacions "Comuns", "Comuns de la XOLN" o "CXOLN".
-
 + **a. CXOLN**
 
-    The [CXOLN](#cxoln) (“Comuns de la Xarxa Oberta, Lliure i Neutral”, or XOLN in Catalan) is an agreement for the connections between peers that serves as a contract between each participant in the network as a whole, and is the same for each participant of the network. The agreement serves simultaneously a contract for participation in the network and as a license for use, becoming a guarantee for its subscribers regarding the applicable terms and conditions, which are the same for everyone. It is also known as “commons” or “free network commons”.
+>    Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és un acord d'interconnexió entre iguals que serveix de contracte d'adhesió de cada participant amb el conjunt de a guifi.net i que és comú per a tothom que forma part de la xarxa. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús de la xarxa, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom. També es coneix amb les abreviacions "Comuns", "Comuns de la XOLN" o "CXOLN".
+
+    The [CXOLN](#cxoln),“_Comuns de la Xarxa Oberta, Lliure i Neutral_” (_Commons of the Open, Free and Neutral Network_), is an interconnection agreement between peers, which serves as a membership contract for each participant with the network as a whole, thus, it is shared by everyone who joins the network. This agreement serves both as a membership contract, as well as a license for using the network, thereby becoming a guarantee, for whom subscribes to it, on what the applicable Terms and Conditions are for everyone. It is also known as “Comuns” (_Commons_), "Comuns de la XOLN" (_Commons of the XOLN_) or "CXOLN".
 
 >+ **b. XOLN**
 
->    La Xarxa de Telecomunicacions Lliure, Oberta i Neutral (XOLN) és una infraestructura de telecomunicacions pública comunitària a la que s'apliquen els termes i condicions dels [Comuns de la XOLN](#cxoln), disponible al públic en general, de manera que quan els participants s'hi adhereixen, s'amplia. A través de la xarxa s'obté i alhora es subministra un servei de comunicacions electròniques amb els altres participants ja sigui directament o a través de la interconnexió amb altres xarxes.
-
 + **b. XOLN**
 
-    The Neutral, Open and Free Telecommunications Network (the “Xarxa de Telecomunicacions Oberta, Lliure I Neutral” in Catalan) is a public community telecommunications infrastructure regulated by the terms and conditions of the “XLON Compact”, which is publicly available, in a way that when new participants join it expands. Through the network the participant obtains and simultaneously provides electronic communication services with the rest of participants, directly or via the interconnection with other networks.
+>    La XOLN, _"Xarxa Oberta, Lliure i Neutral"_, és una infraestructura de telecomunicacions pública comunitària a la que s'apliquen els termes i condicions dels [Comuns de la XOLN](#cxoln), disponible al públic en general, de manera que quan els participants s'hi adhereixen, s'amplia. A través de la xarxa s'obté i alhora es subministra un servei de comunicacions electròniques amb els altres participants ja sigui directament o a través de la interconnexió amb altres xarxes.
+
+    The XOLN, _"Xarxa Oberta, Lliure i Neutral"_ (_Open, Free and Neutral Network_), is a public community-managed telecommunications infrastructure regulated by the terms and conditions of the [CXOLN](#cxoln), which are publicly available so that when new participants join, `it|the XOLN` expands. Through the network one obtains, and simultaneously provides, electronic communication services with the rest of participants, be it directly or via an interconnection with other networks.
 
 >    Quan en aquest document es menciona "la xarxa" de forma genèrica o l'abreviació "XOLN", es refereix a la Xarxa Oberta, Lliure i Neutral, i es defineix així perquè:
 
-    In this document the term “the network” refers to the Neutral, Open and Free Telecommunications Network, defined this way because:
+    When throughout this document the generic term “the network” or the acronym "XOLN" is used, they refer to the "Xarxa Oberta, Lliure i Neutral"_ (_Open, Free and Neutral Network_), which is thus defined as:
 
->    1. És **oberta** perquè s'ofereix universalment a la participació de tothom sense cap tipus d'exclusió ni discriminació, i perquè s'informa en tot moment de com funciona i els seus components, permetent així que qui vulgui pugui millorar-la.
+>    1. És **Oberta** perquè s'ofereix universalment a la participació de tothom sense cap tipus d'exclusió ni discriminació, i perquè s'informa en tot moment de com funciona i els seus components, permetent així que qui vulgui pugui millorar-la.
 
-    1. It is **open** because it is universally open to the participation of everybody without any kind of exclusion nor discrimination, and because it is always described how it works and its components, enabling everyone to improve it.
+    1. It is **Open** because it offers itself universally to the participation of everybody without any kind of exclusion nor discrimination, and because information on its functioning and components are always `published at any given time|publicly available`, thereby enabling anyone who so wishes, to improve it.
 
->    2. És **lliure** perquè tothom hi pot fer el que vol i gaudir-ne tal i com es preveu en la referència a les llibertats dels [principis generals (apartat I.)](#i-resum-i-principis-generals), i tot això independentment del seu nivell de participació a la xarxa i sense imposar termes i condicions que contradiguin aquest acord de forma unilateral.
+>    2. És **Lliure** perquè tothom hi pot fer el que vol i gaudir-ne tal i com es preveu en la referència a les llibertats dels [principis generals (apartat I.)](#i-resum-i-principis-generals), i tot això independentment del seu nivell de participació a la xarxa i sense imposar termes i condicions que contradiguin aquest acord de forma unilateral.
 
-    2. It is **free** because everybody can use it for whatever purpose and enjoy it as foreseen in the freedoms of the “General principles” section, independently of his network participation degree.
+    2. It is **Free** because everybody can use it to do what they want and enjoy it just as foreseen in the freedoms of the [General Principles (section I.)](#i-summary-and-general-principles), regardless of anyone's level of participation in the network, and without imposing any terms or conditions which contradict this agreement in a unilateral way.
 
->    3. És **neutral** perquè la xarxa és independent dels continguts, no els condiciona i hi poden circular lliurement; Els usuaris poden accedir i produir continguts independentment de les seves possibilitats financeres o condició social. Quan des de guifi.net s'incorporen continguts a la xarxa es fa o bé per estimular-ne de nous, o bé per a la gestió de la pròpia xarxa, o simplement en exercici de la llibertat d'incorporar-hi continguts, però en cap cas amb l'objectiu de substituir o impedir-ne d'altres.  
+    _and without having to suffer the imposition of any terms or conditions  which contradict this agreement in a unilateral way when `accessing|using` the network._
 
-    3. It is **neutral** because the network is independent of the contents, it does not influence them and they can freely circulate; the users can access and produce contents independently to their financial capacity or their social condition. The new contents produced by guifi.net are orientated to stimulate new ones, or for the network administration itself, or simply in exercise of the freedom of adding new contents, but not to replace or to to block other ones.
+>    3. És **Neutral** perquè la xarxa és independent dels continguts, no els condiciona i hi poden circular lliurement; Els usuaris poden accedir i produir continguts independentment de les seves possibilitats financeres o condició social. Quan des de guifi.net s'incorporen continguts a la xarxa es fa o bé per estimular-ne de nous, o bé per a la gestió de la pròpia xarxa, o simplement en exercici de la llibertat d'incorporar-hi continguts, però en cap cas amb l'objectiu de substituir o impedir-ne d'altres.  
 
->    També és **neutral** respecte de la tecnologia, la xarxa es pot construir amb la tecnologia que decideixin els seus participants sense més limitacions que les que es derivin de la pròpia tecnologia.
+    3. It is **Neutral** because the network is independent of the contents, it does not condition these and they can circulate freely; users can access and produce contents regardless of their financial capacity or social condition. When, from Guifi.net, new contents are added to the network, this is done either to stimulate new content, or for the administration of the network itself, or simply as an exercise of the freedom of adding contents, but never for the purpose of substituting or blocking other contents.
 
-    It is also **neutral** with regard to the technology, the network can be built with whatever technology chosen by the participants with the only limitations resulting of the technology itself.
+>    També és **Neutral** respecte de la tecnologia, la xarxa es pot construir amb la tecnologia que decideixin els seus participants sense més limitacions que les que es derivin de la pròpia tecnologia.
+
+    It is also **Neutral** with regard to technology. The network can be built with whatever technology its participants decide, without any limitations apart from those `inherent to|derived by` the technology itself.
 
 >+ **c. Guifi.net**
 
->    És el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
-
 + **c. Guifi.net**
 
-    Is the set formed by the network and the individuals, the collectives, the enterprises, the institutions and the administrations that support it or collaborates with it in a way that the network becomes operational and offers connectivity to everybody. Thus, they act as telecommunication operators.
+>    És el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
+
+    Is the ensemble formed by the network, individuals, collectives, businesses, institutions and administrations who provide it with support or collaborate with it so that the network be operational and offer connectivity to everybody. Therefore, it acts as a telecommunications operator.
 
 >+ **d. Participants i titularitat**
 
++ **d. Participants and Ownership**
+
 >    Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels [Comuns de la XOLN](#cxoln). Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de `padrins`, i de l'acte de cobrir la inversió, la denominació d'`apadrinament`.
 
-+ **d. Ownership and Participants**
-
-    The participants are those natural or juridical persons that contribute infrastructure as network segments accepting the FONN Compact. The participants keep the proprietorship of their contributions in a way that the network proprietorship is distributed among the participants. This way, the participants are the network investors. They are called “sponsors” and the act of covering the investment is called “sponsorship”.
+    Participants are the natural or juridical persons who contribute infrastructure and segments to the network via their acceptance of the [CXOLN](#cxoln). As participants retain ownership of their infrastructures, the ownership of the network itself is distributed amongst its participants. Therefore, participants are the network's investors, for which they receive the denomination of `sponsors`, while the act of `undertaking|assuming` an investment is called `sponsorship`.
 
 >+ **e. Formes de participació**
 
@@ -196,19 +198,19 @@ An innovative project such as guifi.net requires a continuous process of revisio
 
 >    En funció del format de connexió a la xarxa, existeixen:
 
-    Depending on the network connection format:
+    Depending on the type of connection to the network, there exists:
 
 >    1. Connexions simples  
     Les connexions simples son aquells segments de la xarxa que finalitzen en un punt a partir del qual no s'estén a altres trams de la xarxa amb les mateixes condicions. Normalment és el punt des del qual els usuaris gaudeixen de la xarxa oberta lliure i neutral i a partir del qual hi connecten les seves xarxes privades.
 
     1. Simple connections
-    Simple connections are those network segments that end to a node from which the network do not expand no other segments under the same conditions. It is usually the point from where the users enjoy the neutral, free and open network and from where they connect their private networks.
+    Simple connections are those network segments which terminate a node to a point from which the network does not expand under the same conditions to other network segments. It is usually the point from which users enjoy the open, free and neutral network, and to which they connect their own private networks.
 
 >    2. Trams que estenen la xarxa  
     Els trams que estenen la xarxa són els segments de la xarxa que, a diferència de les connexions simples, sí que preveuen que en cadascun dels extrems hi hagin altres trams de xarxa amb les mateixes condicions.
 
-    2. Segments that expand the network
-    The segments that expand the network are those network segments where, contrary to the simple connection, it is foreseen to have additional network segments under the same conditions at each edge of them.
+    2. Sections that expand the network
+    The sections that extend the network are those network segments where, in contrast with simple connections, it is planned that each of its extremities connect to additional network sections bound to the same conditions.
 
 >+ **f. Continguts**
 
@@ -216,7 +218,7 @@ An innovative project such as guifi.net requires a continuous process of revisio
 
 >    El que dona sentit a una xarxa de telecomunicacions és que serveixi d'instrument de transmissió per accedir a continguts. Els continguts es publiquen a través de serveis.
 
-    What give sense to a telecommunications network is the fact that it can be used to transport contents. The contents are published through services.
+    What give sense to a telecommunications network is that it can be used as a means of `transmission|communication` to access contents. Contents are published via services.
 
 >+ **g. Serveis**
 
@@ -224,29 +226,29 @@ An innovative project such as guifi.net requires a continuous process of revisio
 
 >    A l'entorn de la xarxa existeixen múltiples formats de serveis. El més bàsic i indissociable de la pròpia xarxa és la connectivitat entre tots els participants i que s'anomena "servei de comunicacions electròniques". Més enllà d'aquest servei indissociable, es distingeix entre dos grans tipologies de serveis:
 
-    Many service formats exist under the scope of the network. The most basic one which is inseparable from the network itself is the connectivity between all the participants and it is called “electronic communications service”. Apart from this inseparable service, two big different categories of services exist:
+    Many types of services exist within the scope of the network. The most basic one, which is indissociable from the network itself, is that of connectivity between all participants, thus named the “electronic communications service”. Apart from this indissociable service, we distinguish two main types of services:
 
 >    1. Serveis "tal qual"  
     Son aquells serveis que es proporcionen "tal qual son", és a dir, qui els utilitza ho fa sota la seva responsabilitat i no pot exigir a qui li subministra que cobreixi una expectativa o unes característiques. En aquesta categoria generalment hi trobarem els serveis que es proporcionen de forma gratuïta.
 
     1. “As is” Services
-    Are those services offered “as is”, that is to say, anyone using them is doing so under his responsibility and cannot demand the coverage of any expectations or features to the service supplier. Frequently the free services belong to this category.
+    These are services offered “as is”, that is to say, whoever uses them is doing so under their own responsibility and cannot demand to its supplier that it meet any expectations or characteristics. In this type of service we will generally find services that are provided free-of-charge.
 
 >    2. Serveis amb compromís  
     És quan es proporciona un servei amb un compromís de subministrar-lo, normalment a canvi d'una contraprestació, com per exemple quan es proporciona connectivitat amb altres operadors o Internet, o també els serveis professionals per garantir uns `nivells de servei o disponibilitat`.
 
     2. Guaranteed Services
-    Is a service offered with a compromise for being delivered, usually in change of a compensation, as when connectivity to other providers or to the internet is supplied or the professional services to offer a given service level agreement.
+    This is when a service is provided with a delivery commitment, usually in exchange of a compensation, such as when connectivity with other providers or the Internet is provided, or when professional services guarantee a given Service Level Agreement.
 
-_The “electronic communications service” happens through the tools given by guifi.net that emerge as a result of the network interconnection agreement. It deserves a clarification because it can be considered as a “as it is” service and a service with a compromise at the same time. “As it is” because each participant, although he can, he has not the obligation to guarantee the availability to third parties, and with compromise because, independently to the availability compromise, he has the obligation to make the interconnection and the traffic possible as soon as the connection becomes active, because, although he does not receive any economic compensation, he receives connectivity with the rest of the participants in exchange of the compromise of integrating a new network segment under the same conditions._
+~_The “electronic communications service” happens through the tools given by guifi.net that emerge as a result of the network interconnection agreement. It deserves a clarification because it can be considered as a “as it is” service and a service with a compromise at the same time. “As it is” because each participant, although he can, he has not the obligation to guarantee the availability to third parties, and with compromise because, independently to the availability compromise, he has the obligation to make the interconnection and the traffic possible as soon as the connection becomes active, because, although he does not receive any economic compensation, he receives connectivity with the rest of the participants in exchange of the compromise of integrating a new network segment under the same conditions._~
 
 >+ **h. Usuàries/is**
 
 + **h. Users**
 
-    Son els qui gaudeixen de la connectivitat que ofereix la xarxa amb el seu ús, normalment son els participants, però els participants poden permetre l'accés a tothom.
+>    Son els qui gaudeixen de la connectivitat que ofereix la xarxa amb el seu ús, normalment son els participants, però els participants poden permetre l'accés a tothom.
 
-    Are those who enjoy the connectivity offered by the network with its use, usually are the participants themselves, but the participants can open the access to everybody.
+    Are those who enjoy the connectivity offered by the network by using it. Usually they are the participants themselves, but participants can open the access to everybody.
 
 >+ **i. La Fundació Guifi.net**
 
