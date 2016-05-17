@@ -311,7 +311,7 @@ _The network offers access to whoever wants it, `and results in the interconnect
 `>>> work in progress <<<`
 >Els membres de la xarxa oberta es comprometen únicament als termes i condicions dels [Comuns de la XOLN](#cxoln). Qualsevol altre compromís l'han d'expressar explícitament.
 
-The members of the open network are just subject to the terms and conditions of the FONN Compact. Any other compromise must be explicitly stated.
+Members of the open network only commit themselves to the terms and conditions of the [CXOLN](#cxoln). Any other commitment must be explicitly `stated|made|expressed`.
 
 >### 4. Adhesió
 
@@ -319,7 +319,7 @@ The members of the open network are just subject to the terms and conditions of 
 
 >L'adhesió a la xarxa es pot expressar a títol individual o col·lectiu, i comporta l'acceptació dels termes dels [Comuns de la XOLN](#cxoln). En qualsevol moment un membre adherit a la xarxa pot renunciar a la seva adhesió conforme al que es preveu en el punt [II.4. Finalització de l'acord](4-finalització-de-lacord). En cas de renunciar a la seva adhesió podrà recuperar els béns, equips i infraestructures de les que sigui titular, amb independència de on estiguin ubicats, amb la única excepció dels casos descrits en l'apartat [IV.8. Finalització de trams de xarxa](#8-finalització-de-trams-de-xarxa).
 
-The accession to the network can be made as an individual or as collective constituency, and implies the acceptance of the terms and conditions of the FONN Compact. At any time a member can renounce to the accession by the means described in the point II.4 End of agreement. In case of a renounce the renouncer can recover his goods, equipment and infrastructure of his property, regardless of their location, except in the cases described in the point 4 of the section “About the Proprietorship and Participants”.
+Membership in the network can be undertaken as an individual or as a collective, and implies the acceptance of the terms and conditions of the [CXOLN](#cxoln). At any time a member can renounce to the accession by the means described in section [II.4. End of Agreement](#4-end-of-agreement). In case of a renounce the renouncer can recover his goods, equipment and infrastructure of his property, regardless of their location, except in the cases described in section [IV.8. Termination of Network Sections](#8-termination-of-network-sections).
 
 >### 5. Compromís per el creixement
 
@@ -425,7 +425,7 @@ Although there can be different levels of participation for each proprietor, the
 
 >Els titulars són els responsables de gestionar les seves infraestructures respectant els [Comuns de la XOLN](#cxoln).
 
-The proprietors are the responsible for managing their infrastructures respecting the FONN Compact.
+The proprietors are the responsible for managing their infrastructures respecting the [CXOLN](#cxoln).
 
 >### 5. Informació
 
@@ -441,7 +441,7 @@ One of the pillars of the open network is the information about its components. 
 
 >La titularitat és un actiu, que com a tal pot tenir un valor, i conseqüentment es pot transmetre entre participants ja sigui per cessió o compravenda o qualsevol altra forma jurídicament lícita. Quan la titularitat es transmet a nous participants, comporta l'acceptació dels [Comuns de la XOLN](#cxoln) per part de qui l'adquireix.
 
-The proprietorship is an asset, and as such it has a value, thus, it can be transferred between participants, either by cession, sale, or any other transfer legal form. The proprietorship transfer to new participants implies their acceptance of the FONN Compact.
+The proprietorship is an asset, and as such it has a value, thus, it can be transferred between participants, either by cession, sale, or any other transfer legal form. The proprietorship transfer to new participants implies their acceptance of the [CXOLN](#cxoln).
 
 >### 7. Incorporació de trams de xarxa
 
@@ -481,7 +481,7 @@ In the case of an orphan infrastructure, the proprietorship is transferred to an
 
 >Quan es cedeixen ubicacions per muntar-hi infraestructures de xarxa sense contraprestació, independentment de quins siguin la resta de titulars, s'assumeix que facilitaran la connexió més oberta possible en funció de la naturalesa de l'equipament. Si s'estableixen limitacions d'espai o de capacitat han de facilitar el trànsit segons els Comuns XOLN, ser raonables, aplicant les bones pràctiques, les mateixes condicions per a tots els usuaris sense discriminacions i no forçar la contractació de serveis a operadors concrets encara que siguin co-titulars de la infraestructura. Els operadors que hi ofereixen compromís de servei n'haurien de tenir suficient amb aplicar el que es preveu en el punt [VI. 3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats).
 
-When locations are made available to host network infrastructures without compensation, independently to the rest of proprietors, it is understood that they will facilitate the connection as open as possible according to the nature of the installation. In the case of space or capacity limitations, they must allow the traffic according to the FONN Compact, be reasonable, and applying good practices, being the same for all the users without any discrimination, and without implying the hiring the services of any specific operator although this may be co-proprietor of the infrastructure. What is foreseen in point VI.3 of section “About Network Management and Traffic Shaping (Quality of Service)” should suffice for those operators that offer services with compromise.
+When locations are made available to host network infrastructures without compensation, independently to the rest of proprietors, it is understood that they will facilitate the connection as open as possible according to the nature of the installation. In the case of space or capacity limitations, they must allow the traffic according to the [CXOLN](#cxoln), be reasonable, and applying good practices, being the same for all the users without any discrimination, and without implying the hiring the services of any specific operator although this may be co-proprietor of the infrastructure. What is foreseen in point VI.3 of section “About Network Management and Traffic Shaping (Quality of Service)” should suffice for those operators that offer services with compromise.
 
 >Aquesta condició és d'indispensable compliment quan es tracta de dominis públics gestionats per administracions públiques donada la obligatorietat legal que tenen de garantir la no discriminació.
 
@@ -537,7 +537,7 @@ Subscribing the [CXOLN](#cxoln) the participants accept the delegation of all th
 
 >Defensar i donar suport als interessos dels participants en la seva activitat de pertinença a la xarxa, els interessos i bon ús dels [Comuns de la XOLN](#cxoln) i el nom de guifi.net, podent, si fos necessari, emprendre accions legals o reclamar reparacions en aquells casos on de mala fe s'ha volgut causar un perjudici a guifi.net o als seus usuaris.
 
-Defend and support the interests of the participants, the good use of the FONN Compact, and the name of guifi.net, being able, when necessary, to undertake legal actions or claim reparation in those bad faith cases where intended damage to guifi.net or its users is seeked.
+Defend and support the interests of the participants, the good use of the [CXOLN](#cxoln), and the name of guifi.net, being able, when necessary, to undertake legal actions or claim reparation in those bad faith cases where intended damage to guifi.net or its users is seeked.
 
 >## VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)
 
@@ -585,7 +585,7 @@ As part of the network management tasks, in the case of an abuse of the type des
 
 >En cap cas es pot fer servir aquesta possibilitat per impedir la lliure participació i circulació de serveis i continguts recollit en els [Comuns de la XOLN](#cxoln).
 
-This option cannot be used, in any case, to impede the free participation and circulation of services and contents described in the FONN Compact.
+This option cannot be used, in any case, to impede the free participation and circulation of services and contents described in the [CXOLN](#cxoln).
 
 >Si un participant abusa reiteradament d'aquest punt, ja sigui en el sentit de causar trànsit inapropiat que requereix de la seva suspensió, o en el d'impedir injustificadament el trànsit d'altres usuaris, això pot ser causa d'un conflicte que, d'acord amb el que es preveu en l'apartat de [resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable), pot finalitzar amb la suspensió de l'acord dels [Comuns de la XOLN](#cxoln) per aquest participant.
 
@@ -721,7 +721,7 @@ Freedom of thought, thinking, expression and communication must be respected. Th
 
 >La xarxa, com a xarxa oberta, lliure i neutral té vocació inequívoca de ser una xarxa més de la gran xarxa de xarxes que és Internet i per aquest motiu guifi.net procura formar part activa dels organismes que formen Internet i, com a operador, procurar acords i mecanismes d'interconnexió eficients amb tots els altres operadors. Tanmateix, actualment a Internet, els altres operadors poden ser més restrictius i no tan oberts pel que fa a la interconnexió amb les seves xarxes, per exemple fent una explotació comercial de la interconnexió o del trànsit. Com que en aquests casos no és possible aplicar el [principi de reciprocitat](#7-principi-de-reciprocitat), el trànsit cap a l'internet d'aquests operadors es considera fora de l'àmbit dels [Comuns de la XOLN](#cxoln), i com a tal, respecte de la XOLN, n'esdevé un contingut. Per tant, aquesta mena d'interconnexió s'ofereix als participants com qualsevol altre servei dins de la xarxa, i típicament n'hi pot haver de dos tipus:
 
-The network, as neutral, free and open, has the unequivocal vocation to be another network of the big network of networks which is Internet. Thus, guifi.net wants to actively participate in the Internet organizations, and, as an operator, to establish interconnection agreements with the rest of the operators. Nonetheless, currently in the Internet, other operators may be more restrictive and less open in regard to the interconnection with their networks, doing, for instance, a commercial exploitation of the interconnection or the traffic. Because in these cases is not possible to apply the reciprocity principle, the Internet traffic towards these operators is considered to be out of the FONN Compact, and as such it must be considered as a content. Thus, this type of interconnection is offered to the participants as any other service in the network, the most frequent ways are:
+The network, as neutral, free and open, has the unequivocal vocation to be another network of the big network of networks which is Internet. Thus, guifi.net wants to actively participate in the Internet organizations, and, as an operator, to establish interconnection agreements with the rest of the operators. Nonetheless, currently in the Internet, other operators may be more restrictive and less open in regard to the interconnection with their networks, doing, for instance, a commercial exploitation of the interconnection or the traffic. Because in these cases is not possible to apply the reciprocity principle, the Internet traffic towards these operators is considered to be out of the [CXOLN](#cxoln), and as such it must be considered as a content. Thus, this type of interconnection is offered to the participants as any other service in the network, the most frequent ways are:
 
 >+ **a.** El que proporcionen els participants a partir de les connexions que puguin tenir amb altres operadors com a portes cap a Internet.
 
@@ -753,7 +753,7 @@ In the case of an interconnection service with another network which is not unde
 
 >En cas de qüestions, dubtes o conflictes relatius a d'interpretació o aplicació dels [Comuns de la XOLN](#cxoln), tothom es pot dirigir al patronat de la Fundació perquè ho resolgui.
 
-In the case of questions, doubts or conflicts of interpretation or application of the FONN Compact, everybody has the right to request clarification to the board of the Foundation
+In the case of questions, doubts or conflicts of interpretation or application of the [CXOLN](#cxoln), everybody has the right to request clarification to the board of the Foundation
 
 >La petició es formalitza a través d'un correu dirigit al Patronat (patronat (arroba) guifi.net), especificant-ho clarament a l'assumpte (per exemple "Consulta /Conflicte sobre els Comuns en relació a...."), i en el text del correu, una descripció de la qüestió, de les seves motivacions, dels punts dels Comuns afectats quan n'hi han, propostes, etc. És a dir, procurar que estigui ben documentat i entenedor.
 
@@ -832,7 +832,7 @@ The content of the [CXOLN](#cxoln) can be changed or modified under the Creative
 
 >* La distribució i còpia és lliure referenciant que prové d'aquests [Comuns de la XOLN](#cxoln)
 
-* The copy and distribution is permitted stating that it comes from the FONN Compact
+* The copy and distribution is permitted stating that it comes from the [CXOLN](#cxoln)
 
 >* Es poden modificar els continguts i fer-ne treballs derivats si el resultat es distribueix de nou sota les mateixes condicions.
 
