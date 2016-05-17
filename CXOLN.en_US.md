@@ -24,7 +24,7 @@
     * [1. Ownership](#1-ownership)
     * [2. Shared Ownership](#2-shared-ownership)
     * [3. Rights and Duties](#3-rights-and-duties)
-    * [4. Responsability](#4-responsability)
+    * [4. Responsibility](#4-responsibility)
     * [5. Information](#5-information)
     * [6. Transfer](#6-transfer)
     * [7. Incorporation of Network Sections](#7-incorporation-of-network-sections)
@@ -43,7 +43,7 @@
     * [3. Public Information of Priorities](#3-public-information-of-priorities)
     * [4. Sanction and Suspension](#4-sanction-and-suspension)
     * [5. Availability](#5-availability)
-    * [6. Responsabilities and Commitments](#6-responsabilities-and-commitments)
+    * [6. Responsibilities and Commitments](#6-responsibilities-and-commitments)
 * [VII. Responsible Deployment and Environmental Stewardship](#vii-responsible-deployment-and-environmental-stewardship)
     * [1. Avoid Unnecessary Infrastructure Redundancies](#1-avoid-unnecessary-infrastructure-redundancies)
     * [2. Foment the Common Use of Common Spaces](#2-foment-the-common-use-of-common-spaces)
@@ -52,10 +52,10 @@
     * [1. Security and Privacy](#1-security-and-privacy)
     * [2. Private Networks and Limitations](#2-private-networks-and-limitations)
     * [3. Damages](#3-damages)
-    * [4. Individual Responsability](#4-individual-responsability)
+    * [4. Individual Responsibility](#4-individual-responsibility)
 * [IX. Services, Contents, other Networks and the Internet](#ix-services-contents-other-networks-and-the-internet)
     * [1. Freedom to Create Contents and Services](#1-freedom-to-create-contents-and-services)
-    * [2. Responsabilities of Content and Service Creators](#2-responsabilities-of-content-and-service-creators)
+    * [2. Responsibilities of Content and Service Creators](#2-responsibilities-of-content-and-service-creators)
     * [3. Terms and Conditions of Use](#3-terms-and-conditions-of-use)
     * [4. No Warranty by Default](#4-no-warranty-by-default)
     * [5. Innappropriate or Illegal Contents](#5-innappropriate-or-illegal-contents)
@@ -419,7 +419,7 @@ Although there can be different levels of participation for each proprietor, the
 
 >### 4. Responsabilitat
 
-### 4. Responsability
+### 4. Responsibility
 
 >Els titulars són els responsables de gestionar les seves infraestructures respectant els [Comuns de la XOLN](#cxoln).
 
@@ -599,7 +599,7 @@ The network availability is not guaranteed in a global sense. In the case of a p
 
 >### 6. Responsabilitats i compromisos
 
-### 6. Responsabilities and Commitments
+### 6. Responsibilities and Commitments
 
 >Els professionals o operadors que adquireixin compromisos de servei de connexions amb unes característiques determinades són responsables de descriure i informar clarament als seus clients de quines són aquestes característiques d'acord amb el [punt III.7.](#7-conexió) i fer tot allò que sigui possible per complir-les, incloent si cal el manteniment i millora de troncals. En el cas de troncals compartides amb altres operadors o professionals, hauran de posar-se d'acord sobre com es fan aquests manteniments i millores. La Fundació pot dictaminar sistemes per fer front a aquestes despeses quan no hi ha acord, aplicant criteris de proporcionalitat.
 
@@ -663,7 +663,7 @@ The open network is not responsible for any damage a user may suffer during its 
 
 >### 4. Responsabilitat individual de cadascú
 
-### 4. Individual Responsability
+### 4. Individual Responsibility
 
 >Cada usuari és responsable de l'ús que faci de la xarxa, dels continguts que hi incorpora i del seus actes, en cap cas ho serà el participant que li proporciona accés, ni la resta de participants, ni guifi.net en la seva globalitat.
 
@@ -683,7 +683,7 @@ The network provides an electronic communication service available to the public
 
 >### 2. Responsabilitats dels creadors de continguts i serveis
 
-### 2. Responsabilities of Content and Service Creators
+### 2. Responsibilities of Content and Service Creators
 
 >La xarxa és el suport sobre el qual es fa la transmissió lliure dels continguts però no té res a veure ni és responsable d'aquests continguts tal i com es preveu en l'apartat [VIII. Seguretat i responsabilitat](#viii-seguretat-i-responsabilitat).
 
