@@ -291,11 +291,9 @@ The [CXOLN](#cxoln) can be suspended or terminated by:
 
 ### 1. Fundamental Values
 
-`>>> work in progress <<<`
-
 >La XOLN és una expressió de valors fonamentals com la llibertat, la igualtat d'oportunitats i la solidaritat i fraternitat a través del dret a comunicar-se lliurement i a extreure'n el màxim de prestacions possibles d'acord amb els [principis generals](#i-resum-i-principis-generals), que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació dels [Comuns de la XOLN](#cxoln).
 
-The [CXOLN](#cxoln) is an expression of the fundamental values such as freedom, equality off opportunities, solidarity and fraternity through the right of free communication and of extracting the maximum benefits possible according to the general principles. These fundamental values must be used in case of having to resolve any doubt about the interpretation of the FONN Compact.
+The [CXOLN](#cxoln) expresses fundamental values such as _freedom_, _equality of opportunities_, _solidarity_ and _fraternity_ exercised via the right to communicate freely and to `extract|enjoy` the maximum of possible benefits in accordance with the [General Principles](#i-summary-and-general-principles); values which will serve as inspiration in the case of having to resolve any doubt concerning the interpretation of the [CXOLN](#cxoln).
 
 >### 2. Accés
 
@@ -303,12 +301,14 @@ The [CXOLN](#cxoln) is an expression of the fundamental values such as freedom, 
 
 >La xarxa permet l'accés a tothom qui ho vulgui, i és el resultat de interconnectar tots els seus participants. Si hi ha mecanismes de control en el seu accés es faran servir per a la correcta gestió de la xarxa des d'un punt de vista tecnològic, mai per restringir les llibertats protegides amb els [Comuns de la XOLN](#cxoln).
 
-The network allows the access to who ever wishes to, and it is the result of the interconnection of all the participants. In the case of the presence of access control mechanisms they will be use for the correct management of the network, but never to restrict the liberties protected by the FONN Compact.
+The network offers access to whoever wants it, and is the result of interconnecting all its participants. If access control mechanisms exist in one's access, these will be to serve for the correct network management from a `technical|technological` perspective, but never to restrict the `liberties|freedoms` protected by`(with?.. amb?|per?)` the [CXOLN](#cxoln).
+
+_The network offers access to whoever wants it, `and results in the interconnection of all its participants`._
 
 >### 3. Compromís
 
 ### 3. Commitment
-
+`>>> work in progress <<<`
 >Els membres de la xarxa oberta es comprometen únicament als termes i condicions dels [Comuns de la XOLN](#cxoln). Qualsevol altre compromís l'han d'expressar explícitament.
 
 The members of the open network are just subject to the terms and conditions of the FONN Compact. Any other compromise must be explicitly stated.
