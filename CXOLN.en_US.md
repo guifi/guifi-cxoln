@@ -7,69 +7,69 @@
 ## Table of Contents
 
 * [I. Summary and General Principles](#i-summary-and-general-principles)
-* [II. Els Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#ii-els-comuns-de-la-xarxa-oberta-lliure-i-neutral-cxoln)
-    * [1. Gestació, interpretació i revisió del text](#1-gestació-interpretació-i-revisió-del-text)
-    * [2. Definicions](#2-definicions)
-    * [3. Elaboració i revisió](#3-elaboració-i-revisió)
-    * [4. Finalització de l'acord](#4-finalització-de-lacord)
-* [III. La xarxa (XOLN)](#iii-la-xarxa-xoln)
-    * [1. Valors fonamentals](#1-valors-fonamentals)
-    * [2. Accés](#2-accés)
-    * [3. Compromís](#3-compromís)
-    * [4. Adhesió](#4-adhesió)
-    * [5. Compromís per el creixement](#5-compromís-per-el-creixement)
-    * [6. Altres organizatcions](#6-altres-organizatcions)
-    * [7. Conexió](#7-conexió)
-* [IV. Titularitat i participants](#iv-titularitat-i-participants)
-    * [1. Titularitat](#1-titularitat)
-    * [2. Titularitat compartida](#2-titularitat-compartida)
-    * [3. Drets i deures](#3-drets-i-deures)
-    * [4. Responsabilitat](#4-responsabilitat)
-    * [5. Informació](#5-informació)
-    * [6. Transmissió](#6-transmissió)
-    * [7. Incorporació de trams de xarxa](#7-incorporació-de-trams-de-xarxa)
-    * [8. Finalització de trams de xarxa](#8-finalització-de-trams-de-xarxa)
-    * [9. Exercici de la titularitat](#9-exercici-de-la-titularitat)
-    * [10. Titularitat orfe](#10-titularitat-orfe)
-    * [11. Cessió d'ubicació](#11-cessió-dubicació)
-    * [12. Finalització d'una cessió](#12-finalització-duna-cessió)
-* [V. El paper de la Fundació](#v-el-paper-de-la-fundació)
-    * [1. Suport](#1-suport)
-    * [2. Personalitat jurídica](#2-personalitat-jurídica)
-    * [3. Defensa](#3-defensa)
-* [VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)](#vi-gestió-de-la-xarxa-i-prioritats-en-el-trànsit-qualitat-de-servei)
-    * [1. Gestió publica](#1-gestió-publica)
-    * [2. Prioritats de trànsit](#2-prioritats-de-trànsit)
-    * [3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats)
-    * [4. Sancció i suspensió](#4-sancció-i-suspensió)
-    * [5. Disponibilitat](#5-disponibilitat)
-    * [6. Responsabilitats i compromisos](#6-responsabilitats-i-compromisos)
-* [VII. Desplegament responsable i respecte al medi ambient](#vii-desplegament-responsable-i-respecte-al-medi-ambient)
-    * [1. Evitar duplicitats d'infrastructura innecessaries](#1-evitar-duplicitats-dinfrastructura-innecessaries)
-    * [2. Foment de l'us comú dels espais comuns](#2-foment-de-lus-comú-dels-espais-comuns)
-    * [3. Ús responsable](#3-Ús-responsable)
-* [VIII. Seguretat i responsabilitat](#viii-seguretat-i-responsabilitat)
-    * [1. Seguritat i privacitat](#1-seguritat-i-privacitat)
-    * [2. Xarxes privades i limitaciós](#2-xarxes-privades-i-limitaciós)
-    * [3. Danys](#3-danys)
-    * [4. Responsabilitat individual de cadascú](#4-responsabilitat-individual-de-cadascú)
-* [IX. Serveis, continguts, altres xarxes i Internet](#ix-serveis-continguts-altres-xarxes-i-internet)
-    * [1. Llibertat de crear continguts i serveis](#1-llibertat-de-crear-continguts-i-serveis)
-    * [2. Responsabilitats dels creadors de continguts i serveis](#2-responsabilitats-dels-creadors-de-continguts-i-serveis)
-    * [3. Termes i condicions d'us](#3-termes-i-condicions-d-us)
-    * [4. Exenció de garantia per defecte](#4-exenció-de-garantia-per-defecte)
-    * [5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals)
-    * [6. Interconnexións amb altres xarxes](#6-interconnexións-amb-altres-xarxes)
-    * [7. Principi de reciprocitat](#7-principi-de-reciprocitat)
-* [X. Resolució de conflictes i jurisdicció aplicable](#x-resolució-de-conflictes-i-jurisdicció-aplicable)
-    * [1. Conflictes i dubtes d'interpretació](#1-conflictes-i-dubtes-d-interpretació)
-    * [2. Solucions i arbitratge](#2-solucions-i-arbitratge)
-    * [3. Resolucions de suspenció](#3-resolucions-de-suspenció)
-    * [4. Recurs](#4-recurs)
-    * [5. Jurisdicció](#5-jurisdicció)
-* [XI. Llicència del text dels Comuns de la XOLN](#xi-Llicència-del-text-dels-comuns-de-la-xoln)
+* [II. The "Commons of the Open, Free and Neutral Network" (CXOLN)](#ii-the-commons-of-the-open-free-and-neutral-network-cxoln)
+    * [1. Creation, Interpretation and Revision of the Text](#1-creation-interpretation-and-revision-of-the-text)
+    * [2. Definitions](#2-definitions)
+    * [3. Drafts and Revisions](#3-drafts-and-revisions)
+    * [4. End of Agreement](#4-end-of-agreement)
+* [III. The Network (XOLN)](#iii-the-network-xoln)
+    * [1. Fundamental Values](#1-fundamental-values)
+    * [2. Access](#2-access)
+    * [3. Commitment](#3-commitment)
+    * [4. Membership](#4-membership)
+    * [5. Commitment for Growth](#5-commitment-for-growth)
+    * [6. Other organizations](#6-other-organizations)
+    * [7. Connection](#7-connection)
+* [IV. Ownership and Participants](#iv-ownership-and-participants)
+    * [1. Ownership](#1-ownership)
+    * [2. Shared Ownership](#2-shared-ownership)
+    * [3. Rights and Duties](#3-rights-and-duties)
+    * [4. Responsability](#4-responsability)
+    * [5. Information](#5-information)
+    * [6. Transfer](#6-transfer)
+    * [7. Incorporation of Network Sections](#7-incorporation-of-network-sections)
+    * [8. Termination of Network Sections](#8-termination-of-network-sections)
+    * [9. Exercise of Ownership](#9-exercise-of-ownership)
+    * [10. Orphaned Ownership](#10-orphaned-ownership)
+    * [11. Location Transfer](#11-location-transfer)
+    * [12. Transfer Completion](#12-transfer-completion)
+* [V. The Role of the Guifi.net Foundation](#v-the-role-of-the-guifi-net-foundation)
+    * [1. Support](#1-support)
+    * [2. Legal Entity](#2-legal-entity)
+    * [3. Defense](#3-defense)
+* [VI. Network Management and Traffic Priorities (Quality of Service)](#vi-network-management-and-traffic-priorities-quality-of-service)
+    * [1. Public Management](#1-public-management)
+    * [2. Traffic Priorities](#2-traffic-priorities)
+    * [3. Public Information of Priorities](#3-public-information-of-priorities)
+    * [4. Sanction and Suspension](#4-sanction-and-suspension)
+    * [5. Availability](#5-availability)
+    * [6. Responsabilities and Commitments](#6-responsabilities-and-commitments)
+* [VII. Responsible Deployment and Environmental Stewardship](#vii-responsible-deployment-and-environmental-stewardship)
+    * [1. Avoid Unnecessary Infrastructure Redundancies](#1-avoid-unnecessary-infrastructure-redundancies)
+    * [2. Foment the Common Use of Common Spaces](#2-foment-the-common-use-of-common-spaces)
+    * [3. Responsible Use](#3-responsible-use)
+* [VIII. Security and Responsibility](#viii-security-and-responsibility)
+    * [1. Security and Privacy](#1-security-and-privacy)
+    * [2. Private Networks and Limitations](#2-private-networks-and-limitations)
+    * [3. Damages](#3-damages)
+    * [4. Individual Responsability](#4-individual-responsability)
+* [IX. Services, Contents, other Networks and the Internet](#ix-services-contents-other-networks-and-the-internet)
+    * [1. Freedom to Create Contents and Services](#1-freedom-to-create-contents-and-services)
+    * [2. Responsabilities of Content and Service Creators](#2-responsabilities-of-content-and-service-creators)
+    * [3. Terms and Conditions of Use](#3-terms-and-conditions-of-use)
+    * [4. No Warranty by Default](#4-no-warranty-by-default)
+    * [5. Innappropriate or Illegal Contents](#5-innappropriate-or-illegal-contents)
+    * [6. Interconnections with Other Networks](#6-interconnections-with-other-networks)
+    * [7. Principle of Reciprocity](#7-principle-of-reciprocity)
+* [X. Conflict Resolution and Applicable Jurisdiction](#x-conflict-resolution-and-applicable-jurisdiction)
+    * [1. Conflicts and Interpretation Doubts](#1-conflicts-and-interpretation-doubts)
+    * [2. Solutions and Arbitrations](#2-solutions-and-arbitration)
+    * [3. Suspension Resolutions](#3-suspension-resolutions)
+    * [4. Recourse](#4-recourse)
+    * [5. Jurisdiction](#5-jurisdiction)
+* [XI. License](#xi-license)
     * [1. CC BY-NC-SA, GNU FDL](#1-cc-by-nc-sa-gnu-fdl)
-    * [2. Extensió i modificació](#2-extensió-i-modificació)
+    * [2. Extension and modification](#2-extension-and-modification)
 
 >## I. Resum i principis generals
 
@@ -102,9 +102,9 @@ The [CXOLN](#cxoln) is imbued and can be summarized by the following principles:
 
 Hereinafter, the [CXOLN](#cxoln) elaborates upon these principles in order to guarantee and respect them.
 
->## II. Els "Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)"
+>## II. Els "Comuns de la Xarxa Oberta, Lliure i Neutral" (CXOLN)
 
-## II. The "Commons of the Open, Free and Neutral Network (CXOLN)"
+## II. The "Commons of the Open, Free and Neutral Network" (CXOLN)
 
 >### 1. Gestació, interpretació i revisió del text
 
@@ -256,15 +256,15 @@ An innovative project such as Guifi.net requires a continuous process of revisio
 
 >    La "Fundació privada per a la xarxa oberta, lliure i neutral guifi.net", (en endavant, "la Fundació") és una institució sense ànim de lucre que consta amb el número 2550 del registre de fundacions de la Generalitat de Catalunya i que té com a mandat fundacional donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i treballar.
 
-    The Private Foundation for the Neutral, Open and Free Network – guifi.net (“Fundació Privada per a la Xarxa Oberta, Lliure i Neutral guifi.net”, in Catalan -henceforth referred to as “The Foundation”) is a non-profit organization registered at the Catalan Government foundations registry with the number 2550 that has the foundational mandate to support guifi.net respecting its genuine nature, its organization and working methods.
+    The "Fundació privada per a la xarxa oberta, lliure i neutral guifi.net" (_Private Foundation for the Open, Free and Neutral Network Guifi.net_; henceforth referred to as “The Foundation”) is a non-profit organization registered with the Catalan Government's foundations' registry, under the number 2550, which has as its foundational mandate to provide support to Guifi.net all the while respecting its original nature, as well as its organizational and work methods.
 
 >### 3. Elaboració i revisió
 
-### 3. Drafting and Revision
+### 3. Drafts and Revisions
 
 >Els [Comuns de la XOLN](#cxoln) s'elabora i es revisa a través d'un debat públic entre tots els qui participen a la xarxa.
 
-The [CXOLN](#cxoln) is elaborated and revised through a public debate among all the network participants
+The [CXOLN](#cxoln) is elaborated and revised through a public debate among all the network's participants
 
 >### 4. Finalització de l'acord
 
@@ -272,15 +272,16 @@ The [CXOLN](#cxoln) is elaborated and revised through a public debate among all 
 
 >Els [Comuns per la XOLN](#cxoln) es pot suspendre o finalitzar per:
 
-The [CXOLN](#cxoln) may be suspended or ceased for:
+The [CXOLN](#cxoln) can be suspended or terminated by:
 
 >+ **a.** La voluntat de qui l'ha subscrit. La voluntat s'expressa directament donant-se de baixa les seves participacions en les eines que proporciona guifi.net, o en cas de que les participacions subsisteixin, per transmissió als nous titulars.
 
-+ **a.** The will of a subscriber. The will is expressed by the withdrawal the participation in the tools offered by guifi.net or, in the case that the participation remains, by the transmission to the new proprietors.
++ **a.** The will of whoever subscribed to it. This will is expressed by canceling your `participation|contribution`(s) in the tools offered by Guifi.net, or, in the case that those `participation|contribution`(s) are to remain, by transmitting these to the new owner(s).
 
 >+ **b.** Per els procediment previst en l'apartat [X. Resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable).
 
-+ **b.** The means described in the section “About Conflict Resolution and Jurisdiction”.
++ **b.** The procedures described in the section [X. Conflict Resolution and Applicable Jurisdiction](#x-conflict-resolution-and-applicable-jurisdiction).
+
 
 >## III. La xarxa (XOLN)
 
@@ -542,7 +543,7 @@ Defend and support the interests of the participants, the good use of the FONN C
 
 >### 1. Gestió publica
 
-### 1. Puplic Management
+### 1. Public Management
 
 >La gestió de la xarxa ha de ser pública i tothom qui ho desitgi ha de poder participar-hi.
 
@@ -706,7 +707,7 @@ In the case of services, the provider is responsible for deciding whether the se
 
 >### 5. Continguts inapropriats o il·legals
 
-### 5. Innapropriate or Illegal Contents
+### 5. Innappropriate or Illegal Contents
 
 >S'ha de procurar respectar les llibertats de pensament, d'expressió i comunicació. Tot respectant això, es podrà evitar trànsit de missatges no sol·licitats, continguts inapropiats o il·legals que maliciosament vulguin causar un perjudici o restringir les llibertats a altres usuaris.
 
@@ -742,7 +743,7 @@ In the case of an interconnection service with another network which is not unde
 
 >## X. Resolució de conflictes i jurisdicció aplicable
 
-## X. Conflict Resolution and Jurisdiction
+## X. Conflict Resolution and Applicable Jurisdiction
 
 >### 1. Conflictes i dubtes d'interpretació
 
@@ -837,7 +838,7 @@ The content of the [CXOLN](#cxoln) can be changed or modified under the Creative
 
 >### 2. Extensió i modificació
 
-### 2. Extension and modificacion
+### 2. Extension and modification
 
 >Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als [Comuns per la XOLN](#cxoln), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#7-principi-de-reciprocitat).
 
