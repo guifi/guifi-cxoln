@@ -7,7 +7,7 @@
 ## Índice de contenidos
 
 * [I. Resumen y principios generales](#i-resumen-y-principios-generales)
-* [II. El Procomún de la Red Abierta, Libre y Neutral (CXOLN)](#ii-el-procomún-de-la-red-abierta-libre-y-neutral-cxoln)
+* [II. El "Procomún de la Red Abierta, Libre y Neutral" (CXOLN)](#ii-el-procomún-de-la-red-abierta-libre-y-neutral-cxoln)
   * [1.  Creación, interpretación y revisión del texto](#1-creación-interpretación-y-revisión-del-texto)
   * [2. Definiciones](#2-definiciones)
   * [3. Elaboración y revisión](#3-elaboración-y-revisión)
@@ -99,9 +99,9 @@ El [Procomún de la XOLN](#cxoln) se inspira y se resume en: 
 
 A continuación el [Procomún de la XOLN](#cxoln) desarrolla estos principios con el fin de garantizarlos y respetarlos.
 
->## II. Els "Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)"
+>## II. Els "Comuns de la Xarxa Oberta, Lliure i Neutral" (CXOLN)
 
-## II. El "Procomún de la Red Abierta, Libre y Neutral (CXOLN)"
+## II. El "Procomún de la Red Abierta, Libre y Neutral" (CXOLN)
 
 >### 1. Gestació, interpretació i revisió del text
 
