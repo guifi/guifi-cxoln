@@ -218,7 +218,7 @@ An innovative project such as Guifi.net requires a continuous process of revisio
 
 >    El que dona sentit a una xarxa de telecomunicacions és que serveixi d'instrument de transmissió per accedir a continguts. Els continguts es publiquen a través de serveis.
 
-    What give sense to a telecommunications network is that it can be used as a means of `transmission|communication` to access contents. Contents are published via services.
+    What gives sense to a telecommunications network is that it can be used as a means of `transmission|communication` to access contents. Contents are published via services.
 
 >+ **g. Serveis**
 
@@ -290,6 +290,8 @@ The [CXOLN](#cxoln) can be suspended or terminated by:
 >### 1. Valors fonamentals
 
 ### 1. Fundamental Values
+
+`>>> work in progress <<<`
 
 >La XOLN és una expressió de valors fonamentals com la llibertat, la igualtat d'oportunitats i la solidaritat i fraternitat a través del dret a comunicar-se lliurement i a extreure'n el màxim de prestacions possibles d'acord amb els [principis generals](#i-resum-i-principis-generals), que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació dels [Comuns de la XOLN](#cxoln).
 
