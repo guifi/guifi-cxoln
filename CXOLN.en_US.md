@@ -414,10 +414,9 @@ A single infrastructure can have several owners. In this case, and whenever they
 >### 3. Drets i deures
 
 ### 3. Rights and Duties
-`>>> work in progress <<<`
 >Encara que en la xarxa hi poden haver diferents nivells de participació de cadascun dels seus titulars, els drets i deures son els mateixos per a tots els participants.
 
-Although there can be different levels of participation for each proprietor, the terms and conditions are the same for all the participants.
+Although each of its owners can have different levels of participation in the network, the rights and duties are the same for all participants.
 
 >### 4. Responsabilitat
 
@@ -425,14 +424,14 @@ Although there can be different levels of participation for each proprietor, the
 
 >Els titulars són els responsables de gestionar les seves infraestructures respectant els [Comuns de la XOLN](#cxoln).
 
-The proprietors are the responsible for managing their infrastructures respecting the [CXOLN](#cxoln).
+Owners are responsible for managing their infrastructures respecting the [CXOLN](#cxoln).
 
 >### 5. Informació
 
 ### 5. Information
 
 >Un dels pilars de la xarxa oberta és que s'informa dels seus components. Els titulars han de proporcionar de bona fe dades de contacte i una descripció de la seva aportació a través de les eines que proporciona la xarxa i conscients i acceptant que es publicaran. Podran accedir, modificar-les o cancel·lar-les en qualsevol moment. El subministrament maliciós de dades falses pot implicar la suspensió de l'acord dels [Comuns de la XOLN](#cxoln).
-
+`>>> work in progress <<<`
 One of the pillars of the open network is the information about its components. The proprietors must provide reliable information about their contributions and contact details through the network tools, being aware that this information will be made publicly available. They have the right to access, modify or cancel them at any time. The provision of malicious information may lead to the suspension of the [CXOLN](#cxoln) agreement.
 
 >### 6. Transmissió
