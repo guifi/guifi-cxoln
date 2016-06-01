@@ -308,7 +308,7 @@ _The network offers access to whoever wants it, `and results in the interconnect
 >### 3. Compromís
 
 ### 3. Commitment
-`>>> work in progress <<<`
+
 >Els membres de la xarxa oberta es comprometen únicament als termes i condicions dels [Comuns de la XOLN](#cxoln). Qualsevol altre compromís l'han d'expressar explícitament.
 
 Members of the open network only commit themselves to the terms and conditions of the [CXOLN](#cxoln). Any other commitment must be explicitly `stated|made|expressed`.
@@ -319,7 +319,7 @@ Members of the open network only commit themselves to the terms and conditions o
 
 >L'adhesió a la xarxa es pot expressar a títol individual o col·lectiu, i comporta l'acceptació dels termes dels [Comuns de la XOLN](#cxoln). En qualsevol moment un membre adherit a la xarxa pot renunciar a la seva adhesió conforme al que es preveu en el punt [II.4. Finalització de l'acord](4-finalització-de-lacord). En cas de renunciar a la seva adhesió podrà recuperar els béns, equips i infraestructures de les que sigui titular, amb independència de on estiguin ubicats, amb la única excepció dels casos descrits en l'apartat [IV.8. Finalització de trams de xarxa](#8-finalització-de-trams-de-xarxa).
 
-Membership in the network can be undertaken as an individual or as a collective, and implies the acceptance of the terms and conditions of the [CXOLN](#cxoln). At any time a member can renounce to the accession by the means described in section [II.4. End of Agreement](#4-end-of-agreement). In case of a renounce the renouncer can recover his goods, equipment and infrastructure of his property, regardless of their location, except in the cases described in section [IV.8. Termination of Network Sections](#8-termination-of-network-sections).
+Membership in the network can be undertaken as an individual or as a collective, and implies the acceptance of the terms and conditions of the [CXOLN](#cxoln). Any member can renounce their membership at any time in accordance with what is foreseen in section [II.4. End of Agreement](#4-end-of-agreement). When renouncing your membership, you will be able to recuperate all goods, equipments and infrastructures for which you are the owner, regardless of their location, except in the cases described in section [IV.8. Termination of Network Sections](#8-termination-of-network-sections).
 
 >### 5. Compromís per el creixement
 
@@ -327,33 +327,33 @@ Membership in the network can be undertaken as an individual or as a collective,
 
 >Els participants de la xarxa, per tal de facilitar-ne el seu creixement i connectivitat amb caràcter obert, es comprometen a:
 
-In order to ease the growth of the network and the open connectivity, their participants undertake the commitment to:
+In order to favor the network's growth and open connectivity, its participants commit themselves to:
 
 >+ **a.** Permetre lliurement el trànsit dels altres participants en el seu tram que estén xarxa, sense manipular-lo ni inspeccionar-lo més enllà del que sigui necessari per a la gestió de la xarxa.
 
-+ **a.** Allow the traffic of the other participants in his network segment, without manipulation or inspection of any kind more than the absolutely necessary for the network administration.
++ **a.** Allow other participants' traffic to transit freely in your own network segment, without manipulating nor inspecting it any more than what is `required|necessary` for the network's `administration|management`.
 
 >+ **b.** Facilitar i preveure tècnicament com fer la interconnexió amb els trams que estenen la xarxa que incorporen altres participants sense fer-ne una explotació comercial ni exigir-los cap cost en concepte d'interconnexió o de trànsit de dades. La interconnexió de trams que estenen la xarxa s'entén que son gratuïts ja que la compensació és mútua ja que tothom obté connectivitat cap a nous trams. Més enllà d'aquesta gratuïtat pel que fa al trànsit i interconnexió, si s'aprofita l'actuació de la connexió per repercutir alguna despesa per algun altre concepte, es farà segons les següents disposicions:
 
-+ **b.** Facilitate and technically foresee how to make the interconnection with other network segments contributed by other participants without any commercial exploitation nor charging a cost of any kind, neither interconnection nor traffic. The interconnections of the segments that expand the network are free-of-charge because the compensation is mutual because everybody obtains connectivity form the others. If, aside from the free-of-charge of the connectivity and the traffic, other costs are charged, it must be done according to the following provisions:
++ **b.** Facilitate and technically `plan|foresee` how to interconnect with network segments which include other participants, without this resulting in commercial exploitation, nor in demanding payments for the interconnection or the data transit from these participants. It is here `understood|established?` that the interconnection of segments which expand the network are `free-of-charge|gratis`, as the compensation is mutual: everybody obtains connectivity towards new segments. Beyond the gratuity concerning connectivity and traffic, when expenses are made to establish the interconnection, these costs will be dealt with according to the following provisions:
 
 >    1. Compensacions  
     Especificar clarament quin és el motiu per al qual es produeixen les compensacions, com per exemple l'accés a alguns tipus de continguts, accés a altres connexions cap a internet, serveis professionals, garantia de disponibilitat, etc.
 
     1. Compensations  
-    Clearly specify the reason why these compensations are charged. For instance to access a specific kind of contents, connection to other networks such as the Internet, professional services, availability guarantee, etc.
+    Clearly specify the reason(s) why compensations are made, for example: to access specific types of contents, to access other (_networks'_) connections in order `reach|access` the Internet, professional services, `service level agreement|availability|uptime guarantee`, etc.
 
 >    2. Ampliacions  
     Alhora de fer la interconnexió, i sense excloure de que es puguin realitzar altres tipus d'acords entre els participants, si cal fer una ampliació en el punt d'interconnexió dels trams, o una conversió d'un tram de connexió simple a un tram que estén la xarxa, s'entén que el cost l'assumeix en la seva totalitat el participant que s'està incorporant amb un nou tram, i a partir de llavors la titularitat del node des d'on es fa la interconnexió passa a ser compartida en funció del nivell d'inversió de cada participant. En el cas de que el titular preexistent vulgui mantenir la seva titularitat sense compartir-la, llavors haurà d'assumir el cost de l'ampliació, i en qualsevol cas té preferència alhora d'escollir quin model prefereix.
 
     2. Expansions  
-    At the time of setting the interconnection, and without excluding any other kind of agreement between the participants, if an expansion is required at the interconnection point, o the conversion from a simple connection to an extension segment, the cost must be assumed totally by the participant who is contributing the new segment, and from then on the proprietorship becomes shared according to the investing level of each participant. In the case that the initial participant wants to keep the proprietorship without sharing it he must assume the cost of the expansion and he has preference when choosing the model.
+    When making an interconnection, and without excluding that other types of agreements can be made between participants, if an expansion at the `point|location` of the interconnection, or if a conversion of a simple connection to an extension segment, is required, it is understood that its cost is assumed in full by the participant who is joining with the new segment, and that from then onwards the ownership of the node from which the interconnection is made becomes shared according to each participant's level of investment. In cases where the original owner wishes to maintain their single ownership without sharing it, he/she will have to assume the cost of expansion. Furthermore, an original owner has precedence in choosing which ownership model they prefer.
 
 >    3. Amortitzacions  
     En el cas de que calgui amortitzar costos importants d'infraestructures o de ubicacions, es poden preveure compensacions alhora de realitzar les connexions, amb el benentès de que llavors la titularitat passa a ser compartida com en el punt anterior, que no hi poden haver tractes discriminatoris entre els participant si que aquestes compensacions han de ser raonables, orientades al cost i a la sostenibilitat, i no poden estar encaminades a la obtenció de marges per una explotació comercial.
 
     3. Amortizations  
-    In the case of the need of having to cover depreciation costs of relevant infrastructure or collocation points, compensations can be foreseen at the time of setting the connections, understanding that then the proprietorship becomes shared as discribed at the previous point, that there cannot be discriminatory treatments, and that the compensations must be reasonable, cost oriented and sustainability oriented, and that they cannot pursuit commercial exploitation margins.
+    In the case important expenses for infrastructure or location points need to be amortized, compensations can be put in place for making `new?` connections, with the understanding that from then onwards ownership becomes shared as described in the preceding point. Furthermore, no discriminatory measures shall be made between participants. Compensations must be reasonable, aiming to cover costs and ensure sustainability; they cannot aim to obtain profit margins from a commercial exploitation.
 
 >### 6. Altres organizatcions
 
@@ -361,7 +361,7 @@ In order to ease the growth of the network and the open connectivity, their part
 
 >Hi poden haver altres organitzacions que també promouen xarxa amb característiques similars a la xarxa oberta lliure i neutral que fa guifi.net. Les xarxes obertes han de caracteritzar-se per tenir la vocació d'interconnectar, de manera es procurarà el que es preveu en el punt [VII.1. Evitar duplicitats d'infrastructura innecessaries](#1-evitar-duplicitats-dinfrastructura-innecessaries) i el punt [IX.7. Principi de reciprocitat](#7-principi-de-reciprocitat).
 
-There can be other organizations that also promote networks with similar characteristics the neutral, free and open network as guifi.net does. The open networks must be characterized by the willingness of interconnection in the way that it will be taken under consideration what is foreseen at point VII.1 “About Avoiding Duplication of Infrastructure” and the point IX.7 About the Reciprocity.
+Other organizations, which promote networks with similar characteristics to Guifi.net's open, free and neutral network, can also `partake/participate`. Such open networks must be characterized by their goal to interconnect, in ways which respect what is foreseen in section [VII.1. Avoid Unnecessary Infrastructure Redundancies](#1-avoid-unnecessary-infrastructure-redundancies) and section [IX.7. Principle of Reciprocity](#7-principle-of-reciprocity)
 
 >### 7. Conexió
 
@@ -369,7 +369,7 @@ There can be other organizations that also promote networks with similar charact
 
 >La connexió a la xarxa és lliure i gratuïta tal i com ja es desprèn del punt [III.5.b](#5-compromís-per-el-creixement). Els participants es fan càrrec de les infraestructures per estar connectats, ja sigui individualment a través de mitjans propis, donacions, apadrinaments, col·lectivament de la manera que lliurement decideixin, o acudint amb aquest propòsit a serveis professionals. L'activitat econòmica derivada d'aquestes activitats, com per exemple el cobrament de diners a canvi del subministrament d'equips, creació d'infraestructures o manteniments, és responsabilitat de qui la realitza, i haurà d'informar amb claredat a qui li pagui sobre a quins conceptes es corresponen aquests pagaments. Quan s'estableixen condicions econòmiques pel concepte de contribució a aquestes infraestructures, han de ser raonades, públiques, i no discriminatòries.
 
-The connection to the network is free and free-of-charge as already stated in pint III.5.b. The participants thake care of the infrastructure to be connected, either by their own, donations or sponsorship, collectively in the way they freely decide, or through professional services. The economic activity derived of these activities, as charging in compensation of equipment supply, creation of infrastructure or maintenance, is duty of the one who does it, and must clearly inform to the payer which concepts
+As stated in section [III.5.b](#5-commitment-for-growth), connection to the network is both free, _as in freedom_, and free-of-charge. Participants take charge of the infrastructure required to be connected, whether individually through their own means, donations or sponsorship, or collectively in a manner they freely decide, or via professional services contracted for this purpose. Those who undertake economic activities in this context (for example, charging monetary compensation for the supply of equipments, the creation of infrastructures or their maintenance) are responsible for their work, and are to inform with clarity which item(s) correspond to which cost, to whomever is paying them. When economic conditions are established for contribution to these infrastructures, these will have to be reasonable, public, and non-discriminatory.
 
 >## IV Titularitat i participants
 
@@ -381,27 +381,27 @@ The connection to the network is free and free-of-charge as already stated in pi
 
 >Tot i que la xarxa forma una unitat global, es forma a partir d'uns actius que son les infraestructures que hi incorporen els seus participants, de manera que els participants retenen la titularitat de cadascuna d'aquestes infraestructures que hi han incorporat, per tant, la xarxa sempre té múltiples titulars.
 
-Although the network forms a global unit, it is formed by assets that are the infrastructures that integrate their participants, in a way that the participants keep the proprietorship of each infrastructure they have contributed, and thus, the network has multiple proprietors.
+Though the network forms a global unit, it is the result of the infrastructure assets which participants integrate into it, thus, participants maintain ownership of each infrastructure they have contributed, and therefore, the network always has multiple owners.
 
 >La titularitat s'acredita amb i per ordre de preferència:
 
-The proprietorship is accredited, in order of preference:
+Ownership is accredited, in order of preference, by:
 
 >+ **a.** De la manera que lliurement pactin els participants entre ells
 
-+ **a.** In the way that freely agree the participants.
++ **a.** The agreement which participants freely made among themselves
 
 >+ **b.** L'aportació amb documents com per exemple factures o similars
 
-+ **b.** Provision of documents such as bills or alike.
++ **b.** The provision of invoices or similar documents
 
 >+ **c.** La informació que es proporciona a través de les eines de la xarxa i que es publiquen
 
-+ **c.** The information provided through the network tools and published.
++ **c.** The information provided and published via the network's tools
 
 >+ **d.** La titularitat de la finca on s'ubica la infraestructura
 
-+ **d.** The proprietorship of the estate where the installation is located.
++ **d.** The ownership of the infrastructure's location
 
 >### 2. Titularitat compartida
 
@@ -409,12 +409,12 @@ The proprietorship is accredited, in order of preference:
 
 >A la vegada, una mateixa infraestructura pot tenir un o diversos titulars. Quan hi ha diversos titulars, i sempre que entre ells no pactin res en un altre sentit, s'entén que ho son proporcionalment al volum d'inversió de cadascun respecte del valor total de la infraestructura.
 
-At the same time, a single infrastructure can have several proprietors. In this case, and always in the absence of any agreement between the proprietors, the proprietorship is shared according to the inves tment made by each one.
+A single infrastructure can have several owners. In this case, and whenever they have not agreed something different between themselves, it is understood that their ownership is proportional to the investment made by each of them compared to the infrastructure's total `value/worth`.
 
 >### 3. Drets i deures
 
 ### 3. Rights and Duties
-
+`>>> work in progress <<<`
 >Encara que en la xarxa hi poden haver diferents nivells de participació de cadascun dels seus titulars, els drets i deures son els mateixos per a tots els participants.
 
 Although there can be different levels of participation for each proprietor, the terms and conditions are the same for all the participants.
