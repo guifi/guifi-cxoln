@@ -579,7 +579,7 @@ Los miembros de la red harán públicas las prioridades implementadas en sus tra
 
 >En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apartat [IX.5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals), es podrà impedir el trànsit o la connexió de l'usuari que el causa, procurant advertir-lo sempre que sigui possible. En el cas de que aquest trànsit sigui causat per un participant, aquesta suspensió no causa ~~també~~ una suspensió ~~de forma~~ immediata de l'acord dels [Comuns de la XOLN](#cxoln), però sí que serveix d'advertiment.
 
-En el ejercicio de gestión de la red, si se observa lo que se prevé en el apartado [XI.5. Contenidos inapropriados o ilegales](#5-contenidos-inapropriados-o-ilegales), se podrá impedir el tránsito o la conexión del usuario que la causa, procurando advertirlo siempre que sea posible. En el caso que este tránsito haya sido causado por un participante, esta suspensión no causa una suspensión inmediata del acuerdo del [Procomún de la XOLN](#cxoln), pero si que sirve de advertencia.
+En el ejercicio de gestión de la red, si se observa lo que se prevé en el apartado [IX.5. Contenidos inapropriados o ilegales](#5-contenidos-inapropriados-o-ilegales), se podrá impedir el tránsito o la conexión del usuario que la causa, procurando advertirlo siempre que sea posible. En el caso que este tránsito haya sido causado por un participante, esta suspensión no causa una suspensión inmediata del acuerdo del [Procomún de la XOLN](#cxoln), pero si que sirve de advertencia.
 
 >En cap cas es pot fer servir aquesta possibilitat per impedir la lliure participació i circulació de serveis i continguts recollit en els [Comuns de la XOLN](#cxoln).
 
