@@ -516,27 +516,27 @@ Location grants to host radio-communication antennas are reversible at any time 
 
 >Donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i de treballar.
 
-Give support to guifi.net respecting its genuine nature, its organization and working methods.
+Give support to Guifi.net while respecting its `original|genuine` nature, self-organization and work methods.
 
 >### 2. Personalitat jurídica
 
 ### 2. Legal Entity
 
->Proporcionar personalitat jurídica a guifi.net en tot allò que li sigui necessari per al complert i normal exercici de la seva activitat com a operador de la xarxa amb igualtat de drets i deures respecte de qualsevol altre operador, com per exemple i no limitat a, obtenir llicències, ocupar dominis públics o privats, representar, fer gestions i notificacions en nom de guifi.net davant de les administracions o tercers, o prendre acords d'interconnexió amb altres operadors i formar part d'organismes que composen Internet.
+>Proporcionar personalitat jurídica a guifi.net en tot allò que li sigui necessari per al complert i normal exercici de la seva activitat com a operador de la xarxa amb igualtat de drets i deures respecte de qualsevol altre operador, com per exemple i no limitat a, obtenir llicències, ocupar dominis públics o privats, representar, fer gestions i notificacions en nom de guifi.net davant de les administracions o tercers, o `(o..?` _no fa falta, correcto?_`)` prendre acords d'interconnexió amb altres operadors `i|,` formar part d'organismes que composen Internet.
 
-Give legal personality to guifi.net for any purpose necessary to allow the normal course of the exercise of its activity as an operator of the network on an equal rights and duties respect to whatever other operator, as for, but not limited to, receive licenses, public and private spaces occupation, represent, make agreements and notifications on behalf of guifi.net with public administrations or third parties, make interconnection agreements with other operators and join Internet bodies.
+Provide a legal entity to Guifi.net for everything that can be required in order for it to fully and normally exercise its activity as the network's operator with equal rights and duties compared to any other operator, such as for example (but not limited to), obtain licenses, occupy public or private spaces, represent, make agreements and notifications with public administrations or third-parties on behalf of Guifi.net, or `(or..? `_unnecessary, yes?_`)` make interconnection agreements with other operators `and|,` become a member of organizations which compose the Internet.
 
 >Quan els participants accepten els [Comuns de la XOLN](#cxoln) accepten també delegar totes aquestes funcions a guifi.net i a la Fundació, sense renunciar que per la seva banda també, si així ho desitgen, poden realitzar les mateixes funcions directament.
 
-Subscribing the [CXOLN](#cxoln) the participants accept the delegation of all these functions to guifi.net and to the Foundation, without renouncing to their right to exercise them by themselves.
+When participants accept the [CXOLN](#cxoln) they also accept to delegate all these functions to Guifi.net and the Foundation, without renouncing that they themselves, if they so desire, can also undertake the same functions directly.
 
 >### 3. Defensa
 
 ### 3. Defense
 
->Defensar i donar suport als interessos dels participants en la seva activitat de pertinença a la xarxa, els interessos i bon ús dels [Comuns de la XOLN](#cxoln) i el nom de guifi.net, podent, si fos necessari, emprendre accions legals o reclamar reparacions en aquells casos on de mala fe s'ha volgut causar un perjudici a guifi.net o als seus usuaris.
+>Defensar i donar suport als interessos dels participants en la seva activitat de pertinença a la xarxa `(la seva activitat de pertinença a la xarxa..?`_Hi ha una alternativa mes facil de dir aixo?_`)`, els interessos i bon ús dels [Comuns de la XOLN](#cxoln) i el nom de guifi.net, podent, si fos necessari, emprendre accions legals o reclamar reparacions en aquells casos on de mala fe s'ha volgut causar un perjudici a guifi.net o als seus usuaris.
 
-Defend and support the interests of the participants, the good use of the [CXOLN](#cxoln), and the name of guifi.net, being able, when necessary, to undertake legal actions or claim reparation in those bad faith cases where intended damage to guifi.net or its users is seeked.
+Defend and support the interests of the participants as members of the network, the interests and `good|proper` `use|usage` of the [CXOLN](#cxoln) and the name Guifi.net, and therefore, if necessary, to undertake legal actions or claim reparation in cases where someone maliciously sought to cause damage to Guifi.net or its users.
 
 >## VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)
 
@@ -548,7 +548,7 @@ Defend and support the interests of the participants, the good use of the [CXOLN
 
 >La gestió de la xarxa ha de ser pública i tothom qui ho desitgi ha de poder participar-hi.
 
-The management of the network must be public and open to the participation of everyone who wants to.
+The network's management must be public, and anyone who wishes to should be able to participate in it.
 
 >### 2. Prioritats de trànsit
 
@@ -556,15 +556,15 @@ The management of the network must be public and open to the participation of ev
 
 >Quan sigui possible i necessari per motius de gestió de la xarxa, les prioritats del trànsit generals s'implementen en aquest ordre:
 
-When necessary due to network management needs, the network traffic implementation priorities are:
+When it is both possible and necessary for `reasons|motives` of the network's management, general traffic `priorities|shaping` are implemented in the following order:
 
 >+ **a.** Trànsit de tipus interactiu (missatgeria instantània, conferències de veu, navegar, etc.)
 
-+ **a.** Interactive traffic (instant messaging, voice conferences, browser, etc.)
++ **a.** Interactive traffic (instant messaging, voice conferences, browsing, etc.)
 
->+ **b.** Trànsit de tipus massiu o diferit (transferències, correu electrònic, còpies, etc.)
+>+ **b.** Trànsit de tipus massiu o diferit (transferències, correu electrònic, còpies `(de seguretat..? aka. backups?)`, etc.)
 
-+ **b.** Massive or deferred traffic (transfers, e-mail, copies, etc.)
++ **b.** Massive or deferred traffic (transfers, email, backups, etc.)
 
 >### 3. Informació publica dels prioritats
 
@@ -573,6 +573,8 @@ When necessary due to network management needs, the network traffic implementati
 >Els membres de la xarxa faran públiques les prioritats implementades en els seus trams de xarxa que puguin afectar als altres usuaris en cas de modificar les expressades en el punt anterior i que vagin més enllà de donar-se prioritat (preferència en el trànsit, no quotes) en el seu tram de xarxa, i no es podrà fer arbitrària o discrecionalment, ni impedir l'aprofitament d'ample de banda excedentari: Cal que hi hagi motius tècnics que ho justifiquin raonablement.
 
 If priorities are implemented and they are not restricted to self priority (preference in traffic, not in quotas), the network members must make them publicly available. These priorities can neither be arbitrary nor discretionary, and they cannot impede the exploitation of the surplus traffic. There must be well justified technical reasons to implement traffic priorities.
+
+`>>> work in progress <<<`
 
 >### 4. Sancció i suspensió
 
