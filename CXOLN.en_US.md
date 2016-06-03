@@ -31,8 +31,8 @@
     * [8. Termination of Network Sections](#8-termination-of-network-sections)
     * [9. Exercise of Ownership](#9-exercise-of-ownership)
     * [10. Orphaned Ownership](#10-orphaned-ownership)
-    * [11. Location Transfer](#11-location-transfer)
-    * [12. Transfer Completion](#12-transfer-completion)
+    * [11. Location Grant](#11-location-grant)
+    * [12. Grant Termination](#12-grant-termination)
 * [V. The Role of the Guifi.net Foundation](#v-the-role-of-the-guifi-net-foundation)
     * [1. Support](#1-support)
     * [2. Legal Entity](#2-legal-entity)
@@ -409,7 +409,7 @@ Ownership is accredited, in order of preference, by:
 
 >A la vegada, una mateixa infraestructura pot tenir un o diversos titulars. Quan hi ha diversos titulars, i sempre que entre ells no pactin res en un altre sentit, s'entén que ho son proporcionalment al volum d'inversió de cadascun respecte del valor total de la infraestructura.
 
-A single infrastructure can have several owners. In this case, and whenever they have not agreed something different between themselves, it is understood that their ownership is proportional to the investment made by each of them compared to the infrastructure's total `value/worth`.
+A single infrastructure can have several owners. In this case, and whenever they have not agreed something different between themselves, it is understood that their ownership is proportional to the investment made by each of them compared to the infrastructure's total `value|worth`.
 
 >### 3. Drets i deures
 
@@ -430,9 +430,9 @@ Owners are responsible for managing their infrastructures respecting the [CXOLN]
 
 ### 5. Information
 
->Un dels pilars de la xarxa oberta és que s'informa dels seus components. Els titulars han de proporcionar de bona fe dades de contacte i una descripció de la seva aportació a través de les eines que proporciona la xarxa i conscients i acceptant que es publicaran. Podran accedir, modificar-les o cancel·lar-les en qualsevol moment. El subministrament maliciós de dades falses pot implicar la suspensió de l'acord dels [Comuns de la XOLN](#cxoln).
-`>>> work in progress <<<`
-One of the pillars of the open network is the information about its components. The proprietors must provide reliable information about their contributions and contact details through the network tools, being aware that this information will be made publicly available. They have the right to access, modify or cancel them at any time. The provision of malicious information may lead to the suspension of the [CXOLN](#cxoln) agreement.
+>Un dels pilars de la xarxa oberta és que s'informa dels seus components. Els titulars han de proporcionar de bona fe dades de contacte i una descripció de la seva aportació a través de les eines que proporciona la xarxa i conscients i acceptant que es publicaran. Podran accedir, modificar-les o cancel·lar-les en qualsevol moment. El subministrament maliciós de dades falses `(pot?)` implicar la suspensió de l'acord dels [Comuns de la XOLN](#cxoln).
+
+One of the pillars of the open network is the information about its components. Owners must provide reliable information about their contributions and their contact details through the network's tools, being cognizant and agreeing that this information be made publicly available. They will have the right to access, modify or cancel these at any time. The `malicious` provision of false information can `signify|imply|lead to` the suspension of the [CXOLN](#cxoln) agreement.
 
 >### 6. Transmissió
 
@@ -440,7 +440,7 @@ One of the pillars of the open network is the information about its components. 
 
 >La titularitat és un actiu, que com a tal pot tenir un valor, i conseqüentment es pot transmetre entre participants ja sigui per cessió o compravenda o qualsevol altra forma jurídicament lícita. Quan la titularitat es transmet a nous participants, comporta l'acceptació dels [Comuns de la XOLN](#cxoln) per part de qui l'adquireix.
 
-The proprietorship is an asset, and as such it has a value, thus, it can be transferred between participants, either by cession, sale, or any other transfer legal form. The proprietorship transfer to new participants implies their acceptance of the [CXOLN](#cxoln).
+Ownership is an asset, and as such it has a value, thus, it can be transferred between participants, whether by cession, sale, or any other `legal|legally valid` form of transfer. When ownership is transfered to new participants, it `implies|involves|requires` their acceptance of the [CXOLN](#cxoln).
 
 >### 7. Incorporació de trams de xarxa
 
@@ -448,15 +448,15 @@ The proprietorship is an asset, and as such it has a value, thus, it can be tran
 
 >La incorporació d'actius a la xarxa és fonamental per al seu creixement i desenvolupament ja que és la forma principal de captar inversions i de proporcionar sostenibilitat, per tant convé protegir-la i fomentar-la. Per això, els participants quan incorporen infraestructures a la xarxa a més d'obtenir connectivitat amb la resta, també es poden donar prioritat en els trams dels quals en son titulars de manera que tinguin preferència sobre l'ample de banda disponible, amb la única condició de que es respectin els criteris establerts en l'apartat [VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)](#vi-gestió-de-la-xarxa-i-prioritats-en-el-trànsit-qualitat-de-servei) i, alhora deixin disponible tot l'ample de banda excedentari per a la resta del trànsit.
 
-The integration of assets to the network is essential to promote its growth and development because it is the main way to attract investment and provide sustainability, thus it is advisable to protect and promote it. To this end, when contributing new infrastructure, the participants, aside form getting connectivity with the rest of the network, they can also give themselves priority on the bandwidth available in their segments, on the sole condition of respecting the criteria of section “About Network Management and Traffic Shaping” and leaving the surplus bandwidth available to the rest of the traffic.
+The `integration|incorporation` of assets in the network is essential for its growth and development as it is the principal means to attract investment and provide sustainability, thus, it is advisable to protect and promote it. To this end, when participants contribute new infrastructure, aside from gaining connectivity with the rest of the network, they can also give themselves priority in the segments they own so as to have preference on the available bandwidth, with the sole condition that they respect the criteria detailed in section [VI. Network Management and Traffic Priorities (Quality of Service)](#vi-network-management-and-traffic-priorities-quality-of-service), and leave all the available surplus bandwidth for the rest of the traffic.
 
 >### 8. Finalització de trams de xarxa
 
 ### 8. Termination of Network Sections
 
->En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#cxoln), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels [Comuns de la XOLN](#cxoln).
+>En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#cxoln), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts `(participants|titulars ?)` poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels [Comuns de la XOLN](#cxoln).
 
-In the case a participant finalizes the [CXOLN](#cxoln) agreement, he recovers all the his infrastructures, except from those which deployment required licenses or permissions form third parties and they where given on behalf of the network or the Foundation, or when the proprietorship is shared. In these cases the parties can agree on how to solve the situation in a fair way for all of them. In the case of a transfer, the rest of proprietors have the right of pre-emption.
+When a participant terminates their [CXOLN](#cxoln) agreement, they recover all the infrastructure(s) they own, except those for which their deployment required licenses or permissions from third-parties which where granted in the name of the network and/or the Foundation, or when it is an essential part of the infrastructure and its ownership is shared. In such cases, the parties involved `(participants|owners ?)` are free to agree on how to resolve the situation in a fair way for all of them. In the case of a transfer, co-owners have a pre-emptive right of acquiring the ownership which is leaving the [CXOLN](#cxoln).
 
 >### 9. Exercici de la titularitat
 
@@ -464,7 +464,7 @@ In the case a participant finalizes the [CXOLN](#cxoln) agreement, he recovers a
 
 >L'exercici de la titularitat implica com a mínim que mentre aquest segment de la xarxa estigui operatiu, es proporciona un servei de comunicacions electròniques que permet la connectivitat. Encara que el titular no és responsable del nivell de disponibilitat que proporciona, s'espera del titular que mantingui les seves infraestructures en un nivell de servei raonable d'acord amb les seves característiques i de manera que no perjudiqui el bon funcionament de la xarxa. En casos extrems d'abandonament d'aquestes funcions pròpies del titular, el participant perd la titularitat, que passarà a considerar-se orfe.
 
-The exercise of the proprietorship of an infrastructure implies, at least, that meanwhile this network segment is operative, an electronic communication service that allows the connectivity is offered. Although the proprietor is not responsible for the availability given, it is expected that he maintains his infrastructures in a reasonable service level according to their characteristics and in a way that it doesn't harm the proper functioning of the network. In the case of extreme abandonment of these functions by the proprietor, the participant looses the proprietorship, which will be considered orphan.
+Exercising ownership implies at a minimum that whilst this network segment is `operative|operational`, that an electronic communication service `enabling|allowing|facilitating` connectivity be provided. Although the owner is not responsible for `the|its` level of availability `given|provided`, it is expected that each owner maintain their infrastructure(s) to a reasonable service level in accordance with their characteristics, and in such a way that they don't harm the network's proper functioning. In extreme cases of abandonment of these owner specific `functions|tasks|responsibilities`, the participant loses ownership, which will be considered as orphaned.
 
 >### 10. Titularitat orfe
 
@@ -472,39 +472,39 @@ The exercise of the proprietorship of an infrastructure implies, at least, that 
 
 >Si la titularitat d'una infraestructura es considera que ha quedat orfe, es transmet a qui vulgui exercir-la. En el cas de que ningú vulgui exercir-la, o bé passa a la Fundació, o bé es considera com a abandonada, causant baixa definitiva de la xarxa i essent responsable del seu desmuntatge el darrer titular.
 
-In the case of an orphan infrastructure, the proprietorship is transferred to anybody who wants to exercise it. In the case no body wants to, it is transferred to the Foundation or it is considered abandoned, in which case it is withdrawn from the network being the last proprietor for its dismantlement.
+If an infrastructure's ownership is considered to have become orphaned, it is transferred to anyone who wants to exercise it. In case no one wants to exercise it, it will either be transferred to the Foundation, or it will be considered as abandoned, thereby causing its definitive withdrawal from the network with its last owner responsible for its dismantlement.
 
 >### 11. Cessió d'ubicació
 
-### 11. Location Transfer
+### 11. Location Grant
 
 >Quan es cedeixen ubicacions per muntar-hi infraestructures de xarxa sense contraprestació, independentment de quins siguin la resta de titulars, s'assumeix que facilitaran la connexió més oberta possible en funció de la naturalesa de l'equipament. Si s'estableixen limitacions d'espai o de capacitat han de facilitar el trànsit segons els Comuns XOLN, ser raonables, aplicant les bones pràctiques, les mateixes condicions per a tots els usuaris sense discriminacions i no forçar la contractació de serveis a operadors concrets encara que siguin co-titulars de la infraestructura. Els operadors que hi ofereixen compromís de servei n'haurien de tenir suficient amb aplicar el que es preveu en el punt [VI. 3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats).
 
-When locations are made available to host network infrastructures without compensation, independently to the rest of proprietors, it is understood that they will facilitate the connection as open as possible according to the nature of the installation. In the case of space or capacity limitations, they must allow the traffic according to the [CXOLN](#cxoln), be reasonable, and applying good practices, being the same for all the users without any discrimination, and without implying the hiring the services of any specific operator although this may be co-proprietor of the infrastructure. What is foreseen in point VI.3 of section “About Network Management and Traffic Shaping (Quality of Service)” should suffice for those operators that offer services with compromise.
+When locations are granted without compensation to host network infrastructures, and independently of whom the rest of `(the location's|the infrastructure's ?)` owners are, it is understood that they `(who..?)` will facilitate the most open connection possible according to the equipment(s)' `nature|possibilities`. If space or capacity limitations are established, these have to `facilitate|allow` traffic in accordance with the [CXOLN](#cxoln), be reasonable, follow good practices, apply the same non-discriminatory conditions to all users, and not force entering a service contract with specific operators even when these are co-owners of the infrastructure. Operators that offer guaranteed service levels should be fine as long as they comply with section [IV.3. Public Information of Priorities](#3-public-information-of-priorities).
 
 >Aquesta condició és d'indispensable compliment quan es tracta de dominis públics gestionats per administracions públiques donada la obligatorietat legal que tenen de garantir la no discriminació.
 
-This condition is inalienable when it is about public domains managed by public administrations because they have the legal obligation to guarantee the non-discrimination.
+Compliance with this condition is indispensable when dealing with public domains managed by public administrations, given the legal obligation these have to guarantee non-discrimination.
 
 >Per exemple:
 
-For instance:
+For example:
 
->+ **a.** En el cas de comunicacions sense fils, quan hi han antenes de cobertura per a connexions simples sense fils, es permetrà la connexió d'usuaris d'altres operadors o les que es fan les que es puguin fer els usuaris directament pel seu compte i sense garantia de servei.
+>+ **a.** En el cas de comunicacions sense fils, quan hi han antenes de cobertura per a connexions simples sense fils, es permetrà la connexió d'usuaris d'altres operadors o les que es fan `(i/o..?)` les que es puguin fer els usuaris directament pel seu compte i sense garantia de servei.
 
-+ **a.** In the case of wireless communications, the coverage antennas meant for simple connections must allow connections form other operators and from the users.
++ **a.** In the case of wireless communications, when there are coverage antennas for simple wireless connections, they will allow connections from other operators' users or those made `(and/or)` those which can be made directly by users on their own account without guarantee of service.
 
 >+ **b.** En el cas de cables i conduccions, encara que els promotors aprofitin per crear connexions punt a punt privades, cal que sempre hi hagi reserva d'espai per xarxa gestionada segons els Comuns XOLN.
 
-+ **b.** In the case of cables and ducts, although the promoters may set point-to-point private connections, there must always be spare space to allocate open network infrastructure.
++ **b.** In the case of cables and `ducts|conduits`, even when the promoters take advantage to create private point-to-point connections, space must always be reserved for networking managed in accordance with the [CXOLN](#cxoln).
 
 >### 12. Finalització d'una cessió
 
-### 12. Transfer Completion
+### 12. Grant Termination
 
 >La cessió d'espais per antenes de radiocomunicació és reversible en qualsevol moment a petició del propietari i no li creen cap servitud.
 
-The transfer of space to allocate radio-communication antennas is always reversible at any time at the proprietor request and they do not create any servitude.
+Location grants to host radio-communication antennas are reversible at any time upon the grantor's request `and they|as these` do not create any servitude `unto|to|for` the grantor.
 
 >## V. El paper de la Fundació
 
