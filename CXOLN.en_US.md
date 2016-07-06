@@ -572,25 +572,29 @@ When it is both possible and necessary for `reasons|motives` of the network's ma
 
 >Els membres de la xarxa faran públiques les prioritats implementades en els seus trams de xarxa que puguin afectar als altres usuaris en cas de modificar les expressades en el punt anterior i que vagin més enllà de donar-se prioritat (preferència en el trànsit, no quotes) en el seu tram de xarxa, i no es podrà fer arbitrària o discrecionalment, ni impedir l'aprofitament d'ample de banda excedentari: Cal que hi hagi motius tècnics que ho justifiquin raonablement.
 
-If priorities are implemented and they are not restricted to self priority (preference in traffic, not in quotas), the network members must make them publicly available. These priorities can neither be arbitrary nor discretionary, and they cannot impede the exploitation of the surplus traffic. There must be well justified technical reasons to implement traffic priorities.
+The network's participants will make public the priorities implemented in their network sections which can affect other users when going beyond those laid out in the preceding point of simply giving oneself priority (traffic preference, not quotas) in one's own network section, furthermore, these priorities can neither be arbitrary nor discretionary, nor can they impede the use of available surplus bandwidth. Technical reasons which reasonably justify such traffic priorities are required.
 
-`>>> work in progress <<<`
+_The network's participants will make public the priorities implemented in their network sections which can affect other users when modifying those laid out in the preceding point and when this goes beyond giving oneself priority (traffic preference, not quotas) in one's own network section, and it will not be possible to do this arbitrarily.._
+
+_When priorities are implemented and they are not restricted to self priority (preference in traffic, not in quotas), the network members must make them publicly available. These priorities can neither be arbitrary nor discretionary, and they cannot impede the exploitation of the surplus traffic. There must be well justified technical reasons to implement traffic priorities._
 
 >### 4. Sancció i suspensió
 
 ### 4. Sanction and Suspension
 
->En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apartat [5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals), es podrà impedir el trànsit o la connexió de l'usuari que el causa, procurant advertir-lo sempre que sigui possible. En el cas de que aquest trànsit sigui causat per un participant, aquesta suspensió no causa ~~també~~ una suspensió ~~de forma~~ immediata de l'acord dels [Comuns de la XOLN](#cxoln), però sí que serveix d'advertiment.
+>En l'exercici de la gestió de la xarxa, si s'observa el que es preveu en el apartat [IX.5. Continguts inapropriats o il·legals](#5-continguts-inapropriats-o-illegals), es podrà impedir `(bloqueig?)` el trànsit o la connexió de l'usuari que el causa, procurant advertir-lo sempre que sigui possible. En el cas de que aquest trànsit sigui causat per un participant, aquesta suspensió no causa ~~també~~ una suspensió ~~de forma~~ immediata de l'acord dels [Comuns de la XOLN](#cxoln), però sí que serveix d'advertiment.
 
-As part of the network management tasks, in the case of an abuse of the type described in point IX.5 of section “About Services, Content, and The Internet”, the traffic or the connection of the originator may be suspended, with prior notice whenever possible. This suspension does not imply an immediate suspension of the [CXOLN](#cxoln) agreement, but it must be taken as a warning.
+`>>> ¿ Usuari == Participant ? <<<`
+
+If, while working on managing the network, one observes what is foreseen in section [IX.5. Innappropriate or Illegal Contents](#5-innappropriate-or-illegal-contents), the traffic or the connection of the relevant user can be `impeded|suspended|blocked` with prior notice whenever possible. In the case this traffic was caused by a participant, `their|this` `suspension|blockage` does not ~~also~~ cause an immediate suspension from the [CXOLN](#cxoln), but it does serve as a warning.  
 
 >En cap cas es pot fer servir aquesta possibilitat per impedir la lliure participació i circulació de serveis i continguts recollit en els [Comuns de la XOLN](#cxoln).
 
-This option cannot be used, in any case, to impede the free participation and circulation of services and contents described in the [CXOLN](#cxoln).
+Under no circumstances can this `mechanism|procedure` be used to impede the free participation and circulation of services and contents `described in|`_protected under_`?` the [CXOLN](#cxoln).
 
->Si un participant abusa reiteradament d'aquest punt, ja sigui en el sentit de causar trànsit inapropiat que requereix de la seva suspensió, o en el d'impedir injustificadament el trànsit d'altres usuaris, això pot ser causa d'un conflicte que, d'acord amb el que es preveu en l'apartat de [resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable), pot finalitzar amb la suspensió de l'acord dels [Comuns de la XOLN](#cxoln) per aquest participant.
+>Si un participant abusa reiteradament d'aquest punt, ja sigui en el sentit de causar trànsit inapropiat que requereix de la seva suspensió, o en el d'impedir injustificadament el trànsit d'altres usuaris, això pot ser causa d'un conflicte que, d'acord amb el que es preveu en l'apartat de `X. Resolució de conflictes i jurisdicció aplicable` [resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable), pot finalitzar amb la suspensió de l'acord dels [Comuns de la XOLN](#cxoln) per aquest participant.
 
-The generation of inappropriate traffic or the block of other participants traffic, generates a conflict that must be resolved according to the section “About Conflict Resolution and Jurisdiction” and that may lead to the suspension of the [CXOLN](#cxoln) agreement with the originator.
+If a participant `reiterative1y|repeatedly` abuses this section point, whether it be by generating inappropriate traffic which requires their suspension (blockage?), or unjustifiably impeding other users' traffic, this repetition can be the cause `for|of` a conflict which, in accordance with section [X. Conflict Resolution and Applicable Jurisdiction](#x-conflict-resolution-and-applicable-jurisdiction), may lead to the suspension of the [CXOLN](#cxoln) agreement for this participant.
 
 >### 5. Disponibilitat
 
@@ -598,7 +602,9 @@ The generation of inappropriate traffic or the block of other participants traff
 
 >La disponibilitat de la xarxa no es garanteix de forma global. En cas de que un participant vulgui garantir-se nivells de servei ho pot fer a través dels mitjans següents: fent-ho ell mateix adquirint la titularitat compartida dels segments de xarxa que siguin del seu interès, a través d'acords amb tercers i/o contractant serveis professionals per tal de arribar als nivells de servei i/o de disponibilitat desitjats.
 
-The network availability is not guaranteed in a global sense. In the case of a participant who wants to self-guarantee service levels he can do it by: doing it himself by acquiring the share proprietorship of those network segments of his interest, making agreements with third parties and/or contracting professional services to reach the desired level of service or availability.
+The network's availability is not guaranteed `in a global manner|globally`. In case participant(s) want to guarantee themselves service levels they can do so in the following ways: doing it themselves by acquiring partial ownership of the network segments of their interest, making agreements with third parties and/or contracting professional services so as to reach the service and/or availability levels they desire.
+
+_`Should we use "he/she" formulations? or use non-gendered references via a plural?`_
 
 >### 6. Responsabilitats i compromisos
 
@@ -606,7 +612,7 @@ The network availability is not guaranteed in a global sense. In the case of a p
 
 >Els professionals o operadors que adquireixin compromisos de servei de connexions amb unes característiques determinades són responsables de descriure i informar clarament als seus clients de quines són aquestes característiques d'acord amb el [punt III.7.](#7-conexió) i fer tot allò que sigui possible per complir-les, incloent si cal el manteniment i millora de troncals. En el cas de troncals compartides amb altres operadors o professionals, hauran de posar-se d'acord sobre com es fan aquests manteniments i millores. La Fundació pot dictaminar sistemes per fer front a aquestes despeses quan no hi ha acord, aplicant criteris de proporcionalitat.
 
-The professionals and the operators that accept compromises of connection services with specific characteristics are responsible for clearly informing their costumers about those characteristics as described in point III.7 and for doing their best to fulfill them, including, whenever necessary, the maintenance and improvement of segments that expand the network. In the case of segments shared with other operators they must decide how to carry out these maintenance and improvement tasks. The Foundation may rule how to cover these costs in the case of lack of consensus, always exercising proportionality.
+Professionals and operators who `accept|acquire|make` connection service commitments with specific characteristics are responsible for clearly informing their customers about what those characteristics are, as described in [section III.7](#7-connection), as well as for doing everything possible to fulfill them, including, when necessary, the maintenance and improvement of `trunks|network trunks|segments|segments that expand the network`. In the case of `network trunks|segments` shared with other operators, these will have to agree together on how such maintenance work and improvements are `to be done|done|carried out`. In case there is a lack of consensus, the Foundation can dictate rules on how to cover such `expenses|costs`, using criteria of proportionality.
 
 >## VII. Desplegament responsable i respecte al medi ambient
 
@@ -618,15 +624,17 @@ The professionals and the operators that accept compromises of connection servic
 
 >Com a xarxa oberta, sempre es procurarà evitar la duplicitat innecessària d'infraestructures, impedint la coexistència de diverses xarxes obertes en un mateix espai físic, en especial, quan es tracta de recursos amb una capacitat limitada o existeixi una potencial afectació al medi ambient.
 
-Because it is an open network, duplication in infrastructures must be avoided, impeding the coexistence of several open networks in a same physical space, specially when it is about resources with limited capacity or exists a potential environmental impact.
+As an open network, it will always seek to avoid unnecessary infrastructure redundancies, so as to impede the coexistence of several open networks in one same physical location, especially when dealing with resources with limited capacity or where a potential environmental impact exists.
+
+>`As an open network, unnecessary infrastructure redundancies will always sought to be avoided, to impede the coexistence of several open networks in one same physical location, especially when dealing with resources that have a limited capacity or where there exists a potential environmental impact.`
 
 >### 2. Foment de l'us comú dels espais comuns
 
 ### 2. Foment the Common Use of Common Spaces
 
->Quan es fa ús de l'espai radioelèctric sense llicència preval l'ús comú davant de l'ús privatiu o explotació comercial. Es demana als governs, legisladors i organismes reguladors que creïn els espais necessaris i facin les regulacions perquè això sigui possible.
+>Quan es fa ús de l'espai radioelèctric sense llicència preval l'ús comú davant de l'ús privatiu o explotació comercial. Es demana als governs, legisladors i organismes reguladors que creïn els `espais necessaris [que volem dir aquí amb 'espais'?]` i facin les regulacions perquè això sigui possible.
 
-The common use of unlicensed radio-frequency spectrum prevails over the private or the commercial uses. The governments, the legislators and the regulators are requested to pass the appropriated regulations to make this happen.
+When unlicensed radio-frequency spectrum is put to use, common `usage|use` prevails over private or commercial uses. Governments, legislators and regulators are hereby called upon to create the necessary `framework?|spaces` and `elaborate|devise|set up` regulations to make this `possible|feasible`.
 
 >### 3. Ús responsable
 
@@ -634,7 +642,7 @@ The common use of unlicensed radio-frequency spectrum prevails over the private 
 
 >També quan es fa ús de l'espai radioelèctric, encara que sigui amb llicència i més enllà de les disposicions regulatòries vigents que de vegades poden resultar obsoletes a causa de la ràpida evolució tecnològica, es procurarà fer-ne un ús responsable, conforme a les bones pràctiques i a no excedir-se innecessàriament en les potències d'emissió.
 
-The radio-frequency spectrum, including the licensed bands and beyond the applicable regulations which may be obsoleted due to the fast technological evolution, must be used in a responsible way, according to the best practices and without exceeding unnecessarily the transmission powers.
+Furthermore, when radio-frequency spectrum is put to use, including licensed bands and beyond the dispositions of applicable regulations which on occasion can be obsolete due to `rapid|fast paced` `technological evolution|evolution of technology`, `best efforts will be made|it will be sought` to make a responsible use of these, `following|according to|in accordance with` best practices and without unnecessary excesses in `transmission|transmit` `powers|power rates`.
 
 >## VIII. Seguretat i responsabilitat
 
@@ -646,7 +654,7 @@ The radio-frequency spectrum, including the licensed bands and beyond the applic
 
 >Els usuaris son responsables de la seva seguretat i tenen dret a protegir-se i vetllar per la seva intimitat, evitar intrusió en els seus propis sistemes d'informació i de xifrar les seves comunicacions si així ho desitja. La xarxa oberta proporciona el mitjà de transport per fer-ho possible.
 
-The users are responsible of their security and have the right to protect themselves and protect their intimacy, to avoid the intrusion into their systems and to cypher their communications. The open network provides the appropriated medium to do so.
+Users are responsible of their own security and have the right to protect and `safeguard|???` their `intimacy|privacy`, to avoid intrusions into their information systems and to encrypt their communications if they so desire. The open network provides the transport medium which `enables|makes` this`.(full stop w/ 'enables')` `possible|feasible`.
 
 >### 2. Xarxes privades i limitaciós
 
@@ -654,7 +662,7 @@ The users are responsible of their security and have the right to protect themse
 
 >Es poden connectar xarxes privades a la xarxa oberta i posar-hi tallafocs per controlar-ne l'accés. Aquests trams de xarxes queden exclosos dels [Comuns de la XOLN](#cxoln) i no formen part de la xarxa oberta, lliure i neutral. De la seva seguretat se'n fa càrrec qui la munta.
 
-Private networks can be connected to the open network and control access through firewalls may be implemented. Those segments are excluded from the [CXOLN](#cxoln) and are not part of the neutral, free and open network, and their sponsors are responsibility for their security.
+Private networks can be connected to the open network, and their access can be controlled by implementing firewalls. These network segments are excluded from the [CXOLN](#cxoln) and `(as such they)` are not part of the open, free and neutral network. Those who set them up are in charge of their security.
 
 >### 3. Danys
 
@@ -662,15 +670,15 @@ Private networks can be connected to the open network and control access through
 
 >La xarxa oberta no es fa responsable de cap dany causat als seus usuaris durant l'ús de la xarxa.
 
-The open network is not responsible for any damage a user may suffer during its use.
+The open network is not responsible for any damage its users may suffer during its use.
 
 >### 4. Responsabilitat individual de cadascú
 
-### 4. Individual Responsibility
+### 4. `(Everyone's..?)` Individual Responsibility
 
 >Cada usuari és responsable de l'ús que faci de la xarxa, dels continguts que hi incorpora i del seus actes, en cap cas ho serà el participant que li proporciona accés, ni la resta de participants, ni guifi.net en la seva globalitat.
 
-Each user is responsible for his use of the network, the contents he contributes and his acts. In any case the responsible will be the participant that gives access to the user, nor the rest of the participants, nor guifi.net as a whole.
+Every user is responsible for their use of the network, the contents they `contribute|add to it|share|make available` and their acts; under no circumstance will either the participant who provides access to the user, nor the rest of participants, nor Guifi.net as a whole, be responsible.
 
 >## IX. Serveis, continguts, altres xarxes i Internet
 
@@ -682,7 +690,7 @@ Each user is responsible for his use of the network, the contents he contributes
 
 >La xarxa proporciona un servei de comunicacions electròniques disponible al públic en general. Més enllà d'aquest servei bàsic, hi ha llibertat de crear continguts i serveis de qualsevol tipus.
 
-The network provides an electronic communication service available to the public in general. There is the right to add new contents and services of any kind beyond this basic service.
+The network provides an electronic communication service available to the `general public|public in general`. Beyond this basic service, exists the freedom to create new contents and services of any kind.
 
 >### 2. Responsabilitats dels creadors de continguts i serveis
 
@@ -690,7 +698,7 @@ The network provides an electronic communication service available to the public
 
 >La xarxa és el suport sobre el qual es fa la transmissió lliure dels continguts però no té res a veure ni és responsable d'aquests continguts tal i com es preveu en l'apartat [VIII. Seguretat i responsabilitat](#viii-seguretat-i-responsabilitat).
 
-The network is the medium on which the free transmission of the contents is made, but it has nothing to do with them nor is responsible for them, as already stated in the section “About Security and Responsibility”.
+The network is the medium `by|upon` which the `free|_libre_` transmission of contents is made, but it has nothing to do with, nor is it responsible for these contents, as is `foreseen|laid out` in section [VIII. Security and Responsibility](#viii-security-and-responsibility).
 
 >### 3. Termes i condicions d'us
 
@@ -698,7 +706,9 @@ The network is the medium on which the free transmission of the contents is made
 
 >Els creadors o titulars dels continguts escullen el termes i condicions per al seu ús. Si no n'expressen els continguts textuals i/o audiovisuals, s'entén que són de lliure distribució en les mateixes condicions, tal i com es descriuen en la [Creative Commons (BY-SA)][2] o la [GNU FDL][3].
 
-The copyright holders of the contents choose the terms and conditions of their use. If they are not explicitly stated, it is understood that they can be freely distributed, as stated in the Creative Commons (by-sa) \[3\] license or the GNU/FDL \[4\] license.
+>`Si no n'expressen, s'entén que els continguts textuals i/o audiovisuals són de lliure distribució en les mateixes condicions, tal i com es descriuen en la [Creative Commons (BY-SA)][2] o la [GNU FDL][3].`
+
+Content creators or owners choose the terms and conditions for their `use|usage`. If none are explicitly stated, it is understood that `text|textual` and/or audiovisual contents can be freely distributed under the same conditions, in the same way as described in the [Creative Commons (BY-SA)][2] or the [GNU FDL][3].
 
 >### 4. Exenció de garantia per defecte
 
@@ -706,15 +716,17 @@ The copyright holders of the contents choose the terms and conditions of their u
 
 >En el cas dels serveis, correspon a qui el proporciona determinar si es tracta d'un servei "tal qual" o amb un compromís de servei. Si no s'especifica res i és gratuït, s'entén que es tracta d'un servei "_tal qual és_", i que, per tant, no s'ofereix cap tipus de garantia.
 
-In the case of services, the provider is responsible for deciding whether the service is “as it is” or with service guarantee. If it is not specified and the service is free-of-charge, it is understood that it is an “as it is” service, thus, it is offered without any guarantee.
+>`s'ofereix sense nigucap tipus de garantia.`
+
+In the case of services, the provider is responsible for deciding whether the service is "as is" or with a service `commitment|guarantee`. If nothing is specified and the service is free-of-charge, it is understood that this is an “_as it is_” service, and that, therefore, it is offered without any type of guarantee.
 
 >### 5. Continguts inapropriats o il·legals
 
 ### 5. Innappropriate or Illegal Contents
 
->S'ha de procurar respectar les llibertats de pensament, d'expressió i comunicació. Tot respectant això, es podrà evitar trànsit de missatges no sol·licitats, continguts inapropiats o il·legals que maliciosament vulguin causar un perjudici o restringir les llibertats a altres usuaris.
+>S'ha de procurar respectar les llibertats de pensament, d'expressió i comunicació. Tot respectant això, es podrà `evitar (¿que volem dir amb "evitar"..? que pasa? es bloqueja/filtra/talla aquest transit?)` trànsit de missatges no sol·licitats, continguts inapropiats o il·legals que maliciosament vulguin causar un perjudici o restringir les llibertats a altres usuaris.
 
-Freedom of thought, thinking, expression and communication must be respected. This is not incompatible with filtering the malicious traffic generated by unwanted messages, inappropriate or illegal content, intended to restrict these freedoms of other users or to offend them.
+`best efforts will be made|it will be sought [idem @ line 645]` to respect freedom of thought, of expression and communication. All while respecting this, the traffic `of|generated by` unsolicited messages, inappropriate or illegal contents which maliciously seek to `cause a prejudice|harm` or restrict other users' freedoms.
 
 >### 6. Interconnexions amb altres xarxes
 
@@ -722,7 +734,9 @@ Freedom of thought, thinking, expression and communication must be respected. Th
 
 >La xarxa, com a xarxa oberta, lliure i neutral té vocació inequívoca de ser una xarxa més de la gran xarxa de xarxes que és Internet i per aquest motiu guifi.net procura formar part activa dels organismes que formen Internet i, com a operador, procurar acords i mecanismes d'interconnexió eficients amb tots els altres operadors. Tanmateix, actualment a Internet, els altres operadors poden ser més restrictius i no tan oberts pel que fa a la interconnexió amb les seves xarxes, per exemple fent una explotació comercial de la interconnexió o del trànsit. Com que en aquests casos no és possible aplicar el [principi de reciprocitat](#7-principi-de-reciprocitat), el trànsit cap a l'internet d'aquests operadors es considera fora de l'àmbit dels [Comuns de la XOLN](#cxoln), i com a tal, respecte de la XOLN, n'esdevé un contingut. Per tant, aquesta mena d'interconnexió s'ofereix als participants com qualsevol altre servei dins de la xarxa, i típicament n'hi pot haver de dos tipus:
 
-The network, as neutral, free and open, has the unequivocal vocation to be another network of the big network of networks which is Internet. Thus, guifi.net wants to actively participate in the Internet organizations, and, as an operator, to establish interconnection agreements with the rest of the operators. Nonetheless, currently in the Internet, other operators may be more restrictive and less open in regard to the interconnection with their networks, doing, for instance, a commercial exploitation of the interconnection or the traffic. Because in these cases is not possible to apply the reciprocity principle, the Internet traffic towards these operators is considered to be out of the [CXOLN](#cxoln), and as such it must be considered as a content. Thus, this type of interconnection is offered to the participants as any other service in the network, the most frequent ways are:
+`>>> work in progress <<<`
+
+The network, as an open, free and neutral network has the unequivocal vocation to be one of the networks within the `big|huge?` network of networks which is the Internet. Thus, guifi.net wants to actively participate in the Internet organizations, and, as an operator, to establish interconnection agreements with the rest of the operators. Nonetheless, currently in the Internet, other operators may be more restrictive and less open in regard to the interconnection with their networks, doing, for instance, a commercial exploitation of the interconnection or the traffic. Because in these cases is not possible to apply the [Principle of Reciprocity](#7-principle-of-reciprocity), the Internet traffic towards these operators is considered to be out of the [CXOLN](#cxoln), and as such it must be considered as a content. Thus, this type of interconnection is offered to the participants as any other service in the network, the most frequent ways are:
 
 >+ **a.** El que proporcionen els participants a partir de les connexions que puguin tenir amb altres operadors com a portes cap a Internet.
 
