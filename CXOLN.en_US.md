@@ -734,21 +734,19 @@ In the case of services, the provider is responsible for deciding whether the se
 
 >La xarxa, com a xarxa oberta, lliure i neutral té vocació inequívoca de ser una xarxa més de la gran xarxa de xarxes que és Internet i per aquest motiu guifi.net procura formar part activa dels organismes que formen Internet i, com a operador, procurar acords i mecanismes d'interconnexió eficients amb tots els altres operadors. Tanmateix, actualment a Internet, els altres operadors poden ser més restrictius i no tan oberts pel que fa a la interconnexió amb les seves xarxes, per exemple fent una explotació comercial de la interconnexió o del trànsit. Com que en aquests casos no és possible aplicar el [principi de reciprocitat](#7-principi-de-reciprocitat), el trànsit cap a l'internet d'aquests operadors es considera fora de l'àmbit dels [Comuns de la XOLN](#cxoln), i com a tal, respecte de la XOLN, n'esdevé un contingut. Per tant, aquesta mena d'interconnexió s'ofereix als participants com qualsevol altre servei dins de la xarxa, i típicament n'hi pot haver de dos tipus:
 
-`>>> work in progress <<<`
-
-The network, as an open, free and neutral network has the unequivocal vocation to be one of the networks within the `big|huge?` network of networks which is the Internet. Thus, guifi.net wants to actively participate in the Internet organizations, and, as an operator, to establish interconnection agreements with the rest of the operators. Nonetheless, currently in the Internet, other operators may be more restrictive and less open in regard to the interconnection with their networks, doing, for instance, a commercial exploitation of the interconnection or the traffic. Because in these cases is not possible to apply the [Principle of Reciprocity](#7-principle-of-reciprocity), the Internet traffic towards these operators is considered to be out of the [CXOLN](#cxoln), and as such it must be considered as a content. Thus, this type of interconnection is offered to the participants as any other service in the network, the most frequent ways are:
+The network, as an open, free and neutral network has the unequivocal vocation to be one of the networks within the `big|huge?` network of networks which is the Internet. Thus, Guifi.net will actively seek to participate in organizations which form the Internet, and, as an operator, it will seek to establish efficient interconnection mechanisms and agreements with all other operators. Nevertheless, currently on the Internet, other operators may be more restrictive and less open with regard to interconnections with their networks, for instance by commercially exploiting interconnections or traffic. As in these cases it is not possible to apply the [principle of reciprocity](#7-principle-of-reciprocity), the traffic towards the Internet of those operators is considered to be excluded from the [CXOLN](#cxoln), and as such, _vis-à-vis_ the XOLN it is considered as `content|"content"`. Therefore, this type of interconnection is offered to participants as any other service within the network, and typically these are of two kinds:
 
 >+ **a.** El que proporcionen els participants a partir de les connexions que puguin tenir amb altres operadors com a portes cap a Internet.
 
-+ **a.** The interconnections provided by the participants from the Internet connections they may have with other operators.
++ **a.** That which is provided by participants from the connections they may have with other operators as a gateway towards the Internet.
 
 >+ **b.** El que s'obté a través de la interconnexió amb xarxes ("peering") d'altres operadors.
 
-+ **b.** The interconnections that result from the peering process with other operators.
++ **b.** That which is obtained via the interconnection with other operators' networks ("peering").
 
 >    Qui proporciona aquests serveis determinarà si ho fa "tal qual", o amb algun tipus de compromís de servei.
 
-    Whoever offers these services establishes if they are offered as an “as it is” services or with some services compromises.
+    Whoever offers these services will determine if they offer them on an "as is" basis, or with some kind of service `commitment|level agreement`.
 
 >### 7. Principi de reciprocitat
 
@@ -756,7 +754,7 @@ The network, as an open, free and neutral network has the unequivocal vocation t
 
 >Quan es proporciona servei d'interconnexió amb una altra xarxa que, encara que no s'aculli a la protecció dels [Comuns de la XOLN](#cxoln) o es gestioni de manera diferent per altres organitzacions, però que en essència obeeixi als mateixos criteris de xarxa oberta, lliure i neutral, mantenint les mateixes [llibertats i principis generals](#i-resum-i-principis-generals) i permetent la lliure interconnexió, es podrà establir un reconeixement recíproc de les mateixes llibertats pel que fa a la lliure circulació de continguts i serveis.
 
-In the case of an interconnection service with another network which is not under the [CXOLN](#cxoln) agreement or it is managed in a different way by other organizations but in essence follows the same criteria of neutral, free and open network, keeping the same freedoms and general principles and allowing the free interconnection, a mutual recognition of the same rights regarding the free circulation of contents and services can be established.
+When an interconnection service with another network is provided, even when not under the [CXOLN's](#cxoln) protection or managed in a different manner by other organizations, if in essence it `follows|abides by|obeys` the same criteria of an open, free and neutral network, `safeguarding|upholding|respecting|maintaining` the same [freedoms and general principles](#i-summary-and-general-principles) and allowing `free (libre) interconnection|to interconnect freely`, a mutual and reciprocal recognition of the same freedoms concerning the free circulation of contents and services can be established.
 
 >## X. Resolució de conflictes i jurisdicció aplicable
 
@@ -764,46 +762,46 @@ In the case of an interconnection service with another network which is not unde
 
 >### 1. Conflictes i dubtes d'interpretació
 
-### 1. Conflicts and Interpretation Doubts
+### 1. Conflicts and Doubts of Interpretation
 
 >En cas de qüestions, dubtes o conflictes relatius a d'interpretació o aplicació dels [Comuns de la XOLN](#cxoln), tothom es pot dirigir al patronat de la Fundació perquè ho resolgui.
 
-In the case of questions, doubts or conflicts of interpretation or application of the [CXOLN](#cxoln), everybody has the right to request clarification to the board of the Foundation
+In the case of questions, doubts or conflicts regarding the interpretation or application of the [CXOLN](#cxoln), everyone can contact the Foundation's `board|board of directors|council|..?`for a resolution.
 
->La petició es formalitza a través d'un correu dirigit al Patronat (patronat (arroba) guifi.net), especificant-ho clarament a l'assumpte (per exemple "Consulta /Conflicte sobre els Comuns en relació a...."), i en el text del correu, una descripció de la qüestió, de les seves motivacions, dels punts dels Comuns afectats quan n'hi han, propostes, etc. És a dir, procurar que estigui ben documentat i entenedor.
+>La petició es formalitza a través d'un correu dirigit al Patronat (patronat (arroba) guifi.net), especificant-ho clarament a l'assumpte (per exemple "Consulta /Conflicte sobre els Comuns en relació a...."), i en el text del correu, una descripció de la qüestió, de les seves motivacion`(s)`, del`(s)` punt`(s)` dels Comuns afectats quan n'hi ha`(n)`, proposte`(s)`, etc. És a dir, procurar que estigui ben documentat i entenedor.
 
-The request must be formalized by an e-mail sent to the board (patronat(at)guifi.net), with the topic explicitly stated in the subject (e.g. “Question/Conflict about the [CXOLN](#cxoln) with regard to ...”) and a clear and well supported description of the facts, the motivations, the affected [CXOLN](#cxoln) points, the proposals, etc. That is to say, making sure that it is well documented and comprensible.
+The `request|petition` must be formalized via an email sent to the `Board|Board of Directors|Council` (patronat (at) guifi.net), clearly specifying the `subject matter|topic` (for example "Question/Conflict on the [CXOLN](#cxoln) with regard to..."), and in the email's text a description of the question, motivation(s), affected [CXOLN](#cxoln) section(s) when applicable, proposals, etc. That is to say, doing one's best to ensure it is well documented and comprehensible.
 
 >Un cop el Patronat de la Fundació ha rebut la notificació i en funció de la naturalesa de la petició aplicarà el següent procediment:
 
-Once the e-mail is received by the board, depending on its nature, the following procedure will be applied
+Once the Foundation's `Board|Board of Directors|Council` has received the `notification|request`, and depending on its nature, the following `procedure|process` will be followed:
 
 >+ **a.** Decidir si la qüestió és prou fonamentada per cursar-la o arxivar-la. En cas d'arxivar-se, finalitza el procediment.
 
-+ **a.** Decide whether the issue is sufficiently supported to either accept or reject it. If it is rejected the process is finished.
++ **a.** Decide whether the `issue|question` is sufficiently `grounded|founded` to either procede with it or archive it. If it is archived, the `process|procedure` is `finished|terminated`.
 
 >+ **b.** Decidir si es fa càrrec de resoldre la qüestió directament, o bé nomena una comissió específica amb el mandat de resoldre la qüestió.  
 Ningú que sigui part en un conflicte pot formar part dels qui han de prendre una resolució, si fos el cas, s'haurà d'inhibir.  
 Els encarregats de deliberar i resoldre una qüestió prendran les decisions per votació, i per evitar l'empat, estarà format per un nombre imparell.
 
-+ **b.** Decide whether the issue will be resolved by the Foundation itself or it will appoint a specific commission with the only mandate to resolve it. Nobody affected by the issue can be participate in the group appointed to solve it. If it were the case he should refrain from it.
-The group in charge of deliberating and solving an issue must make decisions by vote, and in order to avoid ties, the number of members must be and odd number.
++ **b.** Decide whether it will `handle|examine` the `issue|question` itself, or whether it `nominates|appoints` a specific commission with the mandate to resolve the `issue|question`. `No one|Nobody` who is `part of|affected by` the conflict can be part of those who have to `resolve|solve` it, if such were the case, the person will have to `withdraw|recuse` themselves.
+Those `responsible for|tasked with` deliberating and resolving an `issue|question` will make their decisions by vote, therefore, in order to avoid ties, they must form an odd number.
 
 >+ **c.** Decidir si la documentació aportada és suficient o si cal obrir un període públic informatiu per recollir més dades. En el cas de que la qüestió afecti a tercers el període informatiu públic és obligatori per tal de permetre a tothom expressar la seva versió o opinió sobre la qüestió a analitzar.
 
-+ **c.** Decide whether the documentation provided suffices or if a period for public informative processes to collect more data must be opened. When an issue effects third parties this period is mandatory to let everybody to express their opinion on the considered issue.
++ **c.** Decide whether the documentation provided suffices or if it is warranted to open a period for public information processes so as to collect more data. When an `issue|question` affects third parties, this public information period is mandatory so as to allow everybody to express their version or opinion upon the `issue|question` `raised|at stake|to be studied|to be analyzed`.
 
 >+ **d.** Un cop finalitzat el procés informatiu, el Patronat o la Comissió haurà de debatre i finalment, resoldre.
 
-+ **d.** Once the period for public informative processes is finished the board or the commission must debate and lastly, rule.
++ **d.** Once the public information process' `period|timeframe` is completed, the Board of Directors or the Commission must debate, and finally, `resolve|rule|arbitrate`.
 
 >### 2. Solucions i arbitratge
 
 ### 2. Solutions and Arbitrations
 
->Les resolucions hauran d'orientar-se a aplicar l'esperit dels [Comuns de la XOLN](#cxoln), i en cas de que es constati un conflicte o una situació d'incompliment, servir d'arbitratge i proposar solucions per esmenar la situació que s'hagi pogut crear.
+>Les resolucions hauran d'orientar-se a aplicar l'esperit dels [Comuns de la XOLN](#cxoln), i en cas de que es constati un conflicte o una situació d'incompliment, servir d'arbitratge i proposar solucions per esmenar la situació que s'hagi `pogut(necessari aquest "pogut"?)` crear.
 
-The resolutions must be based on the [CXOLN](#cxoln) spirit, and in the case of a conflict or unfulfillment, they must make decisions and propose solutions in order to amend the situation.
+Resolutions `shall|must` aim to apply the spirit of the [CXOLN](#cxoln), and `in the case of|if` a conflict or a situation of non-compliance arises, they `shall|must` serve as arbitration and propose solutions to `amend|fix` the situation which it `likely|possibly(necessari?)` `created|generated`.
 
 >### 3. Resolucions de suspenció
 
@@ -811,7 +809,7 @@ The resolutions must be based on the [CXOLN](#cxoln) spirit, and in the case of 
 
 >En casos extrems, es pot resoldre la suspensió l'acord dels [Comuns de la XOLN](#cxoln) amb un participant, deixant-lo sense efectes, i podrà recuperar les infraestructures de la seva titularitat en funció del que es preveu en l'apartat [Titularitat i participants](#iv-titularitat-i-participants)". Per aquesta via no es poden resoldre penalitzacions o compensacions de tipus econòmic per danys o perjudicis i similars, si fos el cas s'haurà de fer via als Tribunals competents.
 
-In extreme cases, the [CXOLN](#cxoln) agreement with a participant can be ceased. The participant can recover his infrastructures according to the section “About Proprietorship and Participants”. Penalizations and compensations can not be ruled this way. If needed, they must be submitted to the competent court.
+In extreme cases, a resolution can be made to terminate a participant's [CXOLN](#cxoln) agreement, thereby leaving it without effect, `whilst|and` allowing the participant to recover the infrastructure they own in `compliance|accordance` with what is set forth in the section [Ownership and Participants](#iv-ownership-and-participants). Economic penalizations or compensations cannot be enforced through such a resolution `process|procedure`, be it for damages, or losses et al.; if these were the case, they `will|must` be `submitted|brought forth` to the competent Tribunals.
 
 >### 4. Recurs
 
@@ -819,7 +817,7 @@ In extreme cases, the [CXOLN](#cxoln) agreement with a participant can be ceased
 
 >A les resolucions s'hi pot presentar un recurs, o alternativament, acudir als Tribunals competents.
 
-The resolutions can be appealed or, alternatively, the issue can be submitted to the competent court.
+Resolutions can be appealed, or alternatively, they can be brought to competent Tribunals.
 
 >### 5. Jurisdicció
 
@@ -827,9 +825,9 @@ The resolutions can be appealed or, alternatively, the issue can be submitted to
 
 >La Fundació s'ha constituït segons la [Llei de Fundacions 4/2008 de Catalunya][4]. A efectes legals i en cas de conflicte, si les parts no acorden una altra cosa, la jurisdicció aplicable per a la Fundació i per a la interpretació dels [Comuns de la XOLN](#cxoln) és la que correspongui del Tribunal competent a Barcelona segons la legislació vigent a Catalunya.
 
-The Foundation is established according “Llei de Fundacions 4/2008 de Catalunya \[5\]” (“ 4/2008 Foundations Law from Catalonia”). For legal matters and in the case of a conflict, unless the parties agree otherwise, the applicable jurisdiction by the Foundation and by the [CXOLN](#cxoln) is the applicable by the competent court in Barcelona according to in accordance with current legislation in Catalonia.
+The Foundation was established according [Llei de Fundacions 4/2008 de Catalunya(_4/2008 Foundations Law of Catalonia_)][4]. For legal matters and in case of conflict, unless the parties agree otherwise, the applicable jurisdiction for the Foundation `and|as well as` for the interpretation of the [CXOLN](#cxoln) is that of the `competent|relevant|appropriate` Tribunal in Barcelona in accordance with current legislation of Catalonia.
 
->## XI. Llicència ~~del text dels [Comuns de la XOLN](#cxoln)~~
+>## XI. Llicència `~~del text dels [Comuns de la XOLN](#cxoln)~~`
 
 ## XI. License
 
@@ -839,7 +837,7 @@ The Foundation is established according “Llei de Fundacions 4/2008 de Cataluny
 
 >El text dels Comuns de la XOLN es pot canviar o modificar sota llicència [Creative Commons BY-NC-SA/4.0][2] o [GNU FDL][3]
 
-The content of the [CXOLN](#cxoln) can be changed or modified under the Creative Commons (by-nc-sa) \[6\] license or the GNU/FDL \[4\] license.
+The text of the [CXOLN](#cxoln) can be changed or modified under the [Creative Commons BY-NC-SA/4.0][2] or the [GNU FDL][3] license.
 
 >* No se'n pot fer un ús comercial
 
@@ -847,19 +845,19 @@ The content of the [CXOLN](#cxoln) can be changed or modified under the Creative
 
 >* La distribució i còpia és lliure referenciant que prové d'aquests [Comuns de la XOLN](#cxoln)
 
-* The copy and distribution is permitted stating that it comes from the [CXOLN](#cxoln)
+* Distribution and copies are permitted `if|as long as` they state `they come from|their source` the [CXOLN](#cxoln)
 
 >* Es poden modificar els continguts i fer-ne treballs derivats si el resultat es distribueix de nou sota les mateixes condicions.
 
-* Remixes and transformations must be distributed under the same license
+* The contents can be modified and derivative works can be made as long as the result is distributed under the same conditions.
 
 >### 2. Extensió i modificació
 
 ### 2. Extension and modification
 
->Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als [Comuns per la XOLN](#cxoln), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#7-principi-de-reciprocitat).
+>Animem a les`(~~les~~?)` qualsevol altra`(altres?)` organització`(organitzacións?)` d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als [Comuns per la XOLN](#cxoln), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint de`~~l~~` la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#7-principi-de-reciprocitat).
 
-We encourage the organizations of the rest of the world to promote the Neutral, Free and Open Network by either adopting the [CXOLN](#cxoln) or adapting it to its organization and working methods to make the interconnection of the networks possible through the reciprocity principle.
+We encourage any organization from around the world to `spread|run|promote` Open, Free and Neutral Network`s(?)`, whether it be by adopting the [CXOLN](#cxoln), or by `adapting|modifying` it to fit their organization and work methods, and enjoy the possibility of interconnecting networks via the [principle of reciprocity](#7-principle-of-reciprocity).
 
 [1]:http://guifi.net/ComunsSensefils
 [2]:https://creativecommons.org/licenses/by-nc-sa/4.0/
