@@ -122,9 +122,9 @@ An innovative project such as Guifi.net requires a continuous process of revisio
 
 + **b.** When a revision addresses new situations which did not previously exist, such as for example those derived from a new or improved technology, it is understood that the agreement is implicitely renewed and valid under said revision from the moment the update or expansion is effective.
 
->+ **c.** Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és una revisió `(una nova versió..?)` del `(de la licencia..?)` que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils][1]
+>+ **c.** Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és una revisió `(una nova versió..?)` del `(de la licencia..?)` que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [https://guifi.net/ca/ComunsSensefils][1]
 
-+ **c.** The [CXOLN](#cxoln) is a revision `(a new version..?)` of an earlier `license` known as "Communs Sensefils (_Wireless Commons_)" which can be consulted for reference in Catalan at [http://guifi.net/ComunsSensefils][1].
++ **c.** The [CXOLN](#cxoln) is a revision `(a new version..?)` of an earlier `license` known as "Communs Sensefils (_Wireless Commons_)" which can be consulted for reference in Catalan at [https://guifi.net/ca/ComunsSensefils][1].
 
 >+ **d.** Totes les revisions dels [Comuns de la XOLN](#cxoln) es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió `(versió..? [l'acord per a revisions es automatic, mentrestant novas versions requereixen la renovació explicita de l'acord])` vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
 
@@ -859,7 +859,7 @@ The text of the [CXOLN](#cxoln) can be changed or modified under the [Creative C
 
 We encourage any organization from around the world to `spread|run|promote` Open, Free and Neutral Network`s(?)`, whether it be by adopting the [CXOLN](#cxoln), or by `adapting|modifying` it to fit their organization and work methods, and enjoy the possibility of interconnecting networks via the [principle of reciprocity](#7-principle-of-reciprocity).
 
-[1]:http://guifi.net/ComunsSensefils
+[1]:https://guifi.net/ca/ComunsSensefils
 [2]:https://creativecommons.org/licenses/by-nc-sa/4.0/
 [3]:https://www.gnu.org/copyleft/fdl.html
 [4]:https://www.gencat.cat/diari/5123/08114039.htm

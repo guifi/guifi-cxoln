@@ -119,9 +119,9 @@ Una actividad dinámica e innovadora como la que realiza guifi.net exige un proc
 
 + **b.** Cuando una revisión genera nuevas situaciones que antes no existian, como por ejemplo las derivadas con algun tipo de amplificación o actualización tecnológica, se entenderá que se renueva de forma implícita la aceptación según la revisión vigente en el momento que se produce la actualización o ampliación.
 
->+ **c.** Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [http://guifi.net/ComunsSensefils][1]
+>+ **c.** Els [Comuns de la Xarxa Oberta, Lliure i Neutral (CXOLN)](#cxoln) és una revisió del que anteriorment es coneixia com a ["Comuns Sensefils"][1], que es pot continuar consultant per la seva referència a [https://guifi.net/ca/ComunsSensefils][1]
 
-+ **c.**  El [Procomún de la XOLN](#cxoln) es una revisión de la anteriormente conocida  ["Comuns Sensefils"][1] (_Licencia Procomún Inalámbrica_), que se puede consultar como referencia en [http://guifi.net/es/ProcomunInalambrica][1].
++ **c.**  El [Procomún de la XOLN](#cxoln) es una revisión de la anteriormente conocida  ["Comuns Sensefils"][1] (_Licencia Procomún Inalámbrica_), que se puede consultar como referencia en [https://guifi.net/es/ProcomunInalambrica][1].
 
 >+ **d.** Totes les revisions dels [Comuns de la XOLN](#cxoln) es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
 
@@ -845,7 +845,7 @@ El texto del Procomún de la XOLN se puede cambiar o modificar bajo licencia [Cr
 
 Animamos a cualquiera otra organización de cualquier lugar del mundo a construir Red Abierta, Libre y Neutral, ya sea acogiéndose también al [Procomún de la XOLN](#cxoln), o bien, haciendo una modificación para adecuarla a su propia organización y forma de trabajar y disfrutando de la posibilidad de interconectar las redes a través del [principio de reciprocidad](#7-principio-de-reciprocidad).
 
-[1]:http://guifi.net/es/ProcomunInalambrica
+[1]:https://guifi.net/es/ProcomunInalambrica
 [2]:https://creativecommons.org/licenses/by-sa/4.0/es/
 [3]:https://www.gnu.org/copyleft/fdl.html
 [4]:https://www.gencat.cat/diari/5123/08114039.htm
