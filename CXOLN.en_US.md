@@ -156,7 +156,7 @@ An innovative project such as Guifi.net requires a continuous process of revisio
 
 >    Quan en aquest document es menciona "la xarxa" de forma genèrica o l'abreviació "XOLN", es refereix a la Xarxa Oberta, Lliure i Neutral, i es defineix així perquè:
 
-    When throughout this document the generic term “the network” or the acronym "XOLN" is used, they refer to the "Xarxa Oberta, Lliure i Neutral"_ (_Open, Free and Neutral Network_), which is thus defined as:
+    When throughout this document the generic term “the network” or the acronym "XOLN" is used, they refer to the _"Xarxa Oberta, Lliure i Neutral"_ (_Open, Free and Neutral Network_), which is thus defined because:
 
 >    1. És **Oberta** perquè s'ofereix universalment a la participació de tothom sense cap tipus d'exclusió ni discriminació, i perquè s'informa en tot moment de com funciona i els seus components, permetent així que qui vulgui pugui millorar-la.
 
