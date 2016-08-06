@@ -83,11 +83,9 @@ The [CXOLN](#cxoln) is imbued and can be summarized by the following principles:
 
 1. You have the freedom to use the network for any purpose as long as you don't harm the `operation|functioning` of the network itself, the freedom of other users, and you respect the conditions of contents and services which flow freely therein.
 
-
 >  2. Ets lliure de saber com és la xarxa, els seus components, com funciona i difondre'n el seu esperit i funcionament.
 
 2. You have the freedom to know how the network is, its components, how it works, and to share its principles and mechanisms.
-
 
 >  3. Ets lliure d'incorporar serveis i continguts a la xarxa amb les condicions que vulguis.
 
@@ -96,7 +94,6 @@ The [CXOLN](#cxoln) is imbued and can be summarized by the following principles:
 >  4. Incorporant-te a la xarxa, ajudes a estendre aquestes llibertats en les mateixes condicions.
 
 4. By joining the network, you contribute to extend these freedoms under the same conditions.
-
 
 >  A continuació els [Comuns de la XOLN](#cxoln) desenvolupa aquests principis per tal de garantir-los i respectar-los.
 
