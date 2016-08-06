@@ -68,7 +68,7 @@
     * [4. Appel](4-appel)
     * [5. Juridiction](#5-juridiction)
 * [XI. Licence](#xi-licence)
-    * [1. CC BY-NC-SA, GNU FDL](#1-cc-by-nc-sa-GNU-FDL)
+    * [1. CC BY-NC-SA, GNU FDL](#1-cc-by-nc-sa-gnu-fdl)
     * [2. Extension et modification](#2-extension-et-modification)
 
 >## I. Resum i principis generals
@@ -814,7 +814,7 @@ La Fondation a été établie en fonction de la [Fondations loi 4/2008 de la Cat
 
 >## XI. Llicència del text dels [Comuns de la XOLN](#cxoln)
 
-## XI. Licence du texte [CXOLN](#cxoln)
+## XI. Licence
 
 >### 1. CC BY-NC-SA, GNU FDL
 
@@ -822,15 +822,15 @@ La Fondation a été établie en fonction de la [Fondations loi 4/2008 de la Cat
 
 >El text dels Comuns de la XOLN es pot canviar o modificar sota llicència [Creative Commons BY-NC-SA/4.0][2] o [GNU FDL][3]
 
-Le texte de la CXOLN commune être changé ou modifié sous licence [Creative Commons BY-NC-SA/4.0][2] ou [GNU FDL][3]
+Le texte de la CXOLN peut être changé ou modifié sous licence [Creative Commons BY-NC-SA/4.0][2] ou [GNU FDL][3]
 
 >* No se'n pot fer un ús comercial
 
-* Personne ne peut en faire un usage commercial
+* Il ne peut en être fait un usage commercial
 
 >* La distribució i còpia és lliure referenciant que prové d'aquests [Comuns de la XOLN](#cxoln)
 
-* La distribution et la copie sont libres référençant qu'elle provient de cette [CXOLN](#cxoln)
+* La distribution et la copie sont libres référençant qu'elles proviennent de cette [CXOLN](#cxoln)
 
 >* Es poden modificar el`s(?)` contingut`s(?)` i fer-ne treballs derivats si el resultat es distribueix de nou sota les mateixes condicions.
 
@@ -842,7 +842,7 @@ Le texte de la CXOLN commune être changé ou modifié sous licence [Creative Co
 
 >Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als [Comuns per la XOLN](#cxoln), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#7-principi-de-reciprocitat).
 
-Nous encourageons toute autre organisation dans le monde entier à un réseau ouvert, libre et neutre, ou encore d'être accueilli [par la XOLN commune] (# de cxoln) ou en faisant une modification pour l'adapter à son organisation et son mode de travail et profiter de la possibilité d'interconnecter les réseaux à travers le [principe de réciprocité] (# 7-début-de-réciprocité).
+Nous encourageons toute autre organisation dans le monde entier à `faire|tisser|construire|étendre` du Réseau Ouvert, Libre et Neutre, soit en `s'unissant|adhérant` aussi à la [CXOLN](#cxoln), ou bien en la modifiant pour l'adapter à son organisation et sa manière de travailler, et profitant de la possibilité d'interconnecter les réseaux au travers du [principe de réciprocité](#7-principe-de-réciprocité).
 
 [1]:https://guifi.net/ca/ComunsSensefils
 [2]:https://creativecommons.org/licenses/by-nc-sa/4.0/
