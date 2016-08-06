@@ -830,7 +830,7 @@ Le texte de la CXOLN peut être changé ou modifié sous licence [Creative Commo
 
 >* La distribució i còpia és lliure referenciant que prové d'aquests [Comuns de la XOLN](#cxoln)
 
-* La distribution et la copie sont libres référençant qu'elles proviennent de cette [CXOLN](#cxoln)
+* La distribution et la copie sont libres référençant qu'elles proviennent de la [CXOLN](#cxoln)
 
 >* Es poden modificar el`s(?)` contingut`s(?)` i fer-ne treballs derivats si el resultat es distribueix de nou sota les mateixes condicions.
 
