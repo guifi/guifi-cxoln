@@ -33,7 +33,7 @@
     * [10. Titularité orpheline](#10-titulartié-orpheline)
     * [11. Cession d'emplacement](#11-cession-d-emplacement)
     * [12. Finalisation d'une cession](#12-finalisation-d-une-cession)
-* [V. Rôle de la fondation](#v-rôle-de-la-fondation)
+* [V. Rôle de la Fondation Guifi.net](#v-rôle-de-la-fondation-guifinet)
     * [1. Support](#1-support)
     * [2. Personnalité juridique](#2-personnalité-juridique)
     * [3. Défense](#3-défense)
@@ -502,9 +502,9 @@ Par exemple:
 
 L'affectation des espaces pour la radio par satellite est réversible à tout moment à la demande du propriétaire et ne crée aucune servitude.
 
->## V. El paper de la Fundació
+>## V. El paper de la Fundació Guifi.net
 
-## V. Rôle de la Fondation
+## V. Rôle de la Fondation Guifi.net
 
 >### 1. Suport
 
@@ -832,9 +832,9 @@ Le texte de la CXOLN commune être changé ou modifié sous licence [Creative Co
 
 * La distribution et la copie sont libres référençant qu'elle provient de cette [CXOLN](#cxoln)
 
->* Es poden modificar els continguts i fer-ne treballs derivats si el resultat es distribueix de nou sota les mateixes condicions.
+>* Es poden modificar el`s(?)` contingut`s(?)` i fer-ne treballs derivats si el resultat es distribueix de nou sota les mateixes condicions.
 
-* Vous pouvez modifier le contenu et faire des oeuvres dérivées si le résultat sera à nouveau distribuée dans les mêmes conditions.
+* Vous pouvez modifier le contenu et en faire des oeuvres dérivées si le résultat est à nouveau distribué sous les mêmes conditions.
 
 >### 2. Extensió i modificació
 
@@ -842,7 +842,7 @@ Le texte de la CXOLN commune être changé ou modifié sous licence [Creative Co
 
 >Animem a les qualsevol altra organització d'arreu del món a fer Xarxa Oberta, Lliure i Neutral, ja sigui acollint-se també als [Comuns per la XOLN](#cxoln), o bé fent-ne una modificació per adequar-la a la seva organització i forma de treballar i gaudint del la possibilitat d'interconnectar les xarxes a través del [principi de reciprocitat](#7-principi-de-reciprocitat).
 
-Nous encourageons toutes autre organisation dans le monde entier à un réseau ouvert, libre et neutre, ou encore d'être accueilli [par la XOLN commune] (# de cxoln) ou en faisant une modification pour l'adapter à son organisation et son mode de travail et profiter de la possibilité d'interconnecter les réseaux à travers le [principe de réciprocité] (# 7-début-de-réciprocité).
+Nous encourageons toute autre organisation dans le monde entier à un réseau ouvert, libre et neutre, ou encore d'être accueilli [par la XOLN commune] (# de cxoln) ou en faisant une modification pour l'adapter à son organisation et son mode de travail et profiter de la possibilité d'interconnecter les réseaux à travers le [principe de réciprocité] (# 7-début-de-réciprocité).
 
 [1]:https://guifi.net/ca/ComunsSensefils
 [2]:https://creativecommons.org/licenses/by-nc-sa/4.0/
