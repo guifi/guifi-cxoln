@@ -31,7 +31,7 @@ Els Comuns de la Xarxa Oberta, Lliure i Neutral.
     * [10. Titularitat orfe](#10-titularitat-orfe)
     * [11. Cessió d'ubicació](#11-cessió-dubicació)
     * [12. Finalització d'una cessió](#12-finalització-duna-cessió)
-* [V. El paper de la Fundació](#v-el-paper-de-la-fundació)
+* [V. El paper de la Fundació Guifi.net](#v-el-paper-de-la-fundació-guifinet)
     * [1. Suport](#1-suport)
     * [2. Personalitat jurídica](#2-personalitat-jurídica)
     * [3. Defensa](#3-defensa)
