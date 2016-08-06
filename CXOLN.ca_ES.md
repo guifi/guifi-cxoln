@@ -213,7 +213,7 @@ Hi poden haver altres organitzacions que també promouen xarxa amb característi
 
 La connexió a la xarxa és lliure i gratuïta tal i com ja es desprèn del punt [III.5.b](#5-compromís-per-el-creixement). Els participants es fan càrrec de les infraestructures per estar connectats, ja sigui individualment a través de mitjans propis, donacions, apadrinaments, col·lectivament de la manera que lliurement decideixin, o acudint amb aquest propòsit a serveis professionals. L'activitat econòmica derivada d'aquestes activitats, com per exemple el cobrament de diners a canvi del subministrament d'equips, creació d'infraestructures o manteniments, és responsabilitat de qui la realitza, i haurà d'informar amb claredat a qui li pagui sobre a quins conceptes es corresponen aquests pagaments. Quan s'estableixen condicions econòmiques pel concepte de contribució a aquestes infraestructures, han de ser raonades, públiques, i no discriminatòries.
 
-## IV Titularitat i participants
+## IV. Titularitat i participants
 
 ### 1. Titularitat
 

@@ -369,7 +369,7 @@ Puede haber otras organizaciones que también promuevan red con características
 
 `MISSING`
 
->## IV Titularitat i participants
+>## IV. Titularitat i participants
 
 ## IV. Titularidad y participantes
 

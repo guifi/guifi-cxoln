@@ -371,7 +371,7 @@ Other organizations, which promote networks with similar characteristics to Guif
 
 As stated in section [III.5.b](#5-commitment-for-growth), connection to the network is both free, _as in freedom_, and free-of-charge. Participants take charge of the infrastructure required to be connected, whether individually through their own means, donations or sponsorship, or collectively in a manner they freely decide, or via professional services contracted for this purpose. Those who undertake economic activities in this context (for example, charging monetary compensation for the supply of equipments, the creation of infrastructures or their maintenance) are responsible for their work, and are to inform with clarity which item(s) correspond to which cost, to whomever is paying them. When economic conditions are established for contribution to these infrastructures, these will have to be reasonable, public, and non-discriminatory.
 
->## IV Titularitat i participants
+>## IV. Titularitat i participants
 
 ## IV. Ownership and Participants
 
