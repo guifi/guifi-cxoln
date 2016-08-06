@@ -33,7 +33,7 @@
   * [10. Titularidad huérfana](#10-titularidad-huérfana)
   * [11. Cessión de ubicación](#11-cessión-de-ubicación)
   * [12. Finalización de una cessión](#12-finalización-de-una-cessión)
-* [V. El papel de la Fundación](#v-el-papel-de-la-fundación)
+* [V. El papel de la Fundación Guifi.net](#v-el-papel-de-la-fundación-guifinet)
   * [1. Soporte](#1-soporte)
   * [2. Personalidad jurídica](#2-personalidad-jurídica)
   * [3. Defensa](#3-defensa)
@@ -505,9 +505,9 @@ Por ejemplo:
 
 `MISSING`
 
->## V. El paper de la Fundació
+>## V. El paper de la Fundació Guifi.net
 
-## V.  El papel de la Fundación
+## V.  El papel de la Fundación Guifi.net
 
 >### 1. Suport
 

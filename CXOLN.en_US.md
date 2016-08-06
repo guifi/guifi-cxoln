@@ -33,7 +33,7 @@
     * [10. Orphaned Ownership](#10-orphaned-ownership)
     * [11. Location Grant](#11-location-grant)
     * [12. Grant Termination](#12-grant-termination)
-* [V. The Role of the Guifi.net Foundation](#v-the-role-of-the-guifi-net-foundation)
+* [V. The Role of the Guifi.net Foundation](#v-the-role-of-the-guifinet-foundation)
     * [1. Support](#1-support)
     * [2. Legal Entity](#2-legal-entity)
     * [3. Defense](#3-defense)
@@ -503,7 +503,7 @@ For example:
 
 Location grants to host radio-communication antennas are reversible at any time upon the grantor's request `and they|as these` do not create any servitude `unto|to|for` the grantor.
 
->## V. El paper de la Fundació
+>## V. El paper de la Fundació Guifi.net
 
 ## V. The Role of the Guifi.net Foundation
 

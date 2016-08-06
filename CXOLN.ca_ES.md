@@ -281,7 +281,7 @@ Per exemple:
 
 La cessió d'espais per antenes de radiocomunicació és reversible en qualsevol moment a petició del propietari i no li creen cap servitud.
 
-## V. El paper de la Fundació
+## V. El paper de la Fundació Guifi.net
 
 ### 1. Suport
 
