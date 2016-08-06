@@ -27,7 +27,7 @@
     * [4. Responsabilité](#4-responsabilité)
     * [5. Information](#5-information)
     * [6. Transmission](#6-transmission)
-    * [7. Incorporation des trames de réseau](#7-incorporation-de-trames-de-réseau)
+    * [7. Incorporation de trames de réseau](#7-incorporation-de-trames-de-réseau)
     * [8. Finalisation de trames de réseau](#8-finalisation-de-trames-de-réseau)
     * [9. Exercice de la titularité](#9-exercice-de-la-titularité)
     * [10. Titularité orpheline](#10-titulartié-orpheline)
@@ -438,7 +438,7 @@ La titularité est un actif, qui en tant que tel peut avoir une valeur, et par c
 
 >### 7. Incorporació de trams de xarxa
 
-### 7. Incorporation des trames de réseau
+### 7. Incorporation de trames de réseau
 
 >La incorporació d'actius a la xarxa és fonamental per al seu creixement i desenvolupament ja que és la forma principal de captar inversions i de proporcionar sostenibilitat, per tant convé protegir-la i fomentar-la. Per això, els participants quan incorporen infraestructures a la xarxa a més d'obtenir connectivitat amb la resta, també es poden donar prioritat en els trams dels quals en son titulars de manera que tinguin preferència sobre l'ample de banda disponible, amb la única condició de que es respectin els criteris establerts en l'apartat [VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)](#vi-gestió-de-la-xarxa-i-prioritats-en-el-trànsit-qualitat-de-servei) i, alhora deixin disponible tot l'ample de banda excedentari per a la resta del trànsit.
 
