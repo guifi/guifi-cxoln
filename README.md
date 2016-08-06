@@ -4,7 +4,10 @@
 
 The CXOLN license is available in:
 
-+ [Català](CXOLN.ca_ES.md)
++ [Catalan (original)](CXOLN.ca_ES.md)
++ [English](CXOLN.en_US.md) (_Note: ~90% complete; work in progress._)
++ [French](CXOLN.fr_FR.md) (_Note: ~30% complete; work in progress._)
++ [Spanish](CXOLN.es_ES.md) (_Note: ~70% complete; work in progress._)
 
 _Don't see your language? You can [contribute](#contribute) it!_
 
