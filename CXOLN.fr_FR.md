@@ -157,23 +157,20 @@ Lorsque, dans ce document, est fait mention "du réseau" de forme générique ou
 
 >    1. És **Oberta** perquè s'ofereix universalment a la participació de tothom sense cap tipus d'exclusió ni discriminació, i perquè s'informa en tot moment de com funciona i els seus components, permetent així que qui vulgui pugui millorar-la.
 
-    1. **Ouvert** parce qu'il s'offre universellement à la participation de tout le monde sans aucun type d'exclusion ni de discrimination, et parce qu'il informe à tout moment de la façon dont il fonctionne et de ses composants, permettant ainsi à ceux qui veulent de l'améliorer.
+    1. `Il est (?)` **Ouvert** parce qu'il s'offre universellement à la participation de tout le monde sans aucun type d'exclusion ni de discrimination, et parce qu'il informe à tout moment de la façon dont il fonctionne et de ses composants, permettant ainsi à ceux qui veulent de l'améliorer.
 
 >    2. És **Lliure** perquè tothom hi pot fer el que vol i gaudir-ne tal i com es preveu en la referència a les llibertats dels [principis generals (apartat I.)](#i-resum-i-principis-generals), i tot això independentment del seu nivell de participació a la xarxa i sense imposar termes i condicions que contradiguin aquest acord de forma unilateral.
 
-    2. **Libre** parce que tout le monde peut y faire ce qu'il veut et en profiter tel que prévu par la référence aux libertés dans les [principes généraux (section I.)](#i-résumé-et-principes-généraux), et ceci indépendamment de son niveau de participation dans le réseau et sans imposer de termes et conditions qui contredisent cet accord de manière unilatérale.
+    2. `Il est (?)` **Libre** parce que tout le monde peut y faire ce qu'il veut et en profiter tel que prévu par la référence aux libertés dans les [principes généraux (section I.)](#i-résumé-et-principes-généraux), et ceci indépendamment de son niveau de participation dans le réseau et sans imposer de termes et conditions qui contredisent cet accord de manière unilatérale.
 
->    3. És **Neutral** perquè la xarxa és independent dels continguts, no els condiciona i hi poden circular lliurement; Els usuaris poden accedir i produir continguts independentment de les seves possibilitats financeres o condició social. Quan des de guifi.net s'incorporen continguts a la xarxa es fa o bé per estimular-ne de nous, o bé per a la gestió de la pròpia xarxa, o simplement en exercici de la llibertat d'incorporar-hi continguts, però en cap cas amb l'objectiu de substituir o impedir-ne d'altres.  
+>    3. És **Neutral** perquè la xarxa és independent dels continguts, no els condiciona i hi poden circular lliurement; `Els|els  (?)` usuaris poden accedir i produir continguts independentment de les seves possibilitats financeres o condició social. Quan des de guifi.net s'incorporen continguts a la xarxa es fa o bé per estimular-ne de nous, o bé per a la gestió de la pròpia xarxa, o simplement en exercici de la llibertat d'incorporar-hi continguts, però en cap cas amb l'objectiu de substituir o impedir-ne d'altres.  
 
-    3. **Neutre** parce que le réseau est indépendant du contenu, et non pas les conditions et il ne peut y circuler librement; Les utilisateurs peuvent accéder et produire du contenu indépendamment de leur statut social ou les possibilités financières. Lorsqu'ils sont incorporés guifi.net de contenu en ligne est soit pour stimuler de nouveaux, ou pour gérer leur propre réseau, ou tout simplement l'exercice de la liberté d'incorporer le contenu, mais dans tous les cas afin de remplacer ou d'empêcher d'autres.
+    3. `Il est (?)`**Neutre** parce que le réseau est indépendant des contenus, il ne les conditionne pas et ceux-ci peuvent y circuler librement; les `usagers|utilisateurs` peuvent accéder et produire des contenus indépendamment de leurs `capacités|situation|possibilités` financières ou `statut social|condition sociale`. Quand depuis guifi.net des contenus s'incorporent au réseau, c'est fait ou bien pour en stimuler de nouveaux, ou bien pour la gestion du réseau lui-même, ou simplement en `comme|en tant qu' (?)` exercice de la liberté d'y incorporer des contenus, mais dans aucun cas avec l'objectif `de|d'en` remplacer ou d'en empêcher d'autres.
 
-    `>>>>>>>><<<<<<<<`
-    `>>> WIP HERE <<<`
-    `>>>>>>>><<<<<<<<`
 
 >    També és **Neutral** respecte de la tecnologia, la xarxa es pot construir amb la tecnologia que decideixin els seus participants sense més limitacions que les que es derivin de la pròpia tecnologia.
 
-    **Neutre** Aussi par rapport à la technologie, le réseau peut être construit avec la technologie qu'ils choisissent leurs participants sans autres limitations que celles provenant de la technologie elle-même.
+    `Il est aussi **Neutre**|**Neutre** aussi (?)` `envers|par rapport` à la technologie, le réseau peut être construit avec la technologie que choisissent ses participants sans autres limitations que celles provenant de la technologie elle-même.
 
 >+ **c. Guifi.net**
 
@@ -181,8 +178,7 @@ Lorsque, dans ce document, est fait mention "du réseau" de forme générique ou
 
     >És el conjunt format per la xarxa i les persones individuals, col·lectius, empreses, institucions i administracions que hi donen suport o hi col·laboren de manera que la xarxa esdevé operativa i ofereixi connectivitat a tothom. Per tant fa d'operador de telecomunicacions.
 
-    Il est le groupe formé par le réseau et les individus, les groupes, les entreprises, les institutions et les gouvernements qui soutiennent ou collaborent afin que le réseau devient opérationnel et fournir une connectivité à tous. rend donc l'opérateur de télécommunications.
-
+    Est l'ensemble formé par le réseau et les `personnes|individus|particuliers`, les `collectifs|groupes`, les entreprises, les institutions et les administrations qui y apportent leur soutien ou y collaborent afin que le réseau devienne opérationnel et `offre|fournisse` de la connectivité à tout le monde. `C'est pourquoi|Dans les faits|Et donc pour autant` il exerce en tant qu'opérateur de télécommunications.
 
 >+ **d. Participants i titularitat**
 
@@ -190,7 +186,7 @@ Lorsque, dans ce document, est fait mention "du réseau" de forme générique ou
 
     >Els participants son aquelles persones físiques o jurídiques que incorporen infraestructures i trams a la xarxa a través de l'acceptació dels [Comuns de la XOLN](#cxoln). Els participants retenen la titularitat d'aquestes infraestructures de manera que la titularitat de la xarxa està distribuïda entre els participants. Els participants són doncs també els inversors de la xarxa, també reben la denominació de `padrins`, i de l'acte de cobrir la inversió, la denominació d'`apadrinament`.
 
-    Les participants sont les personnes physiques ou morales qui intègrent l'infrastructure et de réseau étendues par l'acceptation de [la XOLN commune] (# de cxoln). Les participants conservent la propriété de ces infrastructures afin que la propriété du réseau est réparti entre les participants. Les participants sont également des investisseurs parce que le réseau a également reçu le nom de `parrains`, et l'acte de couvrir l'investissement, la dénomination de `parrainage`.
+    Les participants sont les personnes physiques ou morales qui intègrent des infrastructures et des trames au réseau `à travers|par l'acceptation de|..|en acceptant|s'adhérant..souscrivant à||` la [CXOLN](#cxoln). Les participants conservent la titularité de ces infrastructures `afin|de manière à ce|ce qui de fait assure` que la titularité du réseau est répartie entre les participants. Les participants sont donc aussi les investisseurs du réseau, ils reçoivent `le nom|la dénomination` de `parrains`, et l'acte d'assumer un investissement, la dénomination de `parrainage`.
 
 >+ **e. Formes de participació**
 
@@ -204,39 +200,39 @@ Lorsque, dans ce document, est fait mention "du réseau" de forme générique ou
     Les connexions simples son aquells segments de la xarxa que finalitzen en un punt a partir del qual no s'estén a altres trams de la xarxa amb les mateixes condicions. Normalment és el punt des del qual els usuaris gaudeixen de la xarxa oberta lliure i neutral i a partir del qual hi connecten les seves xarxes privades.
 
     1. Connexions simples
-    Les connexions simples sont les segments de réseau se terminant en un point où elle se propage dans d'autres parties du réseau, avec les mêmes conditions. Cela est généralement le point à partir duquel les utilisateurs jouissent du réseau libre et ouvert neutre et à partir de laquelle il connecter leurs réseaux privés.
+    Les connexions simples sont ces segments du réseau qui se terminent en un point à partir duquel il ne s'étend `pas|plus` vers d'autres trames du réseau avec les mêmes conditions. Normalement c'est le point `duquel|à partir duquel` les utilisateurs jouissent du réseau ouvert libre et neutre et à partir duquel ils connectent leurs réseaux privés.
 
     >2. Trams que estenen la xarxa  
     Els trams que estenen la xarxa són els segments de la xarxa que, a diferència de les connexions simples, sí que preveuen que en cadascun dels extrems hi hagin altres trams de xarxa amb les mateixes condicions.
 
-    2. Sections qui étendent le réseau
-    Les sections qui étendent le réseau sont des segments de réseau qui, à la différence des connexions simples, ils prédisent que dans chacun des extrêmes ont d'autres segments de réseau avec les mêmes conditions.
+    2. Trames qui étendent le réseau
+    Les trames qui étendent le réseau sont des segments du réseau qui, à la différence des connexions simples, (`elles`..?) si prévoient qu'à chacune des extrêmités il y ai d'autres trames de réseau avec les mêmes conditions.
 
 >+ **f. Continguts**
 **+ f. Contenus**
 
     >El que dona sentit a una xarxa de telecomunicacions és que serveixi d'instrument de transmissió per accedir a continguts. Els continguts es publiquen a través de serveis.
 
-    Ce qui fait sens est un réseau de télécommunications qui sert d'instrument pour accéder à la diffusion de contenu. Le contenu publié par les services.
+    Ce qui donne sens à un réseau de télécommunications c'est qu'il serve d'instrument de transmission pour accéder à des contenus. Les contenus sont publiés au travers de services.
 
 >+ **g. Serveis**
 **+ g. Services**
 
     >A l'entorn de la xarxa existeixen múltiples formats de serveis. El més bàsic i indissociable de la pròpia xarxa és la connectivitat entre tots els participants i que s'anomena "servei de comunicacions electròniques". Més enllà d'aquest servei indissociable, es distingeix entre dos grans tipologies de serveis:
 
-    Autour il y a plusieurs services de réseau de formats. Le plus fondamental et indissociable du réseau lui-même est la connectivité entre tous les participants et qui est appelé «service de communications électroniques". Au-delà de ce service inséparables, il existe deux principaux types de services:
+    `Dans l'entourage|Autour` du réseau il existe de multiples formats services. Le plus basique et indissociable du réseau lui-même est la connectivité entre tous les participants et qui s'appelle "service de communications électroniques". Au-delà de ce service indissociable, l'on distingue deux principaux types de services:
 
     >1. Serveis "tal qual"  
     Son aquells serveis que es proporcionen "tal qual son", és a dir, qui els utilitza ho fa sota la seva responsabilitat i no pot exigir a qui li subministra que cobreixi una expectativa o unes característiques. En aquesta categoria generalment hi trobarem els serveis que es proporcionen de forma gratuïta.
 
-    1. Services "tels quels"
-    Ces services sont fournis «en sommeil», qui est, qui utilise elle le fait à vos propres risques et ne peut pas exiger qu'il offre couvre une attente ou caractéristiques. Dans cette catégorie, on trouve les services habituellement fournis gratuitement.
+    1. Services "tel quel"
+    Ces sont les services qui sont fournis "tel quel", c'est à dire, qui les utilise le fait sous sa propre responsabilité et ne peut exiger à celui qui le sousministre qu'il `couvre|réponde à` une `attente|demande|expectative` ou certaines caractéristiques. Dans cette catégorie, on trouvera généralement les services qui sont fournis gratuitement.
 
     >2. Serveis amb compromís  
     És quan es proporciona un servei amb un compromís de subministrar-lo, normalment a canvi d'una contraprestació, com per exemple quan es proporciona connectivitat amb altres operadors o Internet, o també els serveis professionals per garantir uns `nivells de servei o disponibilitat`.
 
-    2. Services d'engagement
-    Il est fourni en tant que service avec un engagement à fournir, habituellement en échange d'une compensation, comme lors de la fourniture de connectivité à d'autres opérateurs ou Internet, ou même des services professionnels pour garantir des niveaux de service ou `disponibilitat` .
+    2. Services avec engagement
+    C'est lorsqu'un service est fourni avec un engagement de le sousministrer, normalement en échange d'une contre-prestation, comme par exemple quand une connectivité avec d'autres opérateurs ou Internet est fournie, ou de même les services professionnels pour garantir des `niveaux de service ou de disponibilité`.
 
 >+ **h. Usuàries/is**
 
@@ -244,7 +240,7 @@ Lorsque, dans ce document, est fait mention "du réseau" de forme générique ou
 
     >Son els qui gaudeixen de la connectivitat que ofereix la xarxa amb el seu ús, normalment son els participants, però els participants poden permetre l'accés a tothom.
 
-    Qui sont en profitant de la connectivité offerte par le réseau avec son utilisation, sont normalement les participants, mais les participants peuvent autoriser l'accès à tout le monde.
+    Sont ceux qui `profitent|jouissent` de la connectivité qu'offre le réseau `avec|de part.. leur|son` utilisation, normalement ce sont les participants, mais les participants peuvent permettre l'accès à tout le monde.
 
 >+ **i. La Fundació Guifi.net**
 
@@ -252,7 +248,7 @@ Lorsque, dans ce document, est fait mention "du réseau" de forme générique ou
 
     >La "Fundació privada per a la xarxa oberta, lliure i neutral guifi.net", (en endavant, "la Fundació") és una institució sense ànim de lucre que consta amb el número 2550 del registre de fundacions de la Generalitat de Catalunya i que té com a mandat fundacional donar suport a guifi.net tot respectant la seva naturalesa original, forma d'organitzar-se i treballar.
 
-    La _"Fundació privada per a la xarxa oberta, lliure i neutral guifi.net"_ (_«Fondation privée pour le réseau ouvert, libre et neutre guifi.net», ci-après «la Fondation»_) est une institution à but non lucratif avec les fondations de registre numéro 2550 composé de la Generalitat de Catalogne et dont le mandat initial pour soutenir guifi.net en respectant son caractère original, la façon d'organiser et de travail.
+    La _"Fundació privada per a la xarxa oberta, lliure i neutral guifi.net"_ (_"Fondation privée pour le réseau ouvert, libre et neutre guifi.net", ci-après "la Fondation"_) est une institution à but non lucratif qui figure avec le numéro 2550 au registre des fondations de la Generalité de Catalogne et qui a pour mandat fondationnel de donner soutient à guifi.net tout en respectant son nature originelle, sa manière de s'auto-organiser et de travailler.
 
 >### 3. Elaboració i revisió
 
@@ -260,7 +256,7 @@ Lorsque, dans ce document, est fait mention "du réseau" de forme générique ou
 
 >Els [Comuns de la XOLN](#cxoln) s'elabora i es revisa a través d'un debat públic entre tots els qui participen a la xarxa.
 
-Le [XOLN commun] (# cxoln) élaboré et examiné par un débat public entre tous les acteurs dans le réseau.
+La [CXOLN](#cxoln) s'élabore et se révise au travers d'un débat public entre tous ceux qui participent au réseau.
 
 >### 4. Finalització de l'acord
 
@@ -268,15 +264,15 @@ Le [XOLN commun] (# cxoln) élaboré et examiné par un débat public entre tous
 
 >Els [Comuns per la XOLN](#cxoln) es pot suspendre o finalitzar per:
 
-Le [commun pour XOLN] (# cxoln) peut suspendre ou résilier par:
+La [CXOLN](#cxoln) peut être suspendue ou résiliée par:
 
-+ **a.** La voluntat de qui l'ha subscrit. La voluntat s'expressa directament donant-se de baixa les seves participacions en les eines que proporciona guifi.net, o en cas de que les participacions subsisteixin, per transmissió als nous titulars.
+>+ **a.** La voluntat de qui l'ha subscrit. La voluntat s'expressa directament donant-se de baixa les seves participacions en les eines que proporciona guifi.net, o en cas de que les participacions subsisteixin, per transmissió als nous titulars.
 
-+ **a.** La volonté de celui qui signé. Le désir exprimé directement donnant annuler leur participation aux outils fournis guifi.net, ou dans le cas où les actions subsistent, pour la transmission aux nouveaux propriétaires.
++ **a.** La volonté de celui qui l'a souscrit. Le volonté s'exprime directement en se `annulant|supprimant|mettant fin à` leurs participations dans les outils fournis par guifi.net, ou dans le cas où les participations `subsistent|persistent`, par la transmission aux nouveaux titulaires.
 
 >+ **b.** Per els procediment previst en l'apartat [X. Resolució de conflictes](#x-resolució-de-conflictes-i-jurisdicció-aplicable).
 
-+ **b.** Pour la procédure prévue à l'article [X. Résolution des conflits] (# -resolution x-conflit de compétence et de pose).
++ **b.** Par les procédures prévues dans l'article [X. Résolution des conflits](#x-résolution-de-conflits-et-juridiction-applicable).
 
 >## III. La xarxa (XOLN)
 
@@ -288,7 +284,11 @@ Le [commun pour XOLN] (# cxoln) peut suspendre ou résilier par:
 
 >La XOLN és una expressió de valors fonamentals com la llibertat, la igualtat d'oportunitats i la solidaritat i fraternitat a través del dret a comunicar-se lliurement i a extreure'n el màxim de prestacions possibles d'acord amb els [principis generals](#i-resum-i-principis-generals), que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació dels [Comuns de la XOLN](#cxoln).
 
-Le XOLN est une expression de valeurs fondamentales telles que la liberté, l'égalité et la solidarité et de fraternité à travers le droit de communiquer librement et d'en extraire le maximum d'avantages possibles en vertu des principes généraux [] ( # -et-court et général principes), qui inspireront dans le cas où vous avez des questions au sujet de l'interprétation de [la XOLN commune] (# de cxoln).
+Le XOLN est une expression de valeurs fondamentales telles que la liberté, l'égalité et la solidarité et de fraternité à travers le droit de communiquer librement et d'en extraire le maximum d'avantages possibles en vertu des principes généraux [] ( # -et-court et général principes), qui inspireront dans le cas où vous avez des questions au sujet de l'interprétation de la [CXOLN](#cxoln).
+
+`>>>>>>>><<<<<<<<`
+`>>> WIP HERE <<<`
+`>>>>>>>><<<<<<<<`
 
 >### 2. Accès
 
