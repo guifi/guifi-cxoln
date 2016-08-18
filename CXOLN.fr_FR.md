@@ -11,7 +11,7 @@
     * [1. Gestation, interprétation et révision du texte](#1-gestation-interprétation-et-révision-du-texte)
     * [2. Définitions](#2-définitions)
     * [3. Élaboration et révision](#3-élaboration-et-révision)
-    * [4. Finalisation de l'accord](#4-finalisation-de-l-accord)
+    * [4. Fin de l'accord](#4-fin-de-l-accord)
 * [III. Le réseau (XOLN)](#iii-le-réseau-xoln)
     * [1. Valeurs fondamentales](#1-valeurs-fondamentales)
     * [2. Accès](#2-accès)
@@ -28,11 +28,11 @@
     * [5. Information](#5-information)
     * [6. Transmission](#6-transmission)
     * [7. Incorporation de trames de réseau](#7-incorporation-de-trames-de-réseau)
-    * [8. Finalisation de trames de réseau](#8-finalisation-de-trames-de-réseau)
+    * [8. Fin de trames de réseau](#8-fin-de-trames-de-réseau)
     * [9. Exercice de la titularité](#9-exercice-de-la-titularité)
     * [10. Titularité orpheline](#10-titulartié-orpheline)
     * [11. Cession d'emplacement](#11-cession-d-emplacement)
-    * [12. Finalisation d'une cession](#12-finalisation-d-une-cession)
+    * [12. Fin d'une cession](#12-fin-d-une-cession)
 * [V. Rôle de la Fondation Guifi.net](#v-rôle-de-la-fondation-guifinet)
     * [1. Support](#1-support)
     * [2. Personnalité juridique](#2-personnalité-juridique)
@@ -260,7 +260,7 @@ La [CXOLN](#cxoln) s'élabore et se révise au travers d'un débat public entre 
 
 >### 4. Finalització de l'acord
 
-### 4. Finalisation de l'accord
+### 4. Fin de l'accord
 
 >Els [Comuns per la XOLN](#cxoln) es pot suspendre o finalitzar per:
 
@@ -284,19 +284,15 @@ La [CXOLN](#cxoln) peut être suspendue ou résiliée par:
 
 >La XOLN és una expressió de valors fonamentals com la llibertat, la igualtat d'oportunitats i la solidaritat i fraternitat a través del dret a comunicar-se lliurement i a extreure'n el màxim de prestacions possibles d'acord amb els [principis generals](#i-resum-i-principis-generals), que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació dels [Comuns de la XOLN](#cxoln).
 
-Le XOLN est une expression de valeurs fondamentales telles que la liberté, l'égalité et la solidarité et de fraternité à travers le droit de communiquer librement et d'en extraire le maximum d'avantages possibles en vertu des principes généraux [] ( # -et-court et général principes), qui inspireront dans le cas où vous avez des questions au sujet de l'interprétation de la [CXOLN](#cxoln).
-
-`>>>>>>>><<<<<<<<`
-`>>> WIP HERE <<<`
-`>>>>>>>><<<<<<<<`
+Le XOLN est une expression de valeurs fondamentales telles que la liberté, l'égalité d'opportunités, la solidarité et la fraternité au travers du droit de communiquer librement et d'en extraire le maximum `d'avantages|de prestations` possibles en accord avec les [principes généraux](#i-résumé-et-principes-généraux), `qui feront servir d'|dont on se servira comme` inspiration dans le cas d'avoir à résoudre quelconque doute `au sujet de|sur` l'interprétation de la [CXOLN](#cxoln).
 
 >### 2. Accès
 
-### 2. Accés
+### 2. Accès
 
 >La xarxa permet l'accés a tothom qui ho vulgui, i és el resultat de interconnectar tots els seus participants. Si hi ha mecanismes de control en el seu accés es faran servir per a la correcta gestió de la xarxa des d'un punt de vista tecnològic, mai per restringir les llibertats protegides amb els [Comuns de la XOLN](#cxoln).
 
-Le réseau permet l'accès à toute personne qui veut et est le résultat de l'interconnexion de tous les participants. S'il existe des mécanismes de contrôle dans leur accès seront utilisés pour la bonne gestion du réseau à partir d'un point de vue technologique, de ne jamais restreindre les libertés protégées par la [XOLN commune] (# cxoln).
+Le réseau permet l'accès à toute personne qui le `veut|souhaite`, et est le résultat d'interconnecter tous ses participants. S'il existe des mécanismes de contrôle `dans|à` son accès ceux-ci seront `utilisés pour|mis au service de` la gestion `correcte|adéquate` du réseau d'un point de vue technologique, jamais pour restreindre les libertés protégées par la [CXOLN](#cxoln).
 
 >### 3. Compromís
 
@@ -304,7 +300,7 @@ Le réseau permet l'accès à toute personne qui veut et est le résultat de l'i
 
 >Els membres de la xarxa oberta es comprometen únicament als termes i condicions dels [Comuns de la XOLN](#cxoln). Qualsevol altre compromís l'han d'expressar explícitament.
 
-Les membres du réseau ouvert seulement acceptent les termes et conditions de la [XOLN commune] (# cxoln). Avoir une obligation d'exprimer explicitement.
+Les membres du réseau ouvert s'engagent uniquement aux termes et conditions de la [CXOLN](#cxoln). Quelqu'autre engagement doit être exprimer explicitement `de leur part|par eux|par chacun?|par ces derniers`.
 
 >### 4. Adhesió
 
@@ -312,41 +308,41 @@ Les membres du réseau ouvert seulement acceptent les termes et conditions de la
 
 >L'adhesió a la xarxa es pot expressar a títol individual o col·lectiu, i comporta l'acceptació dels termes dels [Comuns de la XOLN](#cxoln). En qualsevol moment un membre adherit a la xarxa pot renunciar a la seva adhesió conforme al que es preveu en el punt [II.4. Finalització de l'acord](4-finalització-de-lacord). En cas de renunciar a la seva adhesió podrà recuperar els béns, equips i infraestructures de les que sigui titular, amb independència de on estiguin ubicats, amb la única excepció dels casos descrits en l'apartat [IV.8. Finalització de trams de xarxa](#8-finalització-de-trams-de-xarxa).
 
-Rejoindre le réseau peut être exprimé individuellement ou collectivement, et implique l'acceptation des termes de [la XOLN commune] (# de cxoln). Chaque fois qu'un membre connecté au réseau peut renoncer à leur appartenance, conformément à ce qui est attendu au point [II.4. Achèvement de l'accord] (4-fin de l'accord). Si renoncer à leur adhésion peut récupérer les biens, équipements et infrastructures qui détient, peu importe où ils se trouvent, à l'exception des cas décrits dans la section [IV.8. sections de réseau complètes] (# 8-end-of-net-sections).
+L'adhésion au réseau peut être exprimée à titre individuel ou collectif, et implique l'acceptation des termes de la [CXOLN](#cxoln). À quelconque `moment|instant` un membre adhérant au réseau peut renoncer à son adhésion conformément à ce qui est prévu par l'article [II.4. Fin de l'accord](#4-fin-de-l-accord). Lors d'un renoncement de son adhésion l'on pourra récupérer les biens, équipements et infrastructures dont on est titulaire, indépendamment d'où ils se trouvent, avec pour `seule|unique ` exception les cas décrits dans l'article [IV.8. Fin de trames de réseau](#8-fin-de-trames-de-réseau).
 
 >### 5. Compromís per el creixement
 
-### 5. Engagement à la croissance
+### 5. Engagement pour la croissance
 
 >Els participants de la xarxa, per tal de facilitar-ne el seu creixement i connectivitat amb caràcter obert, es comprometen a:
 
-Les participants du réseau, afin de faciliter leur croissance et leur connectivité ouverte, entreprendre:
+Les participants au réseau, afin d'en faciliter sa croissance et sa connectivité à caractère ouvert, s'engagent à:
 
 >+ **a.** Permetre lliurement el trànsit dels altres participants en el seu tram que estén xarxa, sense manipular-lo ni inspeccionar-lo més enllà del que sigui necessari per a la gestió de la xarxa.
 
-+ **a.** Laissez libre circulation des autres participants dans le tronçon qui étend son réseau sans manipuler ou inspecter il va au-delà de ce qui est nécessaire pour la gestion du réseau.
++ **a.** Permettre librement `le transit|la circulation` des autres participants dans sa trame qui étend le réseau, sans `le|la` manipuler ni l'inspecter au-delà de ce qui `s'avèrerait|soit` nécessaire pour la gestion du réseau.
 
 >+ **b.** Facilitar i preveure tècnicament com fer la interconnexió amb els trams que estenen la xarxa que incorporen altres participants sense fer-ne una explotació comercial ni exigir-los cap cost en concepte d'interconnexió o de trànsit de dades. La interconnexió de trams que estenen la xarxa s'entén que son gratuïts ja que la compensació és mútua ja que tothom obté connectivitat cap a nous trams. Més enllà d'aquesta gratuïtat pel que fa al trànsit i interconnexió, si s'aprofita l'actuació de la connexió per repercutir alguna despesa per algun altre concepte, es farà segons les següents disposicions:
 
-+ **b.** Fournir technique et prédire comment l'interconnexion avec les sections qui étendent le réseau pour inclure d'autres participants sans faire un usage commercial ou les obligent à couvrir les coûts d'interconnexion et de trafic de données. Les sections qui étendent le réseau d'interconnexion sont libres, il est entendu que, puisque la rémunération est réciproque puisque tout le monde obtient la connectivité à de nouvelles sections. Au-delà de cette gratuité pour le trafic et l'interconnexion, si l'avantage de performance de la connexion pour repousser toute dépense par une autre notion sera faite conformément aux dispositions suivantes:
++ **b.** Faciliter et prévoir techniquement comment fai l'interconnexion avec les trames qui étendent le réseau (`et..?`) qui `inclu..s|incopore..nt` d'autres participants sans en faire un usage commercial ni leurs exiger quelque coût (`que ce soit..?`) pour l'interconnexion ou `le tansit|la circulation` de données. Il est entendu que l'interconnexion de trames qui étendent le réseau sont gratuites, puisque la compensation est `mutuelle|réciproque` `puisque|car` tout le monde obtient de la connectivité vers de nouvelles trames. Au-delà de cette gratuité en ce qui concerne `le transit|la circulation` et l'interconnexion, si l'on profite d'une intervention de connexion pour répercuter certaines dépenses pour `un|quelconque` autre `motif|concept`, ceci sera fait conformément aux dispositions suivantes:
 
 >    1. Compensacions  
     Especificar clarament quin és el motiu per al qual es produeixen les compensacions, com per exemple l'accés a alguns tipus de continguts, accés a altres connexions cap a internet, serveis professionals, garantia de disponibilitat, etc.
 
     1. Compensations
-    Indiquez clairement ce qui est la raison pour laquelle il y a des compensations, comme l'accès à certains types de contenus, l'accès à d'autres connexions à l'Internet, les services professionnels, la disponibilité de garantie, etc.
+    Indiquez clairement quel est `la raison|le motif` pour laquelle se produisent les compensations, comme par exemple l'accès à certains types de contenus, l'accès à d'autres connexions vers Internet, des services professionnels, une garantie de disponibilité, etc.
 
 >    2. Ampliacions  
     Alhora de fer la interconnexió, i sense excloure de que es puguin realitzar altres tipus d'acords entre els participants, si cal fer una ampliació en el punt d'interconnexió dels trams, o una conversió d'un tram de connexió simple a un tram que estén la xarxa, s'entén que el cost l'assumeix en la seva totalitat el participant que s'està incorporant amb un nou tram, i a partir de llavors la titularitat del node des d'on es fa la interconnexió passa a ser compartida en funció del nivell d'inversió de cada participant. En el cas de que el titular preexistent vulgui mantenir la seva titularitat sense compartir-la, llavors haurà d'assumir el cost de l'ampliació, i en qualsevol cas té preferència alhora d'escollir quin model prefereix.
 
-    2. Extensions
-    Tout en faisant l'interconnexion, et n'exclut pas qu'ils peuvent faire d'autres arrangements entre les participants, si nécessaire une extension au niveau du point d'interconnexion des sections, ou la conversion d'une partie d'une section de connexion simple l'extension du réseau, signifie que le coût est assumé entièrement par le participant qui reçoit une nouvelle section, et depuis lors, la propriété du noeud à partir duquel il est en interface arrive à partager selon le niveau d'investissement de chaque participant. Dans le cas où le propriétaire veut conserver la propriété existante sans le partager, alors il aura à supporter le coût de l'élargissement, et en tout cas être donné la priorité en choisissant ce modèle que vous préférez.
+    2. Ampliations
+    À l'heure de faire l'interconnexion, et sans exclure que d'autres `arrangements|accords` entre les participants peuvent être `conclus|réalisés`, s'il s'avère nécessaire de faire une ampliation au niveau du point d'interconnexion des trames, ou de convertir une trame de connexion simple en une trame qui étend le réseau, il est entendu que le coût est assumé entièrement par le participant qui s'incorpore avec la nouvelle trame, et à partir de ce moment là la titularité du noeud à partir duquel est fait l'interconnexion devient partagée en fonction du niveau d'investissement de chaque participant. Dans le cas où le titulaire préexistant veut `conserver|maintenir` sa titularité sans la partager, alors il aura à assumer le coût de l'ampliation, et en tout les cas il a préférence au moment de choisir `quel|le` modèle `il préfère|utiliser|suivre`.
 
 >    3. Amortitzacions  
-    En el cas de que calgui amortitzar costos importants d'infraestructures o de ubicacions, es poden preveure compensacions alhora de realitzar les connexions, amb el benentès de que llavors la titularitat passa a ser compartida com en el punt anterior, que no hi poden haver tractes discriminatoris entre els participant si que aquestes compensacions han de ser raonables, orientades al cost i a la sostenibilitat, i no poden estar encaminades a la obtenció de marges per una explotació comercial.
+    En el cas de que calgui amortitzar costos importants d'infraestructures o de ubicacions, es poden preveure compensacions alhora de realitzar les connexions, amb el benentès de que llavors la titularitat passa a ser compartida com en el punt anterior, que no hi poden haver tractes discriminatoris entre els participants i que aquestes compensacions han de ser raonables, orientades al cost i a la sostenibilitat, i no poden estar encaminades a la obtenció de marges per una explotació comercial.
 
-    3. amortissement
-    Dans le cas où vous avez besoin de récupérer des coûts importants de l'infrastructure ou de placements, vous pouvez anticiper la compensation tout en faisant des liens avec la compréhension que la propriété devient alors partagée comme dans le point précédent, il peut y avoir des relations discrimination entre le participant si ces compensations devraient être raisonnables, orientés vers les coûts et de la durabilité, et ne peut être destinée à obtenir des banques à l'exploitation commerciale.
+    3. Amortissements
+    Dans le cas où il faille amortir des coûts importants d'infrastructures ou d'emplacements, des compensations peuvent être prévues à l'heure de réaliser les connexions, `tout en sachant|avec la pleine connaissance` que la titularité devient alors partagée comme dans le point précédent, qu'il ne peut y avoir de traitements discriminatoires entre les participants et que ces compensations doivent être raisonnables, orientées vers le coût et la durabilité, et ne peuvent être `dirigées|orientées` vers l'obtention de marges pour une exploitation commerciale.
 
 >### 6. Altres organizatcions
 
@@ -354,7 +350,10 @@ Les participants du réseau, afin de faciliter leur croissance et leur connectiv
 
 >Hi poden haver altres organitzacions que també promouen xarxa amb característiques similars a la xarxa oberta lliure i neutral que fa guifi.net. Les xarxes obertes han de caracteritzar-se per tenir la vocació d'interconnectar, de manera es procurarà el que es preveu en el punt [VII.1. Evitar duplicitats d'infrastructura innecessaries](#1-evitar-duplicitats-dinfrastructura-innecessaries) i el punt [IX.7. Principi de reciprocitat](#7-principi-de-reciprocitat).
 
-Il peut y avoir d'autres organisations qui favorisent également la mise en réseau avec des caractéristiques similaires à la libre et ouvert réseau neutre termes guifi.net. Les réseaux ouverts doivent être caractérisés par le but d'interconnexion, de sorte qu'ils cherchent les dispositions au point [VII.1. Éviter la duplication inutile des infrastructures] (n ° 1-éviter-dinfrastructura-inutile duplication) et le point [IX.7. Principe de réciprocité] (# 7-début-de-réciprocité).
+Il peut y avoir d'autres organisations qui favorisent également la mise en réseau avec des caractéristiques similaires au réseau ouvert libre et neutre que fait guifi.net. Les réseaux ouverts doivent être caractérisés par le but d'interconnexion, de sorte qu'ils cherchent les dispositions au point [VII.1. Éviter la duplication inutile des infrastructures](#1-éviter-la-duplication-inutiles-des-infrastructures) et le point [IX.7. Principe de réciprocité](#7-principe-de-réciprocité).
+`>>>>>>>><<<<<<<<`
+`>>> WIP HERE <<<`
+`>>>>>>>><<<<<<<<`
 
 >### 7. Conexió
 
@@ -446,7 +445,7 @@ L'inclusion des actifs dans le réseau est essentiel à leur croissance et leur 
 
 >### 8. Finalització de trams de xarxa
 
-### 8. Finalisation de trames de réseau
+### 8. Fin de trames de réseau
 
 >En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#cxoln), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels [Comuns de la XOLN](#cxoln).
 
@@ -496,7 +495,7 @@ Par exemple:
 
 >### 12. Finalització d'una cessió
 
-### 12. Finalisation d'une cession
+### 12. Fin d'une cession
 
 >La cessió d'espais per antenes de radiocomunicació és reversible en qualsevol moment a petició del propietari i no li creen cap servitud.
 
