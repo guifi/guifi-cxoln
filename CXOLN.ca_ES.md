@@ -267,7 +267,7 @@ Si la titularitat d'una infraestructura es considera que ha quedat orfe, es tran
 
 ### 11. Cessió d'ubicació
 
-Quan es cedeixen ubicacions per muntar-hi infraestructures de xarxa sense contraprestació, independentment de quins siguin la resta de titulars, s'assumeix que facilitaran la connexió més oberta possible en funció de la naturalesa de l'equipament. Si s'estableixen limitacions d'espai o de capacitat han de facilitar el trànsit segons els Comuns XOLN, ser raonables, aplicant les bones pràctiques, les mateixes condicions per a tots els usuaris sense discriminacions i no forçar la contractació de serveis a operadors concrets encara que siguin co-titulars de la infraestructura. Els operadors que hi ofereixen compromís de servei n'haurien de tenir suficient amb aplicar el que es preveu en el punt [VI. 3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats).
+Quan es cedeixen ubicacions per muntar-hi infraestructures de xarxa sense contraprestació, independentment de quins siguin la resta de titulars, s'assumeix que facilitaran la connexió més oberta possible en funció de la naturalesa de l'equipament. Si s'estableixen limitacions d'espai o de capacitat han de facilitar el trànsit segons els [Comuns de la XOLN](#cxoln), ser raonables, aplicant les bones pràctiques, les mateixes condicions per a tots els usuaris sense discriminacions i no forçar la contractació de serveis a operadors concrets encara que siguin co-titulars de la infraestructura. Els operadors que hi ofereixen compromís de servei n'haurien de tenir suficient amb aplicar el que es preveu en el punt [VI. 3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats).
 
 Aquesta condició és d'indispensable compliment quan es tracta de dominis públics gestionats per administracions públiques donada la obligatorietat legal que tenen de garantir la no discriminació.
 
@@ -275,7 +275,7 @@ Per exemple:
 
 + **a.** En el cas de comunicacions sense fils, quan hi han antenes de cobertura per a connexions simples sense fils, es permetrà la connexió d'usuaris d'altres operadors o les que es fan les que es puguin fer els usuaris directament pel seu compte i sense garantia de servei.
 
-+ **b.** En el cas de cables i conduccions, encara que els promotors aprofitin per crear connexions punt a punt privades, cal que sempre hi hagi reserva d'espai per xarxa gestionada segons els Comuns XOLN.
++ **b.** En el cas de cables i conduccions, encara que els promotors aprofitin per crear connexions punt a punt privades, cal que sempre hi hagi reserva d'espai per xarxa gestionada segons els [Comuns de la XOLN](#cxoln).
 
 ### 12. Finalització d'una cessió
 

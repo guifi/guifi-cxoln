@@ -475,7 +475,7 @@ If an infrastructure's ownership is considered to have become orphaned, it is tr
 
 ### 11. Location Grant
 
->Quan es cedeixen ubicacions per muntar-hi infraestructures de xarxa sense contraprestació, independentment de quins siguin la resta de titulars, s'assumeix que facilitaran la connexió més oberta possible en funció de la naturalesa de l'equipament. Si s'estableixen limitacions d'espai o de capacitat han de facilitar el trànsit segons els Comuns XOLN, ser raonables, aplicant les bones pràctiques, les mateixes condicions per a tots els usuaris sense discriminacions i no forçar la contractació de serveis a operadors concrets encara que siguin co-titulars de la infraestructura. Els operadors que hi ofereixen compromís de servei n'haurien de tenir suficient amb aplicar el que es preveu en el punt [VI. 3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats).
+>Quan es cedeixen ubicacions per muntar-hi infraestructures de xarxa sense contraprestació, independentment de quins siguin la resta de titulars, s'assumeix que facilitaran la connexió més oberta possible en funció de la naturalesa de l'equipament. Si s'estableixen limitacions d'espai o de capacitat han de facilitar el trànsit segons els [Comuns de la XOLN](#cxoln), ser raonables, aplicant les bones pràctiques, les mateixes condicions per a tots els usuaris sense discriminacions i no forçar la contractació de serveis a operadors concrets encara que siguin co-titulars de la infraestructura. Els operadors que hi ofereixen compromís de servei n'haurien de tenir suficient amb aplicar el que es preveu en el punt [VI. 3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats).
 
 When locations are granted without compensation to host network infrastructures, and independently of whom the rest of `(the location's|the infrastructure's ?)` owners are, it is understood that they `(who..?)` will facilitate the most open connection possible according to the equipment(s)' `nature|possibilities`. If space or capacity limitations are established, these have to `facilitate|allow` traffic in accordance with the [CXOLN](#cxoln), be reasonable, follow good practices, apply the same non-discriminatory conditions to all users, and not force entering a service contract with specific operators even when these are co-owners of the infrastructure. Operators that offer guaranteed service levels should be fine as long as they comply with section [IV.3. Public Information of Priorities](#3-public-information-of-priorities).
 
@@ -491,7 +491,7 @@ For example:
 
 + **a.** In the case of wireless communications, when there are coverage antennas for simple wireless connections, they will allow connections from other operators' users or those made `(and/or)` those which can be made directly by users on their own account without guarantee of service.
 
->+ **b.** En el cas de cables i conduccions, encara que els promotors aprofitin per crear connexions punt a punt privades, cal que sempre hi hagi reserva d'espai per xarxa gestionada segons els Comuns XOLN.
+>+ **b.** En el cas de cables i conduccions, encara que els promotors aprofitin per crear connexions punt a punt privades, cal que sempre hi hagi reserva d'espai per xarxa gestionada segons els [Comuns de la XOLN](#cxoln).
 
 + **b.** In the case of cables and `ducts|conduits`, even when the promoters take advantage to create private point-to-point connections, space must always be reserved for networking managed in accordance with the [CXOLN](#cxoln).
 
