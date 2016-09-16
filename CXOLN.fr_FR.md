@@ -350,10 +350,7 @@ Les participants au réseau, afin d'en faciliter sa croissance et sa connectivit
 
 >Hi poden haver altres organitzacions que també promouen xarxa amb característiques similars a la xarxa oberta lliure i neutral que fa guifi.net. Les xarxes obertes han de caracteritzar-se per tenir la vocació d'interconnectar, de manera es procurarà el que es preveu en el punt [VII.1. Evitar duplicitats d'infrastructura innecessaries](#1-evitar-duplicitats-dinfrastructura-innecessaries) i el punt [IX.7. Principi de reciprocitat](#7-principi-de-reciprocitat).
 
-Il peut y avoir d'autres organisations qui favorisent également la mise en réseau avec des caractéristiques similaires au réseau ouvert libre et neutre que fait guifi.net. Les réseaux ouverts doivent être caractérisés par le but d'interconnexion, de sorte qu'ils cherchent les dispositions au point [VII.1. Éviter la duplication inutile des infrastructures](#1-éviter-la-duplication-inutiles-des-infrastructures) et le point [IX.7. Principe de réciprocité](#7-principe-de-réciprocité).
-`>>>>>>>><<<<<<<<`
-`>>> WIP HERE <<<`
-`>>>>>>>><<<<<<<<`
+Il peut y avoir d'autres organisations qui elles aussi promeuvent un réseau  avec des caractéristiques similaires au réseau ouvert libre et neutre que `fait|réalise` guifi.net. Les réseaux ouverts doivent être caractérisés par `le fait de tenir pour|la` vocation d'interconnecter, `de sorte|tout en` `cherchant|veillant` à ce qui est prévu dans l'article [VII.1. Éviter la duplication inutile des infrastructures](#1-éviter-la-duplication-inutiles-des-infrastructures) et l'article [IX.7. Principe de réciprocité](#7-principe-de-réciprocité).
 
 >### 7. Conexió
 
@@ -361,7 +358,7 @@ Il peut y avoir d'autres organisations qui favorisent également la mise en rés
 
 >La connexió a la xarxa és lliure i gratuïta tal i com ja es desprèn del punt [III.5.b](#5-compromís-per-el-creixement). Els participants es fan càrrec de les infraestructures per estar connectats, ja sigui individualment a través de mitjans propis, donacions, apadrinaments, col·lectivament de la manera que lliurement decideixin, o acudint amb aquest propòsit a serveis professionals. L'activitat econòmica derivada d'aquestes activitats, com per exemple el cobrament de diners a canvi del subministrament d'equips, creació d'infraestructures o manteniments, és responsabilitat de qui la realitza, i haurà d'informar amb claredat a qui li pagui sobre a quins conceptes es corresponen aquests pagaments. Quan s'estableixen condicions econòmiques pel concepte de contribució a aquestes infraestructures, han de ser raonades, públiques, i no discriminatòries.
 
-La connexion réseau est libre comme il ressort du point [III.5.b] (# 5-engagement-to-the-croissance). Les participants sont responsables de l'infrastructure à connecter, soit individuellement par leurs propres moyens, les dons, les commandites, collectivement la façon dont ils choisissent librement ou d'assister à des services professionnels à cet effet. L'activité économique découlant de ces activités, telles que la collecte de l'argent pour la fourniture d'équipements, la création ou l'entretien des infrastructures est de la responsabilité de ceux qui ont effectué et doit informer clairement qui paie sur lequel les concepts liés à ces paiements. Lorsque les conditions économiques sont fixés par le concept de contribution à ces infrastructures doivent être motivées, publiques et non-discriminatoire.
+La connexion au réseau est libre et gratuite tel et comme prévu dans l'article [III.5.b](#5-engagement-pour-la-croissance). Les participants se font responsables des infrastructures pour être connectés, soit individuellement par leurs propres moyens, par des dons, par des parrainages, collectivement de la manière qu'ils choisissent librement, ou en solicitant des services professionnels à cet effet. L'activité économique découlant de ces activités, telle que `facturer de l'argent` en échange de la fourniture d'équipements, de la création ou de l'entretien d'infrastructures, est la responsabilité de celui qui l'effectue, et devra informer `clairement|avec clarté` à ceux qui le paie sur quels sont les `concepts|items` qui correspondent à ces paiements. Lorsque sont établies des conditions économiques pour le `concept` de contribution à ces infrastructures, celles-ci doivent raisonnables, publiques, et non-discriminatoires.
 
 >## IV Titularitat i participants
 
@@ -373,7 +370,7 @@ La connexion réseau est libre comme il ressort du point [III.5.b] (# 5-engageme
 
 >Tot i que la xarxa forma una unitat global, es forma a partir d'uns actius que son les infraestructures que hi incorporen els seus participants, de manera que els participants retenen la titularitat de cadascuna d'aquestes infraestructures que hi han incorporat, per tant, la xarxa sempre té múltiples titulars.
 
-Bien que le réseau mondial comme une unité est formée à partir des actifs qui sont des infrastructures qui intègrent ses participants afin que les participants conservent la propriété de chacun de ces infrastructures ont intégré de manière le réseau a toujours plusieurs propriétaires.
+Bien que le réseau forme une `unité|entité` globale, elle se `forme|constitue` à partir d'actifs qui sont les infrastructures qu'y intègrent ses participants, de manière que les participants conservent la titularité de chacunes de ces infrastructures qui ont été intégrées, et `pour autant|donc|pour cela`, le réseau a toujours `de multiples|plusieurs` titulaires.
 
 >La titularitat s'acredita amb i per ordre de preferència:
 
@@ -381,19 +378,19 @@ La titularité s'accrédite avec et par ordre de préférence:
 
 >+ **a.** De la manera que lliurement pactin els participants entre ells
 
-+ **a.** Il semble les participants ont convenu librement sur entre elles
++ **a.** De la manière que les participants ont convenu librement entre eux
 
 >+ **b.** L'aportació amb documents com per exemple factures o similars
 
-+ **b.** Les documents de contribution tels que les factures ou similaires
++ **b.** L'apport `avec|de` documents comme par exemple factures ou similaires
 
 >+ **c.** La informació que es proporciona a través de les eines de la xarxa i que es publiquen
 
-+ **c.** Les informations fournies par le réseau et les outils qui sont publiés
++ **c.** L'information qui est fournie et publiée par les outils du réseau
 
 >+ **d.** La titularitat de la finca on s'ubica la infraestructura
 
-+ **d.** La propriété de l'immeuble où se trouve l'infrastructure
++ **d.** La titularité de `la propriéte|l'immeuble` où se trouve l'infrastructure
 
 >### 2. Titularitat compartida
 
@@ -401,7 +398,7 @@ La titularité s'accrédite avec et par ordre de préférence:
 
 >A la vegada, una mateixa infraestructura pot tenir un o diversos titulars. Quan hi ha diversos titulars, i sempre que entre ells no pactin res en un altre sentit, s'entén que ho son proporcionalment al volum d'inversió de cadascun respecte del valor total de la infraestructura.
 
-Dans le même temps, la même infrastructure peut avoir un ou plusieurs actionnaires. Lorsqu'il y a plusieurs porteurs, à condition que pas convenir entre eux tous dans un autre sens, il est entendu qu'ils sont en proportion du volume d'investissement par rapport à la valeur totale de chacune des infrastructures.
+En même temps, une même infrastructure peut avoir un ou plusieurs titulaires. Quand il y a plusieurs titulaires, et toujours lorsque rien n'ait été convenu entre eux dans un autre sens, il est entendu qu'ils le sont en proportion du `volume|niveau` d'investissement de chacun par rapport à la valeur totale de l'infrastructure.
 
 >### 3. Drets i deures
 
@@ -409,7 +406,7 @@ Dans le même temps, la même infrastructure peut avoir un ou plusieurs actionna
 
 >Encara que en la xarxa hi poden haver diferents nivells de participació de cadascun dels seus titulars, els drets i deures son els mateixos per a tots els participants.
 
-Bien que le réseau il peut y avoir différents niveaux de participation de chacun des titulaires des droits et obligations sont les mêmes pour tous les participants.
+Bien qu'au sein du réseau il peut y avoir différents niveaux de participation de chacun de ses titulaires, les droits et devoirs sont les mêmes pour tous les participants.
 
 >### 4. Responsabilitat
 
@@ -417,7 +414,9 @@ Bien que le réseau il peut y avoir différents niveaux de participation de chac
 
 >Els titulars són els responsables de gestionar les seves infraestructures respectant els [Comuns de la XOLN](#cxoln).
 
-Les propriétaires sont responsables de la gestion de leur infrastructure en respectant la [XOLN commune] (# cxoln).
+Les titulaires sont responsables de la gestion de leurs infrastructures `en respectant|dans le respect de` la [CXOLN](#cxoln).
+
+`Les titulaires sont responsables de gérer leurs infrastructures en respectant la [CXOLN](#cxoln).`
 
 >### 5. Informació
 
@@ -441,15 +440,15 @@ La titularité est un actif, qui en tant que tel peut avoir une valeur, et par c
 
 >La incorporació d'actius a la xarxa és fonamental per al seu creixement i desenvolupament ja que és la forma principal de captar inversions i de proporcionar sostenibilitat, per tant convé protegir-la i fomentar-la. Per això, els participants quan incorporen infraestructures a la xarxa a més d'obtenir connectivitat amb la resta, també es poden donar prioritat en els trams dels quals en son titulars de manera que tinguin preferència sobre l'ample de banda disponible, amb la única condició de que es respectin els criteris establerts en l'apartat [VI. Gestió de la xarxa i prioritats en el trànsit (qualitat de servei)](#vi-gestió-de-la-xarxa-i-prioritats-en-el-trànsit-qualitat-de-servei) i, alhora deixin disponible tot l'ample de banda excedentari per a la resta del trànsit.
 
-L'inclusion des actifs dans le réseau est essentiel à leur croissance et leur développement, car il est le principal moyen d'attirer les investissements et assurer la durabilité devrait donc protéger et promouvoir. Par conséquent, lorsque les participants comprennent la connectivité réseau d'infrastructures en plus d'obtenir le reste peut également donner la priorité sur les sections qui sont détenteurs afin qu'ils remplacent la bande passante disponible, le seul condition qu'ils respectent les critères énoncés dans la section [VI. La gestion du réseau et des priorités dans le trafic (qualité de service)] (# vi-gestion-des-priorités-in-the-trafic de qualité de service, le rouge-et) et de laisser également disponibles tous les «bande passante excédentaire pour un autre trafic.
+L'incorporation d'actifs au réseau est `fondamentale|essentielle` `à|pour` sa croissance et son développement, car elle est le principal moyen `d'attirer|de capter` des investissements et d'assurer sa durabilité, et pour autant il convient de la protéger et de la promouvoir. `Pour cela|Par conséquent`, lorsque les participants incorporent des infrastructures au réseau, en plus d'obtenir la connectivité avec le reste, ils peuvent également se donner priorité dans les trames pour lesquelles ils sont titulaires afin qu'ils `aient|bénéficient d'une` préférence sur la bande passante disponible, avec `pour|l'`unique condition que soit respecté les critères énoncés dans l'article [VI. Gestion du réseau et des priorités de trafic (qualité de service)](#vi-gestion-du-réseau-et-des-priorités-de-trafic-qualité-de-service) et, que soit `donc|également` laissé disponible toute la bande passante excédentaire pour le reste du trafic.
 
 >### 8. Finalització de trams de xarxa
 
 ### 8. Fin de trames de réseau
 
->En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#cxoln), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, o de quan la titularitat és compartida i formen una part essencial de la infraestructura. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels [Comuns de la XOLN](#cxoln).
+>En cas de que un participant finalitzi l'acord dels [Comuns de la XOLN](#cxoln), recupera totes les infraestructures de les que és titular, amb l'excepció d'aquelles que per al seu desplegament ha calgut la obtenció de llicències o permisos de tercers i es van concedir en nom de la xarxa i/o de la Fundació, _o de quan la titularitat és compartida i formen una part essencial de la infraestructura_. Per aquests casos, les parts poden pactar lliurement com resoldre la situació d'una forma justa per a tothom. En cas de transmissió, els altres titulars gaudeixen de dret preferent alhora d'adquirir la titularitat de qui es desvincula dels [Comuns de la XOLN](#cxoln).
 
-Si un participant complète l'accord du [XOLN commun] (# cxoln) reçoit toute l'infrastructure qui détient, à l'exception de ceux qui sont nécessaires pour l'octroi de licences de déploiement ou permis ont été accordés par des tiers au nom du réseau et / ou la Fondation, ou lorsque la propriété est partagée et forment une partie essentielle de l'infrastructure. Pour ces cas, les parties peuvent convenir librement sur la façon de résoudre la situation d'une manière équitable pour tout le monde. En cas de transmission, les autres détenteurs bénéficient également du droit préférentiel d'acquérir la propriété de cette fraction de la [XOLN commune] (# cxoln).
+Losrqu'un participant met fin à `son|l'`accord `avec|de` la [CXOLN](#cxoln), il récupère toutes les infrastructures desquelles il est titulaire, à l'exception de celles dont leur déploiement ont nécessité l'obtention de licences ou de permis de tiers qui ont été concèdées au nom du réseau et/ou de la Fondation, _ou bien lorsque la titularité est partagée et celles-ci forment une partie essentielle de l'infrastructure_. Pour ces cas, les parties peuvent convenir librement `comment|la façon de` résoudre la situation d'une manière `juste|équitable` pour tout le monde. En cas de transmission, les autres titulaires bénéficient d'un droit préférentiel à l'heure d'acquérir la titularité qui se `sépare|dissocie` de la [CXOLN](#cxoln).
 
 >### 9. Exercici de la titularitat
 
@@ -457,7 +456,7 @@ Si un participant complète l'accord du [XOLN commun] (# cxoln) reçoit toute l'
 
 >L'exercici de la titularitat implica com a mínim que mentre aquest segment de la xarxa estigui operatiu, es proporciona un servei de comunicacions electròniques que permet la connectivitat. Encara que el titular no és responsable del nivell de disponibilitat que proporciona, s'espera del titular que mantingui les seves infraestructures en un nivell de servei raonable d'acord amb les seves característiques i de manera que no perjudiqui el bon funcionament de la xarxa. En casos extrems d'abandonament d'aquestes funcions pròpies del titular, el participant perd la titularitat, que passarà a considerar-se orfe.
 
-L'exercice de la propriété implique au moins alors que ce segment du réseau est opérationnel, il fournit un service de communication électronique qui permet la connectivité. Bien que le propriétaire est pas responsable du niveau de disponibilité qui fournit le titulaire devrait maintenir son infrastructure à un niveau de service raisonnable en fonction de leurs caractéristiques et ainsi de ne pas nuire au bon fonctionnement du réseau. Dans les cas extrêmes abandon de ces droits du titulaire, le participant perd la propriété, qui sera considéré comme un orphelin.
+L'exercice de la titularité implique au minimum que, tandis que ce segment du réseau est opérationnel, est fournit un service de communication électronique qui permet la connectivité. Bien que le titulaire n'est pas responsable du niveau de disponibilité fournit, `il est attendu|espéré` du titulaire qu'il maintienne ses infrastructures à un niveau de service raisonnable `par rapport|en fonction|en accord` à ses caractéristiques et d'une manière qui ne nuise pas au bon fonctionnement du réseau. Dans les cas extrêmes d'abandon de ces fonctions propres au titulaire, le participant perd la titularité, qui `passera à être|sera` considérée comme orpheline.
 
 >### 10. Titularitat orfe
 
@@ -465,7 +464,7 @@ L'exercice de la propriété implique au moins alors que ce segment du réseau e
 
 >Si la titularitat d'una infraestructura es considera que ha quedat orfe, es transmet a qui vulgui exercir-la. En el cas de que ningú vulgui exercir-la, o bé passa a la Fundació, o bé es considera com a abandonada, causant baixa definitiva de la xarxa i essent responsable del seu desmuntatge el darrer titular.
 
-Si la propriété de l'infrastructure est considérée comme ayant été abandonné, celui qui est transmis à l'exercer. Au cas où quelqu'un veut jouer, ou d'aller à la Fondation, ou est considéré comme abandonné, causant désenregistrement du réseau et responsable de démantèlement du dernier propriétaire.
+Si la titularité d'une infrastructure est considérée comme étant devenue orpheline, elle est transmise à qui veut l'exercer. Dans le cas où personne ne veut l'exercer, ou bien `celle-ci|elle` `passe|est transmise` à la Fondation, ou bien `celle-ci|elle` est considérée comme abandonnée, causant `son|sa` `désenregistrement|désinscription|radiation` définitive du réseau et `étant|restant` responsable de son démantèlement le dernier titulaire.
 
 >### 11. Cessió d'ubicació
 
@@ -474,6 +473,10 @@ Si la propriété de l'infrastructure est considérée comme ayant été abandon
 >Quan es cedeixen ubicacions per muntar-hi infraestructures de xarxa sense contraprestació, independentment de quins siguin la resta de titulars, s'assumeix que facilitaran la connexió més oberta possible en funció de la naturalesa de l'equipament. Si s'estableixen limitacions d'espai o de capacitat han de facilitar el trànsit segons els Comuns XOLN, ser raonables, aplicant les bones pràctiques, les mateixes condicions per a tots els usuaris sense discriminacions i no forçar la contractació de serveis a operadors concrets encara que siguin co-titulars de la infraestructura. Els operadors que hi ofereixen compromís de servei n'haurien de tenir suficient amb aplicar el que es preveu en el punt [VI. 3. Informació publica dels prioritats](#3-informació-publica-dels-prioritats).
 
 Lorsque vous attribuez des emplacements à monter sans infrastructures de réseau de compensation, qui sont indépendants des porteurs restants présumés qui facilitent la connexion ouverte que possible en fonction de la nature de l'équipement. Si les limites de l'espace ou des capacités en baisse devraient faciliter la circulation en fonction de la XOLN commune, raisonnable, en appliquant les meilleures pratiques, les mêmes conditions pour tous les utilisateurs, sans discrimination et services de recrutement forcé ont des transporteurs spécifiques ils sont co-propriétaires de l'infrastructure. Les opérateurs qui offrent un engagement de service devront être suffisantes pour mettre en œuvre les dispositions du point [VI. 3. Information publique des priorités] (# 3 Post-information des-priorités).
+
+`>>>>>>>><<<<<<<<`
+`>>> WIP HERE <<<`
+`>>>>>>>><<<<<<<<`
 
 >Aquesta condició és d'indispensable compliment quan es tracta de dominis públics gestionats per administracions públiques donada la obligatorietat legal que tenen de garantir la no discriminació.
 
